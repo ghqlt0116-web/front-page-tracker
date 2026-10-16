@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>조간 1면 트래커</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700;900&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-inner">
+    <h1>조간 1면 트래커</h1>
+    <p class="sub">조선 · 중앙 · 동아 · 매경 · 한경 — 1면과 기획 시리즈를 매일 기록합니다</p>
+  </div>
+  <nav class="toolbar">
+    <div class="tabs" role="tablist">
+      <button class="tab active" data-view="front">오늘의 1면</button>
+      <button class="tab" data-view="pages">지면</button>
+      <button class="tab" data-view="series">기획 시리즈</button>
+    </div>
+    <div class="date-nav" id="dateNav">
+      <button id="prevDay" title="이전 날짜">◀</button>
+      <select id="dateSelect"></select>
+      <button id="nextDay" title="다음 날짜">▶</button>
+    </div>
+    <input id="search" type="search" placeholder="제목 검색…">
+  </nav>
+</header>
+
+<main id="app">
+  <section id="view-front" class="view"></section>
+  <section id="view-pages" class="view" hidden></section>
+  <section id="view-series" class="view" hidden></section>
+</main>
+
+<footer class="foot">
+  <p>데이터: 네이버 뉴스 지면보기 · 매일 아침 자동 수집 · <a href="https://github.com/" id="repoLink" target="_blank" rel="noopener">GitHub</a></p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

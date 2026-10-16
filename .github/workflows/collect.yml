@@ -1,0 +1,62 @@
+name: collect
+
+on:
+  schedule:
+    - cron: "30 20 * * *" # KST 05:30 — 1차 수집 + 다이제스트 발송
+    - cron: "0 22 * * *"  # KST 07:00 — 2차 보강 수집 (신규분만 추가 발송)
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "수집 기준일 YYYYMMDD (비우면 KST 오늘)"
+        required: false
+      days:
+        description: "기준일부터 거슬러 올라갈 일수 (백필)"
+        required: false
+        default: "1"
+      notify:
+        description: "텔레그램 발송 여부"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          ARGS="--days ${{ inputs.days || 1 }}"
+          if [ -n "${{ inputs.date }}" ]; then ARGS="$ARGS --date ${{ inputs.date }}"; fi
+          # 스케줄 실행은 항상 발송, 수동 실행은 notify 입력을 따름
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.notify }}" = "true" ]; then ARGS="$ARGS --notify"; fi
+          python run.py $ARGS
+
+      - name: Commit data
+        run: |
+          git config user.name "front-page-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "data: $(TZ=Asia/Seoul date +%F_%H:%M) 수집"
+            git pull --rebase origin main
+            git push
+          fi
