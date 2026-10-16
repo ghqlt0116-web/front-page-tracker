@@ -115,6 +115,13 @@ main { max-width: 1280px; margin: 0 auto; padding: 18px 16px 60px; }
 }
 .sub-list li a { display: block; }
 
+.sect-fronts { margin-top: 16px; }
+.sect-fronts .sect-head {
+  font-size: 11px; font-weight: 700; letter-spacing: .1em;
+  color: var(--ink-soft); border-bottom: 1px solid var(--rule-strong);
+  padding-bottom: 4px;
+}
+
 /* 배지 */
 .badge {
   display: inline-block; font-size: 10.5px; font-weight: 700;

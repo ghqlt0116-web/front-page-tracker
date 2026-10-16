@@ -44,7 +44,12 @@
   }
 
   function isFront(page) {
-    return /^[A-Z]?0?1$/.test(page);
+    // 종합 1면(A1)만. B1·C1·E1 등은 별지 섹션의 1면이므로 제외
+    return /^A?0?1$/.test(page);
+  }
+
+  function isSectionFront(page) {
+    return /^[B-Z]0?1$/.test(page);
   }
 
   function matchQ(title) {
@@ -71,9 +76,11 @@
       return;
     }
     const byPress = {};
+    const sectByPress = {};
     for (const a of doc.articles) {
-      if (!isFront(a.page) || !matchQ(a.title)) continue;
-      (byPress[a.press] ??= []).push(a);
+      if (!matchQ(a.title)) continue;
+      if (isFront(a.page)) (byPress[a.press] ??= []).push(a);
+      else if (isSectionFront(a.page)) (sectByPress[a.press] ??= []).push(a);
     }
     let html = `<div class="front-grid">`;
     for (const oid of PRESS_ORDER) {
@@ -93,7 +100,17 @@
       for (const a of arts.slice(1)) {
         html += `<li><a href="${a.url}" target="_blank" rel="noopener">${badges(a)}${esc(a.title)}</a></li>`;
       }
-      html += `</ul></div>`;
+      html += `</ul>`;
+      // 별지 섹션 1면 (B1 경제 등): 섹션별 머리기사만 분리 표시
+      const sects = (sectByPress[oid] || []).filter((a) => a.pageOrder === 1);
+      if (sects.length) {
+        html += `<div class="sect-fronts"><div class="sect-head">섹션 1면</div><ul class="sub-list">`;
+        for (const a of sects.sort((x, y) => (x.page < y.page ? -1 : 1))) {
+          html += `<li><a href="${a.url}" target="_blank" rel="noopener"><span class="badge">${esc(a.page)}면</span>${badges(a)}${esc(a.title)}</a></li>`;
+        }
+        html += `</ul></div>`;
+      }
+      html += `</div>`;
     }
     html += `</div>`;
     el.innerHTML = html;
