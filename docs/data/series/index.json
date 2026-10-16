@@ -1,6 +1,141 @@
 {
  "series": [
   {
+   "seriesKey": "020:박연준의토요일은시가좋아",
+   "press": "020",
+   "pressName": "동아일보",
+   "name": "박연준의 토요일은 시가 좋아",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "61",
+     "ord": 61,
+     "isEnd": false,
+     "date": "2026-10-03",
+     "page": "A27",
+     "column": null,
+     "title": "커튼에 대한 명상[박연준의 토요일은 시가 좋아]〈61〉",
+     "url": "https://n.news.naver.com/article/020/0003752449",
+     "articleId": "0003752449"
+    },
+    {
+     "label": "62",
+     "ord": 62,
+     "isEnd": false,
+     "date": "2026-10-10",
+     "page": "A27",
+     "column": null,
+     "title": "바다가 보이는 언덕에 서면[박연준의 토요일은 시가 좋아]〈62〉",
+     "url": "https://n.news.naver.com/article/020/0003753934",
+     "articleId": "0003753934"
+    },
+    {
+     "label": "63",
+     "ord": 63,
+     "isEnd": false,
+     "date": "2026-10-17",
+     "page": "A27",
+     "column": null,
+     "title": "우리에게는 쓸쓸할 시간이 필요하다[박연준의 토요일은 시가 좋아]〈63〉",
+     "url": "https://n.news.naver.com/article/020/0003755592",
+     "articleId": "0003755592"
+    }
+   ],
+   "firstDate": "2026-10-03",
+   "lastDate": "2026-10-17"
+  },
+  {
+   "seriesKey": "023:정수윤의길을걸으며",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "정수윤의 길을 걸으며",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "48",
+     "ord": 48,
+     "isEnd": false,
+     "date": "2026-10-03",
+     "page": "A22",
+     "column": null,
+     "title": "[정수윤의 길을 걸으며] [48] 엄마와 집 보러 다닌 날",
+     "url": "https://n.news.naver.com/article/023/0004001838",
+     "articleId": "0004001838"
+    },
+    {
+     "label": "49",
+     "ord": 49,
+     "isEnd": false,
+     "date": "2026-10-10",
+     "page": "A22",
+     "column": null,
+     "title": "[정수윤의 길을 걸으며] [49] 앤 카슨의 ‘녹스’ 읽는 밤",
+     "url": "https://n.news.naver.com/article/023/0004002988",
+     "articleId": "0004002988"
+    },
+    {
+     "label": "50",
+     "ord": 50,
+     "isEnd": false,
+     "date": "2026-10-17",
+     "page": "A22",
+     "column": null,
+     "title": "[정수윤의 길을 걸으며] [50] 가을 산을 닮아가는 아이들",
+     "url": "https://n.news.naver.com/article/023/0004004292",
+     "articleId": "0004004292"
+    }
+   ],
+   "firstDate": "2026-10-03",
+   "lastDate": "2026-10-17"
+  },
+  {
+   "seriesKey": "023:박진배의공간과스타일",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "박진배의 공간과 스타일",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "359",
+     "ord": 359,
+     "isEnd": false,
+     "date": "2026-10-03",
+     "page": "A23",
+     "column": null,
+     "title": "[박진배의 공간과 스타일] [359] 돈키호테로 피어난 예술도시",
+     "url": "https://n.news.naver.com/article/023/0004001839",
+     "articleId": "0004001839"
+    },
+    {
+     "label": "360",
+     "ord": 360,
+     "isEnd": false,
+     "date": "2026-10-10",
+     "page": "A23",
+     "column": null,
+     "title": "[박진배의 공간과 스타일] [360] 일본 니가타의 다랑이논",
+     "url": "https://n.news.naver.com/article/023/0004002989",
+     "articleId": "0004002989"
+    },
+    {
+     "label": "361",
+     "ord": 361,
+     "isEnd": false,
+     "date": "2026-10-17",
+     "page": "A23",
+     "column": null,
+     "title": "[박진배의 공간과 스타일] [361] 포도밭의 작은 교회",
+     "url": "https://n.news.naver.com/article/023/0004004294",
+     "articleId": "0004004294"
+    }
+   ],
+   "firstDate": "2026-10-03",
+   "lastDate": "2026-10-17"
+  },
+  {
    "seriesKey": "020:이준식의한시한수",
    "press": "020",
    "pressName": "동아일보",
@@ -682,108 +817,6 @@
    ],
    "firstDate": "2026-10-12",
    "lastDate": "2026-10-12"
-  },
-  {
-   "seriesKey": "020:박연준의토요일은시가좋아",
-   "press": "020",
-   "pressName": "동아일보",
-   "name": "박연준의 토요일은 시가 좋아",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "61",
-     "ord": 61,
-     "isEnd": false,
-     "date": "2026-10-03",
-     "page": "A27",
-     "column": null,
-     "title": "커튼에 대한 명상[박연준의 토요일은 시가 좋아]〈61〉",
-     "url": "https://n.news.naver.com/article/020/0003752449",
-     "articleId": "0003752449"
-    },
-    {
-     "label": "62",
-     "ord": 62,
-     "isEnd": false,
-     "date": "2026-10-10",
-     "page": "A27",
-     "column": null,
-     "title": "바다가 보이는 언덕에 서면[박연준의 토요일은 시가 좋아]〈62〉",
-     "url": "https://n.news.naver.com/article/020/0003753934",
-     "articleId": "0003753934"
-    }
-   ],
-   "firstDate": "2026-10-03",
-   "lastDate": "2026-10-10"
-  },
-  {
-   "seriesKey": "023:정수윤의길을걸으며",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "정수윤의 길을 걸으며",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "48",
-     "ord": 48,
-     "isEnd": false,
-     "date": "2026-10-03",
-     "page": "A22",
-     "column": null,
-     "title": "[정수윤의 길을 걸으며] [48] 엄마와 집 보러 다닌 날",
-     "url": "https://n.news.naver.com/article/023/0004001838",
-     "articleId": "0004001838"
-    },
-    {
-     "label": "49",
-     "ord": 49,
-     "isEnd": false,
-     "date": "2026-10-10",
-     "page": "A22",
-     "column": null,
-     "title": "[정수윤의 길을 걸으며] [49] 앤 카슨의 ‘녹스’ 읽는 밤",
-     "url": "https://n.news.naver.com/article/023/0004002988",
-     "articleId": "0004002988"
-    }
-   ],
-   "firstDate": "2026-10-03",
-   "lastDate": "2026-10-10"
-  },
-  {
-   "seriesKey": "023:박진배의공간과스타일",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "박진배의 공간과 스타일",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "359",
-     "ord": 359,
-     "isEnd": false,
-     "date": "2026-10-03",
-     "page": "A23",
-     "column": null,
-     "title": "[박진배의 공간과 스타일] [359] 돈키호테로 피어난 예술도시",
-     "url": "https://n.news.naver.com/article/023/0004001839",
-     "articleId": "0004001839"
-    },
-    {
-     "label": "360",
-     "ord": 360,
-     "isEnd": false,
-     "date": "2026-10-10",
-     "page": "A23",
-     "column": null,
-     "title": "[박진배의 공간과 스타일] [360] 일본 니가타의 다랑이논",
-     "url": "https://n.news.naver.com/article/023/0004002989",
-     "articleId": "0004002989"
-    }
-   ],
-   "firstDate": "2026-10-03",
-   "lastDate": "2026-10-10"
   },
   {
    "seriesKey": "023:고혜련의삶이있는풍경",
