@@ -1,6 +1,96 @@
 {
  "series": [
   {
+   "seriesKey": "023:문태준의가슴이따뜻해지는",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "문태준의 가슴이 따뜻해지는 詩",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "141",
+     "ord": 141,
+     "isEnd": false,
+     "date": "2026-10-05",
+     "page": "A26",
+     "column": null,
+     "title": "[문태준의 가슴이 따뜻해지는 詩] [141] 양봉 일지 3",
+     "url": "https://n.news.naver.com/article/023/0004002048",
+     "articleId": "0004002048"
+    },
+    {
+     "label": "142",
+     "ord": 142,
+     "isEnd": false,
+     "date": "2026-10-12",
+     "page": "A30",
+     "column": null,
+     "title": "[문태준의 가슴이 따뜻해지는 詩] [142] 10월",
+     "url": "https://n.news.naver.com/article/023/0004003192",
+     "articleId": "0004003192"
+    },
+    {
+     "label": "143",
+     "ord": 143,
+     "isEnd": false,
+     "date": "2026-10-19",
+     "page": "A30",
+     "column": null,
+     "title": "[문태준의 가슴이 따뜻해지는 詩] [143] 빈방",
+     "url": "https://n.news.naver.com/article/023/0004004509",
+     "articleId": "0004004509"
+    }
+   ],
+   "firstDate": "2026-10-05",
+   "lastDate": "2026-10-19"
+  },
+  {
+   "seriesKey": "023:강헌의히스토리인팝스",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "강헌의 히스토리 인 팝스",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "333",
+     "ord": 333,
+     "isEnd": false,
+     "date": "2026-10-05",
+     "page": "A27",
+     "column": null,
+     "title": "[강헌의 히스토리 인 팝스] [333] 무너지는 뉴욕에서 피어난 디스코",
+     "url": "https://n.news.naver.com/article/023/0004002050",
+     "articleId": "0004002050"
+    },
+    {
+     "label": "334",
+     "ord": 334,
+     "isEnd": false,
+     "date": "2026-10-12",
+     "page": "A31",
+     "column": null,
+     "title": "[강헌의 히스토리 인 팝스] [334] 끝없는 군비 경쟁",
+     "url": "https://n.news.naver.com/article/023/0004003193",
+     "articleId": "0004003193"
+    },
+    {
+     "label": "335",
+     "ord": 335,
+     "isEnd": false,
+     "date": "2026-10-19",
+     "page": "A31",
+     "column": null,
+     "title": "[강헌의 히스토리 인 팝스] [335] 검은 건반과 흰 건반처럼",
+     "url": "https://n.news.naver.com/article/023/0004004511",
+     "articleId": "0004004511"
+    }
+   ],
+   "firstDate": "2026-10-05",
+   "lastDate": "2026-10-19"
+  },
+  {
    "seriesKey": "020:박연준의토요일은시가좋아",
    "press": "020",
    "pressName": "동아일보",
@@ -726,74 +816,6 @@
    ],
    "firstDate": "2026-10-13",
    "lastDate": "2026-10-13"
-  },
-  {
-   "seriesKey": "023:문태준의가슴이따뜻해지는",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "문태준의 가슴이 따뜻해지는 詩",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "141",
-     "ord": 141,
-     "isEnd": false,
-     "date": "2026-10-05",
-     "page": "A26",
-     "column": null,
-     "title": "[문태준의 가슴이 따뜻해지는 詩] [141] 양봉 일지 3",
-     "url": "https://n.news.naver.com/article/023/0004002048",
-     "articleId": "0004002048"
-    },
-    {
-     "label": "142",
-     "ord": 142,
-     "isEnd": false,
-     "date": "2026-10-12",
-     "page": "A30",
-     "column": null,
-     "title": "[문태준의 가슴이 따뜻해지는 詩] [142] 10월",
-     "url": "https://n.news.naver.com/article/023/0004003192",
-     "articleId": "0004003192"
-    }
-   ],
-   "firstDate": "2026-10-05",
-   "lastDate": "2026-10-12"
-  },
-  {
-   "seriesKey": "023:강헌의히스토리인팝스",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "강헌의 히스토리 인 팝스",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "333",
-     "ord": 333,
-     "isEnd": false,
-     "date": "2026-10-05",
-     "page": "A27",
-     "column": null,
-     "title": "[강헌의 히스토리 인 팝스] [333] 무너지는 뉴욕에서 피어난 디스코",
-     "url": "https://n.news.naver.com/article/023/0004002050",
-     "articleId": "0004002050"
-    },
-    {
-     "label": "334",
-     "ord": 334,
-     "isEnd": false,
-     "date": "2026-10-12",
-     "page": "A31",
-     "column": null,
-     "title": "[강헌의 히스토리 인 팝스] [334] 끝없는 군비 경쟁",
-     "url": "https://n.news.naver.com/article/023/0004003193",
-     "articleId": "0004003193"
-    }
-   ],
-   "firstDate": "2026-10-05",
-   "lastDate": "2026-10-12"
   },
   {
    "seriesKey": "023:김민섭의다정함에대하여",
