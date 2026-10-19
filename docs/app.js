@@ -9,6 +9,8 @@
     press: "023", // 지면 뷰 선택
     typeFilter: "기획",
     statusFilter: "all",
+    seriesPress: "all",
+    seriesSort: "recent",
     q: "",
     paperCache: {},
     seriesIndex: null,
@@ -268,31 +270,54 @@
     return SJH_FULL.filter((l) => !labels.includes(l));
   }
 
+  const SORTS = {
+    recent: ["최신 게재순", (a, b) => (a.lastDate < b.lastDate ? 1 : -1)],
+    episodes: ["회차 많은순", (a, b) => b.episodes.length - a.episodes.length],
+    name: ["가나다순", (a, b) => a.name.localeCompare(b.name, "ko")],
+  };
+
   async function renderSeries() {
     const el = $("#view-series");
     const idx = await loadSeries();
+    const presses = [...new Set(idx.map((r) => r.press))];
     let html = `<div class="chips">
       <button data-f="type:기획" class="${state.typeFilter === "기획" ? "active" : ""}">기획 시리즈</button>
       <button data-f="type:연재칼럼" class="${state.typeFilter === "연재칼럼" ? "active" : ""}">연재칼럼</button>
       <button data-f="type:all" class="${state.typeFilter === "all" ? "active" : ""}">전체</button>
-      <span style="width:12px"></span>
+      <span class="chip-gap"></span>
       <button data-f="st:all" class="${state.statusFilter === "all" ? "active" : ""}">전체 상태</button>
       <button data-f="st:ongoing" class="${state.statusFilter === "ongoing" ? "active" : ""}">진행중</button>
       <button data-f="st:completed" class="${state.statusFilter === "completed" ? "active" : ""}">완결</button>
+    </div>
+    <div class="chips">
+      <button data-f="pr:all" class="${state.seriesPress === "all" ? "active" : ""}">전 매체</button>
+      ${PRESS_ORDER.filter((oid) => presses.includes(oid))
+        .map(
+          (oid) =>
+            `<button data-f="pr:${oid}" class="${state.seriesPress === oid ? "active" : ""}">${esc(state.presses[oid] || oid)}</button>`
+        )
+        .join("")}
+      <span class="chip-gap"></span>
+      <select id="seriesSort">${Object.entries(SORTS)
+        .map(([k, [label]]) => `<option value="${k}"${state.seriesSort === k ? " selected" : ""}>${label}</option>`)
+        .join("")}</select>
     </div>`;
 
-    const rows = idx.filter(
-      (r) =>
-        (state.typeFilter === "all" || r.seriesType === state.typeFilter) &&
-        (state.statusFilter === "all" || r.status === state.statusFilter) &&
-        (!state.q ||
-          r.name.toLowerCase().includes(state.q.toLowerCase()) ||
-          r.episodes.some((e) => matchQ(e.title)))
-    );
+    const rows = idx
+      .filter(
+        (r) =>
+          (state.typeFilter === "all" || r.seriesType === state.typeFilter) &&
+          (state.statusFilter === "all" || r.status === state.statusFilter) &&
+          (state.seriesPress === "all" || r.press === state.seriesPress) &&
+          (!state.q ||
+            r.name.toLowerCase().includes(state.q.toLowerCase()) ||
+            r.episodes.some((e) => matchQ(e.title)))
+      )
+      .sort(SORTS[state.seriesSort][1]);
     if (!rows.length) {
       html += `<p class="empty">조건에 맞는 시리즈가 없습니다.${
         state.typeFilter === "기획"
-          ? "<br>기획 시리즈(상·중·하, 1·2·3회)는 게재 시점에 자동 감지됩니다 — 연재칼럼 탭도 확인해보세요."
+          ? "<br><br>기획 시리즈(상·중·하, 1·2·3회 연재)는 제목의 회차 표기로 게재 시점에 자동 감지됩니다.<br>신년·창간 시즌에 집중되는 경향이 있어 평상시에는 드물 수 있습니다 — 새 기획이 시작되면 이 자리에 쌓입니다."
           : ""
       }</p>`;
       el.innerHTML = html;
@@ -306,9 +331,14 @@
           ? `완결`
           : `<span class="status-ongoing">진행중</span>`;
       html += `<div class="series-card"><h3>[${esc(r.name)}]</h3>
-        <div class="series-meta">${esc(r.pressName)} · ${esc(r.seriesType)} · ${stat} · ${r.episodes.length}회 게재 · ${r.firstDate} ~ ${r.lastDate}</div>
+        <div class="series-meta">${esc(r.pressName)} · ${esc(r.seriesType)} · ${stat} · 수집 ${r.episodes.length}회 · ${r.firstDate} ~ ${r.lastDate}</div>
         <ul class="ep-timeline">`;
-      for (const e of r.episodes) {
+      // 기획은 전 회차, 연재칼럼은 최근 5회만 (수집 시작일 이후 분량)
+      const shown = r.seriesType === "기획" ? r.episodes : r.episodes.slice(-5);
+      if (shown.length < r.episodes.length) {
+        html += `<li class="ep-more">… 이전 ${r.episodes.length - shown.length}회 생략</li>`;
+      }
+      for (const e of shown) {
         html += `<li><span class="ep-label">(${esc(e.label)})</span><a href="${e.url}" target="_blank" rel="noopener">${esc(e.title)}</a><span class="ep-meta">${e.date} · ${esc(e.page)}면</span></li>`;
       }
       for (const l of pendingEpisodes(r)) {
@@ -326,10 +356,17 @@
       b.addEventListener("click", () => {
         const [k, v] = b.dataset.f.split(":");
         if (k === "type") state.typeFilter = v;
+        else if (k === "pr") state.seriesPress = v;
         else state.statusFilter = v;
         renderSeries();
       })
     );
+    const sort = $("#seriesSort", el);
+    if (sort)
+      sort.addEventListener("change", () => {
+        state.seriesSort = sort.value;
+        renderSeries();
+      });
   }
 
   /* ── 공통 ── */

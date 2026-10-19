@@ -184,7 +184,14 @@ details.page-sec[open] summary .preview { visibility: hidden; }
 .page-arts li:first-child { border-top: none; }
 
 /* ── 시리즈 뷰 ── */
-.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 18px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; align-items: center; }
+.chip-gap { width: 12px; }
+.chips select {
+  font: inherit; font-size: 13px; color: var(--ink);
+  background: var(--card); border: 1px solid var(--rule);
+  padding: 5px 10px; border-radius: 999px; margin-left: auto;
+}
+.ep-more { color: var(--ink-soft); font-size: 12px; padding: 2px 0 2px 20px; font-style: italic; }
 .chips button {
   font: inherit; font-size: 13px; padding: 5px 13px; cursor: pointer;
   background: var(--card); color: var(--ink); border: 1px solid var(--rule); border-radius: 999px;
