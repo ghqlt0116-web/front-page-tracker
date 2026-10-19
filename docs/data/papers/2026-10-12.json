@@ -16,7 +16,8 @@
    "url": "https://n.news.naver.com/article/009/0005746862",
    "articleId": "0005746862",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -32,7 +33,8 @@
    "url": "https://n.news.naver.com/article/009/0005746860",
    "articleId": "0005746860",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -48,7 +50,8 @@
    "url": "https://n.news.naver.com/article/009/0005746863",
    "articleId": "0005746863",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -64,7 +67,8 @@
    "url": "https://n.news.naver.com/article/009/0005746861",
    "articleId": "0005746861",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -2080,7 +2084,15 @@
    "url": "https://n.news.naver.com/article/015/0005341228",
    "articleId": "0005341228",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005341177",
+     "page": "B1",
+     "title": "국민소득 4만달러…1조달러 수출, '한국의 르네상스'는 이제 시작이다",
+     "url": "https://n.news.naver.com/article/015/0005341177"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2096,7 +2108,8 @@
    "url": "https://n.news.naver.com/article/015/0005341224",
    "articleId": "0005341224",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2112,7 +2125,15 @@
    "url": "https://n.news.naver.com/article/015/0005341222",
    "articleId": "0005341222",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005341288",
+     "page": "A39",
+     "title": "[사설] 생산성·양극화 해법 없는 주 4.5일제 밀어붙여선 안돼",
+     "url": "https://n.news.naver.com/article/015/0005341288"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2128,7 +2149,21 @@
    "url": "https://n.news.naver.com/article/015/0005341225",
    "articleId": "0005341225",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005341176",
+     "page": "B2",
+     "title": "삼성전자, 반도체 제조 모든 과정 'AX 생태계' 추진",
+     "url": "https://n.news.naver.com/article/015/0005341176"
+    },
+    {
+     "articleId": "0005341178",
+     "page": "B2",
+     "title": "삼성전자, 로봇·가전·공간 아우르는 'AI 리빙' 생태계 구축한다",
+     "url": "https://n.news.naver.com/article/015/0005341178"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2144,7 +2179,8 @@
    "url": "https://n.news.naver.com/article/015/0005341227",
    "articleId": "0005341227",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -4016,7 +4052,8 @@
    "url": "https://n.news.naver.com/article/020/0003754149",
    "articleId": "0003754149",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -4032,7 +4069,8 @@
    "url": "https://n.news.naver.com/article/020/0003754150",
    "articleId": "0003754150",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -4048,7 +4086,15 @@
    "url": "https://n.news.naver.com/article/020/0003754179",
    "articleId": "0003754179",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003754152",
+     "page": "A4",
+     "title": "李, 이달 11일간 SNS 65건… 노무현-박원순 소환해 “직접 소통 계속”",
+     "url": "https://n.news.naver.com/article/020/0003754152"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4064,7 +4110,8 @@
    "url": "https://n.news.naver.com/article/020/0003754180",
    "articleId": "0003754180",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -4080,7 +4127,8 @@
    "url": "https://n.news.naver.com/article/020/0003754181",
    "articleId": "0003754181",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -5648,7 +5696,21 @@
    "url": "https://n.news.naver.com/article/023/0004003260",
    "articleId": "0004003260",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004003237",
+     "page": "A14",
+     "title": "침략자 푸틴과 ‘경유 딜’, 총살형 생중계… 국제질서 뒤엎는 트럼프",
+     "url": "https://n.news.naver.com/article/023/0004003237"
+    },
+    {
+     "articleId": "0004003187",
+     "page": "A14",
+     "title": "외교부 “사우디 출국 권고”... 트럼프, 후티 공격 검토",
+     "url": "https://n.news.naver.com/article/023/0004003187"
+    }
+   ]
   },
   {
    "press": "023",
@@ -5664,7 +5726,27 @@
    "url": "https://n.news.naver.com/article/023/0004003258",
    "articleId": "0004003258",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004003249",
+     "page": "A6",
+     "title": "성인 1만명 설문조사로 기업 ‘건강 기여도’ 산출",
+     "url": "https://n.news.naver.com/article/023/0004003249"
+    },
+    {
+     "articleId": "0004003250",
+     "page": "A6",
+     "title": "30대가 꼽은 건강 기업 1위 “다이소”… 6070은 “국민연금공단”",
+     "url": "https://n.news.naver.com/article/023/0004003250"
+    },
+    {
+     "articleId": "0004003253",
+     "page": "A4",
+     "title": "공소청이 끝내나, 중수청에 넘기나… “우리 수사 어디서” 기업 혼란",
+     "url": "https://n.news.naver.com/article/023/0004003253"
+    }
+   ]
   },
   {
    "press": "023",
@@ -5680,7 +5762,15 @@
    "url": "https://n.news.naver.com/article/023/0004003261",
    "articleId": "0004003261",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004003190",
+     "page": "A29",
+     "title": "[기고] 대법관 후보자 다시 제청하라는 대통령의 요구는 위헌",
+     "url": "https://n.news.naver.com/article/023/0004003190"
+    }
+   ]
   },
   {
    "press": "023",
@@ -5696,7 +5786,15 @@
    "url": "https://n.news.naver.com/article/023/0004003259",
    "articleId": "0004003259",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004003247",
+     "page": "A8",
+     "title": "재고 쌓인 중국차… 美·유럽 대신 한국에 ‘초저가 밀어내기’ 예고",
+     "url": "https://n.news.naver.com/article/023/0004003247"
+    }
+   ]
   },
   {
    "press": "023",
@@ -6832,7 +6930,8 @@
    "url": "https://n.news.naver.com/article/025/0003557153",
    "articleId": "0003557153",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
@@ -6848,7 +6947,15 @@
    "url": "https://n.news.naver.com/article/025/0003557142",
    "articleId": "0003557142",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003557141",
+     "page": "A2",
+     "title": "[사진] 테리, 국정원 직원과 쇼핑·식사…미 검찰 공소장에 공개된 사진들",
+     "url": "https://n.news.naver.com/article/025/0003557141"
+    }
+   ]
   },
   {
    "press": "025",

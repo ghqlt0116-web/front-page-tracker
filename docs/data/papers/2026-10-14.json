@@ -16,7 +16,27 @@
    "url": "https://n.news.naver.com/article/009/0005748054",
    "articleId": "0005748054",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005747970",
+     "page": "A34",
+     "title": "[기자24시] 메모리 반도체 전교 1등의 고민",
+     "url": "https://n.news.naver.com/article/009/0005747970"
+    },
+    {
+     "articleId": "0005748038",
+     "page": "A3",
+     "title": "반도체 기둥 휘청이자 주르르 … 韓증시, 일본·대만 낙폭의 3배",
+     "url": "https://n.news.naver.com/article/009/0005748038"
+    },
+    {
+     "articleId": "0005747989",
+     "page": "A22",
+     "title": "반도체 곱버스 ETF도 제쳤네 … 한달 수익률 1위는 AI 보안株",
+     "url": "https://n.news.naver.com/article/009/0005747989"
+    }
+   ]
   },
   {
    "press": "009",
@@ -32,7 +52,8 @@
    "url": "https://n.news.naver.com/article/009/0005748053",
    "articleId": "0005748053",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -48,7 +69,8 @@
    "url": "https://n.news.naver.com/article/009/0005748055",
    "articleId": "0005748055",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -64,7 +86,8 @@
    "url": "https://n.news.naver.com/article/009/0005748052",
    "articleId": "0005748052",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -2048,7 +2071,15 @@
    "url": "https://n.news.naver.com/article/015/0005342109",
    "articleId": "0005342109",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005342043",
+     "page": "A15",
+     "title": "배경훈 \"한국 피지컬 AI, 세계 1위 위해 투자 확대\"",
+     "url": "https://n.news.naver.com/article/015/0005342043"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2064,7 +2095,8 @@
    "url": "https://n.news.naver.com/article/015/0005342098",
    "articleId": "0005342098",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2080,7 +2112,8 @@
    "url": "https://n.news.naver.com/article/015/0005342100",
    "articleId": "0005342100",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2096,7 +2129,15 @@
    "url": "https://n.news.naver.com/article/015/0005342089",
    "articleId": "0005342089",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005342046",
+     "page": "A24",
+     "title": "서울시, 내년 23개 公기관 통합채용",
+     "url": "https://n.news.naver.com/article/015/0005342046"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2112,7 +2153,8 @@
    "url": "https://n.news.naver.com/article/015/0005342102",
    "articleId": "0005342102",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -4576,7 +4618,15 @@
    "url": "https://n.news.naver.com/article/020/0003754791",
    "articleId": "0003754791",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003754805",
+     "page": "A5",
+     "title": "법무부-금융위 등 27곳 먼저 내년 세종 이전… 공무원 1만명 이동",
+     "url": "https://n.news.naver.com/article/020/0003754805"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4592,7 +4642,8 @@
    "url": "https://n.news.naver.com/article/020/0003754784",
    "articleId": "0003754784",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -4608,7 +4659,8 @@
    "url": "https://n.news.naver.com/article/020/0003754792",
    "articleId": "0003754792",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -4624,7 +4676,15 @@
    "url": "https://n.news.naver.com/article/020/0003754818",
    "articleId": "0003754818",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003754760",
+     "page": "A18",
+     "title": "佛전역 슈퍼마켓 해킹, 냉동고 최고 80도까지 올라 500여곳 마비",
+     "url": "https://n.news.naver.com/article/020/0003754760"
+    }
+   ]
   },
   {
    "press": "020",
@@ -6352,7 +6412,21 @@
    "url": "https://n.news.naver.com/article/023/0004003710",
    "articleId": "0004003710",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004003719",
+     "page": "A3",
+     "title": "[단독] 한미 전작권 이견에… SCM, 12월로 이례적 연기",
+     "url": "https://n.news.naver.com/article/023/0004003719"
+    },
+    {
+     "articleId": "0004003497",
+     "page": "A3",
+     "title": "주한미군사령관 “한미 훈련, 지휘소 중심 벗어나 제주 등 한반도 전역에서”",
+     "url": "https://n.news.naver.com/article/023/0004003497"
+    }
+   ]
   },
   {
    "press": "023",
@@ -6368,7 +6442,8 @@
    "url": "https://n.news.naver.com/article/023/0004003709",
    "articleId": "0004003709",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -6384,7 +6459,15 @@
    "url": "https://n.news.naver.com/article/023/0004003707",
    "articleId": "0004003707",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004003687",
+     "page": "A12",
+     "title": "역사·한국학 3개 연구 기관 통폐합 추진에 학계 반발",
+     "url": "https://n.news.naver.com/article/023/0004003687"
+    }
+   ]
   },
   {
    "press": "023",
@@ -6400,7 +6483,15 @@
    "url": "https://n.news.naver.com/article/023/0004003706",
    "articleId": "0004003706",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004003639",
+     "page": "A31",
+     "title": "[사설] 다수 의석으로 동료 의원 ‘입틀막’ 하겠다는 입법 독재",
+     "url": "https://n.news.naver.com/article/023/0004003639"
+    }
+   ]
   },
   {
    "press": "023",
@@ -6416,7 +6507,8 @@
    "url": "https://n.news.naver.com/article/023/0004003708",
    "articleId": "0004003708",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -7728,7 +7820,8 @@
    "url": "https://n.news.naver.com/article/025/0003557745",
    "articleId": "0003557745",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
@@ -7744,7 +7837,15 @@
    "url": "https://n.news.naver.com/article/025/0003557730",
    "articleId": "0003557730",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003557729",
+     "page": "A26",
+     "title": "[사설] 갑작스러운 외교부·국방부 세종 이전…충분한 논의 거쳐야",
+     "url": "https://n.news.naver.com/article/025/0003557729"
+    }
+   ]
   },
   {
    "press": "025",
@@ -7760,7 +7861,8 @@
    "url": "https://n.news.naver.com/article/025/0003557732",
    "articleId": "0003557732",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
@@ -7776,7 +7878,8 @@
    "url": "https://n.news.naver.com/article/025/0003557728",
    "articleId": "0003557728",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",

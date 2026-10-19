@@ -49,7 +49,16 @@ def main():
             done, fail = enrich.enrich_file(session, p)
             print(f"면·단 보강: {done}건 성공, {fail}건 매칭 실패")
 
-    # 3) 시리즈 재구축
+    # 3) 관련 지면 기사 매칭 (1면 기사 본문 수집, 오늘자만)
+    import related
+
+    iso = f"{base[:4]}-{base[4:6]}-{base[6:]}"
+    p = config.PAPERS_DIR / f"{iso}.json"
+    if p.exists():
+        n = related.relate_file(p)
+        print(f"관련기사 매칭: 본문 {n}건 수집")
+
+    # 4) 시리즈 재구축
     import series
 
     series.rebuild()

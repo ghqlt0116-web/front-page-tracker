@@ -16,7 +16,8 @@
    "url": "https://n.news.naver.com/article/009/0005750279",
    "articleId": "0005750279",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -32,7 +33,15 @@
    "url": "https://n.news.naver.com/article/009/0005750281",
    "articleId": "0005750281",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005750238",
+     "page": "A10",
+     "title": "AI로 상사 음성변조해 신고…갈등 키워 휴가 타내기도",
+     "url": "https://n.news.naver.com/article/009/0005750238"
+    }
+   ]
   },
   {
    "press": "009",
@@ -48,7 +57,8 @@
    "url": "https://n.news.naver.com/article/009/0005750280",
    "articleId": "0005750280",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -64,7 +74,15 @@
    "url": "https://n.news.naver.com/article/009/0005750278",
    "articleId": "0005750278",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005750271",
+     "page": "A5",
+     "title": "80년대 PC통신 시절부터 … 이건희 'AI반도체 제국' 준비했다",
+     "url": "https://n.news.naver.com/article/009/0005750271"
+    }
+   ]
   },
   {
    "press": "009",
@@ -1952,7 +1970,27 @@
    "url": "https://n.news.naver.com/article/015/0005343710",
    "articleId": "0005343710",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005343705",
+     "page": "A5",
+     "title": "\"관세 때리자 공장 26개 박았다\"…유럽 숨통죄는 中의 공습",
+     "url": "https://n.news.naver.com/article/015/0005343705"
+    },
+    {
+     "articleId": "0005343708",
+     "page": "A4",
+     "title": "러 에너지·中 시장·美 안보…다 잃은 유럽, 성장엔진 꺼졌다",
+     "url": "https://n.news.naver.com/article/015/0005343708"
+    },
+    {
+     "articleId": "0005343738",
+     "page": "A5",
+     "title": "BYD, 헝가리에 유럽 정복 전초기지…27% 관세 피해 현지생산 승부수",
+     "url": "https://n.news.naver.com/article/015/0005343738"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1968,7 +2006,8 @@
    "url": "https://n.news.naver.com/article/015/0005343701",
    "articleId": "0005343701",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -1984,7 +2023,27 @@
    "url": "https://n.news.naver.com/article/015/0005343703",
    "articleId": "0005343703",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005343705",
+     "page": "A5",
+     "title": "\"관세 때리자 공장 26개 박았다\"…유럽 숨통죄는 中의 공습",
+     "url": "https://n.news.naver.com/article/015/0005343705"
+    },
+    {
+     "articleId": "0005343739",
+     "page": "A5",
+     "title": "韓·中 전기차 격전지 된 유럽…여기서 제조업 미래 갈린다",
+     "url": "https://n.news.naver.com/article/015/0005343739"
+    },
+    {
+     "articleId": "0005343738",
+     "page": "A5",
+     "title": "BYD, 헝가리에 유럽 정복 전초기지…27% 관세 피해 현지생산 승부수",
+     "url": "https://n.news.naver.com/article/015/0005343738"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2000,7 +2059,8 @@
    "url": "https://n.news.naver.com/article/015/0005343730",
    "articleId": "0005343730",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -3248,7 +3308,8 @@
    "url": "https://n.news.naver.com/article/020/0003755839",
    "articleId": "0003755839",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -3264,7 +3325,21 @@
    "url": "https://n.news.naver.com/article/020/0003755810",
    "articleId": "0003755810",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003755799",
+     "page": "A5",
+     "title": "“바라시니 사과” 기름 부은 추미애… 집무실에 ‘빨대’ 배달-탈당 촉구",
+     "url": "https://n.news.naver.com/article/020/0003755799"
+    },
+    {
+     "articleId": "0003755768",
+     "page": "A26",
+     "title": "[천광암 칼럼]“소방 빨대” 秋에게 품격까지 바라진 않지만…",
+     "url": "https://n.news.naver.com/article/020/0003755768"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3280,7 +3355,15 @@
    "url": "https://n.news.naver.com/article/020/0003755811",
    "articleId": "0003755811",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003755824",
+     "page": "A4",
+     "title": "브런슨 발언 논란 일자, 유엔사 “韓 주권 의문 여지 없어” 긴급 진화",
+     "url": "https://n.news.naver.com/article/020/0003755824"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3296,7 +3379,8 @@
    "url": "https://n.news.naver.com/article/020/0003755840",
    "articleId": "0003755840",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -4640,7 +4724,8 @@
    "url": "https://n.news.naver.com/article/023/0004004580",
    "articleId": "0004004580",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -4656,7 +4741,21 @@
    "url": "https://n.news.naver.com/article/023/0004004581",
    "articleId": "0004004581",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004004573",
+     "page": "A4",
+     "title": "경기도, 순직 소방관 추모행사 예산 1억마저 전액 삭감",
+     "url": "https://n.news.naver.com/article/023/0004004573"
+    },
+    {
+     "articleId": "0004004570",
+     "page": "A5",
+     "title": "“추미애 징계해야” 與 내부도 부글부글",
+     "url": "https://n.news.naver.com/article/023/0004004570"
+    }
+   ]
   },
   {
    "press": "023",
@@ -4672,7 +4771,15 @@
    "url": "https://n.news.naver.com/article/023/0004004579",
    "articleId": "0004004579",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004004513",
+     "page": "A31",
+     "title": "[사설] 인사청문회 끝난 지 한 달, 또 늘어지는 특별감찰관 임명",
+     "url": "https://n.news.naver.com/article/023/0004004513"
+    }
+   ]
   },
   {
    "press": "023",
@@ -4688,7 +4795,8 @@
    "url": "https://n.news.naver.com/article/023/0004004578",
    "articleId": "0004004578",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -5888,7 +5996,21 @@
    "url": "https://n.news.naver.com/article/025/0003558772",
    "articleId": "0003558772",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003558779",
+     "page": "A4",
+     "title": "한동훈 SNS, 2373건 물량공세…주진우는 “유해진 북한상” 공격 [SNS에 빠진 정치]",
+     "url": "https://n.news.naver.com/article/025/0003558779"
+    },
+    {
+     "articleId": "0003558775",
+     "page": "A5",
+     "title": "달라진 대통령 ‘SNS 정치’…게시글 끌어와 강경파 때렸다 [SNS에 빠진 정치]",
+     "url": "https://n.news.naver.com/article/025/0003558775"
+    }
+   ]
   },
   {
    "press": "025",
@@ -5904,7 +6026,8 @@
    "url": "https://n.news.naver.com/article/025/0003558756",
    "articleId": "0003558756",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
@@ -5920,7 +6043,8 @@
    "url": "https://n.news.naver.com/article/025/0003558757",
    "articleId": "0003558757",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",

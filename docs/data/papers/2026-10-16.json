@@ -16,7 +16,21 @@
    "url": "https://n.news.naver.com/article/009/0005749321",
    "articleId": "0005749321",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005749308",
+     "page": "A3",
+     "title": "'알래스카 신중론' 펼치던 정부 … 稅감면 역제안하며 반전 모색",
+     "url": "https://n.news.naver.com/article/009/0005749308"
+    },
+    {
+     "articleId": "0005749310",
+     "page": "A3",
+     "title": "\"대미협상 때 알래스카 LNG '우선매수권' 확보를\"",
+     "url": "https://n.news.naver.com/article/009/0005749310"
+    }
+   ]
   },
   {
    "press": "009",
@@ -32,7 +46,8 @@
    "url": "https://n.news.naver.com/article/009/0005749323",
    "articleId": "0005749323",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -48,7 +63,21 @@
    "url": "https://n.news.naver.com/article/009/0005749319",
    "articleId": "0005749319",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005749294",
+     "page": "A5",
+     "title": "잇단 北미사일 도발 언급한 브런슨 … 전작권 조기전환에 '제동'",
+     "url": "https://n.news.naver.com/article/009/0005749294"
+    },
+    {
+     "articleId": "0005749269",
+     "page": "A31",
+     "title": "전작권 논의 한미 온도 차 … 안보는 돌다리 두들기듯 신중해야 [사설]",
+     "url": "https://n.news.naver.com/article/009/0005749269"
+    }
+   ]
   },
   {
    "press": "009",
@@ -64,7 +93,27 @@
    "url": "https://n.news.naver.com/article/009/0005749320",
    "articleId": "0005749320",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005749303",
+     "page": "A4",
+     "title": "'AI 빚잔치' 도미노…美 코어위브 15% 폭락에 亞증시 패닉",
+     "url": "https://n.news.naver.com/article/009/0005749303"
+    },
+    {
+     "articleId": "0005749204",
+     "page": "A12",
+     "title": "AI 해킹 부정결제 피해땐 '즉시 환불' 추진",
+     "url": "https://n.news.naver.com/article/009/0005749204"
+    },
+    {
+     "articleId": "0005749226",
+     "page": "A14",
+     "title": "'에이전틱 AI' 확산에 … 개인정보 기준 마련한다",
+     "url": "https://n.news.naver.com/article/009/0005749226"
+    }
+   ]
   },
   {
    "press": "009",
@@ -80,7 +129,8 @@
    "url": "https://n.news.naver.com/article/009/0005749322",
    "articleId": "0005749322",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -2032,7 +2082,8 @@
    "url": "https://n.news.naver.com/article/015/0005343042",
    "articleId": "0005343042",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2048,7 +2099,8 @@
    "url": "https://n.news.naver.com/article/015/0005343038",
    "articleId": "0005343038",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2064,7 +2116,15 @@
    "url": "https://n.news.naver.com/article/015/0005343029",
    "articleId": "0005343029",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005343067",
+     "page": "A10",
+     "title": "[단독] 보금자리론 채무조정 올들어 1.4만건…5년 새 4배 이상 급증",
+     "url": "https://n.news.naver.com/article/015/0005343067"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2080,7 +2140,8 @@
    "url": "https://n.news.naver.com/article/015/0005343028",
    "articleId": "0005343028",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2096,7 +2157,8 @@
    "url": "https://n.news.naver.com/article/015/0005343027",
    "articleId": "0005343027",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -3824,7 +3886,15 @@
    "url": "https://n.news.naver.com/article/020/0003755424",
    "articleId": "0003755424",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003755321",
+     "page": "A31",
+     "title": "[사설]변동성 너무 커진 코스피… 잦아지는 ‘AI 빚투’ 경고음",
+     "url": "https://n.news.naver.com/article/020/0003755321"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3840,7 +3910,27 @@
    "url": "https://n.news.naver.com/article/020/0003755425",
    "articleId": "0003755425",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003755420",
+     "page": "A4",
+     "title": "브런슨, 韓 작전운용능력 재검증 시사… 전작권 불협화음 커져",
+     "url": "https://n.news.naver.com/article/020/0003755420"
+    },
+    {
+     "articleId": "0003755319",
+     "page": "A31",
+     "title": "[사설]美 “조건도 계획도 바뀌어”… ‘전작권 시간표’ 진지한 재검토를",
+     "url": "https://n.news.naver.com/article/020/0003755319"
+    },
+    {
+     "articleId": "0003755331",
+     "page": "B1",
+     "title": "日은행 3위의 승부수… 영업-사무직 수천명, AI 개발직 전환",
+     "url": "https://n.news.naver.com/article/020/0003755331"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3856,7 +3946,15 @@
    "url": "https://n.news.naver.com/article/020/0003755426",
    "articleId": "0003755426",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003755421",
+     "page": "A4",
+     "title": "극초음속 발사-ICBM 도면 이어… 北, 수중 핵타격 능력도 과시",
+     "url": "https://n.news.naver.com/article/020/0003755421"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3872,7 +3970,8 @@
    "url": "https://n.news.naver.com/article/020/0003755427",
    "articleId": "0003755427",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -5952,7 +6051,15 @@
    "url": "https://n.news.naver.com/article/023/0004004164",
    "articleId": "0004004164",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004004151",
+     "page": "A8",
+     "title": "“전자발찌, 가해자가 피해자 접근하면 자동으로 경찰에 경보 울리게 해야”",
+     "url": "https://n.news.naver.com/article/023/0004004151"
+    }
+   ]
   },
   {
    "press": "023",
@@ -5968,7 +6075,8 @@
    "url": "https://n.news.naver.com/article/023/0004004167",
    "articleId": "0004004167",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -5984,7 +6092,8 @@
    "url": "https://n.news.naver.com/article/023/0004004165",
    "articleId": "0004004165",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -6000,7 +6109,21 @@
    "url": "https://n.news.naver.com/article/023/0004004166",
    "articleId": "0004004166",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004004162",
+     "page": "A3",
+     "title": "“빅테크, AI 투자금 반도 못 건져”… ‘투자 절벽’ 오면 반도체 치명상",
+     "url": "https://n.news.naver.com/article/023/0004004162"
+    },
+    {
+     "articleId": "0004004116",
+     "page": "B5",
+     "title": "삼전닉스에 ‘발목’… 주요 반도체 ETF 수익률 줄줄이 하위권",
+     "url": "https://n.news.naver.com/article/023/0004004116"
+    }
+   ]
   },
   {
    "press": "023",
@@ -7376,7 +7499,15 @@
    "url": "https://n.news.naver.com/article/025/0003558325",
    "articleId": "0003558325",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003558302",
+     "page": "A22",
+     "title": "[권남훈의 이코노믹스] AI 시대 더 중요해진 서비스업, 규제와 보호만으론 답 없다",
+     "url": "https://n.news.naver.com/article/025/0003558302"
+    }
+   ]
   },
   {
    "press": "025",
@@ -7392,7 +7523,15 @@
    "url": "https://n.news.naver.com/article/025/0003558330",
    "articleId": "0003558330",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003558320",
+     "page": "A6",
+     "title": "브런슨 “전작권 전환 뒤 연합사 지휘구조, 어떻게 될지 모른다”",
+     "url": "https://n.news.naver.com/article/025/0003558320"
+    }
+   ]
   },
   {
    "press": "025",

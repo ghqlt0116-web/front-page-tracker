@@ -16,7 +16,8 @@
    "url": "https://n.news.naver.com/article/009/0005744784",
    "articleId": "0005744784",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -32,7 +33,21 @@
    "url": "https://n.news.naver.com/article/009/0005744785",
    "articleId": "0005744785",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005744708",
+     "page": "A17",
+     "title": "위성 15기 품고 우주로 … 촘촘히 촬영해 재난막고 안보에 활용",
+     "url": "https://n.news.naver.com/article/009/0005744708"
+    },
+    {
+     "articleId": "0005744730",
+     "page": "A26",
+     "title": "누리호 발사 고흥 우주산업 기반 착착",
+     "url": "https://n.news.naver.com/article/009/0005744730"
+    }
+   ]
   },
   {
    "press": "009",
@@ -48,7 +63,8 @@
    "url": "https://n.news.naver.com/article/009/0005744786",
    "articleId": "0005744786",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -64,7 +80,8 @@
    "url": "https://n.news.naver.com/article/009/0005744787",
    "articleId": "0005744787",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -80,7 +97,15 @@
    "url": "https://n.news.naver.com/article/009/0005744788",
    "articleId": "0005744788",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005744696",
+     "page": "A31",
+     "title": "형사사법 준비 부실 눈감고, 대법원장 훈계에 열 올린 與 [사설]",
+     "url": "https://n.news.naver.com/article/009/0005744696"
+    }
+   ]
   },
   {
    "press": "009",
@@ -2144,7 +2169,8 @@
    "url": "https://n.news.naver.com/article/015/0005339700",
    "articleId": "0005339700",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2160,7 +2186,27 @@
    "url": "https://n.news.naver.com/article/015/0005339784",
    "articleId": "0005339784",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005339713",
+     "page": "A6",
+     "title": "농심 달랜 이 대통령 \"CPTPP 가입 원점서 다시 대화\"",
+     "url": "https://n.news.naver.com/article/015/0005339713"
+    },
+    {
+     "articleId": "0005339799",
+     "page": "A6",
+     "title": "이재명 대통령 키운 '사이다 SNS'…여권 분열 진원지로",
+     "url": "https://n.news.naver.com/article/015/0005339799"
+    },
+    {
+     "articleId": "0005339667",
+     "page": "A19",
+     "title": "날아오른 스페이스X…머스크 다시 '조만장자'",
+     "url": "https://n.news.naver.com/article/015/0005339667"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2176,7 +2222,15 @@
    "url": "https://n.news.naver.com/article/015/0005339684",
    "articleId": "0005339684",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005339742",
+     "page": "A29",
+     "title": "서울건강총괄관에 김현철 연세대 의대 교수",
+     "url": "https://n.news.naver.com/article/015/0005339742"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2192,7 +2246,8 @@
    "url": "https://n.news.naver.com/article/015/0005339689",
    "articleId": "0005339689",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2208,7 +2263,27 @@
    "url": "https://n.news.naver.com/article/015/0005339694",
    "articleId": "0005339694",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005339831",
+     "page": "A31",
+     "title": "[사설] 민간 정비사업 용적률 상향 추진…공급 확대책 더 나와야",
+     "url": "https://n.news.naver.com/article/015/0005339831"
+    },
+    {
+     "articleId": "0005339696",
+     "page": "A3",
+     "title": "\"공급 속도내자\"…정부 '용적률' 높이고, 서울시는 '그린벨트' 푸나",
+     "url": "https://n.news.naver.com/article/015/0005339696"
+    },
+    {
+     "articleId": "0005339708",
+     "page": "A2",
+     "title": "AI 해킹이 ‘보안주 투자’ 바꿨다  [한경 프리미엄9 TODAY]",
+     "url": "https://n.news.naver.com/article/015/0005339708"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2224,7 +2299,8 @@
    "url": "https://n.news.naver.com/article/015/0005339692",
    "articleId": "0005339692",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -4784,7 +4860,15 @@
    "url": "https://n.news.naver.com/article/020/0003753243",
    "articleId": "0003753243",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003753247",
+     "page": "A3",
+     "title": "문건까지 준비한 조희대… “제2 윤석열 꿈꾸나” 묻자 “모욕적, 슬픈일”",
+     "url": "https://n.news.naver.com/article/020/0003753247"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4800,7 +4884,27 @@
    "url": "https://n.news.naver.com/article/020/0003753244",
    "articleId": "0003753244",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003753180",
+     "page": "B4",
+     "title": "위키피디아 “AI 에이전트 과도한 접속, 서비스 장애 불렀을수도”",
+     "url": "https://n.news.naver.com/article/020/0003753180"
+    },
+    {
+     "articleId": "0003753240",
+     "page": "A6",
+     "title": "대형 교회 2곳도 해킹… “100만건 정보유출 가능성”",
+     "url": "https://n.news.naver.com/article/020/0003753240"
+    },
+    {
+     "articleId": "0003753208",
+     "page": "A14",
+     "title": "홀몸-요양원 어르신 돌보는 AI… 내년 400가구-12개 시설에 설치",
+     "url": "https://n.news.naver.com/article/020/0003753208"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4816,7 +4920,8 @@
    "url": "https://n.news.naver.com/article/020/0003753245",
    "articleId": "0003753245",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -4832,7 +4937,8 @@
    "url": "https://n.news.naver.com/article/020/0003753246",
    "articleId": "0003753246",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -6736,7 +6842,8 @@
    "url": "https://n.news.naver.com/article/023/0004002491",
    "articleId": "0004002491",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -6752,7 +6859,8 @@
    "url": "https://n.news.naver.com/article/023/0004002495",
    "articleId": "0004002495",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -6768,7 +6876,21 @@
    "url": "https://n.news.naver.com/article/023/0004002492",
    "articleId": "0004002492",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004002488",
+     "page": "A3",
+     "title": "與 “와인 사는데 업무추진비 1억”… 조희대 “술 안 마셔, 카드 본 적도 없다”",
+     "url": "https://n.news.naver.com/article/023/0004002488"
+    },
+    {
+     "articleId": "0004002489",
+     "page": "A3",
+     "title": "“제2 윤석열” 공세에 “모욕적”… 조희대, 준비한 원고 꺼내 6분간 반박",
+     "url": "https://n.news.naver.com/article/023/0004002489"
+    }
+   ]
   },
   {
    "press": "023",
@@ -6784,7 +6906,15 @@
    "url": "https://n.news.naver.com/article/023/0004002493",
    "articleId": "0004002493",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004002463",
+     "page": "A21",
+     "title": "장애인 아시안게임 한국 선수단 결단식",
+     "url": "https://n.news.naver.com/article/023/0004002463"
+    }
+   ]
   },
   {
    "press": "023",
@@ -8032,7 +8162,8 @@
    "url": "https://n.news.naver.com/article/025/0003556215",
    "articleId": "0003556215",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
@@ -8048,7 +8179,8 @@
    "url": "https://n.news.naver.com/article/025/0003556247",
    "articleId": "0003556247",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",

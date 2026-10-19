@@ -16,7 +16,8 @@
    "url": "https://n.news.naver.com/article/009/0005744157",
    "articleId": "0005744157",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -32,7 +33,8 @@
    "url": "https://n.news.naver.com/article/009/0005744155",
    "articleId": "0005744155",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -48,7 +50,15 @@
    "url": "https://n.news.naver.com/article/009/0005744158",
    "articleId": "0005744158",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005744191",
+     "page": "A6",
+     "title": "軍 \"北, MDL남쪽10m 지뢰 1년전 매설 … 철조망 설치로 요새화\"",
+     "url": "https://n.news.naver.com/article/009/0005744191"
+    }
+   ]
   },
   {
    "press": "009",
@@ -64,7 +74,8 @@
    "url": "https://n.news.naver.com/article/009/0005744156",
    "articleId": "0005744156",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -1968,7 +1979,21 @@
    "url": "https://n.news.naver.com/article/015/0005339231",
    "articleId": "0005339231",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005339230",
+     "page": "A3",
+     "title": "[단독] 판매대금 정산·월급 지급…기업, 스테이블코인 결제 확 늘었다",
+     "url": "https://n.news.naver.com/article/015/0005339230"
+    },
+    {
+     "articleId": "0005339267",
+     "page": "A3",
+     "title": "美 은행, 결제망에 스테이블코인 심는다",
+     "url": "https://n.news.naver.com/article/015/0005339267"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1984,7 +2009,8 @@
    "url": "https://n.news.naver.com/article/015/0005339235",
    "articleId": "0005339235",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2000,7 +2026,8 @@
    "url": "https://n.news.naver.com/article/015/0005339236",
    "articleId": "0005339236",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2016,7 +2043,8 @@
    "url": "https://n.news.naver.com/article/015/0005339238",
    "articleId": "0005339238",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2032,7 +2060,8 @@
    "url": "https://n.news.naver.com/article/015/0005339237",
    "articleId": "0005339237",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -3696,7 +3725,21 @@
    "url": "https://n.news.naver.com/article/020/0003752918",
    "articleId": "0003752918",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003752916",
+     "page": "A3",
+     "title": "“부상자 파편, 北지뢰 일치” 2주만에 최종 결론",
+     "url": "https://n.news.naver.com/article/020/0003752916"
+    },
+    {
+     "articleId": "0003752806",
+     "page": "A31",
+     "title": "‘방어용’ 지뢰?[임용한의 전쟁사]〈436〉",
+     "url": "https://n.news.naver.com/article/020/0003752806"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3712,7 +3755,27 @@
    "url": "https://n.news.naver.com/article/020/0003752920",
    "articleId": "0003752920",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003752914",
+     "page": "A2",
+     "title": "해외서도 ‘AI 쇼크’ 청년채용 줄었지만… TSMC 등 오히려 20대 직원 비중 늘어",
+     "url": "https://n.news.naver.com/article/020/0003752914"
+    },
+    {
+     "articleId": "0003752820",
+     "page": "A31",
+     "title": "[사설]대기업 20대 비중 18%… ‘항아리’ 조직으론 미래 어둡다",
+     "url": "https://n.news.naver.com/article/020/0003752820"
+    },
+    {
+     "articleId": "0003752905",
+     "page": "A23",
+     "title": "직원 5명 안 되는 회사라고… ‘부당해고 심판대’에도 못 섰다",
+     "url": "https://n.news.naver.com/article/020/0003752905"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3728,7 +3791,8 @@
    "url": "https://n.news.naver.com/article/020/0003752919",
    "articleId": "0003752919",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -3744,7 +3808,27 @@
    "url": "https://n.news.naver.com/article/020/0003752921",
    "articleId": "0003752921",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003752819",
+     "page": "A31",
+     "title": "[사설]‘100점 보안’ 바보 만든 AI 해킹… 이런 심사론 ‘먹잇감’만 양산",
+     "url": "https://n.news.naver.com/article/020/0003752819"
+    },
+    {
+     "articleId": "0003752922",
+     "page": "A4",
+     "title": "‘AI 지휘’ 금융권 해킹 규모-속도 과거와 달라… “방어도 AI로”",
+     "url": "https://n.news.naver.com/article/020/0003752922"
+    },
+    {
+     "articleId": "0003752923",
+     "page": "A4",
+     "title": "해킹 68시간 뒤 알아, ‘보안 국제인증’ 무색",
+     "url": "https://n.news.naver.com/article/020/0003752923"
+    }
+   ]
   },
   {
    "press": "020",
@@ -5696,7 +5780,15 @@
    "url": "https://n.news.naver.com/article/023/0004002259",
    "articleId": "0004002259",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004002195",
+     "page": "A31",
+     "title": "[사설] 지뢰 도발에 ‘합당하고 상응하는 조치’가 이 정도인가",
+     "url": "https://n.news.naver.com/article/023/0004002195"
+    }
+   ]
   },
   {
    "press": "023",
@@ -5712,7 +5804,27 @@
    "url": "https://n.news.naver.com/article/023/0004002258",
    "articleId": "0004002258",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004002253",
+     "page": "A5",
+     "title": "‘선의의 예외’ 규정 둔 美… 절차상 의도적인 위법 아니면 증거로 인정",
+     "url": "https://n.news.naver.com/article/023/0004002253"
+    },
+    {
+     "articleId": "0004002266",
+     "page": "A8",
+     "title": "[단독] “판·검사·경찰 상시 감시”… 與, 공수처 규모 확대 검토",
+     "url": "https://n.news.naver.com/article/023/0004002266"
+    },
+    {
+     "articleId": "0004002248",
+     "page": "A10",
+     "title": "[단독] 경찰 ‘GPS로 실종자 위치 추적’, 10번 중 8번은 실패",
+     "url": "https://n.news.naver.com/article/023/0004002248"
+    }
+   ]
   },
   {
    "press": "023",
@@ -5728,7 +5840,27 @@
    "url": "https://n.news.naver.com/article/023/0004002260",
    "articleId": "0004002260",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004002194",
+     "page": "A31",
+     "title": "[사설] AI 해킹 뚫린 은행과 막은 은행, ‘기본’이 차이 갈랐다",
+     "url": "https://n.news.naver.com/article/023/0004002194"
+    },
+    {
+     "articleId": "0004002196",
+     "page": "B1",
+     "title": "AI가 인류 멸망 부른다? 빅테크, ‘귀여운 AI’ 경쟁",
+     "url": "https://n.news.naver.com/article/023/0004002196"
+    },
+    {
+     "articleId": "0004002203",
+     "page": "B3",
+     "title": "‘아이온2’ 해외 출시… 증권사, 엔씨 목표 주가 올려",
+     "url": "https://n.news.naver.com/article/023/0004002203"
+    }
+   ]
   },
   {
    "press": "023",
@@ -5744,7 +5876,8 @@
    "url": "https://n.news.naver.com/article/023/0004002261",
    "articleId": "0004002261",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -6960,7 +7093,15 @@
    "url": "https://n.news.naver.com/article/025/0003555915",
    "articleId": "0003555915",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003555912",
+     "page": "A3",
+     "title": "남북·유엔사 다 다른 ‘MDL 기준선’…북 지뢰 제거 때 충돌 뇌관 될 수도",
+     "url": "https://n.news.naver.com/article/025/0003555912"
+    }
+   ]
   },
   {
    "press": "025",
@@ -6976,7 +7117,8 @@
    "url": "https://n.news.naver.com/article/025/0003555919",
    "articleId": "0003555919",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
@@ -6992,7 +7134,8 @@
    "url": "https://n.news.naver.com/article/025/0003555920",
    "articleId": "0003555920",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",

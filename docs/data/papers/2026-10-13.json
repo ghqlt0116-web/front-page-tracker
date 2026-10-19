@@ -16,7 +16,8 @@
    "url": "https://n.news.naver.com/article/009/0005747416",
    "articleId": "0005747416",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -32,7 +33,15 @@
    "url": "https://n.news.naver.com/article/009/0005747471",
    "articleId": "0005747471",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005747494",
+     "page": "A2",
+     "title": "우드퍼드, 이코노미스트의 표본 … 홀 \"최저임금 속도조절\" 매경 인터뷰",
+     "url": "https://n.news.naver.com/article/009/0005747494"
+    }
+   ]
   },
   {
    "press": "009",
@@ -48,7 +57,15 @@
    "url": "https://n.news.naver.com/article/009/0005747413",
    "articleId": "0005747413",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005747401",
+     "page": "A4",
+     "title": "\"공공임대 늘려라\" 명받은 LH·SH마저 … 2년후 종부세 40% 급증",
+     "url": "https://n.news.naver.com/article/009/0005747401"
+    }
+   ]
   },
   {
    "press": "009",
@@ -64,7 +81,8 @@
    "url": "https://n.news.naver.com/article/009/0005747415",
    "articleId": "0005747415",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -80,7 +98,8 @@
    "url": "https://n.news.naver.com/article/009/0005747414",
    "articleId": "0005747414",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -2032,7 +2051,27 @@
    "url": "https://n.news.naver.com/article/015/0005341604",
    "articleId": "0005341604",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005341618",
+     "page": "A23",
+     "title": "서울 3분기 아파트 매매…절반 이상 '전고점' 넘어",
+     "url": "https://n.news.naver.com/article/015/0005341618"
+    },
+    {
+     "articleId": "0005341771",
+     "page": "A23",
+     "title": "\"현금 20억 없어도 서울 아파트 주인 된다\"…30년 베테랑의 해법",
+     "url": "https://n.news.naver.com/article/015/0005341771"
+    },
+    {
+     "articleId": "0005341628",
+     "page": "A3",
+     "title": "여의도 7억·압구정 3구역 5억…공사비 뛰자 분담금 '천정부지'",
+     "url": "https://n.news.naver.com/article/015/0005341628"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2048,7 +2087,8 @@
    "url": "https://n.news.naver.com/article/015/0005341583",
    "articleId": "0005341583",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2064,7 +2104,8 @@
    "url": "https://n.news.naver.com/article/015/0005341710",
    "articleId": "0005341710",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2080,7 +2121,8 @@
    "url": "https://n.news.naver.com/article/015/0005341588",
    "articleId": "0005341588",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2096,7 +2138,8 @@
    "url": "https://n.news.naver.com/article/015/0005341707",
    "articleId": "0005341707",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -4112,7 +4155,21 @@
    "url": "https://n.news.naver.com/article/020/0003754448",
    "articleId": "0003754448",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003754517",
+     "page": "A20",
+     "title": "15년 새 세계 야생 호랑이 78% 늘어… “자연, 회복될 수 있다는 증거”",
+     "url": "https://n.news.naver.com/article/020/0003754517"
+    },
+    {
+     "articleId": "0003754396",
+     "page": "A27",
+     "title": "클라우제비츠가 말한 전쟁[임용한의 전쟁사]〈437〉",
+     "url": "https://n.news.naver.com/article/020/0003754396"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4128,7 +4185,8 @@
    "url": "https://n.news.naver.com/article/020/0003754489",
    "articleId": "0003754489",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -4144,7 +4202,8 @@
    "url": "https://n.news.naver.com/article/020/0003754487",
    "articleId": "0003754487",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -4160,7 +4219,8 @@
    "url": "https://n.news.naver.com/article/020/0003754488",
    "articleId": "0003754488",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -6128,7 +6188,8 @@
    "url": "https://n.news.naver.com/article/023/0004003464",
    "articleId": "0004003464",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -6144,7 +6205,8 @@
    "url": "https://n.news.naver.com/article/023/0004003463",
    "articleId": "0004003463",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -6160,7 +6222,8 @@
    "url": "https://n.news.naver.com/article/023/0004003380",
    "articleId": "0004003380",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -6176,7 +6239,8 @@
    "url": "https://n.news.naver.com/article/023/0004003462",
    "articleId": "0004003462",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -7408,7 +7472,15 @@
    "url": "https://n.news.naver.com/article/025/0003557424",
    "articleId": "0003557424",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003557428",
+     "page": "A26",
+     "title": "[사설] “미국 착오”라는 정동영 장관, 이래서 정보 공백 해결되겠나",
+     "url": "https://n.news.naver.com/article/025/0003557428"
+    }
+   ]
   },
   {
    "press": "025",
@@ -7424,7 +7496,15 @@
    "url": "https://n.news.naver.com/article/025/0003557448",
    "articleId": "0003557448",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003557443",
+     "page": "A5",
+     "title": "같은 재개발 신축인데…광명은 보수, 부평은 진보 왜",
+     "url": "https://n.news.naver.com/article/025/0003557443"
+    }
+   ]
   },
   {
    "press": "025",
@@ -7440,7 +7520,8 @@
    "url": "https://n.news.naver.com/article/025/0003557422",
    "articleId": "0003557422",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",

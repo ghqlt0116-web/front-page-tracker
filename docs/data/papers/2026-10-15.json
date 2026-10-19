@@ -16,7 +16,8 @@
    "url": "https://n.news.naver.com/article/009/0005748734",
    "articleId": "0005748734",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -32,7 +33,27 @@
    "url": "https://n.news.naver.com/article/009/0005748736",
    "articleId": "0005748736",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005748676",
+     "page": "A6",
+     "title": "3대 글로벌 완성차 업체로…鄭 \"기술·품질 앞서갈것\"",
+     "url": "https://n.news.naver.com/article/009/0005748676"
+    },
+    {
+     "articleId": "0005748627",
+     "page": "A16",
+     "title": "글로벌 철강 내년에도 중국發 교란",
+     "url": "https://n.news.naver.com/article/009/0005748627"
+    },
+    {
+     "articleId": "0005748590",
+     "page": "A17",
+     "title": "\"한국, AI 주권 지키려면 … 글로벌 연합전선 필요해\"",
+     "url": "https://n.news.naver.com/article/009/0005748590"
+    }
+   ]
   },
   {
    "press": "009",
@@ -48,7 +69,21 @@
    "url": "https://n.news.naver.com/article/009/0005748735",
    "articleId": "0005748735",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005748724",
+     "page": "A3",
+     "title": "트럼프 \"대만도 알래스카 LNG 투자\"…'상업성 검토' 韓 또 압박",
+     "url": "https://n.news.naver.com/article/009/0005748724"
+    },
+    {
+     "articleId": "0005748643",
+     "page": "A26",
+     "title": "치맥·찜질방 즐기며 투자 논의 … 서울 '야간 네트워킹' 인기",
+     "url": "https://n.news.naver.com/article/009/0005748643"
+    }
+   ]
   },
   {
    "press": "009",
@@ -64,7 +99,8 @@
    "url": "https://n.news.naver.com/article/009/0005748737",
    "articleId": "0005748737",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -2176,7 +2212,27 @@
    "url": "https://n.news.naver.com/article/015/0005342538",
    "articleId": "0005342538",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005342580",
+     "page": "A4",
+     "title": "다른 엄마들은 뭐 쓰나…육아용품도 비교 전쟁",
+     "url": "https://n.news.naver.com/article/015/0005342580"
+    },
+    {
+     "articleId": "0005342579",
+     "page": "A4",
+     "title": "비교 자체는 성장 땔감…질투로 바뀌면 독이 된다",
+     "url": "https://n.news.naver.com/article/015/0005342579"
+    },
+    {
+     "articleId": "0005342677",
+     "page": "A5",
+     "title": "\"그 자리 올라갈 자격 되나\" 비교 넘어 타인의 삶까지 저격",
+     "url": "https://n.news.naver.com/article/015/0005342677"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2192,7 +2248,15 @@
    "url": "https://n.news.naver.com/article/015/0005342565",
    "articleId": "0005342565",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005342574",
+     "page": "A3",
+     "title": "전례없는 국내주식 리밸런싱 유예…\"국민연금이 외국인 ATM이냐\"",
+     "url": "https://n.news.naver.com/article/015/0005342574"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2208,7 +2272,15 @@
    "url": "https://n.news.naver.com/article/015/0005342561",
    "articleId": "0005342561",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005342613",
+     "page": "A14",
+     "title": "모디 만난 정의선 \"인도 생산 차량의 30% 해외 수출\"",
+     "url": "https://n.news.naver.com/article/015/0005342613"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2224,7 +2296,8 @@
    "url": "https://n.news.naver.com/article/015/0005342567",
    "articleId": "0005342567",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2240,7 +2313,15 @@
    "url": "https://n.news.naver.com/article/015/0005342555",
    "articleId": "0005342555",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005342592",
+     "page": "A6",
+     "title": "靑 새 비서실장 임광현 '깜짝 카드'…\"李 국정과제 속도 낼 실무형 실장\"",
+     "url": "https://n.news.naver.com/article/015/0005342592"
+    }
+   ]
   },
   {
    "press": "015",
@@ -4368,7 +4449,8 @@
    "url": "https://n.news.naver.com/article/020/0003755087",
    "articleId": "0003755087",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -4384,7 +4466,21 @@
    "url": "https://n.news.naver.com/article/020/0003755086",
    "articleId": "0003755086",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003755061",
+     "page": "A2",
+     "title": "“K뷰티-AI테크 새 일자리 정보 가득”… 현장서 채용 상담도",
+     "url": "https://n.news.naver.com/article/020/0003755061"
+    },
+    {
+     "articleId": "0003755026",
+     "page": "A27",
+     "title": "[사설]“반도체 다음은 서비스 산업”… 일자리 리스타트 할 때",
+     "url": "https://n.news.naver.com/article/020/0003755026"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4400,7 +4496,15 @@
    "url": "https://n.news.naver.com/article/020/0003755088",
    "articleId": "0003755088",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003755054",
+     "page": "A5",
+     "title": "“北파병 이후 상황 변해” 美내부서 전작권 조기전환 회의론 확산",
+     "url": "https://n.news.naver.com/article/020/0003755054"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4416,7 +4520,21 @@
    "url": "https://n.news.naver.com/article/020/0003755089",
    "articleId": "0003755089",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003755098",
+     "page": "A4",
+     "title": "김지용 “정치검사 1호는 윤석열”… 與강경파 ‘친윤’ 공격에 반박",
+     "url": "https://n.news.naver.com/article/020/0003755098"
+    },
+    {
+     "articleId": "0003755077",
+     "page": "A19",
+     "title": "[오늘의 채널A]김지용 청문회서 공방, 어떤 발언 오갔나",
+     "url": "https://n.news.naver.com/article/020/0003755077"
+    }
+   ]
   },
   {
    "press": "020",
@@ -5968,7 +6086,15 @@
    "url": "https://n.news.naver.com/article/023/0004003935",
    "articleId": "0004003935",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004003927",
+     "page": "A4",
+     "title": "“원룸 월세 내면 월급 통장 텅텅”… 분노한 유럽 청년들 거리로 나섰다",
+     "url": "https://n.news.naver.com/article/023/0004003927"
+    }
+   ]
   },
   {
    "press": "023",
@@ -5984,7 +6110,8 @@
    "url": "https://n.news.naver.com/article/023/0004003936",
    "articleId": "0004003936",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -6000,7 +6127,8 @@
    "url": "https://n.news.naver.com/article/023/0004003937",
    "articleId": "0004003937",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -6016,7 +6144,15 @@
    "url": "https://n.news.naver.com/article/023/0004003944",
    "articleId": "0004003944",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004003917",
+     "page": "A10",
+     "title": "출근길 서울 버스전용차로에 ‘급행’ 달린다",
+     "url": "https://n.news.naver.com/article/023/0004003917"
+    }
+   ]
   },
   {
    "press": "023",
@@ -7376,7 +7512,15 @@
    "url": "https://n.news.naver.com/article/025/0003558024",
    "articleId": "0003558024",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003558013",
+     "page": "A26",
+     "title": "[사설] 삐걱거리는 전작권 환수, 자신감만으로는 어렵다",
+     "url": "https://n.news.naver.com/article/025/0003558013"
+    }
+   ]
   },
   {
    "press": "025",
@@ -7392,7 +7536,8 @@
    "url": "https://n.news.naver.com/article/025/0003558006",
    "articleId": "0003558006",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
@@ -7408,7 +7553,8 @@
    "url": "https://n.news.naver.com/article/025/0003558007",
    "articleId": "0003558007",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",

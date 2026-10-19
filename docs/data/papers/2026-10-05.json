@@ -16,7 +16,27 @@
    "url": "https://n.news.naver.com/article/009/0005743851",
    "articleId": "0005743851",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005743855",
+     "page": "A3",
+     "title": "첫 공격 막은 우리銀 … AI 해킹, 24시간 감시 AI 방패로 차단",
+     "url": "https://n.news.naver.com/article/009/0005743855"
+    },
+    {
+     "articleId": "0005743820",
+     "page": "A6",
+     "title": "러시아 'AI 전쟁가요' 확산 … 美기술로 선전전 대량생산",
+     "url": "https://n.news.naver.com/article/009/0005743820"
+    },
+    {
+     "articleId": "0005743808",
+     "page": "A10",
+     "title": "\"개발자 역할은 AI 지휘하고 결과 검증하는 것\"",
+     "url": "https://n.news.naver.com/article/009/0005743808"
+    }
+   ]
   },
   {
    "press": "009",
@@ -32,7 +52,8 @@
    "url": "https://n.news.naver.com/article/009/0005743852",
    "articleId": "0005743852",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -48,7 +69,15 @@
    "url": "https://n.news.naver.com/article/009/0005743850",
    "articleId": "0005743850",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005743834",
+     "page": "A8",
+     "title": "국가핵심기술 10건 중 9건 中으로 샜다",
+     "url": "https://n.news.naver.com/article/009/0005743834"
+    }
+   ]
   },
   {
    "press": "009",
@@ -64,7 +93,15 @@
    "url": "https://n.news.naver.com/article/009/0005743853",
    "articleId": "0005743853",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005743817",
+     "page": "A6",
+     "title": "중간선거 패배 위기 … 트럼프, 대미투자·관세폭탄 투트랙 압박",
+     "url": "https://n.news.naver.com/article/009/0005743817"
+    }
+   ]
   },
   {
    "press": "009",
@@ -1456,7 +1493,8 @@
    "url": "https://n.news.naver.com/article/015/0005339046",
    "articleId": "0005339046",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -1472,7 +1510,21 @@
    "url": "https://n.news.naver.com/article/015/0005339041",
    "articleId": "0005339041",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005339075",
+     "page": "A5",
+     "title": "연구실 단계부터 투자…美도 '기술 구루' 우대",
+     "url": "https://n.news.naver.com/article/015/0005339075"
+    },
+    {
+     "articleId": "0005339076",
+     "page": "A5",
+     "title": "대세가 된 과기원 교수 창업, 3년새 30% 증가",
+     "url": "https://n.news.naver.com/article/015/0005339076"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1488,7 +1540,15 @@
    "url": "https://n.news.naver.com/article/015/0005339037",
    "articleId": "0005339037",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005339078",
+     "page": "A4",
+     "title": "'작은 사업장' 노동법…美·獨·日도 따로 적용",
+     "url": "https://n.news.naver.com/article/015/0005339078"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1504,7 +1564,27 @@
    "url": "https://n.news.naver.com/article/015/0005339044",
    "articleId": "0005339044",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005339045",
+     "page": "A3",
+     "title": "중국산 AI에 '우회로' 뚫렸다…기업·공공기관도 해킹 사정권",
+     "url": "https://n.news.naver.com/article/015/0005339045"
+    },
+    {
+     "articleId": "0005339077",
+     "page": "A3",
+     "title": "해킹에 악용된 AI 에이전트는 '아르텍스'",
+     "url": "https://n.news.naver.com/article/015/0005339077"
+    },
+    {
+     "articleId": "0005339027",
+     "page": "A12",
+     "title": "'고성능' 업스테이지 AI, 높은 연산비용은 과제",
+     "url": "https://n.news.naver.com/article/015/0005339027"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2832,7 +2912,15 @@
    "url": "https://n.news.naver.com/article/020/0003752672",
    "articleId": "0003752672",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003752680",
+     "page": "A3",
+     "title": "北, 지뢰 뭉개고 美 관심끌기… 트럼프 “핵미사일 112개, 잘 지내야”",
+     "url": "https://n.news.naver.com/article/020/0003752680"
+    }
+   ]
   },
   {
    "press": "020",
@@ -2848,7 +2936,21 @@
    "url": "https://n.news.naver.com/article/020/0003752674",
    "articleId": "0003752674",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003752680",
+     "page": "A3",
+     "title": "北, 지뢰 뭉개고 美 관심끌기… 트럼프 “핵미사일 112개, 잘 지내야”",
+     "url": "https://n.news.naver.com/article/020/0003752680"
+    },
+    {
+     "articleId": "0003752689",
+     "page": "A4",
+     "title": "“美에 공장 안 지으면 300% 관세”… 유세전 트럼프, 투자압박 높여",
+     "url": "https://n.news.naver.com/article/020/0003752689"
+    }
+   ]
   },
   {
    "press": "020",
@@ -2864,7 +2966,27 @@
    "url": "https://n.news.naver.com/article/020/0003752673",
    "articleId": "0003752673",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003752676",
+     "page": "A5",
+     "title": "악성코드 없이 8개국 IP 이용 무차별 해킹… ‘중국어 AI’ 흔적 조사",
+     "url": "https://n.news.naver.com/article/020/0003752676"
+    },
+    {
+     "articleId": "0003752648",
+     "page": "A27",
+     "title": "[사설]2금융권까지 동시다발 해킹… ‘정보 짜깁기’ 2차 피싱 막아야",
+     "url": "https://n.news.naver.com/article/020/0003752648"
+    },
+    {
+     "articleId": "0003752681",
+     "page": "A3",
+     "title": "北 “파도식 비행-AI 도입-경로 변경” 주장… 괌 사정권 MRBM, 한미 요격 무력화 위협",
+     "url": "https://n.news.naver.com/article/020/0003752681"
+    }
+   ]
   },
   {
    "press": "020",
@@ -2880,7 +3002,15 @@
    "url": "https://n.news.naver.com/article/020/0003752675",
    "articleId": "0003752675",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003752677",
+     "page": "A2",
+     "title": "고독사 年4000명 육박… 5060 남성이 절반 넘어",
+     "url": "https://n.news.naver.com/article/020/0003752677"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4128,7 +4258,8 @@
    "url": "https://n.news.naver.com/article/023/0004002091",
    "articleId": "0004002091",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -4144,7 +4275,15 @@
    "url": "https://n.news.naver.com/article/023/0004002093",
    "articleId": "0004002093",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004002053",
+     "page": "A27",
+     "title": "[사설] 北 극초음속 미사일 협박하는데 전방 군단 전부가 ‘빈총 경계’",
+     "url": "https://n.news.naver.com/article/023/0004002053"
+    }
+   ]
   },
   {
    "press": "023",
@@ -4160,7 +4299,27 @@
    "url": "https://n.news.naver.com/article/023/0004002092",
    "articleId": "0004002092",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004002054",
+     "page": "A27",
+     "title": "[사설] 금융권 전방위 위협한 AI 해킹, 중대한 안보 문제다",
+     "url": "https://n.news.naver.com/article/023/0004002054"
+    },
+    {
+     "articleId": "0004002090",
+     "page": "A2",
+     "title": "“세계 악성 데이터 유출 사고 25%가 AI 해킹”",
+     "url": "https://n.news.naver.com/article/023/0004002090"
+    },
+    {
+     "articleId": "0004002089",
+     "page": "A2",
+     "title": "AI, 비밀번호 5번 틀리면 잠기는 것 알고 4번씩만 시도",
+     "url": "https://n.news.naver.com/article/023/0004002089"
+    }
+   ]
   },
   {
    "press": "023",
@@ -4176,7 +4335,15 @@
    "url": "https://n.news.naver.com/article/023/0004002099",
    "articleId": "0004002099",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004002053",
+     "page": "A27",
+     "title": "[사설] 北 극초음속 미사일 협박하는데 전방 군단 전부가 ‘빈총 경계’",
+     "url": "https://n.news.naver.com/article/023/0004002053"
+    }
+   ]
   },
   {
    "press": "023",
@@ -4944,7 +5111,27 @@
    "url": "https://n.news.naver.com/article/025/0003555732",
    "articleId": "0003555732",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003555731",
+     "page": "A26",
+     "title": "[사설] 금융권 보안 시스템 불안 드러낸 AI 연쇄 해킹 쇼크",
+     "url": "https://n.news.naver.com/article/025/0003555731"
+    },
+    {
+     "articleId": "0003555748",
+     "page": "A15",
+     "title": "선수 1인칭 시점으로 NBA 본다…직관보다 더 짜릿한 ‘AI 중계’ [팩플]",
+     "url": "https://n.news.naver.com/article/025/0003555748"
+    },
+    {
+     "articleId": "0003555708",
+     "page": "A25",
+     "title": "[루이즈 루의 마켓 나우] AI 호황의 역설, 수출도 투자도 위험하다",
+     "url": "https://n.news.naver.com/article/025/0003555708"
+    }
+   ]
   },
   {
    "press": "025",
@@ -4960,7 +5147,8 @@
    "url": "https://n.news.naver.com/article/025/0003555743",
    "articleId": "0003555743",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
@@ -4976,7 +5164,8 @@
    "url": "https://n.news.naver.com/article/025/0003555734",
    "articleId": "0003555734",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",

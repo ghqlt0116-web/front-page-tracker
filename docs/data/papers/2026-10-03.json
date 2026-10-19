@@ -16,7 +16,21 @@
    "url": "https://n.news.naver.com/article/009/0005743398",
    "articleId": "0005743398",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005743395",
+     "page": "A3",
+     "title": "왕좌 주인 바뀐다? … HBM4로 판 뒤집는 삼성, 내년 1위 탈환 전망",
+     "url": "https://n.news.naver.com/article/009/0005743395"
+    },
+    {
+     "articleId": "0005743396",
+     "page": "A3",
+     "title": "[단독] 삼성 \"최고성능 HBM4 자신감, 협상력 확대\"… 가격 프리미엄 강공",
+     "url": "https://n.news.naver.com/article/009/0005743396"
+    }
+   ]
   },
   {
    "press": "009",
@@ -32,7 +46,21 @@
    "url": "https://n.news.naver.com/article/009/0005743447",
    "articleId": "0005743447",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005743374",
+     "page": "A4",
+     "title": "인간 통제 벗어나 정부·금융망 침투…AI 자율 해킹 비상",
+     "url": "https://n.news.naver.com/article/009/0005743374"
+    },
+    {
+     "articleId": "0005743347",
+     "page": "A22",
+     "title": "[김의석의 슬기로운 AI생활] AI 진짜 사용 설명서",
+     "url": "https://n.news.naver.com/article/009/0005743347"
+    }
+   ]
   },
   {
    "press": "009",
@@ -48,7 +76,8 @@
    "url": "https://n.news.naver.com/article/009/0005743406",
    "articleId": "0005743406",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -64,7 +93,15 @@
    "url": "https://n.news.naver.com/article/009/0005743407",
    "articleId": "0005743407",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005743324",
+     "page": "A23",
+     "title": "금융시장 흔드는 美 국채 투매 … 새 경제팀 역량 시험대 올랐다 [사설]",
+     "url": "https://n.news.naver.com/article/009/0005743324"
+    }
+   ]
   },
   {
    "press": "009",
@@ -80,7 +117,8 @@
    "url": "https://n.news.naver.com/article/009/0005743405",
    "articleId": "0005743405",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -1472,7 +1510,27 @@
    "url": "https://n.news.naver.com/article/015/0005338709",
    "articleId": "0005338709",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005338699",
+     "page": "A3",
+     "title": "AI 데이터센터는 '전기 먹는 하마'…1곳 연간 사용량 포항시와 맞먹어",
+     "url": "https://n.news.naver.com/article/015/0005338699"
+    },
+    {
+     "articleId": "0005338731",
+     "page": "A3",
+     "title": "없어서 못파는 하드웨어…2028년까지 칩·기판·변압기 '공급 대란'",
+     "url": "https://n.news.naver.com/article/015/0005338731"
+    },
+    {
+     "articleId": "0005338766",
+     "page": "A5",
+     "title": "日·대만 사고 韓 외면…'AI 기대감'이 갈랐다",
+     "url": "https://n.news.naver.com/article/015/0005338766"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1488,7 +1546,27 @@
    "url": "https://n.news.naver.com/article/015/0005338763",
    "articleId": "0005338763",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005338816",
+     "page": "A22",
+     "title": "[취재수첩] AI 해킹에 시험대 오른 은행 보안",
+     "url": "https://n.news.naver.com/article/015/0005338816"
+    },
+    {
+     "articleId": "0005338699",
+     "page": "A3",
+     "title": "AI 데이터센터는 '전기 먹는 하마'…1곳 연간 사용량 포항시와 맞먹어",
+     "url": "https://n.news.naver.com/article/015/0005338699"
+    },
+    {
+     "articleId": "0005338766",
+     "page": "A5",
+     "title": "日·대만 사고 韓 외면…'AI 기대감'이 갈랐다",
+     "url": "https://n.news.naver.com/article/015/0005338766"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1504,7 +1582,8 @@
    "url": "https://n.news.naver.com/article/015/0005338718",
    "articleId": "0005338718",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -1520,7 +1599,15 @@
    "url": "https://n.news.naver.com/article/015/0005338710",
    "articleId": "0005338710",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005338715",
+     "page": "A5",
+     "title": "'7천피' 갇히자 매수도 반토막…\"외국인, 코스피 더 싸져야 복귀\"",
+     "url": "https://n.news.naver.com/article/015/0005338715"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1536,7 +1623,15 @@
    "url": "https://n.news.naver.com/article/015/0005338720",
    "articleId": "0005338720",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005338726",
+     "page": "A11",
+     "title": "[단독] 네이버, 지도 앞세워 글로벌 확장…'내수용' 꼬리표 뗀다",
+     "url": "https://n.news.naver.com/article/015/0005338726"
+    }
+   ]
   },
   {
    "press": "015",
@@ -3056,7 +3151,21 @@
    "url": "https://n.news.naver.com/article/020/0003752485",
    "articleId": "0003752485",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003752457",
+     "page": "A27",
+     "title": "[사설]김지용 청문 요청… 이제라도 역량·도덕성 검증을",
+     "url": "https://n.news.naver.com/article/020/0003752457"
+    },
+    {
+     "articleId": "0003752488",
+     "page": "A3",
+     "title": "중수청장 청문 신경전, 공소청 인선 막혀… 수장공백 장기화 우려",
+     "url": "https://n.news.naver.com/article/020/0003752488"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3072,7 +3181,15 @@
    "url": "https://n.news.naver.com/article/020/0003752461",
    "articleId": "0003752461",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003752466",
+     "page": "A4",
+     "title": "李 “군사 긴장완화” 하루만에… 김여정 “광대극 절정” 또 조롱",
+     "url": "https://n.news.naver.com/article/020/0003752466"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3088,7 +3205,15 @@
    "url": "https://n.news.naver.com/article/020/0003752460",
    "articleId": "0003752460",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003752468",
+     "page": "A5",
+     "title": "[단독]보안수준 높은 은행들 동시다발 해킹… “AI에이전트 활용 정황”",
+     "url": "https://n.news.naver.com/article/020/0003752468"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4048,7 +4173,8 @@
    "url": "https://n.news.naver.com/article/023/0004001921",
    "articleId": "0004001921",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -4064,7 +4190,27 @@
    "url": "https://n.news.naver.com/article/023/0004001920",
    "articleId": "0004001920",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004001820",
+     "page": "A10",
+     "title": "5대 은행 다 공격당했다... 동시다발 ‘AI 해킹’ 공포",
+     "url": "https://n.news.naver.com/article/023/0004001820"
+    },
+    {
+     "articleId": "0004001785",
+     "page": "A15",
+     "title": "‘70% 싼 中 AI’ 맹추격… 美는 고급형 가격 올리고 보급형 내렸다",
+     "url": "https://n.news.naver.com/article/023/0004001785"
+    },
+    {
+     "articleId": "0004001729",
+     "page": "A15",
+     "title": "구글, 우주 데이터센터 첫 궤도 실험…전력난·주민 반발 속 AI 서버 우주로",
+     "url": "https://n.news.naver.com/article/023/0004001729"
+    }
+   ]
   },
   {
    "press": "023",
@@ -4080,7 +4226,8 @@
    "url": "https://n.news.naver.com/article/023/0004001919",
    "articleId": "0004001919",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -4096,7 +4243,15 @@
    "url": "https://n.news.naver.com/article/023/0004001922",
    "articleId": "0004001922",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004001916",
+     "page": "A3",
+     "title": "어디까지가 적법한 증거인가… ‘위법 기준’ 구체적으로 명시되지 않아",
+     "url": "https://n.news.naver.com/article/023/0004001916"
+    }
+   ]
   },
   {
    "press": "023",
@@ -5344,7 +5499,8 @@
    "url": "https://n.news.naver.com/article/353/0000056802",
    "articleId": "0000056802",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "353",
@@ -5360,7 +5516,8 @@
    "url": "https://n.news.naver.com/article/353/0000056803",
    "articleId": "0000056803",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "353",
@@ -5376,7 +5533,15 @@
    "url": "https://n.news.naver.com/article/353/0000056804",
    "articleId": "0000056804",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0000056789",
+     "page": "T12",
+     "title": "국채 금리, 더 빨리 더 높이 뛴다…한국 10년물 상승폭 1위, 미국은 ‘5% 벽’ 돌파",
+     "url": "https://n.news.naver.com/article/353/0000056789"
+    }
+   ]
   },
   {
    "press": "353",
@@ -5392,7 +5557,8 @@
    "url": "https://n.news.naver.com/article/353/0000056756",
    "articleId": "0000056756",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "353",
@@ -5408,7 +5574,8 @@
    "url": "https://n.news.naver.com/article/353/0000056800",
    "articleId": "0000056800",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "353",

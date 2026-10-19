@@ -16,7 +16,8 @@
    "url": "https://n.news.naver.com/article/009/0005746174",
    "articleId": "0005746174",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -32,7 +33,8 @@
    "url": "https://n.news.naver.com/article/009/0005746176",
    "articleId": "0005746176",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -48,7 +50,15 @@
    "url": "https://n.news.naver.com/article/009/0005746172",
    "articleId": "0005746172",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005746051",
+     "page": "A23",
+     "title": "분기 영업익 100조 신기원 삼성전자, '메모리 이후' 준비할 때 [사설]",
+     "url": "https://n.news.naver.com/article/009/0005746051"
+    }
+   ]
   },
   {
    "press": "009",
@@ -64,7 +74,8 @@
    "url": "https://n.news.naver.com/article/009/0005746173",
    "articleId": "0005746173",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -80,7 +91,8 @@
    "url": "https://n.news.naver.com/article/009/0005746175",
    "articleId": "0005746175",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -96,7 +108,15 @@
    "url": "https://n.news.naver.com/article/009/0005746242",
    "articleId": "0005746242",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005746209",
+     "page": "A5",
+     "title": "극초음속 미사일 첫 시험발사 성공…李대통령 \"실전 배치\"",
+     "url": "https://n.news.naver.com/article/009/0005746209"
+    }
+   ]
   },
   {
    "press": "009",
@@ -1696,7 +1716,21 @@
    "url": "https://n.news.naver.com/article/015/0005340669",
    "articleId": "0005340669",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005340671",
+     "page": "A3",
+     "title": "\"내년엔 560조 번다\"…엔비디아 제친 삼성전자 더 놀라운 전망",
+     "url": "https://n.news.naver.com/article/015/0005340671"
+    },
+    {
+     "articleId": "0005340759",
+     "page": "A23",
+     "title": "[사설] 삼성전자 분기 영업익 107조…혁신 DNA 지켜나가길",
+     "url": "https://n.news.naver.com/article/015/0005340759"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1712,7 +1746,15 @@
    "url": "https://n.news.naver.com/article/015/0005340721",
    "articleId": "0005340721",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005340720",
+     "page": "A8",
+     "title": "'부동산으로 돈 번다고? 꿈 깼어요'…집 대신 주식 산다",
+     "url": "https://n.news.naver.com/article/015/0005340720"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1728,7 +1770,8 @@
    "url": "https://n.news.naver.com/article/015/0005340663",
    "articleId": "0005340663",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -1744,7 +1787,15 @@
    "url": "https://n.news.naver.com/article/015/0005340655",
    "articleId": "0005340655",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005340658",
+     "page": "A4",
+     "title": "4번째 CPTPP 가입 시도, 또 무산…1년 밀리면 6조 '기회 손실'",
+     "url": "https://n.news.naver.com/article/015/0005340658"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1760,7 +1811,15 @@
    "url": "https://n.news.naver.com/article/015/0005340656",
    "articleId": "0005340656",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005340660",
+     "page": "A4",
+     "title": "농민 반발·불안 커지자…정부 \"농지 투기만 아니면 처분 대상서 제외\"",
+     "url": "https://n.news.naver.com/article/015/0005340660"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1776,7 +1835,8 @@
    "url": "https://n.news.naver.com/article/015/0005340662",
    "articleId": "0005340662",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -3216,7 +3276,15 @@
    "url": "https://n.news.naver.com/article/020/0003753857",
    "articleId": "0003753857",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003753849",
+     "page": "A6",
+     "title": "정부 “駐우크라 대사 국내로 불러들일것”… ‘北포로 비공개 송환’ 합의 파기 항의 조치",
+     "url": "https://n.news.naver.com/article/020/0003753849"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3232,7 +3300,15 @@
    "url": "https://n.news.naver.com/article/020/0003753859",
    "articleId": "0003753859",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003753822",
+     "page": "A14",
+     "title": "“텃밭 비상” 트럼프 한달새 3번째 텍사스행… 공화후보 12명은 홈피서 ‘대통령 흔적’ 지워",
+     "url": "https://n.news.naver.com/article/020/0003753822"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3248,7 +3324,8 @@
    "url": "https://n.news.naver.com/article/020/0003753860",
    "articleId": "0003753860",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -3264,7 +3341,8 @@
    "url": "https://n.news.naver.com/article/020/0003753813",
    "articleId": "0003753813",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -3280,7 +3358,27 @@
    "url": "https://n.news.naver.com/article/020/0003753858",
    "articleId": "0003753858",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003753801",
+     "page": "A27",
+     "title": "[사설]삼전 3분기 영업익 107조… 세계 제조업 역사 새로 썼다",
+     "url": "https://n.news.naver.com/article/020/0003753801"
+    },
+    {
+     "articleId": "0003753854",
+     "page": "A3",
+     "title": "D램이 이끈 ‘빅테크 영업익 세계 1위’ 삼성… “내년엔 HBM4 주축”",
+     "url": "https://n.news.naver.com/article/020/0003753854"
+    },
+    {
+     "articleId": "0003753825",
+     "page": "A16",
+     "title": "LG엔솔, 3분기 매출 9.6조 역대 최대… 영업익 7560억",
+     "url": "https://n.news.naver.com/article/020/0003753825"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4560,7 +4658,8 @@
    "url": "https://n.news.naver.com/article/023/0004002919",
    "articleId": "0004002919",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -4576,7 +4675,8 @@
    "url": "https://n.news.naver.com/article/023/0004002918",
    "articleId": "0004002918",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -4592,7 +4692,8 @@
    "url": "https://n.news.naver.com/article/023/0004002920",
    "articleId": "0004002920",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -4608,7 +4709,15 @@
    "url": "https://n.news.naver.com/article/023/0004002752",
    "articleId": "0004002752",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004002910",
+     "page": "A6",
+     "title": "설익은 ‘부실 기업 상장폐지’, 법원이 제동… 애꿎은 개미 돈만 묶였다",
+     "url": "https://n.news.naver.com/article/023/0004002910"
+    }
+   ]
   },
   {
    "press": "023",
@@ -5568,7 +5677,8 @@
    "url": "https://n.news.naver.com/article/025/0003556787",
    "articleId": "0003556787",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
@@ -5584,7 +5694,8 @@
    "url": "https://n.news.naver.com/article/025/0003556779",
    "articleId": "0003556779",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
@@ -5600,7 +5711,8 @@
    "url": "https://n.news.naver.com/article/025/0003556778",
    "articleId": "0003556778",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",

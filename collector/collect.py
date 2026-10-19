@@ -85,7 +85,7 @@ def collect_date(session, date, existing=None):
         for a in arts:
             old = prev.get((a["press"], a["articleId"]))
             if old:
-                for k in ("column", "seriesKey", "seriesType"):
+                for k in ("column", "seriesKey", "seriesType", "related"):
                     if old.get(k) is not None:
                         a[k] = old[k]
         all_articles.extend(arts)

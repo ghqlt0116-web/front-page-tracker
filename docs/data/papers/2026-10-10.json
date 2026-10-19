@@ -16,7 +16,15 @@
    "url": "https://n.news.naver.com/article/009/0005746453",
    "articleId": "0005746453",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005746439",
+     "page": "A5",
+     "title": "호남 팹 우려 다독인 최태원 … \"지을 수 있는 가장 빠른 속도로 지을 것\"",
+     "url": "https://n.news.naver.com/article/009/0005746439"
+    }
+   ]
   },
   {
    "press": "009",
@@ -32,7 +40,8 @@
    "url": "https://n.news.naver.com/article/009/0005746451",
    "articleId": "0005746451",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -48,7 +57,8 @@
    "url": "https://n.news.naver.com/article/009/0005746450",
    "articleId": "0005746450",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -64,7 +74,21 @@
    "url": "https://n.news.naver.com/article/009/0005746452",
    "articleId": "0005746452",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005746448",
+     "page": "A4",
+     "title": "명령어 몇 줄로 'AI 해킹 툴' 뚝딱 … 무기박람회 온듯 종류도 다양",
+     "url": "https://n.news.naver.com/article/009/0005746448"
+    },
+    {
+     "articleId": "0005746420",
+     "page": "A15",
+     "title": "警 '금융권 해킹' 수사 고삐… 전담수사팀 43명으로 확대",
+     "url": "https://n.news.naver.com/article/009/0005746420"
+    }
+   ]
   },
   {
    "press": "009",
@@ -1440,7 +1464,27 @@
    "url": "https://n.news.naver.com/article/015/0005340893",
    "articleId": "0005340893",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005340895",
+     "page": "A5",
+     "title": "[단독] 메모리 넘어 AI 부품·전력기기 확보전…빅테크 '5년 계약' 줄섰다",
+     "url": "https://n.news.naver.com/article/015/0005340895"
+    },
+    {
+     "articleId": "0005340926",
+     "page": "A2",
+     "title": "AI·여행·금융…쏟아진 월가 매수콜 [한경 프리미엄9 TODAY]",
+     "url": "https://n.news.naver.com/article/015/0005340926"
+    },
+    {
+     "articleId": "0005340867",
+     "page": "A12",
+     "title": "빅테크, 반도체 담보 자금조달…회사채 발행 줄이고 투자 확대",
+     "url": "https://n.news.naver.com/article/015/0005340867"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1456,7 +1500,8 @@
    "url": "https://n.news.naver.com/article/015/0005340981",
    "articleId": "0005340981",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -1472,7 +1517,8 @@
    "url": "https://n.news.naver.com/article/015/0005340888",
    "articleId": "0005340888",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -1488,7 +1534,27 @@
    "url": "https://n.news.naver.com/article/015/0005340891",
    "articleId": "0005340891",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005340926",
+     "page": "A2",
+     "title": "AI·여행·금융…쏟아진 월가 매수콜 [한경 프리미엄9 TODAY]",
+     "url": "https://n.news.naver.com/article/015/0005340926"
+    },
+    {
+     "articleId": "0005340895",
+     "page": "A5",
+     "title": "[단독] 메모리 넘어 AI 부품·전력기기 확보전…빅테크 '5년 계약' 줄섰다",
+     "url": "https://n.news.naver.com/article/015/0005340895"
+    },
+    {
+     "articleId": "0005340868",
+     "page": "A12",
+     "title": "오픈AI서 해고된 연구원 \"AI 추론 과정 감시해야\"",
+     "url": "https://n.news.naver.com/article/015/0005340868"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2880,7 +2946,8 @@
    "url": "https://n.news.naver.com/article/020/0003753984",
    "articleId": "0003753984",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -2896,7 +2963,21 @@
    "url": "https://n.news.naver.com/article/020/0003753945",
    "articleId": "0003753945",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003753959",
+     "page": "A4",
+     "title": "김여정 “국가수반 위임 의해 한국 무시”… 北지뢰 중간 발표후 10일간 5건 南비난",
+     "url": "https://n.news.naver.com/article/020/0003753959"
+    },
+    {
+     "articleId": "0003753957",
+     "page": "A4",
+     "title": "정부, 北지뢰 제거-극초음속미사일 공개 이어 유엔 외교전 돌입",
+     "url": "https://n.news.naver.com/article/020/0003753957"
+    }
+   ]
   },
   {
    "press": "020",
@@ -2912,7 +2993,21 @@
    "url": "https://n.news.naver.com/article/020/0003753946",
    "articleId": "0003753946",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003753955",
+     "page": "A6",
+     "title": "광주 팹 회의론에 직접 나선 최태원 “용인 3분의 2 크기 계획”",
+     "url": "https://n.news.naver.com/article/020/0003753955"
+    },
+    {
+     "articleId": "0003753983",
+     "page": "A16",
+     "title": "[책의 향기]진화-문명-기술… 속도로 해석한 역사",
+     "url": "https://n.news.naver.com/article/020/0003753983"
+    }
+   ]
   },
   {
    "press": "020",
@@ -2928,7 +3023,8 @@
    "url": "https://n.news.naver.com/article/020/0003753947",
    "articleId": "0003753947",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -2944,7 +3040,8 @@
    "url": "https://n.news.naver.com/article/020/0003753948",
    "articleId": "0003753948",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -3872,7 +3969,15 @@
    "url": "https://n.news.naver.com/article/023/0004003070",
    "articleId": "0004003070",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004003068",
+     "page": "A3",
+     "title": "미니드론→수상드론→제트드론… 러·우크라 전쟁 판도 뒤흔든다",
+     "url": "https://n.news.naver.com/article/023/0004003068"
+    }
+   ]
   },
   {
    "press": "023",
@@ -3888,7 +3993,8 @@
    "url": "https://n.news.naver.com/article/023/0004003069",
    "articleId": "0004003069",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -3904,7 +4010,8 @@
    "url": "https://n.news.naver.com/article/023/0004002978",
    "articleId": "0004002978",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -3920,7 +4027,8 @@
    "url": "https://n.news.naver.com/article/023/0004003071",
    "articleId": "0004003071",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -5152,7 +5260,8 @@
    "url": "https://n.news.naver.com/article/353/0000056872",
    "articleId": "0000056872",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "353",
@@ -5168,7 +5277,8 @@
    "url": "https://n.news.naver.com/article/353/0000056873",
    "articleId": "0000056873",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "353",
@@ -5184,7 +5294,8 @@
    "url": "https://n.news.naver.com/article/353/0000056821",
    "articleId": "0000056821",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "353",
@@ -5200,7 +5311,8 @@
    "url": "https://n.news.naver.com/article/353/0000056871",
    "articleId": "0000056871",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "353",

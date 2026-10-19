@@ -16,7 +16,15 @@
    "url": "https://n.news.naver.com/article/009/0005749796",
    "articleId": "0005749796",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005749800",
+     "page": "A3",
+     "title": "\"메모리株 업황 탄탄 … 저가매수 기회\"",
+     "url": "https://n.news.naver.com/article/009/0005749800"
+    }
+   ]
   },
   {
    "press": "009",
@@ -32,7 +40,15 @@
    "url": "https://n.news.naver.com/article/009/0005749797",
    "articleId": "0005749797",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005749767",
+     "page": "A8",
+     "title": "물가 잡자니 빚투 걱정 …'금리 힌트' 안주는 워시",
+     "url": "https://n.news.naver.com/article/009/0005749767"
+    }
+   ]
   },
   {
    "press": "009",
@@ -48,7 +64,8 @@
    "url": "https://n.news.naver.com/article/009/0005749794",
    "articleId": "0005749794",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -64,7 +81,15 @@
    "url": "https://n.news.naver.com/article/009/0005749798",
    "articleId": "0005749798",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005749765",
+     "page": "A4",
+     "title": "창업 경험 살려 VC업계 뛰어든 선배들…\"기술 본질 빠르게 파악\"",
+     "url": "https://n.news.naver.com/article/009/0005749765"
+    }
+   ]
   },
   {
    "press": "009",
@@ -80,7 +105,8 @@
    "url": "https://n.news.naver.com/article/009/0005749795",
    "articleId": "0005749795",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -1552,7 +1578,8 @@
    "url": "https://n.news.naver.com/article/015/0005343472",
    "articleId": "0005343472",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -1568,7 +1595,15 @@
    "url": "https://n.news.naver.com/article/015/0005343426",
    "articleId": "0005343426",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005343449",
+     "page": "A3",
+     "title": "월가는 \"코스피 역대급 저평가\"…AI 실적 의구심 풀려야 반등",
+     "url": "https://n.news.naver.com/article/015/0005343449"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1584,7 +1619,8 @@
    "url": "https://n.news.naver.com/article/015/0005343440",
    "articleId": "0005343440",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -1600,7 +1636,8 @@
    "url": "https://n.news.naver.com/article/015/0005343436",
    "articleId": "0005343436",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -3040,7 +3077,8 @@
    "url": "https://n.news.naver.com/article/020/0003755636",
    "articleId": "0003755636",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -3056,7 +3094,27 @@
    "url": "https://n.news.naver.com/article/020/0003755653",
    "articleId": "0003755653",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003755642",
+     "page": "A6",
+     "title": "정부 “바이 코리아” 외친 3주간, 외국인 韓주식 26조 팔아치웠다",
+     "url": "https://n.news.naver.com/article/020/0003755642"
+    },
+    {
+     "articleId": "0003755634",
+     "page": "A10",
+     "title": "“길 낯선데 내비게이션은 영어뿐”… 외국인 운전 사고 44% 급증",
+     "url": "https://n.news.naver.com/article/020/0003755634"
+    },
+    {
+     "articleId": "0003755621",
+     "page": "A24",
+     "title": "해인사 경내는 온통 푸른 눈 외국인… 마음의 소리 찾으러 왔네[전승훈 기자의 아트로드]",
+     "url": "https://n.news.naver.com/article/020/0003755621"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3072,7 +3130,8 @@
    "url": "https://n.news.naver.com/article/020/0003755611",
    "articleId": "0003755611",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
@@ -3088,7 +3147,15 @@
    "url": "https://n.news.naver.com/article/020/0003755602",
    "articleId": "0003755602",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003755605",
+     "page": "A3",
+     "title": "김민석 ‘曺 탄핵’ 카드로 강성층 결집 노려… 실제 발의는 미지수",
+     "url": "https://n.news.naver.com/article/020/0003755605"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4032,7 +4099,8 @@
    "url": "https://n.news.naver.com/article/023/0004004377",
    "articleId": "0004004377",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -4048,7 +4116,8 @@
    "url": "https://n.news.naver.com/article/023/0004004378",
    "articleId": "0004004378",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -4064,7 +4133,15 @@
    "url": "https://n.news.naver.com/article/023/0004004379",
    "articleId": "0004004379",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004004282",
+     "page": "A22",
+     "title": "[만물상] 위대한 ‘재정 빨대’",
+     "url": "https://n.news.naver.com/article/023/0004004282"
+    }
+   ]
   },
   {
    "press": "023",
@@ -4080,7 +4157,15 @@
    "url": "https://n.news.naver.com/article/023/0004004382",
    "articleId": "0004004382",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004004375",
+     "page": "A3",
+     "title": "“금융사 본점 91%가 수도권에… 금융위가 세종 가면 서로 업무 비효율”",
+     "url": "https://n.news.naver.com/article/023/0004004375"
+    }
+   ]
   },
   {
    "press": "023",
@@ -5328,7 +5413,8 @@
    "url": "https://n.news.naver.com/article/353/0000056898",
    "articleId": "0000056898",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "353",
@@ -5344,7 +5430,8 @@
    "url": "https://n.news.naver.com/article/353/0000056894",
    "articleId": "0000056894",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "353",
@@ -5360,7 +5447,15 @@
    "url": "https://n.news.naver.com/article/353/0000056946",
    "articleId": "0000056946",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0000056917",
+     "page": "T19",
+     "title": "베를린필 16년 이끌어…현대음악 끌어안은 ‘영원한 청년’",
+     "url": "https://n.news.naver.com/article/353/0000056917"
+    }
+   ]
   },
   {
    "press": "353",
@@ -5376,7 +5471,8 @@
    "url": "https://n.news.naver.com/article/353/0000056948",
    "articleId": "0000056948",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "353",

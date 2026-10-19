@@ -16,7 +16,8 @@
    "url": "https://n.news.naver.com/article/009/0005745557",
    "articleId": "0005745557",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -32,7 +33,15 @@
    "url": "https://n.news.naver.com/article/009/0005745554",
    "articleId": "0005745554",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005745546",
+     "page": "A5",
+     "title": "스마트폰 넘어 집으로 확장하는 애플 … LG전자 제품군 활용해 생태계 구축",
+     "url": "https://n.news.naver.com/article/009/0005745546"
+    }
+   ]
   },
   {
    "press": "009",
@@ -48,7 +57,8 @@
    "url": "https://n.news.naver.com/article/009/0005745550",
    "articleId": "0005745550",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -64,7 +74,8 @@
    "url": "https://n.news.naver.com/article/009/0005745616",
    "articleId": "0005745616",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -80,7 +91,8 @@
    "url": "https://n.news.naver.com/article/009/0005745556",
    "articleId": "0005745556",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -96,7 +108,15 @@
    "url": "https://n.news.naver.com/article/009/0005745558",
    "articleId": "0005745558",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005745560",
+     "page": "A2",
+     "title": "위성 15기 싣고 날아오른 누리호 … 1분의 오차도 없이 '완벽한 발사'",
+     "url": "https://n.news.naver.com/article/009/0005745560"
+    }
+   ]
   },
   {
    "press": "009",
@@ -2160,7 +2180,8 @@
    "url": "https://n.news.naver.com/article/015/0005340229",
    "articleId": "0005340229",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2176,7 +2197,15 @@
    "url": "https://n.news.naver.com/article/015/0005340226",
    "articleId": "0005340226",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005340250",
+     "page": "A4",
+     "title": "교육혁신 강한 포스텍…우수 교수엔 10억 정착비, 학생엔 진로탐색 지원금",
+     "url": "https://n.news.naver.com/article/015/0005340250"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2192,7 +2221,8 @@
    "url": "https://n.news.naver.com/article/015/0005340208",
    "articleId": "0005340208",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2208,7 +2238,8 @@
    "url": "https://n.news.naver.com/article/015/0005340301",
    "articleId": "0005340301",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2224,7 +2255,8 @@
    "url": "https://n.news.naver.com/article/015/0005340234",
    "articleId": "0005340234",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -4224,7 +4256,27 @@
    "url": "https://n.news.naver.com/article/020/0003753551",
    "articleId": "0003753551",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003753487",
+     "page": "A27",
+     "title": "[사설]美, 대북 사이버 협력에 국정원 배제… 불신받는 ‘정보 동맹’",
+     "url": "https://n.news.naver.com/article/020/0003753487"
+    },
+    {
+     "articleId": "0003753567",
+     "page": "A3",
+     "title": "美, 정동영 ‘구성 발언’ 반년 넘도록 북핵 정보 공유 제한",
+     "url": "https://n.news.naver.com/article/020/0003753567"
+    },
+    {
+     "articleId": "0003753576",
+     "page": "A6",
+     "title": "은행 이어 교회-대기업까지… 문턱 낮아진 AI 해킹 무차별 확산",
+     "url": "https://n.news.naver.com/article/020/0003753576"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4240,7 +4292,15 @@
    "url": "https://n.news.naver.com/article/020/0003753553",
    "articleId": "0003753553",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003753569",
+     "page": "A4",
+     "title": "강신철 “北 MDL 침범, 유엔사 조사후 조치… 확성기 효과는 의문”",
+     "url": "https://n.news.naver.com/article/020/0003753569"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4256,7 +4316,15 @@
    "url": "https://n.news.naver.com/article/020/0003753550",
    "articleId": "0003753550",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003753556",
+     "page": "A2",
+     "title": "35~40초마다 방향틀며 위성 1기씩 궤도 올려, 오차없이 ‘정밀배송’",
+     "url": "https://n.news.naver.com/article/020/0003753556"
+    }
+   ]
   },
   {
    "press": "020",
@@ -6224,7 +6292,15 @@
    "url": "https://n.news.naver.com/article/023/0004002730",
    "articleId": "0004002730",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004002723",
+     "page": "A4",
+     "title": "軍, 1년 전에 위성 판독해 ‘北지뢰매설 가능성’ 보고했다",
+     "url": "https://n.news.naver.com/article/023/0004002723"
+    }
+   ]
   },
   {
    "press": "023",
@@ -6240,7 +6316,8 @@
    "url": "https://n.news.naver.com/article/023/0004002738",
    "articleId": "0004002738",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -6256,7 +6333,21 @@
    "url": "https://n.news.naver.com/article/023/0004002731",
    "articleId": "0004002731",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0004002721",
+     "page": "A5",
+     "title": "송영길 등 與 인사들, 줄줄이 이화영 면회",
+     "url": "https://n.news.naver.com/article/023/0004002721"
+    },
+    {
+     "articleId": "0004002659",
+     "page": "A31",
+     "title": "[사설] ‘독단적으로 일 벌였다’던 이화영, 왜 대통령에 화가 났을까",
+     "url": "https://n.news.naver.com/article/023/0004002659"
+    }
+   ]
   },
   {
    "press": "023",
@@ -6272,7 +6363,8 @@
    "url": "https://n.news.naver.com/article/023/0004002729",
    "articleId": "0004002729",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
@@ -7600,7 +7692,15 @@
    "url": "https://n.news.naver.com/article/025/0003556502",
    "articleId": "0003556502",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003556488",
+     "page": "A3",
+     "title": "박용진 “부처간 꼬여있는 규제, 풀려면 ‘차르’ 필요”",
+     "url": "https://n.news.naver.com/article/025/0003556488"
+    }
+   ]
   },
   {
    "press": "025",
@@ -7616,7 +7716,8 @@
    "url": "https://n.news.naver.com/article/025/0003556506",
    "articleId": "0003556506",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
@@ -7632,7 +7733,8 @@
    "url": "https://n.news.naver.com/article/025/0003556495",
    "articleId": "0003556495",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",

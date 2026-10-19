@@ -95,7 +95,8 @@
   }
 
   function relatedHtml(art, pool) {
-    const rel = findRelated(art, pool);
+    // 수집기가 본문 기반으로 계산한 related가 있으면 우선, 없으면 제목 기반 추정
+    const rel = Array.isArray(art.related) ? art.related.slice(0, 3) : findRelated(art, pool);
     if (!rel.length) return "";
     return `<div class="related">${rel
       .map((r) => {
