@@ -11,6 +11,7 @@
     statusFilter: "all",
     seriesPress: "all",
     seriesSort: "recent",
+    expandedSeries: new Set(),
     q: "",
     paperCache: {},
     seriesIndex: null,
@@ -464,10 +465,14 @@
         <h3>${isNew(r) ? '<span class="badge new">NEW</span> ' : ""}[${esc(r.name)}]</h3>
         <div class="series-meta">${esc(r.pressName)} · ${esc(r.seriesType)} · ${stat} · 수집 ${r.episodes.length}회 · ${r.firstDate} ~ ${r.lastDate}</div>
         <ul class="ep-timeline">`;
-      // 기획은 전 회차, 연재칼럼은 최근 5회만 (수집 시작일 이후 분량)
-      const shown = r.seriesType === "기획" ? r.episodes : r.episodes.slice(-5);
+      // 긴 시리즈는 최근 5회만 접어서 표시, 클릭하면 전체 펼침 (짧은 기획은 전 회차)
+      const expanded = state.expandedSeries.has(r.seriesKey);
+      const capped = !expanded && (r.seriesType !== "기획" || r.episodes.length > 8);
+      const shown = capped ? r.episodes.slice(-5) : r.episodes;
       if (shown.length < r.episodes.length) {
-        html += `<li class="ep-more">… 이전 ${r.episodes.length - shown.length}회 생략</li>`;
+        html += `<li class="ep-more"><button data-expand="${esc(r.seriesKey)}">… 이전 ${r.episodes.length - shown.length}회 모두 보기</button></li>`;
+      } else if (expanded && r.episodes.length > 5) {
+        html += `<li class="ep-more"><button data-expand="${esc(r.seriesKey)}">최근 5회만 보기</button></li>`;
       }
       for (const e of shown) {
         html += `<li><span class="ep-label">(${esc(e.label)})</span><a href="${e.url}" target="_blank" rel="noopener">${esc(e.title)}</a><span class="ep-meta">${e.date} · ${esc(e.page)}면</span></li>`;
@@ -538,6 +543,14 @@
     );
     const sync = $("#syncBtn", el);
     if (sync) sync.addEventListener("click", setupSyncToken);
+    $$("[data-expand]", el).forEach((b) =>
+      b.addEventListener("click", () => {
+        const k = b.dataset.expand;
+        if (state.expandedSeries.has(k)) state.expandedSeries.delete(k);
+        else state.expandedSeries.add(k);
+        renderSeries();
+      })
+    );
   }
 
   /* ── 공통 ── */
