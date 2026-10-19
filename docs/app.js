@@ -72,12 +72,18 @@
       .split(/[^0-9A-Za-z가-힣]+/)
       .filter((t) => t.length >= 2 && !STOPWORDS.has(t));
   }
+  // 사설·칼럼류: 매칭은 하되 라벨을 달아 구분 (1면 이슈가 사설까지 이어졌다는 신호)
+  const OPINION_RE =
+    /^\s*[\[(〈<]?\s*(사설|시론|칼럼|기고|특별기고|만물상|횡설수설|분수대|천자칼럼|매경포럼|데스크에서|기자24시|취재수첩|기자수첩|오늘과 내일|광화문에서)/;
+  // 비뉴스성(사진·만평·부음 등)은 관련기사 후보에서 제외
+  const NONNEWS_RE = /^\s*[\[(〈<]?\s*(사진|포토|만평|만화|알림|알립니다|부음|부고|인사)\s*[\])〉>]/;
+
   function findRelated(art, pool) {
     const tk = new Set(tokenize(art.title));
     if (!tk.size) return [];
     const scored = [];
     for (const a of pool) {
-      if (a.articleId === art.articleId) continue;
+      if (a.articleId === art.articleId || NONNEWS_RE.test(a.title)) continue;
       const shared = tokenize(a.title).filter((t) => tk.has(t));
       const uniq = [...new Set(shared)];
       const strong = uniq.some((t) => t.length >= 5);
@@ -92,10 +98,13 @@
     const rel = findRelated(art, pool);
     if (!rel.length) return "";
     return `<div class="related">${rel
-      .map(
-        (r) =>
-          `<a href="${r.url}" target="_blank" rel="noopener">↳ <span class="rel-page">${esc(r.page)}면</span> ${esc(r.title)}</a>`
-      )
+      .map((r) => {
+        const op = OPINION_RE.exec(r.title);
+        const tag = op ? `<span class="rel-op">${esc(op[1])}</span>` : "";
+        // 라벨로 표시하므로 제목 선두의 [사설] 등 코너명은 중복 제거
+        const shown = op ? r.title.replace(/^\s*[\[(〈<]\s*[^\])〉>]{1,14}\s*[\])〉>]\s*/, "") : r.title;
+        return `<a href="${r.url}" target="_blank" rel="noopener"${op ? ' class="op"' : ""}>↳ <span class="rel-page">${esc(r.page)}면</span> ${tag}${esc(shown)}</a>`;
+      })
       .join("")}</div>`;
   }
 

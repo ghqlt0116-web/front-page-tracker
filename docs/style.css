@@ -138,6 +138,12 @@ main { max-width: 1280px; margin: 0 auto; padding: 18px 16px 60px; }
   padding: 2px 0 2px 10px; line-height: 1.4;
 }
 .related .rel-page { font-weight: 700; color: var(--accent); }
+.related a.op { opacity: .68; }
+.related .rel-op {
+  display: inline-block; font-size: 10px; font-weight: 700;
+  border: 1px dashed var(--ink-soft); border-radius: 3px;
+  padding: 0 4px; margin-right: 4px; vertical-align: 1px;
+}
 
 /* 배지 */
 .badge {
