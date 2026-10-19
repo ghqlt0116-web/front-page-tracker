@@ -64,6 +64,8 @@ docs/data/     # papers/날짜.json, series/index.json, manifest.json, state/
    - `TELEGRAM_BOT_TOKEN` — @BotFather 로 만든 본인 봇 토큰
    - `TELEGRAM_CHAT_ID` — 본인 채팅 ID (@userinfobot 등으로 확인)
 4. Actions 탭에서 워크플로 활성화 (fork 시 1회 수동 승인 필요)
+5. (선택) 숨김 동기화를 쓰려면 위 '숨김 동기화' 절차대로 본인 토큰을 기기마다 1회 등록
+   — 대시보드가 Pages 주소에서 계정·저장소를 자동 인식하므로 코드 수정은 없음
 
 ## 데이터 출처·주의
 
