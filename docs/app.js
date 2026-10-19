@@ -119,6 +119,8 @@
       const label = a.seriesType === "기획" ? "기획" : "연재";
       h += `<span class="badge series">${label}</span>`;
     }
+    // 지면보기 미등록 → 뉴스검색 지면 배지로 보강된 기사 (게재 순서 미상)
+    if (a.source === "search") h += `<span class="badge search" title="지면보기에 없어 뉴스검색으로 찾은 지면 기사">검색보강</span>`;
     return h;
   }
 
@@ -238,7 +240,8 @@
       const open = pp.num === 1 && pp.sec === mainSec ? " open" : "";
       html += `<details class="page-sec"${open}><summary><span class="pageno">${esc(p)}면</span><span class="preview">${esc(list[0].title)}</span><span class="cnt" style="font-family:var(--sans);font-size:12px;color:var(--ink-soft)">${list.length}건</span></summary><ul class="page-arts">`;
       list.forEach((a, i) => {
-        html += `<li>${i === 0 ? '<span class="badge top">톱</span>' : ""}${badges(a)}<a href="${a.url}" target="_blank" rel="noopener">${esc(a.title)}</a></li>`;
+        // 검색 보강 기사는 게재 순서를 모르므로 '톱' 라벨을 달지 않음
+        html += `<li>${i === 0 && a.source !== "search" ? '<span class="badge top">톱</span>' : ""}${badges(a)}<a href="${a.url}" target="_blank" rel="noopener">${esc(a.title)}</a></li>`;
       });
       html += `</ul></details>`;
     }

@@ -17,7 +17,8 @@
    "articleId": "0005748734",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -53,7 +54,8 @@
      "title": "\"한국, AI 주권 지키려면 … 글로벌 연합전선 필요해\"",
      "url": "https://n.news.naver.com/article/009/0005748590"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -83,7 +85,8 @@
      "title": "치맥·찜질방 즐기며 투자 논의 … 서울 '야간 네트워킹' 인기",
      "url": "https://n.news.naver.com/article/009/0005748643"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -100,7 +103,8 @@
    "articleId": "0005748737",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2232,7 +2236,8 @@
      "title": "\"그 자리 올라갈 자격 되나\" 비교 넘어 타인의 삶까지 저격",
      "url": "https://n.news.naver.com/article/015/0005342677"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2256,7 +2261,8 @@
      "title": "전례없는 국내주식 리밸런싱 유예…\"국민연금이 외국인 ATM이냐\"",
      "url": "https://n.news.naver.com/article/015/0005342574"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2280,7 +2286,8 @@
      "title": "모디 만난 정의선 \"인도 생산 차량의 30% 해외 수출\"",
      "url": "https://n.news.naver.com/article/015/0005342613"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2297,7 +2304,8 @@
    "articleId": "0005342567",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2321,7 +2329,8 @@
      "title": "靑 새 비서실장 임광현 '깜짝 카드'…\"李 국정과제 속도 낼 실무형 실장\"",
      "url": "https://n.news.naver.com/article/015/0005342592"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2834,6 +2843,24 @@
    "articleId": "0005342602",
    "seriesKey": null,
    "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-15",
+   "page": "A13",
+   "pageOrder": 7,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": 1,
+   "title": "현대차, GM 인도공장 '스마트 팩토리'로 바꿨다",
+   "url": "https://n.news.naver.com/article/015/0005342981",
+   "articleId": "0005342981",
+   "seriesKey": null,
+   "seriesType": null,
+   "related": null,
+   "source": "search"
   },
   {
    "press": "015",
@@ -4450,7 +4477,8 @@
    "articleId": "0003755087",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4480,7 +4508,8 @@
      "title": "[사설]“반도체 다음은 서비스 산업”… 일자리 리스타트 할 때",
      "url": "https://n.news.naver.com/article/020/0003755026"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4504,7 +4533,8 @@
      "title": "“北파병 이후 상황 변해” 美내부서 전작권 조기전환 회의론 확산",
      "url": "https://n.news.naver.com/article/020/0003755054"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4534,7 +4564,8 @@
      "title": "[오늘의 채널A]김지용 청문회서 공방, 어떤 발언 오갔나",
      "url": "https://n.news.naver.com/article/020/0003755077"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -5708,6 +5739,24 @@
    "press": "020",
    "pressName": "동아일보",
    "date": "2026-10-15",
+   "page": "A31",
+   "pageOrder": 1,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": 1,
+   "title": "[오늘과 내일/정임수]위기의 중년들, 노동시장 밖 67만 명",
+   "url": "https://n.news.naver.com/article/020/0003755316",
+   "articleId": "0003755316",
+   "seriesKey": null,
+   "seriesType": null,
+   "related": null,
+   "source": "search"
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-10-15",
    "page": "B1",
    "pageOrder": 1,
    "isTop": true,
@@ -6094,7 +6143,8 @@
      "title": "“원룸 월세 내면 월급 통장 텅텅”… 분노한 유럽 청년들 거리로 나섰다",
      "url": "https://n.news.naver.com/article/023/0004003927"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6111,7 +6161,8 @@
    "articleId": "0004003936",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6128,7 +6179,8 @@
    "articleId": "0004003937",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6152,7 +6204,8 @@
      "title": "출근길 서울 버스전용차로에 ‘급행’ 달린다",
      "url": "https://n.news.naver.com/article/023/0004003917"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -7520,7 +7573,8 @@
      "title": "[사설] 삐걱거리는 전작권 환수, 자신감만으로는 어렵다",
      "url": "https://n.news.naver.com/article/025/0003558013"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7537,7 +7591,8 @@
    "articleId": "0003558006",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7554,7 +7609,8 @@
    "articleId": "0003558007",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",

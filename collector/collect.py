@@ -85,9 +85,16 @@ def collect_date(session, date, existing=None):
         for a in arts:
             old = prev.get((a["press"], a["articleId"]))
             if old:
-                for k in ("column", "seriesKey", "seriesType", "related"):
+                for k in ("column", "seriesKey", "seriesType", "related", "searchDone"):
                     if old.get(k) is not None:
                         a[k] = old[k]
+        # 검색 보강(search_backfill.py)으로 추가된 기사는 지면보기에 없으므로 유지
+        ids = {a["articleId"] for a in arts}
+        arts.extend(
+            a
+            for a in prev.values()
+            if a["press"] == oid and a.get("source") == "search" and a["articleId"] not in ids
+        )
         all_articles.extend(arts)
         stats[config.PRESSES[oid]] = len(arts)
         time.sleep(0.8)

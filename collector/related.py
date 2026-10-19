@@ -50,18 +50,26 @@ def tokenize(text):
     return toks
 
 
-def fetch_body_tokens(session, url):
+def fetch_body_counter(session, url):
+    """기사 본문의 단어 빈도 Counter (검색 보강의 쿼리 구성에도 사용)."""
     r = config.get(session, url)
     m = BODY_RE.search(r.text)
     if not m:
-        return set()
+        return collections.Counter()
     txt = re.sub(r"<[^>]+>", " ", m.group(1))
-    cnt = collections.Counter(tokenize(txt))
+    return collections.Counter(tokenize(txt))
+
+
+def topic_tokens(cnt):
     # 본문에서 2회 이상 등장한 단어 + 상위 빈출어 → 그 기사의 주제어로 간주
     return {t for t, c in cnt.most_common(40) if c >= 2}
 
 
-def relate_file(path, delay=0.6, max_fetch=40):
+def fetch_body_tokens(session, url):
+    return topic_tokens(fetch_body_counter(session, url))
+
+
+def relate_file(path, delay=0.6, max_fetch=40, body_cache=None):
     doc = json.loads(path.read_text(encoding="utf-8"))
     by_press = {}
     for a in doc["articles"]:
@@ -77,13 +85,16 @@ def relate_file(path, delay=0.6, max_fetch=40):
             if art.get("related") is not None or fetched >= max_fetch:
                 continue
             title_tk = set(tokenize(art["title"]))
-            try:
-                body_tk = fetch_body_tokens(session, art["url"])
-                fetched += 1
-                time.sleep(delay)
-            except Exception as e:
-                print(f"  [WARN] 본문 수집 실패({art['articleId']}): {e}", file=sys.stderr)
-                continue
+            if body_cache is not None and art["articleId"] in body_cache:
+                body_tk = body_cache[art["articleId"]]  # 검색 보강이 이미 수집
+            else:
+                try:
+                    body_tk = fetch_body_tokens(session, art["url"])
+                    fetched += 1
+                    time.sleep(delay)
+                except Exception as e:
+                    print(f"  [WARN] 본문 수집 실패({art['articleId']}): {e}", file=sys.stderr)
+                    continue
             scored = []
             for a in inner:
                 tks = set(tokenize(a["title"]))

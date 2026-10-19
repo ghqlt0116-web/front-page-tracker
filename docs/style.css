@@ -154,6 +154,7 @@ main { max-width: 1280px; margin: 0 auto; padding: 18px 16px 60px; }
 }
 .badge.series { background: var(--accent); color: #fff; }
 .badge.top { border: 1px solid var(--rule-strong); background: none; color: var(--ink); }
+.badge.search { border: 1px dashed var(--ink-soft); background: none; color: var(--ink-soft); }
 
 /* ── 지면 뷰 ── */
 .press-tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 16px; }
