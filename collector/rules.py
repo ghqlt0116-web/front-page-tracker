@@ -131,6 +131,24 @@ def series_signature(title):
     return {"name": name, "ord": ord_, "epLabel": ep_label, "isEnd": is_end}
 
 
+def plan_label_signature(title):
+    """회차 표기 없는 기획 라벨 감지: [창간기획 ○○], [신년기획-△△] 등.
+
+    기획성 키워드(STRONG_PLAN)가 든 괄호 라벨이면 회차 없이도 시리즈로 등록한다.
+    '신문기획상' 수상 소식처럼 라벨이 아닌 본문 제목의 키워드는 대상이 아님.
+    단, 키워드가 코너명의 일부인 경우([특파원 리포트] 등)를 막기 위해
+    키워드 단독 라벨이 아니라 구체 주제가 붙은 라벨(길이 5자 이상)만 인정한다.
+    """
+    for inner, _span in extract_labels(title):
+        if EXCLUDE_LABEL.match(inner) or EXCLUDE_ANY.search(inner):
+            continue
+        if PERSONAL_COLUMN.match(inner):
+            continue
+        if STRONG_PLAN.search(inner) and len(inner) >= 5:
+            return {"name": inner, "ord": 0, "epLabel": "·", "isEnd": False}
+    return None
+
+
 def norm_key(press, name):
     return f"{press}:{_norm(name)}"
 

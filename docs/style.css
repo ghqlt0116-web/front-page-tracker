@@ -184,12 +184,24 @@ details.page-sec[open] summary .preview { visibility: hidden; }
 .page-arts li:first-child { border-top: none; }
 
 /* ── 시리즈 뷰 ── */
-.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; align-items: center; }
-.chip-gap { width: 12px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.filterbar {
+  display: flex; flex-wrap: wrap; gap: 10px 0; margin-bottom: 20px;
+  border: 1px solid var(--rule); border-radius: 8px;
+  background: var(--card); padding: 10px 14px;
+}
+.fgroup { padding-right: 16px; margin-right: 16px; border-right: 1px solid var(--rule); }
+.fgroup:last-child { border-right: none; padding-right: 0; margin-right: 0; }
+.flabel {
+  font-size: 10.5px; font-weight: 700; letter-spacing: .18em;
+  color: var(--ink-soft); margin-right: 4px;
+}
+.filterbar .chips button { background: none; }
+.filterbar .chips button.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 .chips select {
   font: inherit; font-size: 13px; color: var(--ink);
-  background: var(--card); border: 1px solid var(--rule);
-  padding: 5px 10px; border-radius: 999px; margin-left: auto;
+  background: var(--paper); border: 1px solid var(--rule);
+  padding: 5px 10px; border-radius: 999px;
 }
 .ep-more { color: var(--ink-soft); font-size: 12px; padding: 2px 0 2px 20px; font-style: italic; }
 .chips button {

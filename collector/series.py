@@ -33,6 +33,9 @@ def rebuild():
         for ai, art in enumerate(doc["articles"]):
             sig = rules.series_signature(art["title"])
             if not sig:
+                # 2차: 회차 표기가 없어도 기획성 키워드 라벨([창간기획 ○○] 등)은 시리즈로 등록
+                sig = rules.plan_label_signature(art["title"])
+            if not sig:
                 continue
             key = rules.norm_key(art["press"], sig["name"])
             key = ov.get("merge", {}).get(key, key)

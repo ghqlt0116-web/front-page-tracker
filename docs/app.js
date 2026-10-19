@@ -280,27 +280,31 @@
     const el = $("#view-series");
     const idx = await loadSeries();
     const presses = [...new Set(idx.map((r) => r.press))];
-    let html = `<div class="chips">
-      <button data-f="type:기획" class="${state.typeFilter === "기획" ? "active" : ""}">기획 시리즈</button>
-      <button data-f="type:연재칼럼" class="${state.typeFilter === "연재칼럼" ? "active" : ""}">연재칼럼</button>
-      <button data-f="type:all" class="${state.typeFilter === "all" ? "active" : ""}">전체</button>
-      <span class="chip-gap"></span>
-      <button data-f="st:all" class="${state.statusFilter === "all" ? "active" : ""}">전체 상태</button>
-      <button data-f="st:ongoing" class="${state.statusFilter === "ongoing" ? "active" : ""}">진행중</button>
-      <button data-f="st:completed" class="${state.statusFilter === "completed" ? "active" : ""}">완결</button>
-    </div>
-    <div class="chips">
-      <button data-f="pr:all" class="${state.seriesPress === "all" ? "active" : ""}">전 매체</button>
-      ${PRESS_ORDER.filter((oid) => presses.includes(oid))
-        .map(
-          (oid) =>
-            `<button data-f="pr:${oid}" class="${state.seriesPress === oid ? "active" : ""}">${esc(state.presses[oid] || oid)}</button>`
-        )
-        .join("")}
-      <span class="chip-gap"></span>
-      <select id="seriesSort">${Object.entries(SORTS)
-        .map(([k, [label]]) => `<option value="${k}"${state.seriesSort === k ? " selected" : ""}>${label}</option>`)
-        .join("")}</select>
+    let html = `<div class="filterbar">
+      <div class="fgroup chips"><span class="flabel">유형</span>
+        <button data-f="type:기획" class="${state.typeFilter === "기획" ? "active" : ""}">기획 시리즈</button>
+        <button data-f="type:연재칼럼" class="${state.typeFilter === "연재칼럼" ? "active" : ""}">연재칼럼</button>
+        <button data-f="type:all" class="${state.typeFilter === "all" ? "active" : ""}">전체</button>
+      </div>
+      <div class="fgroup chips"><span class="flabel">상태</span>
+        <button data-f="st:all" class="${state.statusFilter === "all" ? "active" : ""}">전체</button>
+        <button data-f="st:ongoing" class="${state.statusFilter === "ongoing" ? "active" : ""}">진행중</button>
+        <button data-f="st:completed" class="${state.statusFilter === "completed" ? "active" : ""}">완결</button>
+      </div>
+      <div class="fgroup chips"><span class="flabel">매체</span>
+        <button data-f="pr:all" class="${state.seriesPress === "all" ? "active" : ""}">전체</button>
+        ${PRESS_ORDER.filter((oid) => presses.includes(oid))
+          .map(
+            (oid) =>
+              `<button data-f="pr:${oid}" class="${state.seriesPress === oid ? "active" : ""}">${esc(state.presses[oid] || oid)}</button>`
+          )
+          .join("")}
+      </div>
+      <div class="fgroup chips"><span class="flabel">정렬</span>
+        <select id="seriesSort">${Object.entries(SORTS)
+          .map(([k, [label]]) => `<option value="${k}"${state.seriesSort === k ? " selected" : ""}>${label}</option>`)
+          .join("")}</select>
+      </div>
     </div>`;
 
     const rows = idx
