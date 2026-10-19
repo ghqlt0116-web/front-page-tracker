@@ -47,9 +47,8 @@ def front_page_lines(doc):
             continue
         arts = sorted(arts, key=lambda a: a["pageOrder"])
         top = arts[0]
-        col = f" ({top['column']}단)" if top.get("column") else ""
-        lines.append(f"<b>{esc(top['pressName'])}</b>{col}")
-        lines.append(f"· <a href=\"{top['url']}\">{esc(top['title'])}</a>")
+        lines.append(f"<b>{esc(top['pressName'])}</b>")
+        lines.append(f"🔹 <a href=\"{top['url']}\">{esc(top['title'])}</a>")
         for a in arts[1:3]:
             lines.append(f"· <a href=\"{a['url']}\">{esc(a['title'])}</a>")
         lines.append("")
@@ -150,13 +149,25 @@ def main():
     body += fp_lines
     if sr_lines:
         body += ["📑 <b>기획 시리즈</b>", ""] + sr_lines
+    # 대시보드 링크: Actions 환경변수(owner/repo)에서 Pages 주소를 유도 — 이관 후에도 자동
+    repo = os_environ_repo()
+    if repo:
+        owner, name = repo.split("/", 1)
+        body += ["", f"📊 <a href=\"https://{owner}.github.io/{name}/\">대시보드 열기</a>"]
     ok = send("\n".join(body))
-    if ok or not sent:
+    if ok:
+        # 발송 성공시에만 기록: 실패하면 2차 실행(07:00)이 그대로 재시도한다
         state_path.write_text(
             json.dumps({"ids": sorted(set(list(sent) + fp_ids + sr_ids))}, ensure_ascii=False),
             encoding="utf-8",
         )
     print("발송 완료" if ok else "발송 실패/생략")
+
+
+def os_environ_repo():
+    import os
+
+    return os.environ.get("GITHUB_REPOSITORY", "")
 
 
 if __name__ == "__main__":
