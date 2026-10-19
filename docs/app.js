@@ -276,6 +276,26 @@
     name: ["가나다순", (a, b) => a.name.localeCompare(b.name, "ko")],
   };
 
+  // 숨긴 시리즈: 이 브라우저에만 저장(localStorage). 데이터는 그대로, 화면에서만 제외.
+  function loadHidden() {
+    try {
+      return new Set(JSON.parse(localStorage.getItem("fpt_hidden_series") || "[]"));
+    } catch {
+      return new Set();
+    }
+  }
+  function saveHidden(set) {
+    try {
+      localStorage.setItem("fpt_hidden_series", JSON.stringify([...set]));
+    } catch {}
+  }
+
+  // 첫 게재가 7일 이내면 NEW
+  function isNew(rec) {
+    const d = new Date(rec.firstDate);
+    return Date.now() - d.getTime() < 7 * 86400 * 1000;
+  }
+
   async function renderSeries() {
     const el = $("#view-series");
     const idx = await loadSeries();
@@ -307,23 +327,25 @@
       </div>
     </div>`;
 
-    const rows = idx
-      .filter(
-        (r) =>
-          (state.typeFilter === "all" || r.seriesType === state.typeFilter) &&
-          (state.statusFilter === "all" || r.status === state.statusFilter) &&
-          (state.seriesPress === "all" || r.press === state.seriesPress) &&
-          (!state.q ||
-            r.name.toLowerCase().includes(state.q.toLowerCase()) ||
-            r.episodes.some((e) => matchQ(e.title)))
-      )
-      .sort(SORTS[state.seriesSort][1]);
+    const hidden = loadHidden();
+    const visible = idx.filter(
+      (r) =>
+        (state.typeFilter === "all" || r.seriesType === state.typeFilter) &&
+        (state.statusFilter === "all" || r.status === state.statusFilter) &&
+        (state.seriesPress === "all" || r.press === state.seriesPress) &&
+        (!state.q ||
+          r.name.toLowerCase().includes(state.q.toLowerCase()) ||
+          r.episodes.some((e) => matchQ(e.title)))
+    );
+    const hiddenRows = visible.filter((r) => hidden.has(r.seriesKey));
+    const rows = visible.filter((r) => !hidden.has(r.seriesKey)).sort(SORTS[state.seriesSort][1]);
     if (!rows.length) {
       html += `<p class="empty">조건에 맞는 시리즈가 없습니다.${
         state.typeFilter === "기획"
           ? "<br><br>기획 시리즈(상·중·하, 1·2·3회 연재)는 제목의 회차 표기로 게재 시점에 자동 감지됩니다.<br>신년·창간 시즌에 집중되는 경향이 있어 평상시에는 드물 수 있습니다 — 새 기획이 시작되면 이 자리에 쌓입니다."
           : ""
       }</p>`;
+      html += hiddenSection(hiddenRows);
       el.innerHTML = html;
       bindChips(el);
       return;
@@ -334,7 +356,9 @@
         r.status === "completed"
           ? `완결`
           : `<span class="status-ongoing">진행중</span>`;
-      html += `<div class="series-card"><h3>[${esc(r.name)}]</h3>
+      html += `<div class="series-card">
+        <button class="hide-btn" data-hide="${esc(r.seriesKey)}" title="대시보드에서 숨기기 (데이터는 유지)">✕</button>
+        <h3>${isNew(r) ? '<span class="badge new">NEW</span> ' : ""}[${esc(r.name)}]</h3>
         <div class="series-meta">${esc(r.pressName)} · ${esc(r.seriesType)} · ${stat} · 수집 ${r.episodes.length}회 · ${r.firstDate} ~ ${r.lastDate}</div>
         <ul class="ep-timeline">`;
       // 기획은 전 회차, 연재칼럼은 최근 5회만 (수집 시작일 이후 분량)
@@ -351,16 +375,31 @@
       html += `</ul></div>`;
     }
     html += `</div>`;
+    html += hiddenSection(hiddenRows);
     el.innerHTML = html;
     bindChips(el);
+  }
+
+  function hiddenSection(hiddenRows) {
+    if (!hiddenRows.length) return "";
+    return `<details class="hidden-sec"><summary>숨긴 시리즈 ${hiddenRows.length}건</summary><ul>${hiddenRows
+      .sort((a, b) => a.name.localeCompare(b.name, "ko"))
+      .map(
+        (r) =>
+          `<li>[${esc(r.name)}] <span class="ep-meta">${esc(r.pressName)}</span> <button class="restore-btn" data-restore="${esc(r.seriesKey)}">복원</button></li>`
+      )
+      .join("")}</ul><p class="hidden-note">숨김은 이 브라우저에만 저장됩니다. 데이터 수집은 계속되며, 복원하면 전체 회차가 그대로 보입니다.</p></details>`;
   }
 
   function bindChips(el) {
     $$(".chips button", el).forEach((b) =>
       b.addEventListener("click", () => {
         const [k, v] = b.dataset.f.split(":");
-        if (k === "type") state.typeFilter = v;
-        else if (k === "pr") state.seriesPress = v;
+        if (k === "type") {
+          state.typeFilter = v;
+          // 정렬을 직접 고르지 않았다면 유형에 맞는 기본값으로: 연재칼럼은 가나다순
+          if (!state.sortTouched) state.seriesSort = v === "연재칼럼" ? "name" : "recent";
+        } else if (k === "pr") state.seriesPress = v;
         else state.statusFilter = v;
         renderSeries();
       })
@@ -369,8 +408,25 @@
     if (sort)
       sort.addEventListener("change", () => {
         state.seriesSort = sort.value;
+        state.sortTouched = true;
         renderSeries();
       });
+    $$("[data-hide]", el).forEach((b) =>
+      b.addEventListener("click", () => {
+        const set = loadHidden();
+        set.add(b.dataset.hide);
+        saveHidden(set);
+        renderSeries();
+      })
+    );
+    $$("[data-restore]", el).forEach((b) =>
+      b.addEventListener("click", () => {
+        const set = loadHidden();
+        set.delete(b.dataset.restore);
+        saveHidden(set);
+        renderSeries();
+      })
+    );
   }
 
   /* ── 공통 ── */
