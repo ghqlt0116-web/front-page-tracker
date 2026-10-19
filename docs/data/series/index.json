@@ -1,6 +1,264 @@
 {
  "series": [
   {
+   "seriesKey": "020:임용한의전쟁사",
+   "press": "020",
+   "pressName": "동아일보",
+   "name": "임용한의 전쟁사",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "398",
+     "ord": 398,
+     "isEnd": false,
+     "date": "2026-01-06",
+     "page": "A31",
+     "column": null,
+     "title": "혁명의 봄[임용한의 전쟁사]〈398〉",
+     "url": "https://n.news.naver.com/article/020/0003686970",
+     "articleId": "0003686970"
+    },
+    {
+     "label": "399",
+     "ord": 399,
+     "isEnd": false,
+     "date": "2026-01-13",
+     "page": "A27",
+     "column": null,
+     "title": "우리가 겪지 못했던 세계[임용한의 전쟁사]〈399〉",
+     "url": "https://n.news.naver.com/article/020/0003688744",
+     "articleId": "0003688744"
+    },
+    {
+     "label": "436",
+     "ord": 436,
+     "isEnd": false,
+     "date": "2026-10-06",
+     "page": "A31",
+     "column": null,
+     "title": "‘방어용’ 지뢰?[임용한의 전쟁사]〈436〉",
+     "url": "https://n.news.naver.com/article/020/0003752806",
+     "articleId": "0003752806"
+    },
+    {
+     "label": "437",
+     "ord": 437,
+     "isEnd": false,
+     "date": "2026-10-13",
+     "page": "A27",
+     "column": null,
+     "title": "클라우제비츠가 말한 전쟁[임용한의 전쟁사]〈437〉",
+     "url": "https://n.news.naver.com/article/020/0003754396",
+     "articleId": "0003754396"
+    },
+    {
+     "label": "438",
+     "ord": 438,
+     "isEnd": false,
+     "date": "2026-10-20",
+     "page": "A27",
+     "column": null,
+     "title": "권력의 승부, 책임의 승부[임용한의 전쟁사]〈438〉",
+     "url": "https://n.news.naver.com/article/020/0003756030",
+     "articleId": "0003756030"
+    }
+   ],
+   "firstDate": "2026-01-06",
+   "lastDate": "2026-10-20"
+  },
+  {
+   "seriesKey": "023:김국현의과학기술유행어도감",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "김국현의 과학기술 유행어 도감",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "1",
+     "ord": 1,
+     "isEnd": false,
+     "date": "2026-01-06",
+     "page": "A30",
+     "column": null,
+     "title": "[김국현의 과학기술 유행어 도감] [1] 피지컬 AI",
+     "url": "https://n.news.naver.com/article/023/0003951088",
+     "articleId": "0003951088"
+    },
+    {
+     "label": "20",
+     "ord": 20,
+     "isEnd": false,
+     "date": "2026-10-06",
+     "page": "A30",
+     "column": null,
+     "title": "[김국현의 과학기술 유행어 도감] [20] 종말 확률 ‘P(doom)’",
+     "url": "https://n.news.naver.com/article/023/0004002188",
+     "articleId": "0004002188"
+    },
+    {
+     "label": "21",
+     "ord": 21,
+     "isEnd": false,
+     "date": "2026-10-20",
+     "page": "A30",
+     "column": null,
+     "title": "[김국현의 과학기술 유행어 도감] [21] 중성미자",
+     "url": "https://n.news.naver.com/article/023/0004004727",
+     "articleId": "0004004727"
+    }
+   ],
+   "firstDate": "2026-01-06",
+   "lastDate": "2026-10-20"
+  },
+  {
+   "seriesKey": "023:우정아의아트스토리",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "우정아의 아트 스토리",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "614",
+     "ord": 614,
+     "isEnd": false,
+     "date": "2026-01-06",
+     "page": "A31",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [614] 어른이 다시 아이로",
+     "url": "https://n.news.naver.com/article/023/0003951089",
+     "articleId": "0003951089"
+    },
+    {
+     "label": "615",
+     "ord": 615,
+     "isEnd": false,
+     "date": "2026-01-13",
+     "page": "A31",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [615] 나폴리의 태양",
+     "url": "https://n.news.naver.com/article/023/0003952513",
+     "articleId": "0003952513"
+    },
+    {
+     "label": "652",
+     "ord": 652,
+     "isEnd": false,
+     "date": "2026-10-06",
+     "page": "A31",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [652] 나란히 걸린 윤형근과 로스코",
+     "url": "https://n.news.naver.com/article/023/0004002190",
+     "articleId": "0004002190"
+    },
+    {
+     "label": "653",
+     "ord": 653,
+     "isEnd": false,
+     "date": "2026-10-13",
+     "page": "A31",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [653] 서정 시인의 극적인 최후",
+     "url": "https://n.news.naver.com/article/023/0004003388",
+     "articleId": "0004003388"
+    },
+    {
+     "label": "654",
+     "ord": 654,
+     "isEnd": false,
+     "date": "2026-10-20",
+     "page": "A31",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [654] 박물관도 식후경",
+     "url": "https://n.news.naver.com/article/023/0004004729",
+     "articleId": "0004004729"
+    }
+   ],
+   "firstDate": "2026-01-06",
+   "lastDate": "2026-10-20"
+  },
+  {
+   "seriesKey": "020:이상곤의실록한의학",
+   "press": "020",
+   "pressName": "동아일보",
+   "name": "이상곤의 실록한의학",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "170",
+     "ord": 170,
+     "isEnd": false,
+     "date": "2026-01-13",
+     "page": "A25",
+     "column": null,
+     "title": "전염병 시대가 낳은 처방… 기침과 천식 치료제 마황[이상곤의 실록한의학]〈170〉",
+     "url": "https://n.news.naver.com/article/020/0003688747",
+     "articleId": "0003688747"
+    },
+    {
+     "label": "180",
+     "ord": 180,
+     "isEnd": false,
+     "date": "2026-10-20",
+     "page": "A25",
+     "column": null,
+     "title": "천재王 권한 불로장생 비결… 조선 왕실의 양생법, 단전[이상곤의 실록한의학]〈180〉",
+     "url": "https://n.news.naver.com/article/020/0003756031",
+     "articleId": "0003756031"
+    }
+   ],
+   "firstDate": "2026-01-13",
+   "lastDate": "2026-10-20"
+  },
+  {
+   "seriesKey": "023:류호정의톱밥먹는중입니다",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "류호정의 톱밥 먹는 중입니다",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "13",
+     "ord": 13,
+     "isEnd": false,
+     "date": "2026-01-13",
+     "page": "A29",
+     "column": null,
+     "title": "[류호정의 톱밥 먹는 중입니다] [13] 일이란 무엇으로 구성되는가",
+     "url": "https://n.news.naver.com/article/023/0003952516",
+     "articleId": "0003952516"
+    },
+    {
+     "label": "31",
+     "ord": 31,
+     "isEnd": false,
+     "date": "2026-10-06",
+     "page": "A29",
+     "column": null,
+     "title": "[류호정의 톱밥 먹는 중입니다] [31] 예비 신혼부부 울린 ‘생애좌절대출’",
+     "url": "https://n.news.naver.com/article/023/0004002185",
+     "articleId": "0004002185"
+    },
+    {
+     "label": "32",
+     "ord": 32,
+     "isEnd": false,
+     "date": "2026-10-20",
+     "page": "A29",
+     "column": null,
+     "title": "[류호정의 톱밥 먹는 중입니다] [32] ‘기사님’이 돼 만난 어릴 적 풍경",
+     "url": "https://n.news.naver.com/article/023/0004004724",
+     "articleId": "0004004724"
+    }
+   ],
+   "firstDate": "2026-01-13",
+   "lastDate": "2026-10-20"
+  },
+  {
    "seriesKey": "023:문태준의가슴이따뜻해지는",
    "press": "023",
    "pressName": "조선일보",
@@ -1111,118 +1369,6 @@
    "lastDate": "2026-10-14"
   },
   {
-   "seriesKey": "020:임용한의전쟁사",
-   "press": "020",
-   "pressName": "동아일보",
-   "name": "임용한의 전쟁사",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "398",
-     "ord": 398,
-     "isEnd": false,
-     "date": "2026-01-06",
-     "page": "A31",
-     "column": null,
-     "title": "혁명의 봄[임용한의 전쟁사]〈398〉",
-     "url": "https://n.news.naver.com/article/020/0003686970",
-     "articleId": "0003686970"
-    },
-    {
-     "label": "399",
-     "ord": 399,
-     "isEnd": false,
-     "date": "2026-01-13",
-     "page": "A27",
-     "column": null,
-     "title": "우리가 겪지 못했던 세계[임용한의 전쟁사]〈399〉",
-     "url": "https://n.news.naver.com/article/020/0003688744",
-     "articleId": "0003688744"
-    },
-    {
-     "label": "436",
-     "ord": 436,
-     "isEnd": false,
-     "date": "2026-10-06",
-     "page": "A31",
-     "column": null,
-     "title": "‘방어용’ 지뢰?[임용한의 전쟁사]〈436〉",
-     "url": "https://n.news.naver.com/article/020/0003752806",
-     "articleId": "0003752806"
-    },
-    {
-     "label": "437",
-     "ord": 437,
-     "isEnd": false,
-     "date": "2026-10-13",
-     "page": "A27",
-     "column": null,
-     "title": "클라우제비츠가 말한 전쟁[임용한의 전쟁사]〈437〉",
-     "url": "https://n.news.naver.com/article/020/0003754396",
-     "articleId": "0003754396"
-    }
-   ],
-   "firstDate": "2026-01-06",
-   "lastDate": "2026-10-13"
-  },
-  {
-   "seriesKey": "023:우정아의아트스토리",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "우정아의 아트 스토리",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "614",
-     "ord": 614,
-     "isEnd": false,
-     "date": "2026-01-06",
-     "page": "A31",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [614] 어른이 다시 아이로",
-     "url": "https://n.news.naver.com/article/023/0003951089",
-     "articleId": "0003951089"
-    },
-    {
-     "label": "615",
-     "ord": 615,
-     "isEnd": false,
-     "date": "2026-01-13",
-     "page": "A31",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [615] 나폴리의 태양",
-     "url": "https://n.news.naver.com/article/023/0003952513",
-     "articleId": "0003952513"
-    },
-    {
-     "label": "652",
-     "ord": 652,
-     "isEnd": false,
-     "date": "2026-10-06",
-     "page": "A31",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [652] 나란히 걸린 윤형근과 로스코",
-     "url": "https://n.news.naver.com/article/023/0004002190",
-     "articleId": "0004002190"
-    },
-    {
-     "label": "653",
-     "ord": 653,
-     "isEnd": false,
-     "date": "2026-10-13",
-     "page": "A31",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [653] 서정 시인의 극적인 최후",
-     "url": "https://n.news.naver.com/article/023/0004003388",
-     "articleId": "0004003388"
-    }
-   ],
-   "firstDate": "2026-01-06",
-   "lastDate": "2026-10-13"
-  },
-  {
    "seriesKey": "023:문지혁의슬기로운문학생활",
    "press": "023",
    "pressName": "조선일보",
@@ -1428,40 +1574,6 @@
    "lastDate": "2026-10-07"
   },
   {
-   "seriesKey": "023:김국현의과학기술유행어도감",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "김국현의 과학기술 유행어 도감",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "1",
-     "ord": 1,
-     "isEnd": false,
-     "date": "2026-01-06",
-     "page": "A30",
-     "column": null,
-     "title": "[김국현의 과학기술 유행어 도감] [1] 피지컬 AI",
-     "url": "https://n.news.naver.com/article/023/0003951088",
-     "articleId": "0003951088"
-    },
-    {
-     "label": "20",
-     "ord": 20,
-     "isEnd": false,
-     "date": "2026-10-06",
-     "page": "A30",
-     "column": null,
-     "title": "[김국현의 과학기술 유행어 도감] [20] 종말 확률 ‘P(doom)’",
-     "url": "https://n.news.naver.com/article/023/0004002188",
-     "articleId": "0004002188"
-    }
-   ],
-   "firstDate": "2026-01-06",
-   "lastDate": "2026-10-06"
-  },
-  {
    "seriesKey": "023:김교석의남자의물건",
    "press": "023",
    "pressName": "조선일보",
@@ -1496,40 +1608,6 @@
    "lastDate": "2026-10-06"
   },
   {
-   "seriesKey": "023:류호정의톱밥먹는중입니다",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "류호정의 톱밥 먹는 중입니다",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "13",
-     "ord": 13,
-     "isEnd": false,
-     "date": "2026-01-13",
-     "page": "A29",
-     "column": null,
-     "title": "[류호정의 톱밥 먹는 중입니다] [13] 일이란 무엇으로 구성되는가",
-     "url": "https://n.news.naver.com/article/023/0003952516",
-     "articleId": "0003952516"
-    },
-    {
-     "label": "31",
-     "ord": 31,
-     "isEnd": false,
-     "date": "2026-10-06",
-     "page": "A29",
-     "column": null,
-     "title": "[류호정의 톱밥 먹는 중입니다] [31] 예비 신혼부부 울린 ‘생애좌절대출’",
-     "url": "https://n.news.naver.com/article/023/0004002185",
-     "articleId": "0004002185"
-    }
-   ],
-   "firstDate": "2026-01-13",
-   "lastDate": "2026-10-06"
-  },
-  {
    "seriesKey": "023:정옥희의몸짓탐구생활",
    "press": "023",
    "pressName": "조선일보",
@@ -1551,29 +1629,6 @@
    ],
    "firstDate": "2026-01-14",
    "lastDate": "2026-01-14"
-  },
-  {
-   "seriesKey": "020:이상곤의실록한의학",
-   "press": "020",
-   "pressName": "동아일보",
-   "name": "이상곤의 실록한의학",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "170",
-     "ord": 170,
-     "isEnd": false,
-     "date": "2026-01-13",
-     "page": "A25",
-     "column": null,
-     "title": "전염병 시대가 낳은 처방… 기침과 천식 치료제 마황[이상곤의 실록한의학]〈170〉",
-     "url": "https://n.news.naver.com/article/020/0003688747",
-     "articleId": "0003688747"
-    }
-   ],
-   "firstDate": "2026-01-13",
-   "lastDate": "2026-01-13"
   },
   {
    "seriesKey": "009:밀라노은나",
