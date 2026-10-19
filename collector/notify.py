@@ -42,10 +42,36 @@ def cut(s, n=40):
     return s if len(s) <= n else s[: n - 1].rstrip() + "…"
 
 
-def front_page_lines(doc):
+def _watch_regexes():
+    regs = []
+    for k in config.WATCH_KEYWORDS:
+        if _re.fullmatch(r"[A-Za-z0-9&.\- ]+", k):
+            # 영문 키워드는 단어 경계 적용 ('SK'가 'TASK' 등에 걸리지 않게)
+            regs.append(_re.compile(r"(?<![A-Za-z])" + _re.escape(k) + r"(?![A-Za-z])", _re.I))
+        else:
+            regs.append(_re.compile(_re.escape(k)))
+    return regs
+
+
+def watch_lines(doc):
+    """워치 키워드 매칭 기사 — 전 지면 대상, 다이제스트 최상단에 표시."""
+    regs = _watch_regexes()
+    lines, ids = [], []
+    for a in doc["articles"]:
+        if any(r.search(a["title"]) for r in regs):
+            short = SHORT_NAMES.get(a["press"], a["pressName"])
+            lines.append(
+                f"🔺 <b>{esc(short)}</b> {esc(a['page'])}면 · <a href=\"{a['url']}\">{esc(cut(a['title']))}</a>"
+            )
+            ids.append(a["articleId"])
+    return lines[:10], ids
+
+
+def front_page_lines(doc, skip_ids=()):
     """머리기사는 매체당 한 줄, 나머지 1면 기사는 접히는 블록용으로 분리.
 
-    A섹션이 없는 매체(중앙SUNDAY=T1)도 처리.
+    A섹션이 없는 매체(중앙SUNDAY=T1)도 처리. skip_ids(워치 섹션에 이미 노출된
+    기사)는 접힘 블록에서 제외해 중복을 줄인다.
     """
     by_press = {}
     for a in doc["articles"]:
@@ -67,6 +93,8 @@ def front_page_lines(doc):
         top = arts[0]
         tops.append(f"<b>{esc(short)}</b> <a href=\"{top['url']}\">{esc(cut(top['title']))}</a>")
         for a in arts[1:]:
+            if a["articleId"] in skip_ids:
+                continue
             rest.append(f"{esc(short)} · <a href=\"{a['url']}\">{esc(cut(a['title']))}</a>")
         ids.extend(a["articleId"] for a in arts)
     lines = tops
@@ -151,14 +179,15 @@ def main():
     idx_path = config.SERIES_DIR / "index.json"
     index = json.loads(idx_path.read_text(encoding="utf-8"))["series"] if idx_path.exists() else []
 
-    fp_lines, fp_ids = front_page_lines(doc)
+    w_lines, w_ids = watch_lines(doc)
+    fp_lines, fp_ids = front_page_lines(doc, skip_ids=set(w_ids))
     sr_lines, sr_ids = series_lines(index, date)
 
     # 중복 발송 방지 (2차 실행)
     config.STATE_DIR.mkdir(parents=True, exist_ok=True)
     state_path = config.STATE_DIR / f"notify_{date}.json"
     sent = set(json.loads(state_path.read_text(encoding="utf-8"))["ids"]) if state_path.exists() else set()
-    new_ids = [i for i in fp_ids + sr_ids if i not in sent]
+    new_ids = [i for i in w_ids + fp_ids + sr_ids if i not in sent]
     if sent and not new_ids:
         print("추가 발송할 신규 항목 없음")
         return
@@ -166,6 +195,8 @@ def main():
     y, m, d = date.split("-")
     header = f"🗞 <b>{y}.{m}.{d} 조간 가판대</b>" + (" (추가분)" if sent else "")
     body = [header, ""]
+    if w_lines:
+        body += [f"<b>{esc(config.WATCH_LABEL)}</b>"] + w_lines + [""]
     body += fp_lines
     if sr_lines:
         body += ["📑 <b>기획 시리즈</b>", ""] + sr_lines
@@ -178,7 +209,7 @@ def main():
     if ok:
         # 발송 성공시에만 기록: 실패하면 2차 실행(07:00)이 그대로 재시도한다
         state_path.write_text(
-            json.dumps({"ids": sorted(set(list(sent) + fp_ids + sr_ids))}, ensure_ascii=False),
+            json.dumps({"ids": sorted(set(list(sent) + w_ids + fp_ids + sr_ids))}, ensure_ascii=False),
             encoding="utf-8",
         )
     print("발송 완료" if ok else "발송 실패/생략")

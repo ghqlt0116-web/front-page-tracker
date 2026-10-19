@@ -32,6 +32,18 @@ SEARCH_URL = "https://search.naver.com/search.naver?where=news&query={query}"
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 
+# 워치 키워드: 제목에 매칭되면 다이제스트 최상단 '관심 기사' 섹션으로 올라감.
+# 환경변수 WATCH_KEYWORDS(쉼표 구분)로 교체 가능 — 이관 시 상대 조직 키워드로 바꾸면 됨.
+WATCH_KEYWORDS = [
+    k.strip()
+    for k in os.environ.get(
+        "WATCH_KEYWORDS",
+        "SK,SK브로드밴드,SKB,SK텔레콤,SKT,SK하이닉스,SK수펙스,최태원,최창원",
+    ).split(",")
+    if k.strip()
+]
+WATCH_LABEL = os.environ.get("WATCH_LABEL", "SK 관련")
+
 
 def make_session():
     import requests
