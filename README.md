@@ -43,6 +43,17 @@ docs/data/     # papers/날짜.json, series/index.json, manifest.json, state/
 }
 ```
 
+## 숨김 동기화 (PC·모바일 공유)
+
+시리즈 숨김 목록은 `docs/data/ui/hidden.json`에 저장되어 기기 간 공유됩니다.
+대시보드에서 숨김/복원하면 GitHub API로 이 파일이 커밋되는데, 기기마다 토큰을 한 번 등록해야 합니다:
+
+1. github.com → Settings → Developer settings → **Fine-grained personal access tokens** → Generate
+2. Repository access: 이 저장소만 선택, Permissions: **Contents → Read and write** 만 부여
+3. 대시보드 기획 시리즈 탭 → **동기화 설정** 버튼 → 토큰 붙여넣기 (기기당 1회)
+
+토큰 없이도 숨김은 동작하지만 그 브라우저에만 저장됩니다. 요청량은 토글당 커밋 1건(시간당 한도 5,000건)으로 부하 걱정은 없습니다.
+
 ## 이관 (키 교체)
 
 개인 식별값은 코드에 없으며, 교체 지점은 GitHub Secrets 2개뿐입니다.

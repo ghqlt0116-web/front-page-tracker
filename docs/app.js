@@ -276,18 +276,116 @@
     name: ["가나다순", (a, b) => a.name.localeCompare(b.name, "ko")],
   };
 
-  // 숨긴 시리즈: 이 브라우저에만 저장(localStorage). 데이터는 그대로, 화면에서만 제외.
-  function loadHidden() {
+  /* ── 숨긴 시리즈: repo의 hidden.json이 원본(기기 간 공유), localStorage는 캐시 ──
+     쓰기는 GitHub Contents API 커밋으로 하며, 기기마다 토큰을 한 번 등록해야 한다.
+     토큰이 없으면 이 브라우저에만 저장된다. */
+  function ghRepo() {
+    // username.github.io/repo 형태에서 owner/repo를 유도 → repo 이관 후에도 그대로 동작
+    const h = location.hostname;
+    if (h.endsWith(".github.io")) {
+      const owner = h.split(".")[0];
+      const repo = location.pathname.split("/").filter(Boolean)[0];
+      if (repo) return { owner, repo };
+    }
+    return { owner: "ghqlt0116-web", repo: "front-page-tracker" }; // 로컬 미리보기용
+  }
+  const HIDDEN_PATH = "docs/data/ui/hidden.json";
+  function ghToken() {
+    try {
+      return localStorage.getItem("fpt_gh_token") || "";
+    } catch {
+      return "";
+    }
+  }
+
+  function localHidden() {
     try {
       return new Set(JSON.parse(localStorage.getItem("fpt_hidden_series") || "[]"));
     } catch {
       return new Set();
     }
   }
-  function saveHidden(set) {
+  function cacheHidden(set) {
     try {
       localStorage.setItem("fpt_hidden_series", JSON.stringify([...set]));
     } catch {}
+  }
+
+  const hiddenState = { set: null, sha: null, synced: false };
+
+  async function loadHidden() {
+    if (hiddenState.set) return hiddenState.set;
+    const { owner, repo } = ghRepo();
+    try {
+      const headers = { Accept: "application/vnd.github+json" };
+      const token = ghToken();
+      if (token) headers.Authorization = `Bearer ${token}`;
+      const r = await fetch(
+        `https://api.github.com/repos/${owner}/${repo}/contents/${HIDDEN_PATH}`,
+        { headers, cache: "no-cache" }
+      );
+      if (r.ok) {
+        const j = await r.json();
+        const doc = JSON.parse(decodeURIComponent(escape(atob(j.content))));
+        hiddenState.set = new Set(doc.hidden || []);
+        hiddenState.sha = j.sha;
+        hiddenState.synced = true;
+        cacheHidden(hiddenState.set);
+        return hiddenState.set;
+      }
+    } catch {}
+    hiddenState.set = localHidden(); // API 실패 시 로컬 캐시로 동작
+    return hiddenState.set;
+  }
+
+  async function saveHidden(set) {
+    hiddenState.set = set;
+    cacheHidden(set);
+    const token = ghToken();
+    if (!token) return "local";
+    const { owner, repo } = ghRepo();
+    try {
+      const body = {
+        message: "ui: 시리즈 숨김 목록 변경",
+        content: btoa(
+          unescape(encodeURIComponent(JSON.stringify({ hidden: [...set].sort() }, null, 1) + "\n"))
+        ),
+      };
+      if (hiddenState.sha) body.sha = hiddenState.sha;
+      const r = await fetch(
+        `https://api.github.com/repos/${owner}/${repo}/contents/${HIDDEN_PATH}`,
+        {
+          method: "PUT",
+          headers: { Accept: "application/vnd.github+json", Authorization: `Bearer ${token}` },
+          body: JSON.stringify(body),
+        }
+      );
+      if (!r.ok) throw new Error(r.status);
+      hiddenState.sha = (await r.json()).content.sha;
+      hiddenState.synced = true;
+      return "synced";
+    } catch (e) {
+      hiddenState.synced = false;
+      return "error";
+    }
+  }
+
+  function setupSyncToken() {
+    const cur = ghToken();
+    const t = prompt(
+      "기기 간 숨김 동기화용 GitHub 토큰을 입력하세요.\n" +
+        "(github.com → Settings → Developer settings → Fine-grained token,\n" +
+        " 이 저장소에 Contents: Read and write 권한만 주면 됩니다)\n\n" +
+        "비워서 확인하면 동기화를 끄고 이 브라우저에만 저장합니다.",
+      cur
+    );
+    if (t === null) return;
+    try {
+      if (t.trim()) localStorage.setItem("fpt_gh_token", t.trim());
+      else localStorage.removeItem("fpt_gh_token");
+    } catch {}
+    hiddenState.set = null; // 다시 로드
+    renderSeries();
   }
 
   // 첫 게재가 7일 이내면 NEW
@@ -325,9 +423,14 @@
           .map(([k, [label]]) => `<option value="${k}"${state.seriesSort === k ? " selected" : ""}>${label}</option>`)
           .join("")}</select>
       </div>
+      <div class="fgroup chips">
+        <button id="syncBtn" class="sync-btn${hiddenState.synced && ghToken() ? " on" : ""}" title="숨김 목록을 repo에 저장해 모든 기기에서 공유">${
+          ghToken() ? (hiddenState.synced ? "동기화 ✓" : "동기화 오류") : "동기화 설정"
+        }</button>
+      </div>
     </div>`;
 
-    const hidden = loadHidden();
+    const hidden = await loadHidden();
     const visible = idx.filter(
       (r) =>
         (state.typeFilter === "all" || r.seriesType === state.typeFilter) &&
@@ -388,7 +491,11 @@
         (r) =>
           `<li>[${esc(r.name)}] <span class="ep-meta">${esc(r.pressName)}</span> <button class="restore-btn" data-restore="${esc(r.seriesKey)}">복원</button></li>`
       )
-      .join("")}</ul><p class="hidden-note">숨김은 이 브라우저에만 저장됩니다. 데이터 수집은 계속되며, 복원하면 전체 회차가 그대로 보입니다.</p></details>`;
+      .join("")}</ul><p class="hidden-note">${
+      ghToken() && hiddenState.synced
+        ? "숨김 목록은 저장소에 저장되어 모든 기기에서 공유됩니다."
+        : "숨김은 지금 이 브라우저에만 저장됩니다 — '동기화 설정'에 토큰을 넣으면 PC·모바일 간 공유됩니다."
+    } 데이터 수집은 계속되며, 복원하면 전체 회차가 그대로 보입니다.</p></details>`;
   }
 
   function bindChips(el) {
@@ -412,21 +519,25 @@
         renderSeries();
       });
     $$("[data-hide]", el).forEach((b) =>
-      b.addEventListener("click", () => {
-        const set = loadHidden();
+      b.addEventListener("click", async () => {
+        const set = await loadHidden();
         set.add(b.dataset.hide);
-        saveHidden(set);
+        const res = await saveHidden(set);
         renderSeries();
+        if (res === "error") alert("동기화 저장에 실패했습니다. 토큰 권한을 확인하세요 (이 브라우저에는 반영됨).");
       })
     );
     $$("[data-restore]", el).forEach((b) =>
-      b.addEventListener("click", () => {
-        const set = loadHidden();
+      b.addEventListener("click", async () => {
+        const set = await loadHidden();
         set.delete(b.dataset.restore);
-        saveHidden(set);
+        const res = await saveHidden(set);
         renderSeries();
+        if (res === "error") alert("동기화 저장에 실패했습니다. 토큰 권한을 확인하세요 (이 브라우저에는 반영됨).");
       })
     );
+    const sync = $("#syncBtn", el);
+    if (sync) sync.addEventListener("click", setupSyncToken);
   }
 
   /* ── 공통 ── */
