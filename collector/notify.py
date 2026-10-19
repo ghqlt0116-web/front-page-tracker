@@ -28,8 +28,25 @@ def _page_parts(page):
     return (m.group(1).upper(), int(m.group(2))) if m else ("Z", 999)
 
 
+SHORT_NAMES = {
+    "023": "조선",
+    "025": "중앙",
+    "353": "선데이",
+    "020": "동아",
+    "009": "매경",
+    "015": "한경",
+}
+
+
+def cut(s, n=40):
+    return s if len(s) <= n else s[: n - 1].rstrip() + "…"
+
+
 def front_page_lines(doc):
-    """신문사별 종합 1면 기사 (머리기사 먼저). A섹션이 없는 매체(중앙SUNDAY=T1)도 처리."""
+    """머리기사는 매체당 한 줄, 나머지 1면 기사는 접히는 블록용으로 분리.
+
+    A섹션이 없는 매체(중앙SUNDAY=T1)도 처리.
+    """
     by_press = {}
     for a in doc["articles"]:
         by_press.setdefault(a["press"], []).append(a)
@@ -40,19 +57,22 @@ def front_page_lines(doc):
             continue
         main = "A" if "A" in secs else ("" if "" in secs else sorted(secs)[0])
         out[oid] = [a for a in arts if _page_parts(a["page"]) == (main, 1)]
-    lines, ids = [], []
+    tops, rest, ids = [], [], []
     for oid in config.PRESSES:
         arts = out.get(oid)
         if not arts:
             continue
         arts = sorted(arts, key=lambda a: a["pageOrder"])
+        short = SHORT_NAMES.get(oid, config.PRESSES[oid])
         top = arts[0]
-        lines.append(f"<b>{esc(top['pressName'])}</b>")
-        lines.append(f"🔹 <a href=\"{top['url']}\">{esc(top['title'])}</a>")
-        for a in arts[1:3]:
-            lines.append(f"· <a href=\"{a['url']}\">{esc(a['title'])}</a>")
-        lines.append("")
+        tops.append(f"<b>{esc(short)}</b> <a href=\"{top['url']}\">{esc(cut(top['title']))}</a>")
+        for a in arts[1:]:
+            rest.append(f"{esc(short)} · <a href=\"{a['url']}\">{esc(cut(a['title']))}</a>")
         ids.extend(a["articleId"] for a in arts)
+    lines = tops
+    if rest:
+        # 탭하면 펼쳐지는 인용 블록 — 기본 화면은 머리기사만 보인다
+        lines = tops + ["", "<blockquote expandable>📄 1면의 다른 기사들\n" + "\n".join(rest) + "</blockquote>"]
     return lines, ids
 
 
