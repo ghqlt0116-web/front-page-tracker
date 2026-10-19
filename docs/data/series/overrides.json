@@ -1,5 +1,8 @@
 {
   "exclude": [],
   "forceType": {},
-  "merge": {}
+  "merge": {},
+  "include": {
+    "009:밀라노은나": "기획"
+  }
 }

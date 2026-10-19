@@ -36,6 +36,12 @@ def rebuild():
                 # 2차: 회차 표기가 없어도 기획성 키워드 라벨([창간기획 ○○] 등)은 시리즈로 등록
                 sig = rules.plan_label_signature(art["title"])
             if not sig:
+                # 3차: overrides.json의 include에 수동 지정된 라벨
+                for inner, _ in rules.extract_labels(art["title"]):
+                    if rules.norm_key(art["press"], inner) in ov.get("include", {}):
+                        sig = {"name": inner, "ord": 0, "epLabel": "·", "isEnd": False}
+                        break
+            if not sig:
                 continue
             key = rules.norm_key(art["press"], sig["name"])
             key = ov.get("merge", {}).get(key, key)
@@ -81,14 +87,29 @@ def rebuild():
         rec["episodes"] = uniq
         first_ord = min(e["ord"] for e in uniq)
         has_sjh = any(e["label"] in ("상", "중", "하") for e in uniq)
-        rec["seriesType"] = ov.get("forceType", {}).get(key) or rules.classify(
-            rec["name"], first_ord, has_sjh
+        rec["seriesType"] = (
+            ov.get("forceType", {}).get(key)
+            or ov.get("include", {}).get(key)
+            or rules.classify(rec["name"], first_ord, has_sjh)
         )
         rec["status"] = "completed" if any(e["isEnd"] for e in uniq) else "ongoing"
         rec["firstDate"] = uniq[0]["date"]
         rec["lastDate"] = uniq[-1]["date"]
 
-    # 단일 회차 + 번호 1도 아닌 연재칼럼 추정건은 유지(데이터로 남김) — 대시보드에서 필터
+    # 가지치기: 라벨만으로 등록된(회차 표기 없는) 시리즈 중 기획 키워드도 없고
+    # 하루 1~2건에 그친 것은 노이즈로 보고 제외 (include 수동 지정은 예외)
+    drop = set()
+    for key, rec in series.items():
+        if key in ov.get("include", {}):
+            continue
+        eps = rec["episodes"]
+        if all(e["label"] == "·" for e in eps) and not rules.STRONG_PLAN.search(rec["name"]):
+            n_dates = len({e["date"] for e in eps})
+            if n_dates < 2 and len(eps) < 3:
+                drop.add(key)
+    for key in drop:
+        del series[key]
+    hits = [(di, ai, k) for di, ai, k in hits if k not in drop]
 
     # 기사에 seriesKey/seriesType 역주입 후 papers 저장
     type_of = {k: r["seriesType"] for k, r in series.items()}

@@ -146,6 +146,11 @@ def plan_label_signature(title):
             continue
         if STRONG_PLAN.search(inner) and len(inner) >= 5:
             return {"name": inner, "ord": 0, "epLabel": "·", "isEnd": False}
+        # 독립된 연도 토큰이 든 라벨([CES 2026], [2026 신춘문예] 등)은 이벤트성 기획 커버리지
+        # ('카페2030', '2030세상' 같은 세대 표기는 연도 앞뒤에 글자가 붙으므로 제외)
+        # 202X만 인정: '2030', '3040' 같은 세대 표기([카페 2030] 등)가 걸리지 않도록
+        if re.search(r"(?<![0-9가-힣A-Za-z])202\d(?![0-9가-힣A-Za-z])", inner) and len(inner) >= 4:
+            return {"name": inner, "ord": 0, "epLabel": "·", "isEnd": False}
     return None
 
 
