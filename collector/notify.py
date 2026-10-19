@@ -20,13 +20,26 @@ def esc(s):
     return html.escape(s, quote=False)
 
 
+import re as _re
+
+
+def _page_parts(page):
+    m = _re.match(r"([A-Za-z]*)0*(\d+)$", page)
+    return (m.group(1).upper(), int(m.group(2))) if m else ("Z", 999)
+
+
 def front_page_lines(doc):
-    """신문사별 1면 기사 (머리기사 먼저)."""
-    out = {}
+    """신문사별 종합 1면 기사 (머리기사 먼저). A섹션이 없는 매체(중앙SUNDAY=T1)도 처리."""
+    by_press = {}
     for a in doc["articles"]:
-        if a["page"] not in ("A1", "1", "01"):
+        by_press.setdefault(a["press"], []).append(a)
+    out = {}
+    for oid, arts in by_press.items():
+        secs = {_page_parts(a["page"])[0] for a in arts if _page_parts(a["page"])[1] == 1}
+        if not secs:
             continue
-        out.setdefault(a["press"], []).append(a)
+        main = "A" if "A" in secs else ("" if "" in secs else sorted(secs)[0])
+        out[oid] = [a for a in arts if _page_parts(a["page"]) == (main, 1)]
     lines, ids = [], []
     for oid in config.PRESSES:
         arts = out.get(oid)
@@ -132,7 +145,7 @@ def main():
         return
 
     y, m, d = date.split("-")
-    header = f"🗞 <b>{y}.{m}.{d} 조간 1면</b>" + (" (추가분)" if sent else "")
+    header = f"🗞 <b>{y}.{m}.{d} 조간 가판대</b>" + (" (추가분)" if sent else "")
     body = [header, ""]
     body += fp_lines
     if sr_lines:

@@ -226,6 +226,51 @@
    "lastDate": "2026-10-17"
   },
   {
+   "seriesKey": "353:먼나라이웃나라역사프리즘",
+   "press": "353",
+   "pressName": "중앙SUNDAY",
+   "name": "먼나라 이웃나라 역사 프리즘",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "151",
+     "ord": 151,
+     "isEnd": false,
+     "date": "2026-10-03",
+     "page": "T29",
+     "column": null,
+     "title": "[먼나라 이웃나라 역사 프리즘] <151> 세상을 구한 사나이",
+     "url": "https://n.news.naver.com/article/353/0000056776",
+     "articleId": "0000056776"
+    },
+    {
+     "label": "152",
+     "ord": 152,
+     "isEnd": false,
+     "date": "2026-10-10",
+     "page": "T29",
+     "column": null,
+     "title": "[먼나라 이웃나라 역사 프리즘] <152> 살생부",
+     "url": "https://n.news.naver.com/article/353/0000056862",
+     "articleId": "0000056862"
+    },
+    {
+     "label": "153",
+     "ord": 153,
+     "isEnd": false,
+     "date": "2026-10-17",
+     "page": "T29",
+     "column": null,
+     "title": "[먼나라 이웃나라 역사 프리즘] <153> 반전(反轉) 1",
+     "url": "https://n.news.naver.com/article/353/0000056931",
+     "articleId": "0000056931"
+    }
+   ],
+   "firstDate": "2026-10-03",
+   "lastDate": "2026-10-17"
+  },
+  {
    "seriesKey": "020:이준식의한시한수",
    "press": "020",
    "pressName": "동아일보",

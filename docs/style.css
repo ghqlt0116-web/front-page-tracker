@@ -47,6 +47,10 @@ a:hover { text-decoration: underline; }
 /* ── 마스트헤드 ── */
 .masthead { border-bottom: 3px double var(--rule-strong); }
 .masthead-inner { text-align: center; padding: 28px 16px 14px; }
+.masthead .eyebrow {
+  font-size: 10px; letter-spacing: .45em; color: var(--ink-soft);
+  margin: 0 0 4px; font-weight: 500;
+}
 .masthead h1 {
   font-family: var(--serif);
   font-weight: 900;
@@ -54,7 +58,8 @@ a:hover { text-decoration: underline; }
   letter-spacing: 0.12em;
   margin: 0;
 }
-.masthead .sub { color: var(--ink-soft); font-size: 13px; margin: 6px 0 0; }
+.masthead .sub { color: var(--ink-soft); font-size: 13px; margin: 6px auto 0; max-width: 640px; line-height: 1.6; }
+.m-only { display: none; }
 
 .toolbar {
   display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
@@ -121,6 +126,18 @@ main { max-width: 1280px; margin: 0 auto; padding: 18px 16px 60px; }
   color: var(--ink-soft); border-bottom: 1px solid var(--rule-strong);
   padding-bottom: 4px;
 }
+.sect-group { padding-top: 8px; }
+.sect-group .sub-list li { border-top: none; padding: 4px 0; }
+.sect-group.special { opacity: .62; }
+.badge.special-tag { background: none; border: 1px dashed var(--ink-soft); }
+
+/* 관련 지면 기사 (키워드 기반 추정) */
+.related { margin: 4px 0 2px; }
+.related a {
+  display: block; font-size: 12px; color: var(--ink-soft);
+  padding: 2px 0 2px 10px; line-height: 1.4;
+}
+.related .rel-page { font-weight: 700; color: var(--accent); }
 
 /* 배지 */
 .badge {
@@ -200,6 +217,7 @@ details.page-sec[open] summary .preview { visibility: hidden; }
 .foot a { text-decoration: underline; }
 
 @media (max-width: 720px) {
+  .m-only { display: inline; }
   .front-grid { grid-template-columns: 1fr; }
   .press-col { border-left: none; border-top: 2px solid var(--rule-strong); padding: 12px 0 20px; }
   .press-col:first-child { border-top: none; }

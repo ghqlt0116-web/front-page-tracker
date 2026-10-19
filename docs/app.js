@@ -1,6 +1,6 @@
 /* 조간 1면 트래커 — 바닐라 JS 대시보드 */
 (() => {
-  const PRESS_ORDER = ["023", "025", "020", "009", "015"];
+  const PRESS_ORDER = ["023", "025", "353", "020", "009", "015"];
   const state = {
     view: "front",
     date: null,
@@ -43,13 +43,60 @@
     return state.seriesIndex;
   }
 
-  function isFront(page) {
-    // 종합 1면(A1)만. B1·C1·E1 등은 별지 섹션의 1면이므로 제외
-    return /^A?0?1$/.test(page);
+  function pageParts(page) {
+    const m = page.match(/^([A-Za-z]*)0*(\d+)$/);
+    return m ? { sec: m[1].toUpperCase(), num: +m[2] } : { sec: "Z", num: 999 };
   }
 
-  function isSectionFront(page) {
-    return /^[B-Z]0?1$/.test(page);
+  // 매체별 '종합 1면' 섹션: A섹션이 있으면 A, 없으면(중앙SUNDAY=T 등) 가장 앞 섹션
+  function mainFrontSec(articles) {
+    const secs = new Set(
+      articles.filter((a) => pageParts(a.page).num === 1).map((a) => pageParts(a.page).sec)
+    );
+    if (!secs.size) return null;
+    if (secs.has("A") || secs.has("")) return secs.has("A") ? "A" : "";
+    return [...secs].sort()[0];
+  }
+
+  // 특집·협찬성 섹션 추정 (제목 묶음에 특집 키워드가 보이면 태그만 달고 표시는 유지)
+  const SPECIAL_RE = /(특집|창간|기념|주년|포럼|콘퍼런스|컨퍼런스|어워드|시상|수상|상생|공헌|캠페인|박람회|엑스포)/;
+
+  // 관련 지면 기사 추정: 같은 신문·같은 날 안쪽 면에서 제목 핵심 단어가 겹치는 기사
+  const STOPWORDS = new Set([
+    "단독", "속보", "종합", "오늘", "내일", "올해", "한국", "정부", "대통령", "국내",
+    "사진", "포토", "전망", "논란", "확대", "강화", "추진", "발표", "그래픽",
+  ]);
+  function tokenize(title) {
+    return title
+      .replace(/[\[\]()〈〉<>【】「」《》'"'"…·]/g, " ")
+      .split(/[^0-9A-Za-z가-힣]+/)
+      .filter((t) => t.length >= 2 && !STOPWORDS.has(t));
+  }
+  function findRelated(art, pool) {
+    const tk = new Set(tokenize(art.title));
+    if (!tk.size) return [];
+    const scored = [];
+    for (const a of pool) {
+      if (a.articleId === art.articleId) continue;
+      const shared = tokenize(a.title).filter((t) => tk.has(t));
+      const uniq = [...new Set(shared)];
+      const strong = uniq.some((t) => t.length >= 5);
+      if (uniq.length >= 2 || (uniq.length === 1 && strong)) {
+        scored.push([uniq.length + (strong ? 1 : 0), a]);
+      }
+    }
+    return scored.sort((x, y) => y[0] - x[0]).slice(0, 2).map(([, a]) => a);
+  }
+
+  function relatedHtml(art, pool) {
+    const rel = findRelated(art, pool);
+    if (!rel.length) return "";
+    return `<div class="related">${rel
+      .map(
+        (r) =>
+          `<a href="${r.url}" target="_blank" rel="noopener">↳ <span class="rel-page">${esc(r.page)}면</span> ${esc(r.title)}</a>`
+      )
+      .join("")}</div>`;
   }
 
   function matchQ(title) {
@@ -76,44 +123,67 @@
       return;
     }
     const byPress = {};
-    const sectByPress = {};
-    for (const a of doc.articles) {
-      if (!matchQ(a.title)) continue;
-      if (isFront(a.page)) (byPress[a.press] ??= []).push(a);
-      else if (isSectionFront(a.page)) (sectByPress[a.press] ??= []).push(a);
-    }
+    for (const a of doc.articles) (byPress[a.press] ??= []).push(a);
+
     let html = `<div class="front-grid">`;
     for (const oid of PRESS_ORDER) {
-      const arts = (byPress[oid] || []).sort((x, y) => x.pageOrder - y.pageOrder);
+      const all = byPress[oid] || [];
+      if (!all.length) continue; // 미발행(휴간·주말전용지 평일 등)은 컬럼 자체를 숨김
+      const mainSec = mainFrontSec(all);
+      const fronts = all
+        .filter((a) => {
+          const p = pageParts(a.page);
+          return p.num === 1 && p.sec === mainSec && matchQ(a.title);
+        })
+        .sort((x, y) => x.pageOrder - y.pageOrder);
+      // 안쪽 면 전체: 관련 기사 추정 풀
+      const inner = all.filter((a) => !(pageParts(a.page).num === 1 && pageParts(a.page).sec === mainSec));
       const name = state.presses[oid] || oid;
-      html += `<div class="press-col"><h2 class="press-head">${esc(name)}<span class="cnt">1면 ${arts.length}건</span></h2>`;
-      if (!arts.length) {
+      html += `<div class="press-col"><h2 class="press-head">${esc(name)}<span class="cnt">1면 ${fronts.length}건</span></h2>`;
+      if (!fronts.length) {
         html += `<p class="empty" style="padding:20px 0">기사 없음</p></div>`;
         continue;
       }
-      const top = arts[0];
+      const top = fronts[0];
       html += `<a class="top-article" href="${top.url}" target="_blank" rel="noopener">
         ${top.thumb ? `<img src="${top.thumb}" alt="" loading="lazy" onerror="this.remove()">` : ""}
         <div class="kicker">머리기사 ${badges(top)}</div>
         <h3 class="headline">${esc(top.title)}</h3></a>`;
+      html += relatedHtml(top, inner);
       html += `<ul class="sub-list">`;
-      for (const a of arts.slice(1)) {
-        html += `<li><a href="${a.url}" target="_blank" rel="noopener">${badges(a)}${esc(a.title)}</a></li>`;
+      for (const a of fronts.slice(1)) {
+        html += `<li><a href="${a.url}" target="_blank" rel="noopener">${badges(a)}${esc(a.title)}</a>${relatedHtml(a, inner)}</li>`;
       }
       html += `</ul>`;
-      // 별지 섹션 1면 (B1 경제 등): 섹션별 머리기사만 분리 표시
-      const sects = (sectByPress[oid] || []).filter((a) => a.pageOrder === 1);
-      if (sects.length) {
-        html += `<div class="sect-fronts"><div class="sect-head">섹션 1면</div><ul class="sub-list">`;
-        for (const a of sects.sort((x, y) => (x.page < y.page ? -1 : 1))) {
-          html += `<li><a href="${a.url}" target="_blank" rel="noopener"><span class="badge">${esc(a.page)}면</span>${badges(a)}${esc(a.title)}</a></li>`;
+
+      // 별지 섹션 1면 (B1 경제, E1 등): 면 단위로 전체 기사 표시
+      const sectPages = new Map();
+      for (const a of all) {
+        const p = pageParts(a.page);
+        if (p.num === 1 && p.sec !== mainSec && matchQ(a.title)) {
+          if (!sectPages.has(a.page)) sectPages.set(a.page, []);
+          sectPages.get(a.page).push(a);
         }
-        html += `</ul></div>`;
+      }
+      if (sectPages.size) {
+        html += `<div class="sect-fronts"><div class="sect-head">섹션 1면</div>`;
+        for (const pg of [...sectPages.keys()].sort()) {
+          const list = sectPages.get(pg).sort((x, y) => x.pageOrder - y.pageOrder);
+          const special = SPECIAL_RE.test(list.map((a) => a.title).join(" "));
+          html += `<div class="sect-group${special ? " special" : ""}">
+            <span class="badge">${esc(pg)}면</span>${special ? `<span class="badge special-tag">특집 추정</span>` : ""}
+            <ul class="sub-list">`;
+          for (const a of list) {
+            html += `<li><a href="${a.url}" target="_blank" rel="noopener">${badges(a)}${esc(a.title)}</a></li>`;
+          }
+          html += `</ul></div>`;
+        }
+        html += `</div>`;
       }
       html += `</div>`;
     }
     html += `</div>`;
-    el.innerHTML = html;
+    el.innerHTML = html || `<p class="empty">기사 없음</p>`;
   }
 
   /* ── 지면 뷰 ── */
@@ -151,9 +221,11 @@
       bindPressTabs(el);
       return;
     }
+    const mainSec = mainFrontSec(arts);
     for (const p of pages) {
       const list = byPage.get(p).sort((x, y) => x.pageOrder - y.pageOrder);
-      const open = isFront(p) ? " open" : "";
+      const pp = pageParts(p);
+      const open = pp.num === 1 && pp.sec === mainSec ? " open" : "";
       html += `<details class="page-sec"${open}><summary><span class="pageno">${esc(p)}면</span><span class="preview">${esc(list[0].title)}</span><span class="cnt" style="font-family:var(--sans);font-size:12px;color:var(--ink-soft)">${list.length}건</span></summary><ul class="page-arts">`;
       list.forEach((a, i) => {
         html += `<li>${i === 0 ? '<span class="badge top">톱</span>' : ""}${badges(a)}<a href="${a.url}" target="_blank" rel="noopener">${esc(a.title)}</a></li>`;
