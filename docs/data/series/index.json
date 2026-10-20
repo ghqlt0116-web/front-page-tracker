@@ -1,6 +1,230 @@
 {
  "series": [
   {
+   "seriesKey": "020:정덕현의그영화이대사",
+   "press": "020",
+   "pressName": "동아일보",
+   "name": "정덕현의 그 영화 이 대사",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "89",
+     "ord": 89,
+     "isEnd": false,
+     "date": "2026-01-07",
+     "page": "A31",
+     "column": null,
+     "title": "누군가 있다는 것[정덕현의 그 영화 이 대사]〈89〉",
+     "url": "https://n.news.naver.com/article/020/0003687301",
+     "articleId": "0003687301"
+    },
+    {
+     "label": "90",
+     "ord": 90,
+     "isEnd": false,
+     "date": "2026-01-14",
+     "page": "A27",
+     "column": null,
+     "title": "예쁜 고래 한 마리[정덕현의 그 영화 이 대사]〈90〉",
+     "url": "https://n.news.naver.com/article/020/0003689094",
+     "articleId": "0003689094"
+    },
+    {
+     "label": "127",
+     "ord": 127,
+     "isEnd": false,
+     "date": "2026-10-07",
+     "page": "A31",
+     "column": null,
+     "title": "명성보다 소중한 일상[정덕현의 그 영화 이 대사]〈127〉",
+     "url": "https://n.news.naver.com/article/020/0003753147",
+     "articleId": "0003753147"
+    },
+    {
+     "label": "128",
+     "ord": 128,
+     "isEnd": false,
+     "date": "2026-10-14",
+     "page": "A31",
+     "column": null,
+     "title": "실제라 믿고 싶지 않은 풍자극[정덕현의 그 영화 이 대사]〈128〉",
+     "url": "https://n.news.naver.com/article/020/0003754718",
+     "articleId": "0003754718"
+    },
+    {
+     "label": "129",
+     "ord": 129,
+     "isEnd": false,
+     "date": "2026-10-21",
+     "page": "A27",
+     "column": null,
+     "title": "나를 성장시킨 누군가의 등[정덕현의 그 영화 이 대사]〈129〉",
+     "url": "https://n.news.naver.com/article/020/0003756366",
+     "articleId": "0003756366"
+    }
+   ],
+   "firstDate": "2026-01-07",
+   "lastDate": "2026-10-21"
+  },
+  {
+   "seriesKey": "023:김도훈의엑스레이",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "김도훈의 엑스레이",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "103",
+     "ord": 103,
+     "isEnd": false,
+     "date": "2026-01-07",
+     "page": "A30",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [103] 정치판 가면 거덜날 사주",
+     "url": "https://n.news.naver.com/article/023/0003951332",
+     "articleId": "0003951332"
+    },
+    {
+     "label": "104",
+     "ord": 104,
+     "isEnd": false,
+     "date": "2026-01-14",
+     "page": "A30",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [104] 새해 결심의 공동묘지",
+     "url": "https://n.news.naver.com/article/023/0003952771",
+     "articleId": "0003952771"
+    },
+    {
+     "label": "141",
+     "ord": 141,
+     "isEnd": false,
+     "date": "2026-10-07",
+     "page": "A30",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [141] 신나는 괴짜",
+     "url": "https://n.news.naver.com/article/023/0004002373",
+     "articleId": "0004002373"
+    },
+    {
+     "label": "142",
+     "ord": 142,
+     "isEnd": false,
+     "date": "2026-10-14",
+     "page": "A30",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [142] 귀여워야 산다",
+     "url": "https://n.news.naver.com/article/023/0004003631",
+     "articleId": "0004003631"
+    },
+    {
+     "label": "143",
+     "ord": 143,
+     "isEnd": false,
+     "date": "2026-10-21",
+     "page": "A30",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [143] 계시 좀 주세요",
+     "url": "https://n.news.naver.com/article/023/0004004938",
+     "articleId": "0004004938"
+    }
+   ],
+   "firstDate": "2026-01-07",
+   "lastDate": "2026-10-21"
+  },
+  {
+   "seriesKey": "023:유재덕의공유주방",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "유재덕의 공유주방",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "1",
+     "ord": 1,
+     "isEnd": false,
+     "date": "2026-01-07",
+     "page": "A31",
+     "column": null,
+     "title": "[유재덕의 공유주방] [1] 30년 칼잡이의 깨달음",
+     "url": "https://n.news.naver.com/article/023/0003951333",
+     "articleId": "0003951333"
+    },
+    {
+     "label": "2",
+     "ord": 2,
+     "isEnd": false,
+     "date": "2026-01-14",
+     "page": "A31",
+     "column": null,
+     "title": "[유재덕의 공유주방] [2] 요리는 고통인가, 궁리인가",
+     "url": "https://n.news.naver.com/article/023/0003952772",
+     "articleId": "0003952772"
+    },
+    {
+     "label": "39",
+     "ord": 39,
+     "isEnd": false,
+     "date": "2026-10-07",
+     "page": "A31",
+     "column": null,
+     "title": "[유재덕의 공유주방] [39] 맛의 세계 넓히는 ‘절제’",
+     "url": "https://n.news.naver.com/article/023/0004002414",
+     "articleId": "0004002414"
+    },
+    {
+     "label": "40",
+     "ord": 40,
+     "isEnd": false,
+     "date": "2026-10-14",
+     "page": "A31",
+     "column": null,
+     "title": "[유재덕의 공유주방] [40] 잔소리할 줄 아는 선배",
+     "url": "https://n.news.naver.com/article/023/0004003632",
+     "articleId": "0004003632"
+    },
+    {
+     "label": "41",
+     "ord": 41,
+     "isEnd": false,
+     "date": "2026-10-21",
+     "page": "A31",
+     "column": null,
+     "title": "[유재덕의 공유주방] [41] 넌 ‘불평할 자격’이 없어",
+     "url": "https://n.news.naver.com/article/023/0004004939",
+     "articleId": "0004004939"
+    }
+   ],
+   "firstDate": "2026-01-07",
+   "lastDate": "2026-10-21"
+  },
+  {
+   "seriesKey": "020:김창일의갯마을탐구",
+   "press": "020",
+   "pressName": "동아일보",
+   "name": "김창일의 갯마을 탐구",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "153",
+     "ord": 153,
+     "isEnd": false,
+     "date": "2026-10-21",
+     "page": "A24",
+     "column": null,
+     "title": "‘부캉이’가 깨운 상어에 대한 오랜 기억[김창일의 갯마을 탐구]〈153〉",
+     "url": "https://n.news.naver.com/article/020/0003756368",
+     "articleId": "0003756368"
+    }
+   ],
+   "firstDate": "2026-10-21",
+   "lastDate": "2026-10-21"
+  },
+  {
    "seriesKey": "020:임용한의전쟁사",
    "press": "020",
    "pressName": "동아일보",
@@ -1131,174 +1355,6 @@
    ],
    "firstDate": "2026-10-15",
    "lastDate": "2026-10-15"
-  },
-  {
-   "seriesKey": "020:정덕현의그영화이대사",
-   "press": "020",
-   "pressName": "동아일보",
-   "name": "정덕현의 그 영화 이 대사",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "89",
-     "ord": 89,
-     "isEnd": false,
-     "date": "2026-01-07",
-     "page": "A31",
-     "column": null,
-     "title": "누군가 있다는 것[정덕현의 그 영화 이 대사]〈89〉",
-     "url": "https://n.news.naver.com/article/020/0003687301",
-     "articleId": "0003687301"
-    },
-    {
-     "label": "90",
-     "ord": 90,
-     "isEnd": false,
-     "date": "2026-01-14",
-     "page": "A27",
-     "column": null,
-     "title": "예쁜 고래 한 마리[정덕현의 그 영화 이 대사]〈90〉",
-     "url": "https://n.news.naver.com/article/020/0003689094",
-     "articleId": "0003689094"
-    },
-    {
-     "label": "127",
-     "ord": 127,
-     "isEnd": false,
-     "date": "2026-10-07",
-     "page": "A31",
-     "column": null,
-     "title": "명성보다 소중한 일상[정덕현의 그 영화 이 대사]〈127〉",
-     "url": "https://n.news.naver.com/article/020/0003753147",
-     "articleId": "0003753147"
-    },
-    {
-     "label": "128",
-     "ord": 128,
-     "isEnd": false,
-     "date": "2026-10-14",
-     "page": "A31",
-     "column": null,
-     "title": "실제라 믿고 싶지 않은 풍자극[정덕현의 그 영화 이 대사]〈128〉",
-     "url": "https://n.news.naver.com/article/020/0003754718",
-     "articleId": "0003754718"
-    }
-   ],
-   "firstDate": "2026-01-07",
-   "lastDate": "2026-10-14"
-  },
-  {
-   "seriesKey": "023:김도훈의엑스레이",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "김도훈의 엑스레이",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "103",
-     "ord": 103,
-     "isEnd": false,
-     "date": "2026-01-07",
-     "page": "A30",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [103] 정치판 가면 거덜날 사주",
-     "url": "https://n.news.naver.com/article/023/0003951332",
-     "articleId": "0003951332"
-    },
-    {
-     "label": "104",
-     "ord": 104,
-     "isEnd": false,
-     "date": "2026-01-14",
-     "page": "A30",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [104] 새해 결심의 공동묘지",
-     "url": "https://n.news.naver.com/article/023/0003952771",
-     "articleId": "0003952771"
-    },
-    {
-     "label": "141",
-     "ord": 141,
-     "isEnd": false,
-     "date": "2026-10-07",
-     "page": "A30",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [141] 신나는 괴짜",
-     "url": "https://n.news.naver.com/article/023/0004002373",
-     "articleId": "0004002373"
-    },
-    {
-     "label": "142",
-     "ord": 142,
-     "isEnd": false,
-     "date": "2026-10-14",
-     "page": "A30",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [142] 귀여워야 산다",
-     "url": "https://n.news.naver.com/article/023/0004003631",
-     "articleId": "0004003631"
-    }
-   ],
-   "firstDate": "2026-01-07",
-   "lastDate": "2026-10-14"
-  },
-  {
-   "seriesKey": "023:유재덕의공유주방",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "유재덕의 공유주방",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "1",
-     "ord": 1,
-     "isEnd": false,
-     "date": "2026-01-07",
-     "page": "A31",
-     "column": null,
-     "title": "[유재덕의 공유주방] [1] 30년 칼잡이의 깨달음",
-     "url": "https://n.news.naver.com/article/023/0003951333",
-     "articleId": "0003951333"
-    },
-    {
-     "label": "2",
-     "ord": 2,
-     "isEnd": false,
-     "date": "2026-01-14",
-     "page": "A31",
-     "column": null,
-     "title": "[유재덕의 공유주방] [2] 요리는 고통인가, 궁리인가",
-     "url": "https://n.news.naver.com/article/023/0003952772",
-     "articleId": "0003952772"
-    },
-    {
-     "label": "39",
-     "ord": 39,
-     "isEnd": false,
-     "date": "2026-10-07",
-     "page": "A31",
-     "column": null,
-     "title": "[유재덕의 공유주방] [39] 맛의 세계 넓히는 ‘절제’",
-     "url": "https://n.news.naver.com/article/023/0004002414",
-     "articleId": "0004002414"
-    },
-    {
-     "label": "40",
-     "ord": 40,
-     "isEnd": false,
-     "date": "2026-10-14",
-     "page": "A31",
-     "column": null,
-     "title": "[유재덕의 공유주방] [40] 잔소리할 줄 아는 선배",
-     "url": "https://n.news.naver.com/article/023/0004003632",
-     "articleId": "0004003632"
-    }
-   ],
-   "firstDate": "2026-01-07",
-   "lastDate": "2026-10-14"
   },
   {
    "seriesKey": "023:이대화의함께들어요",
