@@ -1,6 +1,308 @@
 {
  "series": [
   {
+   "seriesKey": "020:이은화의미술시간",
+   "press": "020",
+   "pressName": "동아일보",
+   "name": "이은화의 미술시간",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "403",
+     "ord": 403,
+     "isEnd": false,
+     "date": "2026-01-01",
+     "page": "A31",
+     "column": null,
+     "title": "단단한 빛[이은화의 미술시간]〈403〉",
+     "url": "https://n.news.naver.com/article/020/0003685984",
+     "articleId": "0003685984"
+    },
+    {
+     "label": "404",
+     "ord": 404,
+     "isEnd": false,
+     "date": "2026-01-08",
+     "page": "A31",
+     "column": null,
+     "title": "오만한 권력의 몰락[이은화의 미술시간]〈404〉",
+     "url": "https://n.news.naver.com/article/020/0003687648",
+     "articleId": "0003687648"
+    },
+    {
+     "label": "443",
+     "ord": 443,
+     "isEnd": false,
+     "date": "2026-10-08",
+     "page": "A27",
+     "column": null,
+     "title": "권력의 진짜 얼굴[이은화의 미술시간]〈443〉",
+     "url": "https://n.news.naver.com/article/020/0003753476",
+     "articleId": "0003753476"
+    },
+    {
+     "label": "444",
+     "ord": 444,
+     "isEnd": false,
+     "date": "2026-10-15",
+     "page": "A27",
+     "column": null,
+     "title": "거울이 거스른 법칙[이은화의 미술시간]〈444〉",
+     "url": "https://n.news.naver.com/article/020/0003755014",
+     "articleId": "0003755014"
+    },
+    {
+     "label": "445",
+     "ord": 445,
+     "isEnd": false,
+     "date": "2026-10-22",
+     "page": "A31",
+     "column": null,
+     "title": "그림의 운명[이은화의 미술시간]〈445〉",
+     "url": "https://n.news.naver.com/article/020/0003756680",
+     "articleId": "0003756680"
+    }
+   ],
+   "firstDate": "2026-01-01",
+   "lastDate": "2026-10-22"
+  },
+  {
+   "seriesKey": "023:이응준의과거에서보내는엽서",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "이응준의 과거에서 보내는 엽서",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "47",
+     "ord": 47,
+     "isEnd": false,
+     "date": "2026-01-01",
+     "page": "A26",
+     "column": null,
+     "title": "[이응준의 과거에서 보내는 엽서] [47] 우주소년 아톰",
+     "url": "https://n.news.naver.com/article/023/0003950198",
+     "articleId": "0003950198"
+    },
+    {
+     "label": "48",
+     "ord": 48,
+     "isEnd": false,
+     "date": "2026-01-08",
+     "page": "A30",
+     "column": null,
+     "title": "[이응준의 과거에서 보내는 엽서] [48] 마오쩌둥과 저우언라이",
+     "url": "https://n.news.naver.com/article/023/0003951589",
+     "articleId": "0003951589"
+    },
+    {
+     "label": "87",
+     "ord": 87,
+     "isEnd": false,
+     "date": "2026-10-08",
+     "page": "A30",
+     "column": null,
+     "title": "[이응준의 과거에서 보내는 엽서] [87] 버마의 ‘암살자(들)’",
+     "url": "https://n.news.naver.com/article/023/0004002649",
+     "articleId": "0004002649"
+    },
+    {
+     "label": "88",
+     "ord": 88,
+     "isEnd": false,
+     "date": "2026-10-15",
+     "page": "A30",
+     "column": null,
+     "title": "[이응준의 과거에서 보내는 엽서] [88] ‘마녀사냥’의 중독성",
+     "url": "https://n.news.naver.com/article/023/0004003846",
+     "articleId": "0004003846"
+    },
+    {
+     "label": "89",
+     "ord": 89,
+     "isEnd": false,
+     "date": "2026-10-22",
+     "page": "A30",
+     "column": null,
+     "title": "[이응준의 과거에서 보내는 엽서] [89] 케네디의 승부수",
+     "url": "https://n.news.naver.com/article/023/0004005158",
+     "articleId": "0004005158"
+    }
+   ],
+   "firstDate": "2026-01-01",
+   "lastDate": "2026-10-22"
+  },
+  {
+   "seriesKey": "023:이미도의아라비안나이트",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "이미도의 아라비안 舞飛 나이트",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "1",
+     "ord": 1,
+     "isEnd": false,
+     "date": "2026-01-01",
+     "page": "A27",
+     "column": null,
+     "title": "[이미도의 아라비안 舞飛 나이트] [1] When life gives you lemons, make lemonade",
+     "url": "https://n.news.naver.com/article/023/0003950199",
+     "articleId": "0003950199"
+    },
+    {
+     "label": "21",
+     "ord": 21,
+     "isEnd": false,
+     "date": "2026-10-08",
+     "page": "A31",
+     "column": null,
+     "title": "[이미도의 아라비안 舞飛 나이트] [21] 방관은 惡을 편든다",
+     "url": "https://n.news.naver.com/article/023/0004002650",
+     "articleId": "0004002650"
+    },
+    {
+     "label": "22",
+     "ord": 22,
+     "isEnd": false,
+     "date": "2026-10-22",
+     "page": "A31",
+     "column": null,
+     "title": "[이미도의 아라비안 舞飛 나이트] [22] 가장 해로운 칭찬",
+     "url": "https://n.news.naver.com/article/023/0004005159",
+     "articleId": "0004005159"
+    }
+   ],
+   "firstDate": "2026-01-01",
+   "lastDate": "2026-10-22"
+  },
+  {
+   "seriesKey": "025:시조가있는아침",
+   "press": "025",
+   "pressName": "중앙일보",
+   "name": "시조가 있는 아침",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "310",
+     "ord": 310,
+     "isEnd": false,
+     "date": "2026-01-01",
+     "page": "A21",
+     "column": null,
+     "title": "[시조가 있는 아침] (310) 혹한(酷寒)",
+     "url": "https://n.news.naver.com/article/025/0003493756",
+     "articleId": "0003493756"
+    },
+    {
+     "label": "311",
+     "ord": 311,
+     "isEnd": false,
+     "date": "2026-01-08",
+     "page": "A26",
+     "column": null,
+     "title": "[시조가 있는 아침] (311) 동짓달 밤 길단 말이",
+     "url": "https://n.news.naver.com/article/025/0003495188",
+     "articleId": "0003495188"
+    },
+    {
+     "label": "349",
+     "ord": 349,
+     "isEnd": false,
+     "date": "2026-10-08",
+     "page": "A23",
+     "column": null,
+     "title": "[시조가 있는 아침] (349) 흰 이슬 서리 되니",
+     "url": "https://n.news.naver.com/article/025/0003556453",
+     "articleId": "0003556453"
+    },
+    {
+     "label": "350",
+     "ord": 350,
+     "isEnd": false,
+     "date": "2026-10-15",
+     "page": "A23",
+     "column": null,
+     "title": "[시조가 있는 아침] (350) 서귀포 바다",
+     "url": "https://n.news.naver.com/article/025/0003557987",
+     "articleId": "0003557987"
+    },
+    {
+     "label": "351",
+     "ord": 351,
+     "isEnd": false,
+     "date": "2026-10-22",
+     "page": "A27",
+     "column": null,
+     "title": "[시조가 있는 아침] (351) 흰 구름 푸른 내는",
+     "url": "https://n.news.naver.com/article/025/0003559618",
+     "articleId": "0003559618"
+    }
+   ],
+   "firstDate": "2026-01-01",
+   "lastDate": "2026-10-22"
+  },
+  {
+   "seriesKey": "020:만화그리는의사들",
+   "press": "020",
+   "pressName": "동아일보",
+   "name": "만화 그리는 의사들",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "390",
+     "ord": 390,
+     "isEnd": false,
+     "date": "2026-01-08",
+     "page": "A22",
+     "column": null,
+     "title": "[만화 그리는 의사들]〈390〉피곤하다고 집에서 수액을 맞을 수 있나요?",
+     "url": "https://n.news.naver.com/article/020/0003687705",
+     "articleId": "0003687705"
+    },
+    {
+     "label": "425",
+     "ord": 425,
+     "isEnd": false,
+     "date": "2026-10-08",
+     "page": "A20",
+     "column": null,
+     "title": "[만화 그리는 의사들]〈425〉연휴가 지나고",
+     "url": "https://n.news.naver.com/article/020/0003753529",
+     "articleId": "0003753529"
+    },
+    {
+     "label": "426",
+     "ord": 426,
+     "isEnd": false,
+     "date": "2026-10-15",
+     "page": "A20",
+     "column": null,
+     "title": "[만화 그리는 의사들]〈426〉생리통의 치료 방법",
+     "url": "https://n.news.naver.com/article/020/0003755079",
+     "articleId": "0003755079"
+    },
+    {
+     "label": "427",
+     "ord": 427,
+     "isEnd": false,
+     "date": "2026-10-22",
+     "page": "A22",
+     "column": null,
+     "title": "[만화 그리는 의사들]〈427〉필사와 뇌",
+     "url": "https://n.news.naver.com/article/020/0003756796",
+     "articleId": "0003756796"
+    }
+   ],
+   "firstDate": "2026-01-08",
+   "lastDate": "2026-10-22"
+  },
+  {
    "seriesKey": "020:정덕현의그영화이대사",
    "press": "020",
    "pressName": "동아일보",
@@ -1087,219 +1389,6 @@
    "lastDate": "2026-10-16"
   },
   {
-   "seriesKey": "020:이은화의미술시간",
-   "press": "020",
-   "pressName": "동아일보",
-   "name": "이은화의 미술시간",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "403",
-     "ord": 403,
-     "isEnd": false,
-     "date": "2026-01-01",
-     "page": "A31",
-     "column": null,
-     "title": "단단한 빛[이은화의 미술시간]〈403〉",
-     "url": "https://n.news.naver.com/article/020/0003685984",
-     "articleId": "0003685984"
-    },
-    {
-     "label": "404",
-     "ord": 404,
-     "isEnd": false,
-     "date": "2026-01-08",
-     "page": "A31",
-     "column": null,
-     "title": "오만한 권력의 몰락[이은화의 미술시간]〈404〉",
-     "url": "https://n.news.naver.com/article/020/0003687648",
-     "articleId": "0003687648"
-    },
-    {
-     "label": "443",
-     "ord": 443,
-     "isEnd": false,
-     "date": "2026-10-08",
-     "page": "A27",
-     "column": null,
-     "title": "권력의 진짜 얼굴[이은화의 미술시간]〈443〉",
-     "url": "https://n.news.naver.com/article/020/0003753476",
-     "articleId": "0003753476"
-    },
-    {
-     "label": "444",
-     "ord": 444,
-     "isEnd": false,
-     "date": "2026-10-15",
-     "page": "A27",
-     "column": null,
-     "title": "거울이 거스른 법칙[이은화의 미술시간]〈444〉",
-     "url": "https://n.news.naver.com/article/020/0003755014",
-     "articleId": "0003755014"
-    }
-   ],
-   "firstDate": "2026-01-01",
-   "lastDate": "2026-10-15"
-  },
-  {
-   "seriesKey": "023:이응준의과거에서보내는엽서",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "이응준의 과거에서 보내는 엽서",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "47",
-     "ord": 47,
-     "isEnd": false,
-     "date": "2026-01-01",
-     "page": "A26",
-     "column": null,
-     "title": "[이응준의 과거에서 보내는 엽서] [47] 우주소년 아톰",
-     "url": "https://n.news.naver.com/article/023/0003950198",
-     "articleId": "0003950198"
-    },
-    {
-     "label": "48",
-     "ord": 48,
-     "isEnd": false,
-     "date": "2026-01-08",
-     "page": "A30",
-     "column": null,
-     "title": "[이응준의 과거에서 보내는 엽서] [48] 마오쩌둥과 저우언라이",
-     "url": "https://n.news.naver.com/article/023/0003951589",
-     "articleId": "0003951589"
-    },
-    {
-     "label": "87",
-     "ord": 87,
-     "isEnd": false,
-     "date": "2026-10-08",
-     "page": "A30",
-     "column": null,
-     "title": "[이응준의 과거에서 보내는 엽서] [87] 버마의 ‘암살자(들)’",
-     "url": "https://n.news.naver.com/article/023/0004002649",
-     "articleId": "0004002649"
-    },
-    {
-     "label": "88",
-     "ord": 88,
-     "isEnd": false,
-     "date": "2026-10-15",
-     "page": "A30",
-     "column": null,
-     "title": "[이응준의 과거에서 보내는 엽서] [88] ‘마녀사냥’의 중독성",
-     "url": "https://n.news.naver.com/article/023/0004003846",
-     "articleId": "0004003846"
-    }
-   ],
-   "firstDate": "2026-01-01",
-   "lastDate": "2026-10-15"
-  },
-  {
-   "seriesKey": "025:시조가있는아침",
-   "press": "025",
-   "pressName": "중앙일보",
-   "name": "시조가 있는 아침",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "310",
-     "ord": 310,
-     "isEnd": false,
-     "date": "2026-01-01",
-     "page": "A21",
-     "column": null,
-     "title": "[시조가 있는 아침] (310) 혹한(酷寒)",
-     "url": "https://n.news.naver.com/article/025/0003493756",
-     "articleId": "0003493756"
-    },
-    {
-     "label": "311",
-     "ord": 311,
-     "isEnd": false,
-     "date": "2026-01-08",
-     "page": "A26",
-     "column": null,
-     "title": "[시조가 있는 아침] (311) 동짓달 밤 길단 말이",
-     "url": "https://n.news.naver.com/article/025/0003495188",
-     "articleId": "0003495188"
-    },
-    {
-     "label": "349",
-     "ord": 349,
-     "isEnd": false,
-     "date": "2026-10-08",
-     "page": "A23",
-     "column": null,
-     "title": "[시조가 있는 아침] (349) 흰 이슬 서리 되니",
-     "url": "https://n.news.naver.com/article/025/0003556453",
-     "articleId": "0003556453"
-    },
-    {
-     "label": "350",
-     "ord": 350,
-     "isEnd": false,
-     "date": "2026-10-15",
-     "page": "A23",
-     "column": null,
-     "title": "[시조가 있는 아침] (350) 서귀포 바다",
-     "url": "https://n.news.naver.com/article/025/0003557987",
-     "articleId": "0003557987"
-    }
-   ],
-   "firstDate": "2026-01-01",
-   "lastDate": "2026-10-15"
-  },
-  {
-   "seriesKey": "020:만화그리는의사들",
-   "press": "020",
-   "pressName": "동아일보",
-   "name": "만화 그리는 의사들",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "390",
-     "ord": 390,
-     "isEnd": false,
-     "date": "2026-01-08",
-     "page": "A22",
-     "column": null,
-     "title": "[만화 그리는 의사들]〈390〉피곤하다고 집에서 수액을 맞을 수 있나요?",
-     "url": "https://n.news.naver.com/article/020/0003687705",
-     "articleId": "0003687705"
-    },
-    {
-     "label": "425",
-     "ord": 425,
-     "isEnd": false,
-     "date": "2026-10-08",
-     "page": "A20",
-     "column": null,
-     "title": "[만화 그리는 의사들]〈425〉연휴가 지나고",
-     "url": "https://n.news.naver.com/article/020/0003753529",
-     "articleId": "0003753529"
-    },
-    {
-     "label": "426",
-     "ord": 426,
-     "isEnd": false,
-     "date": "2026-10-15",
-     "page": "A20",
-     "column": null,
-     "title": "[만화 그리는 의사들]〈426〉생리통의 치료 방법",
-     "url": "https://n.news.naver.com/article/020/0003755079",
-     "articleId": "0003755079"
-    }
-   ],
-   "firstDate": "2026-01-08",
-   "lastDate": "2026-10-15"
-  },
-  {
    "seriesKey": "023:윤주의이제는국가유산",
    "press": "023",
    "pressName": "조선일보",
@@ -1560,40 +1649,6 @@
    ],
    "firstDate": "2026-01-10",
    "lastDate": "2026-10-10"
-  },
-  {
-   "seriesKey": "023:이미도의아라비안나이트",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "이미도의 아라비안 舞飛 나이트",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "1",
-     "ord": 1,
-     "isEnd": false,
-     "date": "2026-01-01",
-     "page": "A27",
-     "column": null,
-     "title": "[이미도의 아라비안 舞飛 나이트] [1] When life gives you lemons, make lemonade",
-     "url": "https://n.news.naver.com/article/023/0003950199",
-     "articleId": "0003950199"
-    },
-    {
-     "label": "21",
-     "ord": 21,
-     "isEnd": false,
-     "date": "2026-10-08",
-     "page": "A31",
-     "column": null,
-     "title": "[이미도의 아라비안 舞飛 나이트] [21] 방관은 惡을 편든다",
-     "url": "https://n.news.naver.com/article/023/0004002650",
-     "articleId": "0004002650"
-    }
-   ],
-   "firstDate": "2026-01-01",
-   "lastDate": "2026-10-08"
   },
   {
    "seriesKey": "023:신문속작은창문",
