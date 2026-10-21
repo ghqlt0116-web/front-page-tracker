@@ -1,6 +1,6 @@
 {
  "date": "2026-10-21",
- "collectedAt": "2026-10-21T00:06:48",
+ "collectedAt": "2026-10-21T00:39:12",
  "articles": [
   {
    "press": "009",
@@ -60,7 +60,8 @@
    "articleId": "0005751450",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -77,7 +78,8 @@
    "articleId": "0005751452",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -94,7 +96,8 @@
    "articleId": "0005751449",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2246,7 +2249,8 @@
      "title": "고액 건보료 체납 외국인 출국금지",
      "url": "https://n.news.naver.com/article/015/0005344541"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2270,7 +2274,8 @@
      "title": "李 \"3기 신도시 하루라도 당겨야\"…공공택지 '알박기 방지법'도 시사",
      "url": "https://n.news.naver.com/article/015/0005344537"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2331,7 +2336,8 @@
      "title": "메가특구법 노동특례 논의 속도전…與 \"연내 처리\"",
      "url": "https://n.news.naver.com/article/015/0005344599"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2348,7 +2354,8 @@
    "articleId": "0005344717",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2357,12 +2364,12 @@
    "page": "A2",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/10/20/5344543.jpg?type=nf264_176",
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
-   "title": "美 철강 관세 수혜, 어느 종목으로? [한경 프리미엄9 TODAY]",
-   "url": "https://n.news.naver.com/article/015/0005344543",
-   "articleId": "0005344543",
+   "title": "중앙일보 인수에 신세계도 합류…이병철 손주들 뭉쳤다",
+   "url": "https://n.news.naver.com/article/015/0005344545",
+   "articleId": "0005344545",
    "seriesKey": null,
    "seriesType": null
   },
@@ -2376,9 +2383,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "중앙일보 인수에 신세계도 합류…이병철 손주들 뭉쳤다",
-   "url": "https://n.news.naver.com/article/015/0005344545",
-   "articleId": "0005344545",
+   "title": "美 철강 관세 수혜, 어느 종목으로? [한경 프리미엄9 TODAY]",
+   "url": "https://n.news.naver.com/article/015/0005344543",
+   "articleId": "0005344543",
    "seriesKey": null,
    "seriesType": null
   },
@@ -2821,6 +2828,22 @@
    "page": "A13",
    "pageOrder": 1,
    "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/10/20/5344637.jpg?type=nf264_176",
+   "column": null,
+   "title": "삼전닉스 OB들은 지금 K소부장 혁신중",
+   "url": "https://n.news.naver.com/article/015/0005344637",
+   "articleId": "0005344637",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-21",
+   "page": "A13",
+   "pageOrder": 2,
+   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -2835,7 +2858,7 @@
    "pressName": "한국경제",
    "date": "2026-10-21",
    "page": "A13",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -2851,7 +2874,7 @@
    "pressName": "한국경제",
    "date": "2026-10-21",
    "page": "A13",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -2867,7 +2890,7 @@
    "pressName": "한국경제",
    "date": "2026-10-21",
    "page": "A13",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -2875,22 +2898,6 @@
    "title": "수은 행장 \"현재 KAI 지분 매각 계획 없다\"",
    "url": "https://n.news.naver.com/article/015/0005344625",
    "articleId": "0005344625",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "015",
-   "pressName": "한국경제",
-   "date": "2026-10-21",
-   "page": "A13",
-   "pageOrder": 5,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "\"대표직 제안도 거절\"…삼성 부사장이 '중소기업' 향한 이유",
-   "url": "https://n.news.naver.com/article/015/0005344637",
-   "articleId": "0005344637",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4365,7 +4372,8 @@
    "articleId": "0003756478",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4395,7 +4403,8 @@
      "title": "정부 DMZ 조사, 유엔사 거부로 2년넘게 중단",
      "url": "https://n.news.naver.com/article/020/0003756481"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4425,7 +4434,8 @@
      "title": "대낮 도심빌딩서 잇달아 방화… 난간 매달려 “살려달라” 아우성",
      "url": "https://n.news.naver.com/article/020/0003756460"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -5795,7 +5805,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/10/20/3756375.jpg?type=nf264_176",
    "column": null,
-   "title": "유럽 청년 시위[횡설수설/우경임]",
+   "title": "[횡설수설/우경임]유럽 청년 시위",
    "url": "https://n.news.naver.com/article/020/0003756375",
    "articleId": "0003756375",
    "seriesKey": null,
@@ -6376,7 +6386,8 @@
    "articleId": "0004005013",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6393,7 +6404,8 @@
    "articleId": "0004005011",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6423,7 +6435,8 @@
      "title": "윤활기유 年 100만t 생산… 유럽 공급 안전판 역할",
      "url": "https://n.news.naver.com/article/023/0004004961"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6609,11 +6622,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/21/4004993.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/21/4004994.jpg?type=nf264_176",
    "column": null,
-   "title": "연일 공소장만 고치는 2차 특검",
-   "url": "https://n.news.naver.com/article/023/0004004993",
-   "articleId": "0004004993",
+   "title": "‘특허법인에 원한’ 4년전 휘발유 뿌린 70대, 이번엔 연쇄 방화",
+   "url": "https://n.news.naver.com/article/023/0004004994",
+   "articleId": "0004004994",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6627,9 +6640,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "‘특허법인에 원한’ 4년전 휘발유 뿌린 70대, 이번엔 연쇄 방화",
-   "url": "https://n.news.naver.com/article/023/0004004994",
-   "articleId": "0004004994",
+   "title": "연일 공소장만 고치는 2차 특검",
+   "url": "https://n.news.naver.com/article/023/0004004993",
+   "articleId": "0004004993",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7297,7 +7310,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/21/4004952.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/21/4004955.jpg?type=nf264_176",
+   "column": null,
+   "title": "내일 한은 금통위, 금리 ‘동결’ 예상…관건은 다음 인상 시점",
+   "url": "https://n.news.naver.com/article/023/0004004955",
+   "articleId": "0004004955",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-21",
+   "page": "B2",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "“삼양, 이젠 본격적으로 유럽 공략해야할 시점”",
    "url": "https://n.news.naver.com/article/023/0004004952",
@@ -7310,7 +7339,7 @@
    "pressName": "조선일보",
    "date": "2026-10-21",
    "page": "B2",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -7326,7 +7355,7 @@
    "pressName": "조선일보",
    "date": "2026-10-21",
    "page": "B2",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -7334,22 +7363,6 @@
    "title": "CEO를 양아들로 삼아 경영권 맡겨… 세라젬, 혈연 관계보다 전문성 중시",
    "url": "https://n.news.naver.com/article/023/0004004954",
    "articleId": "0004004954",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-21",
-   "page": "B2",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "내일 금리 동결 후 추가 인상 나설 듯",
-   "url": "https://n.news.naver.com/article/023/0004004955",
-   "articleId": "0004004955",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7521,7 +7534,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/21/4004967.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/21/4004971.jpg?type=nf264_176",
+   "column": null,
+   "title": "AI가 공사 일정 검토… 오슬로 아파트 공기 104일 줄였다",
+   "url": "https://n.news.naver.com/article/023/0004004971",
+   "articleId": "0004004971",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-21",
+   "page": "B7",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "A I 활용한 부동산 개발 사례 중심 ‘원데이 클래스’",
    "url": "https://n.news.naver.com/article/023/0004004967",
@@ -7534,7 +7563,7 @@
    "pressName": "조선일보",
    "date": "2026-10-21",
    "page": "B7",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -7550,7 +7579,7 @@
    "pressName": "조선일보",
    "date": "2026-10-21",
    "page": "B7",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -7566,7 +7595,7 @@
    "pressName": "조선일보",
    "date": "2026-10-21",
    "page": "B7",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -7574,22 +7603,6 @@
    "title": "호반건설, 수도권 정비사업 ‘1조 클럽’ 틈새 사업지 공략… 실속 전략 통했다",
    "url": "https://n.news.naver.com/article/023/0004004970",
    "articleId": "0004004970",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-21",
-   "page": "B7",
-   "pageOrder": 5,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "AI가 공사 일정 검토… 오슬로 아파트 공기 104일 줄였다",
-   "url": "https://n.news.naver.com/article/023/0004004971",
-   "articleId": "0004004971",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7621,7 +7634,8 @@
      "title": "기후부 낙하산 논란 5명 지원서 보니…“독재정권과 싸웠다” “대통령이 호평”",
      "url": "https://n.news.naver.com/article/025/0003559281"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7645,7 +7659,8 @@
      "title": "[루이즈 루의 마켓 나우] 미국 정크본드 금리 급등이 아시아 위기 신호",
      "url": "https://n.news.naver.com/article/025/0003559330"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7662,7 +7677,8 @@
    "articleId": "0003559331",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
