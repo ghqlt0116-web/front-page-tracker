@@ -1,6 +1,6 @@
 {
  "date": "2026-10-23",
- "collectedAt": "2026-10-22T23:13:05",
+ "collectedAt": "2026-10-23T00:08:15",
  "articles": [
   {
    "press": "009",
@@ -17,7 +17,6 @@
    "articleId": "0005752730",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005752746",
@@ -25,7 +24,8 @@
      "title": "[단독] 시장 커지는데 AI인재 놓칠라 … 삼성전기 '통큰' 보상",
      "url": "https://n.news.naver.com/article/009/0005752746"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -41,7 +41,15 @@
    "url": "https://n.news.naver.com/article/009/0005752738",
    "articleId": "0005752738",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005752715",
+     "page": "A4",
+     "title": "申 \"금리 동결, 선제 대응의 결실\"… 물가 압력에 긴축 기조 유지",
+     "url": "https://n.news.naver.com/article/009/0005752715"
+    }
+   ]
   },
   {
    "press": "009",
@@ -65,7 +73,8 @@
      "title": "AI가 잠자는 돈 깨워…금융권 낙전수익 비상",
      "url": "https://n.news.naver.com/article/009/0005752626"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -82,7 +91,8 @@
    "articleId": "0005752739",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -99,7 +109,8 @@
    "articleId": "0005752741",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -116,7 +127,8 @@
    "articleId": "0005752740",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2197,7 +2209,8 @@
    "articleId": "0005345645",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2214,7 +2227,8 @@
    "articleId": "0005345515",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2261,7 +2275,8 @@
    "articleId": "0005345524",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2278,7 +2293,8 @@
    "articleId": "0005345556",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2295,7 +2311,8 @@
    "articleId": "0005345527",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -4363,7 +4380,8 @@
      "title": "정부, ‘PHP 해킹’ 우려에 위기 경보 격상… 민관군 긴급 회의도",
      "url": "https://n.news.naver.com/article/020/0003757112"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4380,7 +4398,8 @@
    "articleId": "0003757113",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4396,7 +4415,9 @@
    "url": "https://n.news.naver.com/article/020/0003757076",
    "articleId": "0003757076",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "020",
@@ -4420,7 +4441,8 @@
      "title": "李 “밀실서 중수청 지휘감독 하란 건가” 탄핵사유 거론하며 반박",
      "url": "https://n.news.naver.com/article/020/0003757081"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4444,7 +4466,8 @@
      "title": "역전된 확성기 공세… 北 “전 국경선에 새 대응수단” 연일 위협",
      "url": "https://n.news.naver.com/article/020/0003757080"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -5032,9 +5055,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "서울 소방관, 벌집 치우러 4만8000번 출동",
-   "url": "https://n.news.naver.com/article/020/0003757096",
-   "articleId": "0003757096",
+   "title": "재두루미 2마리 첫 도착… 주남저수지에 겨울이 날아왔다",
+   "url": "https://n.news.naver.com/article/020/0003757075",
+   "articleId": "0003757075",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5048,9 +5071,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "장애-비장애 선수들 ‘플로어 컬링’",
-   "url": "https://n.news.naver.com/article/020/0003757065",
-   "articleId": "0003757065",
+   "title": "한국 돼지고기 수출 97%가 ‘제주산’",
+   "url": "https://n.news.naver.com/article/020/0003757071",
+   "articleId": "0003757071",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5064,9 +5087,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "다시 깨어난 조선시대 ‘성시도’",
-   "url": "https://n.news.naver.com/article/020/0003757069",
-   "articleId": "0003757069",
+   "title": "정호영-박은영 셰프, 진안서 즉석요리 대결",
+   "url": "https://n.news.naver.com/article/020/0003757107",
+   "articleId": "0003757107",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5096,9 +5119,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "한국 돼지고기 수출 97%가 ‘제주산’",
-   "url": "https://n.news.naver.com/article/020/0003757071",
-   "articleId": "0003757071",
+   "title": "다시 깨어난 조선시대 ‘성시도’",
+   "url": "https://n.news.naver.com/article/020/0003757069",
+   "articleId": "0003757069",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5108,118 +5131,6 @@
    "date": "2026-10-23",
    "page": "A16",
    "pageOrder": 11,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "부산서 ‘로컬투어리즘’ 해법 찾는다",
-   "url": "https://n.news.naver.com/article/020/0003757073",
-   "articleId": "0003757073",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-10-23",
-   "page": "A16",
-   "pageOrder": 12,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "갈매기 한 마리 위한 뷔페 열렸네",
-   "url": "https://n.news.naver.com/article/020/0003757074",
-   "articleId": "0003757074",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-10-23",
-   "page": "A16",
-   "pageOrder": 13,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "재두루미 2마리 첫 도착… 주남저수지에 겨울이 날아왔다",
-   "url": "https://n.news.naver.com/article/020/0003757075",
-   "articleId": "0003757075",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-10-23",
-   "page": "A16",
-   "pageOrder": 14,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "영등포 카페서 다회용 컵 쓰면 300원 적립",
-   "url": "https://n.news.naver.com/article/020/0003757097",
-   "articleId": "0003757097",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-10-23",
-   "page": "A16",
-   "pageOrder": 15,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "서울 전통시장 상인에 화재공제료 최대 80% 지원",
-   "url": "https://n.news.naver.com/article/020/0003757098",
-   "articleId": "0003757098",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-10-23",
-   "page": "A16",
-   "pageOrder": 16,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "태안 천리포수목원서 단풍 아래 독서 즐겨요",
-   "url": "https://n.news.naver.com/article/020/0003757101",
-   "articleId": "0003757101",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-10-23",
-   "page": "A16",
-   "pageOrder": 17,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "원주천엔 만두 향기, 반계리엔 황금빛 물결",
-   "url": "https://n.news.naver.com/article/020/0003757102",
-   "articleId": "0003757102",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-10-23",
-   "page": "A16",
-   "pageOrder": 18,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5235,7 +5146,135 @@
    "pressName": "동아일보",
    "date": "2026-10-23",
    "page": "A16",
+   "pageOrder": 12,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "서울 소방관, 벌집 치우러 4만8000번 출동",
+   "url": "https://n.news.naver.com/article/020/0003757096",
+   "articleId": "0003757096",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-10-23",
+   "page": "A16",
+   "pageOrder": 13,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "장애-비장애 선수들 ‘플로어 컬링’",
+   "url": "https://n.news.naver.com/article/020/0003757065",
+   "articleId": "0003757065",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-10-23",
+   "page": "A16",
+   "pageOrder": 14,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "부산서 ‘로컬투어리즘’ 해법 찾는다",
+   "url": "https://n.news.naver.com/article/020/0003757073",
+   "articleId": "0003757073",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-10-23",
+   "page": "A16",
+   "pageOrder": 15,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "갈매기 한 마리 위한 뷔페 열렸네",
+   "url": "https://n.news.naver.com/article/020/0003757074",
+   "articleId": "0003757074",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-10-23",
+   "page": "A16",
+   "pageOrder": 16,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "영등포 카페서 다회용 컵 쓰면 300원 적립",
+   "url": "https://n.news.naver.com/article/020/0003757097",
+   "articleId": "0003757097",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-10-23",
+   "page": "A16",
+   "pageOrder": 17,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "서울 전통시장 상인에 화재공제료 최대 80% 지원",
+   "url": "https://n.news.naver.com/article/020/0003757098",
+   "articleId": "0003757098",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-10-23",
+   "page": "A16",
+   "pageOrder": 18,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "태안 천리포수목원서 단풍 아래 독서 즐겨요",
+   "url": "https://n.news.naver.com/article/020/0003757101",
+   "articleId": "0003757101",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-10-23",
+   "page": "A16",
    "pageOrder": 19,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "원주천엔 만두 향기, 반계리엔 황금빛 물결",
+   "url": "https://n.news.naver.com/article/020/0003757102",
+   "articleId": "0003757102",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-10-23",
+   "page": "A16",
+   "pageOrder": 20,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5251,7 +5290,7 @@
    "pressName": "동아일보",
    "date": "2026-10-23",
    "page": "A16",
-   "pageOrder": 20,
+   "pageOrder": 21,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5267,7 +5306,7 @@
    "pressName": "동아일보",
    "date": "2026-10-23",
    "page": "A16",
-   "pageOrder": 21,
+   "pageOrder": 22,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5275,22 +5314,6 @@
    "title": "어등산 의병의 날 기념식 오늘 광주서 열린다",
    "url": "https://n.news.naver.com/article/020/0003757106",
    "articleId": "0003757106",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-10-23",
-   "page": "A16",
-   "pageOrder": 22,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "정호영-박은영 셰프, 진안서 즉석요리 대결",
-   "url": "https://n.news.naver.com/article/020/0003757107",
-   "articleId": "0003757107",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5800,7 +5823,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/10/22/3757004.jpg?type=nf264_176",
    "column": null,
-   "title": "[횡설수설/박희창]수능 코앞 ‘AI 안경’ 비상",
+   "title": "수능 코앞 ‘AI 안경’ 비상 [횡설수설/박희창]",
    "url": "https://n.news.naver.com/article/020/0003757004",
    "articleId": "0003757004",
    "seriesKey": null,
@@ -6358,14 +6381,15 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/23/4005509.jpg?type=nf600_340",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/23/4005512.jpg?type=nf600_340",
    "column": null,
-   "title": "李 “중수청 지휘감독 않는 건 탄핵 사유”",
-   "url": "https://n.news.naver.com/article/023/0004005509",
-   "articleId": "0004005509",
+   "title": "北 적반하장에도 말 한마디 없는 靑",
+   "url": "https://n.news.naver.com/article/023/0004005512",
+   "articleId": "0004005512",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6377,12 +6401,13 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "北 적반하장에도 말 한마디 없는 靑",
-   "url": "https://n.news.naver.com/article/023/0004005512",
-   "articleId": "0004005512",
+   "title": "李 “중수청 지휘감독 않는 건 탄핵 사유”",
+   "url": "https://n.news.naver.com/article/023/0004005509",
+   "articleId": "0004005509",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6399,7 +6424,8 @@
    "articleId": "0004005508",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6416,7 +6442,8 @@
    "articleId": "0004005511",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6522,11 +6549,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/23/4005497.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/23/4005498.jpg?type=nf264_176",
    "column": null,
-   "title": "육·해·공사 교장 “통합 사관학교案 보완·의견 수렴을”",
-   "url": "https://n.news.naver.com/article/023/0004005497",
-   "articleId": "0004005497",
+   "title": "“李가 공소 취소 요청하면” 묻자… 즉답 피한 공소청 수장",
+   "url": "https://n.news.naver.com/article/023/0004005498",
+   "articleId": "0004005498",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6540,9 +6567,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“李가 공소 취소 요청하면” 묻자… 즉답 피한 공소청 수장",
-   "url": "https://n.news.naver.com/article/023/0004005498",
-   "articleId": "0004005498",
+   "title": "육·해·공사 교장 “통합 사관학교案 보완·의견 수렴을”",
+   "url": "https://n.news.naver.com/article/023/0004005497",
+   "articleId": "0004005497",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6569,12 +6596,12 @@
    "page": "A8",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": false,
-   "thumb": null,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/23/4005495.jpg?type=nf264_176",
    "column": null,
-   "title": "한국 금융권 해킹에 쓰인 中 ‘아텍스’… 글로벌 기업·기관 수백곳 공격에도 악용",
-   "url": "https://n.news.naver.com/article/023/0004005494",
-   "articleId": "0004005494",
+   "title": "냉동고 해킹당한 佛 마트들, 쉬운 비번에 보안 업데이트도 안 해",
+   "url": "https://n.news.naver.com/article/023/0004005495",
+   "articleId": "0004005495",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6588,9 +6615,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "냉동고 해킹당한 佛 마트들, 쉬운 비번에 보안 업데이트도 안 해",
-   "url": "https://n.news.naver.com/article/023/0004005495",
-   "articleId": "0004005495",
+   "title": "한국 금융권 해킹에 쓰인 中 ‘아텍스’… 글로벌 기업·기관 수백곳 공격에도 악용",
+   "url": "https://n.news.naver.com/article/023/0004005494",
+   "articleId": "0004005494",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6954,11 +6981,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/23/4005477.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/23/4005480.jpg?type=nf264_176",
    "column": null,
-   "title": "‘괴물 신인’ 향한 골프 전설의 조언 “그냥 부딪쳐!”",
-   "url": "https://n.news.naver.com/article/023/0004005477",
-   "articleId": "0004005477",
+   "title": "홈런왕 對 타격왕… 누구 방망이가 더 매서울까",
+   "url": "https://n.news.naver.com/article/023/0004005480",
+   "articleId": "0004005480",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6972,9 +6999,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "伊 코모, 맨유까지 잡았다",
-   "url": "https://n.news.naver.com/article/023/0004005478",
-   "articleId": "0004005478",
+   "title": "‘괴물 신인’ 향한 골프 전설의 조언 “그냥 부딪쳐!”",
+   "url": "https://n.news.naver.com/article/023/0004005477",
+   "articleId": "0004005477",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6988,9 +7015,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "홈런왕 對 타격왕… 누구 방망이가 더 매서울까",
-   "url": "https://n.news.naver.com/article/023/0004005480",
-   "articleId": "0004005480",
+   "title": "伊 코모, 맨유까지 잡았다",
+   "url": "https://n.news.naver.com/article/023/0004005478",
+   "articleId": "0004005478",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7242,13 +7269,13 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/22/4005424.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/22/4005429.jpg?type=nf264_176",
    "column": null,
-   "title": "[유광종의 漢字로 보는 중국] [41] 친위대로 전락한 지식인",
-   "url": "https://n.news.naver.com/article/023/0004005424",
-   "articleId": "0004005424",
-   "seriesKey": "023:유광종의로보는중국",
-   "seriesType": "연재칼럼"
+   "title": "[동서남북] 프랑스 청년시위가 한국에 던진 ‘폭탄’",
+   "url": "https://n.news.naver.com/article/023/0004005429",
+   "articleId": "0004005429",
+   "seriesKey": null,
+   "seriesType": null
   },
   {
    "press": "023",
@@ -7260,11 +7287,11 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[동서남북] 프랑스 청년시위가 한국에 던진 ‘폭탄’",
-   "url": "https://n.news.naver.com/article/023/0004005429",
-   "articleId": "0004005429",
-   "seriesKey": null,
-   "seriesType": null
+   "title": "[유광종의 漢字로 보는 중국] [41] 친위대로 전락한 지식인",
+   "url": "https://n.news.naver.com/article/023/0004005424",
+   "articleId": "0004005424",
+   "seriesKey": "023:유광종의로보는중국",
+   "seriesType": "연재칼럼"
   },
   {
    "press": "023",
@@ -7596,11 +7623,13 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/025/2026/10/23/3559953.jpg?type=nf600_340",
    "column": null,
-   "title": "확성기 주도권도 뺏긴 정부…사과커녕 “저능아” 조롱당했다",
+   "title": "확성기 주도권도 뺏긴 정부…사과커녕 “자작극” 조롱당했다",
    "url": "https://n.news.naver.com/article/025/0003559953",
    "articleId": "0003559953",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "025",
@@ -7616,7 +7645,8 @@
    "url": "https://n.news.naver.com/article/025/0003559941",
    "articleId": "0003559941",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
