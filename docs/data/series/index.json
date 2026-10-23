@@ -1,6 +1,363 @@
 {
  "series": [
   {
+   "seriesKey": "020:박연준의토요일은시가좋아",
+   "press": "020",
+   "pressName": "동아일보",
+   "name": "박연준의 토요일은 시가 좋아",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "23",
+     "ord": 23,
+     "isEnd": false,
+     "date": "2026-01-03",
+     "page": "A27",
+     "column": null,
+     "title": "불행[박연준의 토요일은 시가 좋아]〈23〉",
+     "url": "https://n.news.naver.com/article/020/0003686464",
+     "articleId": "0003686464"
+    },
+    {
+     "label": "24",
+     "ord": 24,
+     "isEnd": false,
+     "date": "2026-01-10",
+     "page": "A27",
+     "column": null,
+     "title": "무야, 무우야[박연준의 토요일은 시가 좋아]〈24〉",
+     "url": "https://n.news.naver.com/article/020/0003688227",
+     "articleId": "0003688227"
+    },
+    {
+     "label": "61",
+     "ord": 61,
+     "isEnd": false,
+     "date": "2026-10-03",
+     "page": "A27",
+     "column": null,
+     "title": "커튼에 대한 명상[박연준의 토요일은 시가 좋아]〈61〉",
+     "url": "https://n.news.naver.com/article/020/0003752449",
+     "articleId": "0003752449"
+    },
+    {
+     "label": "62",
+     "ord": 62,
+     "isEnd": false,
+     "date": "2026-10-10",
+     "page": "A27",
+     "column": null,
+     "title": "바다가 보이는 언덕에 서면[박연준의 토요일은 시가 좋아]〈62〉",
+     "url": "https://n.news.naver.com/article/020/0003753934",
+     "articleId": "0003753934"
+    },
+    {
+     "label": "63",
+     "ord": 63,
+     "isEnd": false,
+     "date": "2026-10-17",
+     "page": "A27",
+     "column": null,
+     "title": "우리에게는 쓸쓸할 시간이 필요하다[박연준의 토요일은 시가 좋아]〈63〉",
+     "url": "https://n.news.naver.com/article/020/0003755592",
+     "articleId": "0003755592"
+    },
+    {
+     "label": "64",
+     "ord": 64,
+     "isEnd": false,
+     "date": "2026-10-24",
+     "page": "A27",
+     "column": null,
+     "title": "칠보[박연준의 토요일은 시가 좋아]〈64〉",
+     "url": "https://n.news.naver.com/article/020/0003757263",
+     "articleId": "0003757263"
+    }
+   ],
+   "firstDate": "2026-01-03",
+   "lastDate": "2026-10-24"
+  },
+  {
+   "seriesKey": "023:정수윤의길을걸으며",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "정수윤의 길을 걸으며",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "10",
+     "ord": 10,
+     "isEnd": false,
+     "date": "2026-01-03",
+     "page": "A22",
+     "column": null,
+     "title": "[정수윤의 길을 걸으며] [10] 빌린 책 속의 연애편지",
+     "url": "https://n.news.naver.com/article/023/0003950598",
+     "articleId": "0003950598"
+    },
+    {
+     "label": "11",
+     "ord": 11,
+     "isEnd": false,
+     "date": "2026-01-10",
+     "page": "A22",
+     "column": null,
+     "title": "[정수윤의 길을 걸으며] [11] 오백년 앞을 볼 수 있다면",
+     "url": "https://n.news.naver.com/article/023/0003952035",
+     "articleId": "0003952035"
+    },
+    {
+     "label": "48",
+     "ord": 48,
+     "isEnd": false,
+     "date": "2026-10-03",
+     "page": "A22",
+     "column": null,
+     "title": "[정수윤의 길을 걸으며] [48] 엄마와 집 보러 다닌 날",
+     "url": "https://n.news.naver.com/article/023/0004001838",
+     "articleId": "0004001838"
+    },
+    {
+     "label": "49",
+     "ord": 49,
+     "isEnd": false,
+     "date": "2026-10-10",
+     "page": "A22",
+     "column": null,
+     "title": "[정수윤의 길을 걸으며] [49] 앤 카슨의 ‘녹스’ 읽는 밤",
+     "url": "https://n.news.naver.com/article/023/0004002988",
+     "articleId": "0004002988"
+    },
+    {
+     "label": "50",
+     "ord": 50,
+     "isEnd": false,
+     "date": "2026-10-17",
+     "page": "A22",
+     "column": null,
+     "title": "[정수윤의 길을 걸으며] [50] 가을 산을 닮아가는 아이들",
+     "url": "https://n.news.naver.com/article/023/0004004292",
+     "articleId": "0004004292"
+    },
+    {
+     "label": "51",
+     "ord": 51,
+     "isEnd": false,
+     "date": "2026-10-24",
+     "page": "A22",
+     "column": null,
+     "title": "[정수윤의 길을 걸으며] [51] ’100일의 거짓말’을 보는 마음",
+     "url": "https://n.news.naver.com/article/023/0004005624",
+     "articleId": "0004005624"
+    }
+   ],
+   "firstDate": "2026-01-03",
+   "lastDate": "2026-10-24"
+  },
+  {
+   "seriesKey": "023:박진배의공간과스타일",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "박진배의 공간과 스타일",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "321",
+     "ord": 321,
+     "isEnd": false,
+     "date": "2026-01-03",
+     "page": "A23",
+     "column": null,
+     "title": "[박진배의 공간과 스타일] [321] 성당의 진짜 얼굴",
+     "url": "https://n.news.naver.com/article/023/0003950599",
+     "articleId": "0003950599"
+    },
+    {
+     "label": "322",
+     "ord": 322,
+     "isEnd": false,
+     "date": "2026-01-10",
+     "page": "A23",
+     "column": null,
+     "title": "[박진배의 공간과 스타일] [322] ‘할머니 취미’ 따라 하기",
+     "url": "https://n.news.naver.com/article/023/0003952036",
+     "articleId": "0003952036"
+    },
+    {
+     "label": "359",
+     "ord": 359,
+     "isEnd": false,
+     "date": "2026-10-03",
+     "page": "A23",
+     "column": null,
+     "title": "[박진배의 공간과 스타일] [359] 돈키호테로 피어난 예술도시",
+     "url": "https://n.news.naver.com/article/023/0004001839",
+     "articleId": "0004001839"
+    },
+    {
+     "label": "360",
+     "ord": 360,
+     "isEnd": false,
+     "date": "2026-10-10",
+     "page": "A23",
+     "column": null,
+     "title": "[박진배의 공간과 스타일] [360] 일본 니가타의 다랑이논",
+     "url": "https://n.news.naver.com/article/023/0004002989",
+     "articleId": "0004002989"
+    },
+    {
+     "label": "361",
+     "ord": 361,
+     "isEnd": false,
+     "date": "2026-10-17",
+     "page": "A23",
+     "column": null,
+     "title": "[박진배의 공간과 스타일] [361] 포도밭의 작은 교회",
+     "url": "https://n.news.naver.com/article/023/0004004294",
+     "articleId": "0004004294"
+    },
+    {
+     "label": "362",
+     "ord": 362,
+     "isEnd": false,
+     "date": "2026-10-24",
+     "page": "A23",
+     "column": null,
+     "title": "[박진배의 공간과 스타일] [362] AI가 바꾼 디자인 전공의 희비",
+     "url": "https://n.news.naver.com/article/023/0004005623",
+     "articleId": "0004005623"
+    }
+   ],
+   "firstDate": "2026-01-03",
+   "lastDate": "2026-10-24"
+  },
+  {
+   "seriesKey": "353:먼나라이웃나라역사프리즘",
+   "press": "353",
+   "pressName": "중앙SUNDAY",
+   "name": "먼나라 이웃나라 역사 프리즘",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "113",
+     "ord": 113,
+     "isEnd": false,
+     "date": "2026-01-03",
+     "page": "T29",
+     "column": null,
+     "title": "[먼나라 이웃나라 역사 프리즘] <113> 혁명과 달력",
+     "url": "https://n.news.naver.com/article/353/0000054168",
+     "articleId": "0000054168"
+    },
+    {
+     "label": "114",
+     "ord": 114,
+     "isEnd": false,
+     "date": "2026-01-10",
+     "page": "T29",
+     "column": null,
+     "title": "[먼나라 이웃나라 역사 프리즘] <114> 사형집행관",
+     "url": "https://n.news.naver.com/article/353/0000054236",
+     "articleId": "0000054236"
+    },
+    {
+     "label": "151",
+     "ord": 151,
+     "isEnd": false,
+     "date": "2026-10-03",
+     "page": "T29",
+     "column": null,
+     "title": "[먼나라 이웃나라 역사 프리즘] <151> 세상을 구한 사나이",
+     "url": "https://n.news.naver.com/article/353/0000056776",
+     "articleId": "0000056776"
+    },
+    {
+     "label": "152",
+     "ord": 152,
+     "isEnd": false,
+     "date": "2026-10-10",
+     "page": "T29",
+     "column": null,
+     "title": "[먼나라 이웃나라 역사 프리즘] <152> 살생부",
+     "url": "https://n.news.naver.com/article/353/0000056862",
+     "articleId": "0000056862"
+    },
+    {
+     "label": "153",
+     "ord": 153,
+     "isEnd": false,
+     "date": "2026-10-17",
+     "page": "T29",
+     "column": null,
+     "title": "[먼나라 이웃나라 역사 프리즘] <153> 반전(反轉) 1",
+     "url": "https://n.news.naver.com/article/353/0000056931",
+     "articleId": "0000056931"
+    },
+    {
+     "label": "154",
+     "ord": 154,
+     "isEnd": false,
+     "date": "2026-10-24",
+     "page": "T29",
+     "column": null,
+     "title": "[먼나라 이웃나라 역사 프리즘] <154> 반전(反轉) 2",
+     "url": "https://n.news.naver.com/article/353/0000057005",
+     "articleId": "0000057005"
+    }
+   ],
+   "firstDate": "2026-01-03",
+   "lastDate": "2026-10-24"
+  },
+  {
+   "seriesKey": "023:고혜련의삶이있는풍경",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "고혜련의 삶이 있는 풍경",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "9",
+     "ord": 9,
+     "isEnd": false,
+     "date": "2026-01-10",
+     "page": "B9",
+     "column": null,
+     "title": "새해는 다시 시작해도 된다는 축복이다 [고혜련의 삶이 있는 풍경] (9)",
+     "url": "https://n.news.naver.com/article/023/0003952099",
+     "articleId": "0003952099"
+    },
+    {
+     "label": "26",
+     "ord": 26,
+     "isEnd": false,
+     "date": "2026-10-10",
+     "page": "B9",
+     "column": null,
+     "title": "“이사 간다”던 70대 후반 선배… 알고 보니 ‘저세상’으로 [고혜련의 삶이 있는 풍경] (26)",
+     "url": "https://n.news.naver.com/article/023/0004002998",
+     "articleId": "0004002998"
+    },
+    {
+     "label": "27",
+     "ord": 27,
+     "isEnd": false,
+     "date": "2026-10-24",
+     "page": "B9",
+     "column": null,
+     "title": "그건 사랑이 아니야 [고혜련의 삶이 있는 풍경] (27)",
+     "url": "https://n.news.naver.com/article/023/0004005644",
+     "articleId": "0004005644"
+    }
+   ],
+   "firstDate": "2026-01-10",
+   "lastDate": "2026-10-24"
+  },
+  {
    "seriesKey": "020:이준식의한시한수",
    "press": "020",
    "pressName": "동아일보",
@@ -1188,274 +1545,6 @@
    "lastDate": "2026-10-19"
   },
   {
-   "seriesKey": "020:박연준의토요일은시가좋아",
-   "press": "020",
-   "pressName": "동아일보",
-   "name": "박연준의 토요일은 시가 좋아",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "23",
-     "ord": 23,
-     "isEnd": false,
-     "date": "2026-01-03",
-     "page": "A27",
-     "column": null,
-     "title": "불행[박연준의 토요일은 시가 좋아]〈23〉",
-     "url": "https://n.news.naver.com/article/020/0003686464",
-     "articleId": "0003686464"
-    },
-    {
-     "label": "24",
-     "ord": 24,
-     "isEnd": false,
-     "date": "2026-01-10",
-     "page": "A27",
-     "column": null,
-     "title": "무야, 무우야[박연준의 토요일은 시가 좋아]〈24〉",
-     "url": "https://n.news.naver.com/article/020/0003688227",
-     "articleId": "0003688227"
-    },
-    {
-     "label": "61",
-     "ord": 61,
-     "isEnd": false,
-     "date": "2026-10-03",
-     "page": "A27",
-     "column": null,
-     "title": "커튼에 대한 명상[박연준의 토요일은 시가 좋아]〈61〉",
-     "url": "https://n.news.naver.com/article/020/0003752449",
-     "articleId": "0003752449"
-    },
-    {
-     "label": "62",
-     "ord": 62,
-     "isEnd": false,
-     "date": "2026-10-10",
-     "page": "A27",
-     "column": null,
-     "title": "바다가 보이는 언덕에 서면[박연준의 토요일은 시가 좋아]〈62〉",
-     "url": "https://n.news.naver.com/article/020/0003753934",
-     "articleId": "0003753934"
-    },
-    {
-     "label": "63",
-     "ord": 63,
-     "isEnd": false,
-     "date": "2026-10-17",
-     "page": "A27",
-     "column": null,
-     "title": "우리에게는 쓸쓸할 시간이 필요하다[박연준의 토요일은 시가 좋아]〈63〉",
-     "url": "https://n.news.naver.com/article/020/0003755592",
-     "articleId": "0003755592"
-    }
-   ],
-   "firstDate": "2026-01-03",
-   "lastDate": "2026-10-17"
-  },
-  {
-   "seriesKey": "023:정수윤의길을걸으며",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "정수윤의 길을 걸으며",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "10",
-     "ord": 10,
-     "isEnd": false,
-     "date": "2026-01-03",
-     "page": "A22",
-     "column": null,
-     "title": "[정수윤의 길을 걸으며] [10] 빌린 책 속의 연애편지",
-     "url": "https://n.news.naver.com/article/023/0003950598",
-     "articleId": "0003950598"
-    },
-    {
-     "label": "11",
-     "ord": 11,
-     "isEnd": false,
-     "date": "2026-01-10",
-     "page": "A22",
-     "column": null,
-     "title": "[정수윤의 길을 걸으며] [11] 오백년 앞을 볼 수 있다면",
-     "url": "https://n.news.naver.com/article/023/0003952035",
-     "articleId": "0003952035"
-    },
-    {
-     "label": "48",
-     "ord": 48,
-     "isEnd": false,
-     "date": "2026-10-03",
-     "page": "A22",
-     "column": null,
-     "title": "[정수윤의 길을 걸으며] [48] 엄마와 집 보러 다닌 날",
-     "url": "https://n.news.naver.com/article/023/0004001838",
-     "articleId": "0004001838"
-    },
-    {
-     "label": "49",
-     "ord": 49,
-     "isEnd": false,
-     "date": "2026-10-10",
-     "page": "A22",
-     "column": null,
-     "title": "[정수윤의 길을 걸으며] [49] 앤 카슨의 ‘녹스’ 읽는 밤",
-     "url": "https://n.news.naver.com/article/023/0004002988",
-     "articleId": "0004002988"
-    },
-    {
-     "label": "50",
-     "ord": 50,
-     "isEnd": false,
-     "date": "2026-10-17",
-     "page": "A22",
-     "column": null,
-     "title": "[정수윤의 길을 걸으며] [50] 가을 산을 닮아가는 아이들",
-     "url": "https://n.news.naver.com/article/023/0004004292",
-     "articleId": "0004004292"
-    }
-   ],
-   "firstDate": "2026-01-03",
-   "lastDate": "2026-10-17"
-  },
-  {
-   "seriesKey": "023:박진배의공간과스타일",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "박진배의 공간과 스타일",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "321",
-     "ord": 321,
-     "isEnd": false,
-     "date": "2026-01-03",
-     "page": "A23",
-     "column": null,
-     "title": "[박진배의 공간과 스타일] [321] 성당의 진짜 얼굴",
-     "url": "https://n.news.naver.com/article/023/0003950599",
-     "articleId": "0003950599"
-    },
-    {
-     "label": "322",
-     "ord": 322,
-     "isEnd": false,
-     "date": "2026-01-10",
-     "page": "A23",
-     "column": null,
-     "title": "[박진배의 공간과 스타일] [322] ‘할머니 취미’ 따라 하기",
-     "url": "https://n.news.naver.com/article/023/0003952036",
-     "articleId": "0003952036"
-    },
-    {
-     "label": "359",
-     "ord": 359,
-     "isEnd": false,
-     "date": "2026-10-03",
-     "page": "A23",
-     "column": null,
-     "title": "[박진배의 공간과 스타일] [359] 돈키호테로 피어난 예술도시",
-     "url": "https://n.news.naver.com/article/023/0004001839",
-     "articleId": "0004001839"
-    },
-    {
-     "label": "360",
-     "ord": 360,
-     "isEnd": false,
-     "date": "2026-10-10",
-     "page": "A23",
-     "column": null,
-     "title": "[박진배의 공간과 스타일] [360] 일본 니가타의 다랑이논",
-     "url": "https://n.news.naver.com/article/023/0004002989",
-     "articleId": "0004002989"
-    },
-    {
-     "label": "361",
-     "ord": 361,
-     "isEnd": false,
-     "date": "2026-10-17",
-     "page": "A23",
-     "column": null,
-     "title": "[박진배의 공간과 스타일] [361] 포도밭의 작은 교회",
-     "url": "https://n.news.naver.com/article/023/0004004294",
-     "articleId": "0004004294"
-    }
-   ],
-   "firstDate": "2026-01-03",
-   "lastDate": "2026-10-17"
-  },
-  {
-   "seriesKey": "353:먼나라이웃나라역사프리즘",
-   "press": "353",
-   "pressName": "중앙SUNDAY",
-   "name": "먼나라 이웃나라 역사 프리즘",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "113",
-     "ord": 113,
-     "isEnd": false,
-     "date": "2026-01-03",
-     "page": "T29",
-     "column": null,
-     "title": "[먼나라 이웃나라 역사 프리즘] <113> 혁명과 달력",
-     "url": "https://n.news.naver.com/article/353/0000054168",
-     "articleId": "0000054168"
-    },
-    {
-     "label": "114",
-     "ord": 114,
-     "isEnd": false,
-     "date": "2026-01-10",
-     "page": "T29",
-     "column": null,
-     "title": "[먼나라 이웃나라 역사 프리즘] <114> 사형집행관",
-     "url": "https://n.news.naver.com/article/353/0000054236",
-     "articleId": "0000054236"
-    },
-    {
-     "label": "151",
-     "ord": 151,
-     "isEnd": false,
-     "date": "2026-10-03",
-     "page": "T29",
-     "column": null,
-     "title": "[먼나라 이웃나라 역사 프리즘] <151> 세상을 구한 사나이",
-     "url": "https://n.news.naver.com/article/353/0000056776",
-     "articleId": "0000056776"
-    },
-    {
-     "label": "152",
-     "ord": 152,
-     "isEnd": false,
-     "date": "2026-10-10",
-     "page": "T29",
-     "column": null,
-     "title": "[먼나라 이웃나라 역사 프리즘] <152> 살생부",
-     "url": "https://n.news.naver.com/article/353/0000056862",
-     "articleId": "0000056862"
-    },
-    {
-     "label": "153",
-     "ord": 153,
-     "isEnd": false,
-     "date": "2026-10-17",
-     "page": "T29",
-     "column": null,
-     "title": "[먼나라 이웃나라 역사 프리즘] <153> 반전(反轉) 1",
-     "url": "https://n.news.naver.com/article/353/0000056931",
-     "articleId": "0000056931"
-    }
-   ],
-   "firstDate": "2026-01-03",
-   "lastDate": "2026-10-17"
-  },
-  {
    "seriesKey": "023:윤주의이제는국가유산",
    "press": "023",
    "pressName": "조선일보",
@@ -1682,40 +1771,6 @@
    ],
    "firstDate": "2026-10-12",
    "lastDate": "2026-10-12"
-  },
-  {
-   "seriesKey": "023:고혜련의삶이있는풍경",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "고혜련의 삶이 있는 풍경",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "9",
-     "ord": 9,
-     "isEnd": false,
-     "date": "2026-01-10",
-     "page": "B9",
-     "column": null,
-     "title": "새해는 다시 시작해도 된다는 축복이다 [고혜련의 삶이 있는 풍경] (9)",
-     "url": "https://n.news.naver.com/article/023/0003952099",
-     "articleId": "0003952099"
-    },
-    {
-     "label": "26",
-     "ord": 26,
-     "isEnd": false,
-     "date": "2026-10-10",
-     "page": "B9",
-     "column": null,
-     "title": "“이사 간다”던 70대 후반 선배… 알고 보니 ‘저세상’으로 [고혜련의 삶이 있는 풍경] (26)",
-     "url": "https://n.news.naver.com/article/023/0004002998",
-     "articleId": "0004002998"
-    }
-   ],
-   "firstDate": "2026-01-10",
-   "lastDate": "2026-10-10"
   },
   {
    "seriesKey": "023:신문속작은창문",
