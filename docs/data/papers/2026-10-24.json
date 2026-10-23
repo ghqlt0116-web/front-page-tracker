@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "collectedAt": "2026-10-23T23:02:58",
+ "collectedAt": "2026-10-23T23:58:16",
  "articles": [
   {
    "press": "009",
@@ -17,8 +17,8 @@
    "articleId": "0005753301",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -35,7 +35,6 @@
    "articleId": "0005753300",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005753271",
@@ -49,7 +48,8 @@
      "title": "은행별 '포용금융 성적표' 나온다",
      "url": "https://n.news.naver.com/article/009/0005753289"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -66,7 +66,6 @@
    "articleId": "0005753298",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005753277",
@@ -74,7 +73,8 @@
      "title": "尹·김건희·오세훈 모두 무죄 … '명태균 게이트' 초라한 성적표",
      "url": "https://n.news.naver.com/article/009/0005753277"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -91,8 +91,8 @@
    "articleId": "0005753299",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -1485,7 +1485,6 @@
    "articleId": "0005345913",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005346014",
@@ -1493,7 +1492,8 @@
      "title": "[사설] 솔리다임 상장 철회…투자자금 마련은 어떻게 할 건가",
      "url": "https://n.news.naver.com/article/015/0005346014"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1523,7 +1523,8 @@
      "title": "'인보사 무죄' 이우석 前대표 형사보상 받는다",
      "url": "https://n.news.naver.com/article/015/0005345916"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1576,7 +1577,8 @@
    "articleId": "0005345934",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -3030,7 +3032,8 @@
      "title": "오세훈 무죄에 與 “무죄 자판기 재판부” 野 “억지 기소 사필귀정”",
      "url": "https://n.news.naver.com/article/020/0003757281"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3042,11 +3045,13 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "SK하이닉스, 손자회사 솔리다임 美 상장 접어",
+   "title": "“상장땐 SK하이닉스 투자매력 하락 우려” 주주 반발에 IPO 스톱",
    "url": "https://n.news.naver.com/article/020/0003757308",
    "articleId": "0003757308",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "020",
@@ -3063,7 +3068,8 @@
    "articleId": "0003757313",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3087,7 +3093,8 @@
      "title": "李 “반도체 주52시간 예외, 새 제도 만들 필요 있나”",
      "url": "https://n.news.naver.com/article/020/0003757280"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4048,7 +4055,8 @@
    "articleId": "0004005705",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4101,7 +4109,8 @@
      "title": "오세훈, 정치인생 3번째 기사회생… 야권 “보수 통합 구심점 기대”",
      "url": "https://n.news.naver.com/article/023/0004005702"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4137,7 +4146,8 @@
      "title": "“된장찌개 1인분이요? 손님이 직접 끓이셔야 합니다”",
      "url": "https://n.news.naver.com/article/023/0004005640"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5435,7 +5445,8 @@
    "articleId": "0000056966",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
@@ -5451,7 +5462,9 @@
    "url": "https://n.news.naver.com/article/353/0000057023",
    "articleId": "0000057023",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "353",
