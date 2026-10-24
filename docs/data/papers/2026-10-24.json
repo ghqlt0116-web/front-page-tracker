@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "collectedAt": "2026-10-23T23:58:16",
+ "collectedAt": "2026-10-24T00:44:36",
  "articles": [
   {
    "press": "009",
@@ -1560,7 +1560,8 @@
      "title": "오세훈, 국힘 쇄신 구심점 부상…총선·대선 판 흔들 듯",
      "url": "https://n.news.naver.com/article/015/0005345922"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -3050,8 +3051,8 @@
    "articleId": "0003757308",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3906,7 +3907,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/10/23/3757268.jpg?type=nf264_176",
    "column": null,
-   "title": "[횡설수설/김준일]흔들리는 ‘솅겐 협약’",
+   "title": "흔들리는 ‘솅겐 협약’ [횡설수설/김준일]",
    "url": "https://n.news.naver.com/article/020/0003757268",
    "articleId": "0003757268",
    "seriesKey": null,
@@ -3986,11 +3987,11 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "칠보[박연준의 토요일은 시가 좋아]〈64〉",
-   "url": "https://n.news.naver.com/article/020/0003757263",
-   "articleId": "0003757263",
-   "seriesKey": "020:박연준의토요일은시가좋아",
-   "seriesType": "연재칼럼"
+   "title": "국정감사라는 가짜 노동 [오늘과 내일/우경임]",
+   "url": "https://n.news.naver.com/article/020/0003757267",
+   "articleId": "0003757267",
+   "seriesKey": null,
+   "seriesType": null
   },
   {
    "press": "020",
@@ -4002,11 +4003,11 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[오늘과 내일/우경임]국정감사라는 가짜 노동",
-   "url": "https://n.news.naver.com/article/020/0003757267",
-   "articleId": "0003757267",
-   "seriesKey": null,
-   "seriesType": null
+   "title": "칠보[박연준의 토요일은 시가 좋아]〈64〉",
+   "url": "https://n.news.naver.com/article/020/0003757263",
+   "articleId": "0003757263",
+   "seriesKey": "020:박연준의토요일은시가좋아",
+   "seriesType": "연재칼럼"
   },
   {
    "press": "020",
@@ -4189,11 +4190,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/24/4005702.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/24/4005703.jpg?type=nf264_176",
    "column": null,
-   "title": "오세훈, 정치인생 3번째 기사회생… 야권 “보수 통합 구심점 기대”",
-   "url": "https://n.news.naver.com/article/023/0004005702",
-   "articleId": "0004005702",
+   "title": "與, 공개적으론 반발… 속으론 “보궐선거 안하게 돼 다행”",
+   "url": "https://n.news.naver.com/article/023/0004005703",
+   "articleId": "0004005703",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4207,9 +4208,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "與, 공개적으론 반발… 속으론 “보궐선거 안하게 돼 다행”",
-   "url": "https://n.news.naver.com/article/023/0004005703",
-   "articleId": "0004005703",
+   "title": "오세훈, 정치인생 3번째 기사회생… 야권 “보수 통합 구심점 기대”",
+   "url": "https://n.news.naver.com/article/023/0004005702",
+   "articleId": "0004005702",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4780,8 +4781,8 @@
    "page": "A18",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": false,
-   "thumb": null,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/24/4005666.jpg?type=nf264_176",
    "column": null,
    "title": "장민호, 亞패러게임 육상 400m 세계신기록",
    "url": "https://n.news.naver.com/article/023/0004005666",
@@ -4989,7 +4990,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/23/4005624.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/23/4005627.jpg?type=nf264_176",
+   "column": null,
+   "title": "[강천석 칼럼] 한국, 대통령 실패를 몇 번 감당할 수 있을까",
+   "url": "https://n.news.naver.com/article/023/0004005627",
+   "articleId": "0004005627",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-24",
+   "page": "A22",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "[정수윤의 길을 걸으며] [51] ’100일의 거짓말’을 보는 마음",
    "url": "https://n.news.naver.com/article/023/0004005624",
@@ -5002,7 +5019,7 @@
    "pressName": "조선일보",
    "date": "2026-10-24",
    "page": "A22",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5018,7 +5035,7 @@
    "pressName": "조선일보",
    "date": "2026-10-24",
    "page": "A22",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5026,22 +5043,6 @@
    "title": "[특파원 리포트] 안보리 문턱 앞에 멈추지 마라",
    "url": "https://n.news.naver.com/article/023/0004005625",
    "articleId": "0004005625",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-24",
-   "page": "A22",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "[강천석 칼럼] 한국, 대통령 실패를 몇 번 감당할 수 있을까",
-   "url": "https://n.news.naver.com/article/023/0004005627",
-   "articleId": "0004005627",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5463,8 +5464,8 @@
    "articleId": "0000057023",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
