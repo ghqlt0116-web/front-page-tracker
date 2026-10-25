@@ -1,6 +1,141 @@
 {
  "series": [
   {
+   "seriesKey": "023:문태준의가슴이따뜻해지는",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "문태준의 가슴이 따뜻해지는 詩",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "103",
+     "ord": 103,
+     "isEnd": false,
+     "date": "2026-01-05",
+     "page": "A30",
+     "column": null,
+     "title": "[문태준의 가슴이 따뜻해지는 詩] [103] 꿈",
+     "url": "https://n.news.naver.com/article/023/0003950870",
+     "articleId": "0003950870"
+    },
+    {
+     "label": "104",
+     "ord": 104,
+     "isEnd": false,
+     "date": "2026-01-12",
+     "page": "A30",
+     "column": null,
+     "title": "[문태준의 가슴이 따뜻해지는 詩] [104] 안녕, 나야",
+     "url": "https://n.news.naver.com/article/023/0003952262",
+     "articleId": "0003952262"
+    },
+    {
+     "label": "141",
+     "ord": 141,
+     "isEnd": false,
+     "date": "2026-10-05",
+     "page": "A26",
+     "column": null,
+     "title": "[문태준의 가슴이 따뜻해지는 詩] [141] 양봉 일지 3",
+     "url": "https://n.news.naver.com/article/023/0004002048",
+     "articleId": "0004002048"
+    },
+    {
+     "label": "142",
+     "ord": 142,
+     "isEnd": false,
+     "date": "2026-10-12",
+     "page": "A30",
+     "column": null,
+     "title": "[문태준의 가슴이 따뜻해지는 詩] [142] 10월",
+     "url": "https://n.news.naver.com/article/023/0004003192",
+     "articleId": "0004003192"
+    },
+    {
+     "label": "143",
+     "ord": 143,
+     "isEnd": false,
+     "date": "2026-10-19",
+     "page": "A30",
+     "column": null,
+     "title": "[문태준의 가슴이 따뜻해지는 詩] [143] 빈방",
+     "url": "https://n.news.naver.com/article/023/0004004509",
+     "articleId": "0004004509"
+    },
+    {
+     "label": "144",
+     "ord": 144,
+     "isEnd": false,
+     "date": "2026-10-26",
+     "page": "A30",
+     "column": null,
+     "title": "[문태준의 가슴이 따뜻해지는 詩] [144] 너의 얼굴을 꽃병에 꽂아둔다",
+     "url": "https://n.news.naver.com/article/023/0004005821",
+     "articleId": "0004005821"
+    }
+   ],
+   "firstDate": "2026-01-05",
+   "lastDate": "2026-10-26"
+  },
+  {
+   "seriesKey": "023:김민섭의다정함에대하여",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "김민섭의 다정함에 대하여",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "8",
+     "ord": 8,
+     "isEnd": false,
+     "date": "2026-10-12",
+     "page": "A29",
+     "column": null,
+     "title": "[김민섭의 다정함에 대하여] [8] 머뭇거림은 인간만이 할 수 있다",
+     "url": "https://n.news.naver.com/article/023/0004003191",
+     "articleId": "0004003191"
+    },
+    {
+     "label": "9",
+     "ord": 9,
+     "isEnd": false,
+     "date": "2026-10-26",
+     "page": "A29",
+     "column": null,
+     "title": "[김민섭의 다정함에 대하여] [9] 건강한 이기심과 ‘당잘런’",
+     "url": "https://n.news.naver.com/article/023/0004005820",
+     "articleId": "0004005820"
+    }
+   ],
+   "firstDate": "2026-10-12",
+   "lastDate": "2026-10-26"
+  },
+  {
+   "seriesKey": "023:임희윤의",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "임희윤의 一日一板",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "1",
+     "ord": 1,
+     "isEnd": false,
+     "date": "2026-10-26",
+     "page": "A31",
+     "column": null,
+     "title": "[임희윤의 一日一板] [1] 꿈처럼 음악처럼, 인생의 ‘가리워진 길’",
+     "url": "https://n.news.naver.com/article/023/0004005819",
+     "articleId": "0004005819"
+    }
+   ],
+   "firstDate": "2026-10-26",
+   "lastDate": "2026-10-26"
+  },
+  {
    "seriesKey": "020:박연준의토요일은시가좋아",
    "press": "020",
    "pressName": "동아일보",
@@ -1411,73 +1546,6 @@
    "lastDate": "2026-10-20"
   },
   {
-   "seriesKey": "023:문태준의가슴이따뜻해지는",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "문태준의 가슴이 따뜻해지는 詩",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "103",
-     "ord": 103,
-     "isEnd": false,
-     "date": "2026-01-05",
-     "page": "A30",
-     "column": null,
-     "title": "[문태준의 가슴이 따뜻해지는 詩] [103] 꿈",
-     "url": "https://n.news.naver.com/article/023/0003950870",
-     "articleId": "0003950870"
-    },
-    {
-     "label": "104",
-     "ord": 104,
-     "isEnd": false,
-     "date": "2026-01-12",
-     "page": "A30",
-     "column": null,
-     "title": "[문태준의 가슴이 따뜻해지는 詩] [104] 안녕, 나야",
-     "url": "https://n.news.naver.com/article/023/0003952262",
-     "articleId": "0003952262"
-    },
-    {
-     "label": "141",
-     "ord": 141,
-     "isEnd": false,
-     "date": "2026-10-05",
-     "page": "A26",
-     "column": null,
-     "title": "[문태준의 가슴이 따뜻해지는 詩] [141] 양봉 일지 3",
-     "url": "https://n.news.naver.com/article/023/0004002048",
-     "articleId": "0004002048"
-    },
-    {
-     "label": "142",
-     "ord": 142,
-     "isEnd": false,
-     "date": "2026-10-12",
-     "page": "A30",
-     "column": null,
-     "title": "[문태준의 가슴이 따뜻해지는 詩] [142] 10월",
-     "url": "https://n.news.naver.com/article/023/0004003192",
-     "articleId": "0004003192"
-    },
-    {
-     "label": "143",
-     "ord": 143,
-     "isEnd": false,
-     "date": "2026-10-19",
-     "page": "A30",
-     "column": null,
-     "title": "[문태준의 가슴이 따뜻해지는 詩] [143] 빈방",
-     "url": "https://n.news.naver.com/article/023/0004004509",
-     "articleId": "0004004509"
-    }
-   ],
-   "firstDate": "2026-01-05",
-   "lastDate": "2026-10-19"
-  },
-  {
    "seriesKey": "023:강헌의히스토리인팝스",
    "press": "023",
    "pressName": "조선일보",
@@ -1748,29 +1816,6 @@
    ],
    "firstDate": "2026-10-13",
    "lastDate": "2026-10-13"
-  },
-  {
-   "seriesKey": "023:김민섭의다정함에대하여",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "김민섭의 다정함에 대하여",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "8",
-     "ord": 8,
-     "isEnd": false,
-     "date": "2026-10-12",
-     "page": "A29",
-     "column": null,
-     "title": "[김민섭의 다정함에 대하여] [8] 머뭇거림은 인간만이 할 수 있다",
-     "url": "https://n.news.naver.com/article/023/0004003191",
-     "articleId": "0004003191"
-    }
-   ],
-   "firstDate": "2026-10-12",
-   "lastDate": "2026-10-12"
   },
   {
    "seriesKey": "023:신문속작은창문",
