@@ -136,6 +136,51 @@
    "lastDate": "2026-10-26"
   },
   {
+   "seriesKey": "032:창간기획춘추정병시대",
+   "press": "032",
+   "pressName": "경향신문",
+   "name": "창간기획 춘추정병시대",
+   "seriesType": "기획",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-10-26",
+     "page": "A1",
+     "column": null,
+     "title": "“쓸모요? 그런 생각하면 정병 와요”…모두가 자신의 무가치함과 싸우고 있다[창간기획 춘추정병시대]",
+     "url": "https://n.news.naver.com/article/032/0003478445",
+     "articleId": "0003478445"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-10-26",
+     "page": "A5",
+     "column": null,
+     "title": "‘어떤 목마름’에 혼술바 찾는 사람들···지역 청년들 “연결되고, 교류하고 싶으니까요”[창간기획 춘추정병시대]",
+     "url": "https://n.news.naver.com/article/032/0003478450",
+     "articleId": "0003478450"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-10-26",
+     "page": "A5",
+     "column": null,
+     "title": "“사회가 갈기갈기 찢어졌다”…청년들이 어디에도 속하지 못하는 이유[창간기획 춘추정병시대]",
+     "url": "https://n.news.naver.com/article/032/0003478452",
+     "articleId": "0003478452"
+    }
+   ],
+   "firstDate": "2026-10-26",
+   "lastDate": "2026-10-26"
+  },
+  {
    "seriesKey": "020:박연준의토요일은시가좋아",
    "press": "020",
    "pressName": "동아일보",

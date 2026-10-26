@@ -1,6 +1,7 @@
 /* 조간 1면 트래커 — 바닐라 JS 대시보드 */
 (() => {
-  const PRESS_ORDER = ["023", "025", "353", "020", "009", "015"];
+  // 기본 순서 — init()에서 manifest의 매체 목록으로 대체됨 (config.py에 매체를 추가하면 자동 반영)
+  let PRESS_ORDER = ["023", "025", "353", "020", "032", "028", "009", "015"];
   const state = {
     view: "front",
     date: null,
@@ -15,7 +16,41 @@
     q: "",
     paperCache: {},
     seriesIndex: null,
+    hiddenPresses: new Set(), // 대시보드에서 끈 매체 (localStorage 유지)
   };
+
+  /* ── 매체 표시 선택: 끈 매체만 저장 → 새 매체가 추가되면 기본 표시됨 ── */
+  function loadHiddenPresses() {
+    try {
+      return new Set(JSON.parse(localStorage.getItem("fpt_hidden_presses") || "[]"));
+    } catch {
+      return new Set();
+    }
+  }
+  function saveHiddenPresses() {
+    try {
+      localStorage.setItem("fpt_hidden_presses", JSON.stringify([...state.hiddenPresses]));
+    } catch {}
+  }
+  const shownPresses = () => PRESS_ORDER.filter((o) => !state.hiddenPresses.has(o));
+
+  function pressPickerHtml() {
+    return `<div class="press-picker chips"><span class="flabel">매체</span>${PRESS_ORDER.map(
+      (oid) =>
+        `<button data-toggle-press="${oid}" class="${state.hiddenPresses.has(oid) ? "" : "active"}" aria-pressed="${!state.hiddenPresses.has(oid)}">${esc(state.presses[oid] || oid)}</button>`
+    ).join("")}</div>`;
+  }
+  function bindPressPicker(el) {
+    $$("[data-toggle-press]", el).forEach((b) =>
+      b.addEventListener("click", () => {
+        const oid = b.dataset.togglePress;
+        if (state.hiddenPresses.has(oid)) state.hiddenPresses.delete(oid);
+        else if (shownPresses().length > 1) state.hiddenPresses.add(oid); // 최소 1개 유지
+        saveHiddenPresses();
+        render();
+      })
+    );
+  }
 
   const $ = (sel, el = document) => el.querySelector(sel);
   const $$ = (sel, el = document) => [...el.querySelectorAll(sel)];
@@ -77,7 +112,7 @@
   }
   // 사설·칼럼류: 매칭은 하되 라벨을 달아 구분 (1면 이슈가 사설까지 이어졌다는 신호)
   const OPINION_RE =
-    /^\s*[\[(〈<]?\s*(사설|시론|칼럼|기고|특별기고|만물상|횡설수설|분수대|천자칼럼|매경포럼|데스크에서|기자24시|취재수첩|기자수첩|오늘과 내일|광화문에서)/;
+    /^\s*[\[(〈<]?\s*(사설|시론|칼럼|기고|특별기고|만물상|횡설수설|분수대|천자칼럼|매경포럼|데스크에서|기자24시|취재수첩|기자수첩|오늘과 내일|광화문에서|여적|유레카|아침햇발|말글살이)/;
   // 비뉴스성(사진·만평·부음 등)은 관련기사 후보에서 제외
   const NONNEWS_RE = /^\s*[\[(〈<]?\s*(사진|포토|만평|만화|알림|알립니다|부음|부고|인사)\s*[\])〉>]/;
 
@@ -140,8 +175,9 @@
     const byPress = {};
     for (const a of doc.articles) (byPress[a.press] ??= []).push(a);
 
-    let html = `<div class="front-grid">`;
-    for (const oid of PRESS_ORDER) {
+    let html = pressPickerHtml();
+    html += `<div class="front-grid">`;
+    for (const oid of shownPresses()) {
       const all = byPress[oid] || [];
       if (!all.length) continue; // 미발행(휴간·주말전용지 평일 등)은 컬럼 자체를 숨김
       const mainSec = mainFrontSec(all);
@@ -199,6 +235,7 @@
     }
     html += `</div>`;
     el.innerHTML = html || `<p class="empty">기사 없음</p>`;
+    bindPressPicker(el);
   }
 
   /* ── 지면 뷰 ── */
@@ -211,8 +248,11 @@
       el.innerHTML = `<p class="empty">이 날짜의 데이터가 없습니다.</p>`;
       return;
     }
+    // 표시 선택에서 끈 매체는 탭에서도 숨김; 선택돼 있던 매체가 꺼졌으면 첫 매체로
+    const shown = shownPresses();
+    if (!shown.includes(state.press)) state.press = shown[0];
     let html = `<div class="press-tabs">`;
-    for (const oid of PRESS_ORDER) {
+    for (const oid of shown) {
       html += `<button data-press="${oid}" class="${oid === state.press ? "active" : ""}">${esc(state.presses[oid] || oid)}</button>`;
     }
     html += `</div>`;
@@ -579,6 +619,11 @@
     state.presses = Object.fromEntries(
       Object.entries(manifest.presses).map(([k, v]) => [k, v])
     );
+    // 수집 매체 목록은 manifest가 원본 (JS 객체는 "469" 같은 숫자형 키 순서를 바꾸므로 배열 우선)
+    if (Array.isArray(manifest.pressOrder) && manifest.pressOrder.length) PRESS_ORDER = manifest.pressOrder;
+    else if (Object.keys(state.presses).length) PRESS_ORDER = Object.keys(state.presses);
+    state.hiddenPresses = loadHiddenPresses();
+    if (!shownPresses().length) state.hiddenPresses = new Set(); // 전부 꺼진 상태 방지
     const sel = $("#dateSelect");
     sel.innerHTML = state.dates
       .map((d) => `<option value="${d}">${d}</option>`)

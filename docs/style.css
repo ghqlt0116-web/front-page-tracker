@@ -85,6 +85,15 @@ a:hover { text-decoration: underline; }
 
 main { max-width: 1280px; margin: 0 auto; padding: 18px 16px 60px; }
 
+/* ── 매체 표시 선택 ── */
+.press-picker {
+  margin-bottom: 14px; padding-bottom: 12px;
+  border-bottom: 1px solid var(--rule);
+  align-items: center;
+}
+.press-picker button { font-size: 12.5px; padding: 4px 11px; opacity: .55; }
+.press-picker button.active { opacity: 1; background: var(--ink); color: var(--paper); border-color: var(--ink); }
+
 /* ── 오늘의 1면 ── */
 .front-grid {
   display: grid;

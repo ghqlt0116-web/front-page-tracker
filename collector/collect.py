@@ -120,7 +120,12 @@ def update_manifest():
     config.DATA_DIR.mkdir(parents=True, exist_ok=True)
     dates = sorted(p.stem for p in config.PAPERS_DIR.glob("*.json"))
     (config.DATA_DIR / "manifest.json").write_text(
-        json.dumps({"dates": dates, "presses": config.PRESSES}, ensure_ascii=False, indent=1),
+        json.dumps(
+            # pressOrder: JS 객체 키는 숫자형("469" 등) 순서가 바뀌므로 배열로 순서 고정
+            {"dates": dates, "presses": config.PRESSES, "pressOrder": list(config.PRESSES)},
+            ensure_ascii=False,
+            indent=1,
+        ),
         encoding="utf-8",
     )
 
