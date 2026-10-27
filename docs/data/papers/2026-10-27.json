@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "collectedAt": "2026-10-26T23:44:55",
+ "collectedAt": "2026-10-27T00:46:26",
  "articles": [
   {
    "press": "009",
@@ -17,7 +17,6 @@
    "articleId": "0005754307",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005754304",
@@ -37,7 +36,8 @@
      "title": "\"AI 데이터센터 전력수요 생각보다 많지 않아\"",
      "url": "https://n.news.naver.com/article/009/0005754291"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -53,7 +53,9 @@
    "url": "https://n.news.naver.com/article/009/0005754306",
    "articleId": "0005754306",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "009",
@@ -70,7 +72,8 @@
    "articleId": "0005754308",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -87,8 +90,8 @@
    "articleId": "0005754309",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -105,7 +108,6 @@
    "articleId": "0005754334",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005754238",
@@ -113,7 +115,8 @@
      "title": "\"비난 받아도 해놔야\"한다는 CPTPP…신청 미룰 이유 없다 [사설]",
      "url": "https://n.news.naver.com/article/009/0005754238"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2178,7 +2181,6 @@
    "articleId": "0005346684",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005346683",
@@ -2186,7 +2188,8 @@
      "title": "삼전닉스가 버는 2600조가 저주?…한국 덮친 '섬뜩한 경고'",
      "url": "https://n.news.naver.com/article/015/0005346683"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2203,7 +2206,6 @@
    "articleId": "0005346670",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005346701",
@@ -2211,7 +2213,8 @@
      "title": "[단독] 中배터리도 줄서는 에코프로…\"유럽 양극재 장악\"",
      "url": "https://n.news.naver.com/article/015/0005346701"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2228,7 +2231,6 @@
    "articleId": "0005346673",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005346671",
@@ -2242,7 +2244,8 @@
      "title": "사상최고 치솟던 브라질 증시…우파 집권 실패하자 '찬바람'",
      "url": "https://n.news.naver.com/article/015/0005346660"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2272,7 +2275,8 @@
      "title": "삼성물산, 도시정비 '10조 클럽' 가입",
      "url": "https://n.news.naver.com/article/015/0005346622"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2777,12 +2781,12 @@
    "page": "A13",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": false,
-   "thumb": null,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/10/26/5346608.jpg?type=nf264_176",
    "column": null,
-   "title": "정부, 더존비즈온 해킹 사고 조사",
-   "url": "https://n.news.naver.com/article/015/0005346605",
-   "articleId": "0005346605",
+   "title": "오프라인 공연장 간 네카오…\"年 1조 콘서트 시장 잡아라\"",
+   "url": "https://n.news.naver.com/article/015/0005346608",
+   "articleId": "0005346608",
    "seriesKey": null,
    "seriesType": null
   },
@@ -2796,9 +2800,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "1020 고객 노린다…네이버·카카오 뛰어든 '1조 먹거리' 정체",
-   "url": "https://n.news.naver.com/article/015/0005346608",
-   "articleId": "0005346608",
+   "title": "정부, 더존비즈온 해킹 사고 조사",
+   "url": "https://n.news.naver.com/article/015/0005346605",
+   "articleId": "0005346605",
    "seriesKey": null,
    "seriesType": null
   },
@@ -3561,6 +3565,22 @@
    "page": "A25",
    "pageOrder": 1,
    "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/10/26/5346680.jpg?type=nf264_176",
+   "column": null,
+   "title": "IT비전공자가 'AI 해킹'…병원·대학도 털렸다",
+   "url": "https://n.news.naver.com/article/015/0005346680",
+   "articleId": "0005346680",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-27",
+   "page": "A25",
+   "pageOrder": 2,
+   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -3575,7 +3595,7 @@
    "pressName": "한국경제",
    "date": "2026-10-27",
    "page": "A25",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -3591,7 +3611,7 @@
    "pressName": "한국경제",
    "date": "2026-10-27",
    "page": "A25",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -3599,22 +3619,6 @@
    "title": "지방노동감독관 '반쪽 출범' 위기",
    "url": "https://n.news.naver.com/article/015/0005346678",
    "articleId": "0005346678",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "015",
-   "pressName": "한국경제",
-   "date": "2026-10-27",
-   "page": "A25",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "IT 전공자도 아니었다…정보 820만건 턴 30대 해커의 실체",
-   "url": "https://n.news.naver.com/article/015/0005346680",
-   "articleId": "0005346680",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4433,7 +4437,6 @@
    "articleId": "0003757879",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003757812",
@@ -4453,7 +4456,8 @@
      "title": "최길수 특감, 김현지 감찰 예외 묻자 “법 어기면 내가 처벌돼”",
      "url": "https://n.news.naver.com/article/020/0003757885"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4470,7 +4474,6 @@
    "articleId": "0003757881",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003757878",
@@ -4484,7 +4487,8 @@
      "title": "[사설]李 “CPTPP 비난 있더라도 해 놓아야”… 시간표 더 앞당겨야",
      "url": "https://n.news.naver.com/article/020/0003757811"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4501,7 +4505,6 @@
    "articleId": "0003757849",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003757856",
@@ -4515,7 +4518,8 @@
      "title": "영세업자 빚 탕감-주40시간제 도입… 룰라 4선 뒤엔 ‘선심’ 정책",
      "url": "https://n.news.naver.com/article/020/0003757855"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4532,7 +4536,6 @@
    "articleId": "0003757880",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003757883",
@@ -4540,7 +4543,8 @@
      "title": "“2년전 트럼프 당선 도운 히스패닉 표심, 다시 민주당으로”",
      "url": "https://n.news.naver.com/article/020/0003757883"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4856,9 +4860,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "외국인-귀화자-이민2세 인구, 작년 280만명 돌파",
-   "url": "https://n.news.naver.com/article/020/0003757887",
-   "articleId": "0003757887",
+   "title": "30대 여성 민통선 넘어 철책 절단… 軍, 첫 식별 후 20시간 놓쳤다",
+   "url": "https://n.news.naver.com/article/020/0003757888",
+   "articleId": "0003757888",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4872,9 +4876,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "역삼동 연쇄방화범에 ‘살인미수’ 적용 검토",
-   "url": "https://n.news.naver.com/article/020/0003757886",
-   "articleId": "0003757886",
+   "title": "외국인-귀화자-이민2세 인구, 작년 280만명 돌파",
+   "url": "https://n.news.naver.com/article/020/0003757887",
+   "articleId": "0003757887",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4888,9 +4892,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "30대 여성 민통선 넘어 철책 절단… 軍 20시간 몰랐다",
-   "url": "https://n.news.naver.com/article/020/0003757888",
-   "articleId": "0003757888",
+   "title": "역삼동 연쇄방화범에 ‘살인미수’ 적용 검토",
+   "url": "https://n.news.naver.com/article/020/0003757886",
+   "articleId": "0003757886",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5576,7 +5580,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/10/26/3757809.jpg?type=nf264_176",
    "column": null,
-   "title": "[횡설수설/우경임]여군 장교",
+   "title": "여군 장교 [횡설수설/우경임]",
    "url": "https://n.news.naver.com/article/020/0003757809",
    "articleId": "0003757809",
    "seriesKey": null,
@@ -5656,6 +5660,22 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
+   "title": "부동산 ‘전쟁’의 민간 희생자들 [오늘과 내일/김재영]",
+   "url": "https://n.news.naver.com/article/020/0003757808",
+   "articleId": "0003757808",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-10-27",
+   "page": "A31",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
    "title": "[사설]전기차 100만 시대, 고장 나도 고칠 곳이 없다",
    "url": "https://n.news.naver.com/article/020/0003757810",
    "articleId": "0003757810",
@@ -5667,7 +5687,7 @@
    "pressName": "동아일보",
    "date": "2026-10-27",
    "page": "A31",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5683,7 +5703,7 @@
    "pressName": "동아일보",
    "date": "2026-10-27",
    "page": "A31",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5693,22 +5713,6 @@
    "articleId": "0003757797",
    "seriesKey": "020:임용한의전쟁사",
    "seriesType": "연재칼럼"
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-10-27",
-   "page": "A31",
-   "pageOrder": 5,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "[오늘과 내일/김재영]부동산 ‘전쟁’의 민간 희생자들",
-   "url": "https://n.news.naver.com/article/020/0003757808",
-   "articleId": "0003757808",
-   "seriesKey": null,
-   "seriesType": null
   },
   {
    "press": "020",
@@ -6088,13 +6092,13 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/27/4006112.jpg?type=nf600_340",
    "column": null,
-   "title": "물가·증시·집값 비상인데… 여당, 탄핵·특검 무한반복",
+   "title": "탄핵과 특검 무한반복하는 민주당",
    "url": "https://n.news.naver.com/article/023/0004006112",
    "articleId": "0004006112",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6111,7 +6115,6 @@
    "articleId": "0004006109",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004006014",
@@ -6125,7 +6128,8 @@
      "title": "강신철 “북한과 전쟁 났을때 미군 믿을 수 있나… 그렇지 않은 것”",
      "url": "https://n.news.naver.com/article/023/0004006101"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6142,7 +6146,6 @@
    "articleId": "0004006110",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004006034",
@@ -6150,7 +6153,8 @@
      "title": "[朝鮮칼럼] CPTPP 가입하고 농민 표도 얻을 길이 있다",
      "url": "https://n.news.naver.com/article/023/0004006034"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6167,8 +6171,8 @@
    "articleId": "0004006111",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6354,7 +6358,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/26/4006022.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/27/4006094.jpg?type=nf264_176",
+   "column": null,
+   "title": "중수청장 “중요 사건 수사할 땐 대통령 공약·국정 방향 맞춰야”",
+   "url": "https://n.news.naver.com/article/023/0004006094",
+   "articleId": "0004006094",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-27",
+   "page": "A10",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "‘퐁당퐁당’ ‘야차룰’... 게임 가장한 학폭",
    "url": "https://n.news.naver.com/article/023/0004006022",
@@ -6367,7 +6387,7 @@
    "pressName": "조선일보",
    "date": "2026-10-27",
    "page": "A10",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6383,7 +6403,7 @@
    "pressName": "조선일보",
    "date": "2026-10-27",
    "page": "A10",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6391,22 +6411,6 @@
    "title": "인천에 새 센터 짓는 재외동포청, 5년 준비한 시흥엔 통보도 안 해",
    "url": "https://n.news.naver.com/article/023/0004006093",
    "articleId": "0004006093",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-27",
-   "page": "A10",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "중수청장 “중요 사건 수사할 땐 대통령 공약·국정 방향 맞춰야”",
-   "url": "https://n.news.naver.com/article/023/0004006094",
-   "articleId": "0004006094",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6754,11 +6758,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/27/4006082.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/27/4006083.jpg?type=nf264_176",
    "column": null,
-   "title": "산낙지로 LPGA 우승 파티… 日 요시다 “한국 정말 좋아”",
-   "url": "https://n.news.naver.com/article/023/0004006082",
-   "articleId": "0004006082",
+   "title": "배구 ‘오심 논란’ 사라질까… KOVO “AI 판독 시스템 개발”",
+   "url": "https://n.news.naver.com/article/023/0004006083",
+   "articleId": "0004006083",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6772,9 +6776,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "롯데 새 사령탑에 이동욱 전 NC 감독",
-   "url": "https://n.news.naver.com/article/023/0004006084",
-   "articleId": "0004006084",
+   "title": "산낙지로 LPGA 우승 파티… 日 요시다 “한국 정말 좋아”",
+   "url": "https://n.news.naver.com/article/023/0004006082",
+   "articleId": "0004006082",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6788,9 +6792,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "배구 ‘오심 논란’ 사라질까… KOVO “AI 판독 시스템 개발”",
-   "url": "https://n.news.naver.com/article/023/0004006083",
-   "articleId": "0004006083",
+   "title": "롯데 새 사령탑에 이동욱 전 NC 감독",
+   "url": "https://n.news.naver.com/article/023/0004006084",
+   "articleId": "0004006084",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6994,11 +6998,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/26/4006014.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/26/4006032.jpg?type=nf264_176",
    "column": null,
-   "title": "[만물상] 진짜 ‘로켓 배송’ 시대",
-   "url": "https://n.news.naver.com/article/023/0004006014",
-   "articleId": "0004006014",
+   "title": "[기자의 시각] ‘비판’을 ‘비난’으로 둔갑시킨 경찰",
+   "url": "https://n.news.naver.com/article/023/0004006032",
+   "articleId": "0004006032",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7012,11 +7016,11 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[문지혁의 슬기로운 문학생활] [43] 심연 속에 사탕 던지는 일",
-   "url": "https://n.news.naver.com/article/023/0004006025",
-   "articleId": "0004006025",
-   "seriesKey": "023:문지혁의슬기로운문학생활",
-   "seriesType": "연재칼럼"
+   "title": "[만물상] 진짜 ‘로켓 배송’ 시대",
+   "url": "https://n.news.naver.com/article/023/0004006014",
+   "articleId": "0004006014",
+   "seriesKey": null,
+   "seriesType": null
   },
   {
    "press": "023",
@@ -7028,11 +7032,11 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[기자의 시각] ‘비판’을 ‘비난’으로 둔갑시킨 경찰",
-   "url": "https://n.news.naver.com/article/023/0004006032",
-   "articleId": "0004006032",
-   "seriesKey": null,
-   "seriesType": null
+   "title": "[문지혁의 슬기로운 문학생활] [43] 심연 속에 사탕 던지는 일",
+   "url": "https://n.news.naver.com/article/023/0004006025",
+   "articleId": "0004006025",
+   "seriesKey": "023:문지혁의슬기로운문학생활",
+   "seriesType": "연재칼럼"
   },
   {
    "press": "023",
@@ -7417,7 +7421,6 @@
    "articleId": "0003560688",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003560676",
@@ -7425,7 +7428,8 @@
      "title": "수출 경쟁력 48% 떨어졌는데…‘국익 vs 농심’ CPTPP 딜레마",
      "url": "https://n.news.naver.com/article/025/0003560676"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7442,8 +7446,8 @@
    "articleId": "0003560690",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7663,7 +7667,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "30대 여성에 뚫린 민통선…GOP 철조망까지 잘렸다",
+   "title": "30대 여성, 민통선 넘어 GOP 철조망까지 잘랐다",
    "url": "https://n.news.naver.com/article/025/0003560675",
    "articleId": "0003560675",
    "seriesKey": null,
@@ -8573,20 +8577,20 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/10/26/2829188.jpg?type=nf600_340",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/10/26/2829282.jpg?type=nf600_340",
    "column": null,
-   "title": "브라질의 선택은 ‘4선’ 룰라…중남미 우파 물결 ‘블루타이드’ 저지",
-   "url": "https://n.news.naver.com/article/028/0002829188",
-   "articleId": "0002829188",
+   "title": "이 대통령 “CPTPP 가입, 피할 수 없어”…수출 부담금 도입 제안",
+   "url": "https://n.news.naver.com/article/028/0002829282",
+   "articleId": "0002829282",
    "seriesKey": null,
    "seriesType": null,
    "searchDone": true,
    "related": [
     {
-     "articleId": "0002829260",
-     "page": "27",
-     "title": "[사설] 한국 정치가 곱씹어야 할 브라질 룰라의 4선 기적",
-     "url": "https://n.news.naver.com/article/028/0002829260"
+     "articleId": "0002829159",
+     "page": "16",
+     "title": "K-뷰티·반도체 날았다…3분기 중소기업 수출 334억달러 ‘역대 최고’",
+     "url": "https://n.news.naver.com/article/028/0002829159"
     }
    ]
   },
@@ -8600,20 +8604,20 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "보험업계로 번진 ‘금융권 광역 해킹’…미래에셋생명서 첫 피해 확인",
-   "url": "https://n.news.naver.com/article/028/0002829261",
-   "articleId": "0002829261",
+   "title": "브라질의 선택은 ‘4선’ 룰라…중남미 우파 물결 ‘블루타이드’ 저지",
+   "url": "https://n.news.naver.com/article/028/0002829188",
+   "articleId": "0002829188",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
-     "articleId": "0002829161",
-     "page": "9",
-     "title": "비전공자가 AI로 개인정보 820만건 해킹…“AI가 사이버범죄 문턱 낮춰”",
-     "url": "https://n.news.naver.com/article/028/0002829161"
+     "articleId": "0002829260",
+     "page": "27",
+     "title": "[사설] 한국 정치가 곱씹어야 할 브라질 룰라의 4선 기적",
+     "url": "https://n.news.naver.com/article/028/0002829260"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8625,11 +8629,20 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "이 대통령 “CPTPP 가입, 피할 수 없어”…수출 부담금 도입 제안",
-   "url": "https://n.news.naver.com/article/028/0002829282",
-   "articleId": "0002829282",
+   "title": "보험업계로 번진 ‘금융권 광역 해킹’…미래에셋생명서 첫 피해 확인",
+   "url": "https://n.news.naver.com/article/028/0002829261",
+   "articleId": "0002829261",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0002829161",
+     "page": "9",
+     "title": "비전공자가 AI로 개인정보 820만건 해킹…“AI가 사이버범죄 문턱 낮춰”",
+     "url": "https://n.news.naver.com/article/028/0002829161"
+    }
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8639,11 +8652,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/10/26/2829197.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/10/26/2829290.jpg?type=nf264_176",
    "column": null,
-   "title": "사람 지시 없이…AI 클로드, 미 핵심 경합주 조지아 유권자 정보 무단열람",
-   "url": "https://n.news.naver.com/article/028/0002829197",
-   "articleId": "0002829197",
+   "title": "“AI 개발 늦추자”던 앤트로픽, 역대 최대 IPO 추진…136조원 관측",
+   "url": "https://n.news.naver.com/article/028/0002829290",
+   "articleId": "0002829290",
    "seriesKey": null,
    "seriesType": null
   },
@@ -8657,9 +8670,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“AI 개발 늦추자”던 앤트로픽, 역대 최대 IPO 추진…136조원 관측",
-   "url": "https://n.news.naver.com/article/028/0002829290",
-   "articleId": "0002829290",
+   "title": "사람 지시 없이…AI 클로드, 미 핵심 경합주 조지아 유권자 정보 무단열람",
+   "url": "https://n.news.naver.com/article/028/0002829197",
+   "articleId": "0002829197",
    "seriesKey": null,
    "seriesType": null
   },
@@ -8863,11 +8876,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/10/26/2829161.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/10/26/2829249.jpg?type=nf264_176",
    "column": null,
-   "title": "비전공자가 AI로 개인정보 820만건 해킹…“AI가 사이버범죄 문턱 낮춰”",
-   "url": "https://n.news.naver.com/article/028/0002829161",
-   "articleId": "0002829161",
+   "title": "중·고교 시험서도 ‘AI 안경’ 부정행위 2건…교육부 전수조사",
+   "url": "https://n.news.naver.com/article/028/0002829249",
+   "articleId": "0002829249",
    "seriesKey": null,
    "seriesType": null
   },
@@ -8881,9 +8894,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[단독] 겨울 코앞인데…보라매병원, ‘노숙인 전용병상’ 절반 축소 추진",
-   "url": "https://n.news.naver.com/article/028/0002829208",
-   "articleId": "0002829208",
+   "title": "비전공자가 AI로 개인정보 820만건 해킹…“AI가 사이버범죄 문턱 낮춰”",
+   "url": "https://n.news.naver.com/article/028/0002829161",
+   "articleId": "0002829161",
    "seriesKey": null,
    "seriesType": null
   },
@@ -8897,9 +8910,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "중·고교 시험서도 ‘스마트 안경’ 부정행위 2건 적발…교육부 전수조사",
-   "url": "https://n.news.naver.com/article/028/0002829249",
-   "articleId": "0002829249",
+   "title": "[단독] 겨울 코앞인데…보라매병원, ‘노숙인 전용병상’ 절반 축소 추진",
+   "url": "https://n.news.naver.com/article/028/0002829208",
+   "articleId": "0002829208",
    "seriesKey": null,
    "seriesType": null
   },
@@ -9573,7 +9586,22 @@
    "url": "https://n.news.naver.com/article/032/0003478684",
    "articleId": "0003478684",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0003478615",
+     "page": "A26",
+     "title": "[기자칼럼]가상자산 과세, 금투세 재도입으로 풀자",
+     "url": "https://n.news.naver.com/article/032/0003478615"
+    },
+    {
+     "articleId": "0003478693",
+     "page": "A17",
+     "title": "“누가 봐도 보수 꼴통이죠”···70대 원로목사의 뼈 있는 쓴소리",
+     "url": "https://n.news.naver.com/article/032/0003478693"
+    }
+   ]
   },
   {
    "press": "032",
@@ -9589,7 +9617,8 @@
    "url": "https://n.news.naver.com/article/032/0003478685",
    "articleId": "0003478685",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "032",
@@ -9613,7 +9642,8 @@
      "title": "사상 초유 투표 연장에…보우소나루 “선거 무효” 불복",
      "url": "https://n.news.naver.com/article/032/0003478668"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
