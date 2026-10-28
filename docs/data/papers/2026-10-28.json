@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "collectedAt": "2026-10-27T23:41:47",
+ "collectedAt": "2026-10-28T00:43:05",
  "articles": [
   {
    "press": "009",
@@ -17,8 +17,8 @@
    "articleId": "0005754872",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -35,7 +35,6 @@
    "articleId": "0005754875",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005754877",
@@ -43,7 +42,8 @@
      "title": "\"흑자전환·8천억弗 투자\"… 앤트로픽 수익성 확인에 반도체株 반색",
      "url": "https://n.news.naver.com/article/009/0005754877"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -60,8 +60,8 @@
    "articleId": "0005754873",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -78,7 +78,6 @@
    "articleId": "0005754874",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005754790",
@@ -86,7 +85,8 @@
      "title": "기업대출 늘린 신한금융 … 3분기 누적 순익 5조 최대",
      "url": "https://n.news.naver.com/article/009/0005754790"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -3031,8 +3031,8 @@
    "articleId": "0005347177",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -3049,7 +3049,6 @@
    "articleId": "0005347165",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005347203",
@@ -3057,7 +3056,8 @@
      "title": "앤트로픽 첫 흑자…클로드 써본 고객, 1년 뒤 9배로 돈 더 썼다",
      "url": "https://n.news.naver.com/article/015/0005347203"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -3093,7 +3093,8 @@
      "title": "'김미영 팀장' 잡은 전설의 경찰, 근황 봤더니…''깜짝'",
      "url": "https://n.news.naver.com/article/015/0005347200"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -3110,8 +3111,8 @@
    "articleId": "0005347185",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -5066,6 +5067,262 @@
    "seriesType": null
   },
   {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C1",
+   "pageOrder": 1,
+   "isTop": true,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "KCSI, 기업의 현재를 짚고 고객지향적 미래 그린다",
+   "url": "https://n.news.naver.com/article/015/0005347362",
+   "articleId": "0005347362",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C1",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "'첫 수성' 문턱 넘으면 선두 지킬 가능성 커져",
+   "url": "https://n.news.naver.com/article/015/0005347363",
+   "articleId": "0005347363",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C1",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "고객만족도 순위 격변에도…정상 지키는 힘은 혁신과 경청",
+   "url": "https://n.news.naver.com/article/015/0005347364",
+   "articleId": "0005347364",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C2",
+   "pageOrder": 1,
+   "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/10/28/5347347.jpg?type=nf264_176",
+   "column": null,
+   "title": "삼성카드, 소비자보호위에 UX 전문가 합류…다크패턴 잡는다",
+   "url": "https://n.news.naver.com/article/015/0005347347",
+   "articleId": "0005347347",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C2",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "현대자동차, 제네시스·아반떼 신모델 혁신 이어가고…전기차 라인엔 5년간 '긴급충전' 보장",
+   "url": "https://n.news.naver.com/article/015/0005347348",
+   "articleId": "0005347348",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C2",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "SK텔레콤, 고객 신뢰위원회 운영…소외지역 찾아 IT 교육",
+   "url": "https://n.news.naver.com/article/015/0005347349",
+   "articleId": "0005347349",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C2",
+   "pageOrder": 4,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "신한은행, 고객경험조사로 불편 파악…영업점서 바로 해결",
+   "url": "https://n.news.naver.com/article/015/0005347350",
+   "articleId": "0005347350",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C2",
+   "pageOrder": 5,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "삼성생명, 위험도 측정해 보험상품 안전성 상시 모니터링",
+   "url": "https://n.news.naver.com/article/015/0005347365",
+   "articleId": "0005347365",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C3",
+   "pageOrder": 1,
+   "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/10/28/5347351.jpg?type=nf264_176",
+   "column": null,
+   "title": "삼성물산 래미안, 13년째 1등 시공사…입주민 매니저가 민원 해소",
+   "url": "https://n.news.naver.com/article/015/0005347351",
+   "articleId": "0005347351",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C3",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "경동나비엔, 보일러에 AI 혁신…해마다 전문가가 방문점검",
+   "url": "https://n.news.naver.com/article/015/0005347352",
+   "articleId": "0005347352",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C3",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "삼성서울병원, 고령 암환자 밀착 관리…폐암 생존 美의 2.3배",
+   "url": "https://n.news.naver.com/article/015/0005347366",
+   "articleId": "0005347366",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C4",
+   "pageOrder": 1,
+   "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/10/28/5347353.jpg?type=nf264_176",
+   "column": null,
+   "title": "한국도미노피자, 신선한 식자재로 구운 피자…드론으로 즉시 배달",
+   "url": "https://n.news.naver.com/article/015/0005347353",
+   "articleId": "0005347353",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C4",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "삼성화재, 자동차보험 할인 특약 빠짐없이 반영…필요한 보장 쉽게 찾는 'My 스마트 매칭' 서비스",
+   "url": "https://n.news.naver.com/article/015/0005347354",
+   "articleId": "0005347354",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C4",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "우체국소포, 농어촌 오지까지 찾아가 소포 방문 접수, 배달",
+   "url": "https://n.news.naver.com/article/015/0005347355",
+   "articleId": "0005347355",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C4",
+   "pageOrder": 4,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "삼성증권, 국내 첫 초고액 자산가 전담 브랜드 SNI 출범",
+   "url": "https://n.news.naver.com/article/015/0005347356",
+   "articleId": "0005347356",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-10-28",
+   "page": "C4",
+   "pageOrder": 5,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "우정사업본부, 집배원이 위기 의심가정 찾아가 안부 확인해요",
+   "url": "https://n.news.naver.com/article/015/0005347357",
+   "articleId": "0005347357",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
    "press": "020",
    "pressName": "동아일보",
    "date": "2026-10-28",
@@ -5110,7 +5367,6 @@
    "articleId": "0003758234",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003758229",
@@ -5118,7 +5374,8 @@
      "title": "내년 4월부터 산재 사망 반복땐 영업익 5% 과징금",
      "url": "https://n.news.naver.com/article/020/0003758229"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -5135,8 +5392,8 @@
    "articleId": "0003758225",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -5153,8 +5410,8 @@
    "articleId": "0003758242",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -6514,6 +6771,22 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
+   "title": "상반기 월급 300만원 이상 근로자 절반 넘어",
+   "url": "https://n.news.naver.com/article/020/0003758139",
+   "articleId": "0003758139",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-10-28",
+   "page": "B4",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
    "title": "[지표로 보는 경제]10월 28일",
    "url": "https://n.news.naver.com/article/020/0003758133",
    "articleId": "0003758133",
@@ -6525,7 +6798,7 @@
    "pressName": "동아일보",
    "date": "2026-10-28",
    "page": "B4",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6541,7 +6814,7 @@
    "pressName": "동아일보",
    "date": "2026-10-28",
    "page": "B4",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6557,7 +6830,7 @@
    "pressName": "동아일보",
    "date": "2026-10-28",
    "page": "B4",
-   "pageOrder": 5,
+   "pageOrder": 6,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6573,7 +6846,7 @@
    "pressName": "동아일보",
    "date": "2026-10-28",
    "page": "B4",
-   "pageOrder": 6,
+   "pageOrder": 7,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6581,22 +6854,6 @@
    "title": "다이소, 6000억 투자 대규모 물류센터 첫 삽",
    "url": "https://n.news.naver.com/article/020/0003758138",
    "articleId": "0003758138",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-10-28",
-   "page": "B4",
-   "pageOrder": 7,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "상반기 월급 300만원 이상 근로자 절반 넘어",
-   "url": "https://n.news.naver.com/article/020/0003758139",
-   "articleId": "0003758139",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7152,15 +7409,15 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/28/4006339.jpg?type=nf600_340",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/28/4006339.jpg?type=nf264_176",
    "column": null,
    "title": "高성장이라는데, 삶은 고달프다",
    "url": "https://n.news.naver.com/article/023/0004006339",
    "articleId": "0004006339",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -7177,7 +7434,8 @@
    "articleId": "0004006338",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -7260,11 +7518,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/28/4006333.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/28/4006332.jpg?type=nf264_176",
    "column": null,
-   "title": "골목 사장님들의 비명… 대출 연체율 13년만에 최고",
-   "url": "https://n.news.naver.com/article/023/0004006333",
-   "articleId": "0004006333",
+   "title": "월급 받자마자 절반 증발… 열흘 후엔 평균 22% 남아",
+   "url": "https://n.news.naver.com/article/023/0004006332",
+   "articleId": "0004006332",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7278,9 +7536,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "월급 받자마자 절반 증발… 열흘 후엔 평균 22% 남아",
-   "url": "https://n.news.naver.com/article/023/0004006332",
-   "articleId": "0004006332",
+   "title": "골목 사장님들의 비명… 대출 연체율 13년만에 최고",
+   "url": "https://n.news.naver.com/article/023/0004006333",
+   "articleId": "0004006333",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7403,6 +7661,22 @@
    "page": "A10",
    "pageOrder": 1,
    "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/28/4006325.jpg?type=nf264_176",
+   "column": null,
+   "title": "법무부 “이화영 재판 퇴정 관여한 검사들 징계 어려워”",
+   "url": "https://n.news.naver.com/article/023/0004006325",
+   "articleId": "0004006325",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-28",
+   "page": "A10",
+   "pageOrder": 2,
+   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -7417,7 +7691,7 @@
    "pressName": "조선일보",
    "date": "2026-10-28",
    "page": "A10",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -7433,7 +7707,7 @@
    "pressName": "조선일보",
    "date": "2026-10-28",
    "page": "A10",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -7449,7 +7723,7 @@
    "pressName": "조선일보",
    "date": "2026-10-28",
    "page": "A10",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -7457,22 +7731,6 @@
    "title": "선관위 특검, 오늘 투표지 247만장 검증",
    "url": "https://n.news.naver.com/article/023/0004006323",
    "articleId": "0004006323",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-28",
-   "page": "A10",
-   "pageOrder": 5,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "법무부 “이화영 재판 퇴정 관여한 검사들 징계 어려워”",
-   "url": "https://n.news.naver.com/article/023/0004006325",
-   "articleId": "0004006325",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7596,11 +7854,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/28/4006308.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/28/4006309.jpg?type=nf264_176",
    "column": null,
-   "title": "판 뒤흔든, 가장 값비싼, 역사 바꾼… 브로드웨이 뮤지컬 ‘해밀턴’이 온다",
-   "url": "https://n.news.naver.com/article/023/0004006308",
-   "articleId": "0004006308",
+   "title": "힙합·록 입은 반야심경… ‘1억뷰 日 승려’",
+   "url": "https://n.news.naver.com/article/023/0004006309",
+   "articleId": "0004006309",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7614,9 +7872,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "힙합·록 입은 반야심경… ‘1억뷰 日 승려’",
-   "url": "https://n.news.naver.com/article/023/0004006309",
-   "articleId": "0004006309",
+   "title": "판 뒤흔든, 가장 값비싼, 역사 바꾼… 브로드웨이 뮤지컬 ‘해밀턴’이 온다",
+   "url": "https://n.news.naver.com/article/023/0004006308",
+   "articleId": "0004006308",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7820,11 +8078,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/28/4006301.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/28/4006305.jpg?type=nf264_176",
    "column": null,
-   "title": "[제31회 LG배 조선일보 기왕전] 방향 전환",
-   "url": "https://n.news.naver.com/article/023/0004006301",
-   "articleId": "0004006301",
+   "title": "[TV조선] 건강 위기 겪은 배우 김예령",
+   "url": "https://n.news.naver.com/article/023/0004006305",
+   "articleId": "0004006305",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7838,9 +8096,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[TV조선] 건강 위기 겪은 배우 김예령",
-   "url": "https://n.news.naver.com/article/023/0004006305",
-   "articleId": "0004006305",
+   "title": "[제31회 LG배 조선일보 기왕전] 방향 전환",
+   "url": "https://n.news.naver.com/article/023/0004006301",
+   "articleId": "0004006301",
    "seriesKey": null,
    "seriesType": null
   },
@@ -8076,11 +8334,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/28/4006274.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/28/4006276.jpg?type=nf264_176",
    "column": null,
-   "title": "HBM 수출, 분기 기준 50조원 첫 돌파",
-   "url": "https://n.news.naver.com/article/023/0004006274",
-   "articleId": "0004006274",
+   "title": "후진하는 중국車 내수 판매… 올해 22% 급감할 듯",
+   "url": "https://n.news.naver.com/article/023/0004006276",
+   "articleId": "0004006276",
    "seriesKey": null,
    "seriesType": null
   },
@@ -8094,9 +8352,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "후진하는 중국車 내수 판매… 올해 22% 급감할 듯",
-   "url": "https://n.news.naver.com/article/023/0004006276",
-   "articleId": "0004006276",
+   "title": "HBM 수출, 분기 기준 50조원 첫 돌파",
+   "url": "https://n.news.naver.com/article/023/0004006274",
+   "articleId": "0004006274",
    "seriesKey": null,
    "seriesType": null
   },
@@ -8515,8 +8773,8 @@
    "articleId": "0003560991",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -8532,7 +8790,21 @@
    "url": "https://n.news.naver.com/article/025/0003561003",
    "articleId": "0003561003",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003561015",
+     "page": "A3",
+     "title": "‘전기 먹는 AI’ 구원투수 등판…전세계 55%가 원전 계속 쓴다",
+     "url": "https://n.news.naver.com/article/025/0003561015"
+    },
+    {
+     "articleId": "0003560985",
+     "page": "A23",
+     "title": "[이사빈의 수장고 안팎 훑기] 세상의 기록에서 AI 시대까지, 사진 변천의 추적자",
+     "url": "https://n.news.naver.com/article/025/0003560985"
+    }
+   ]
   },
   {
    "press": "025",
@@ -8549,8 +8821,8 @@
    "articleId": "0003560995",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -9631,8 +9903,8 @@
    "articleId": "0002829467",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9649,7 +9921,6 @@
    "articleId": "0002829399",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002829451",
@@ -9657,7 +9928,8 @@
      "title": "혐오의 고리 끊기, 학교에 희망 거는 이유 [홍성수 칼럼]",
      "url": "https://n.news.naver.com/article/028/0002829451"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9674,8 +9946,8 @@
    "articleId": "0002829449",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9797,11 +10069,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/10/27/2829419.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/10/27/2829472.jpg?type=nf264_176",
    "column": null,
-   "title": "“외국인 노동자, 국가 경제에 크게 도움 안 돼”…이 대통령 발언 비판 쇄도",
-   "url": "https://n.news.naver.com/article/028/0002829419",
-   "articleId": "0002829419",
+   "title": "“송 장관이 농지조사 제안” 이 대통령 해명에…“이제 장관 탓” 비판",
+   "url": "https://n.news.naver.com/article/028/0002829472",
+   "articleId": "0002829472",
    "seriesKey": null,
    "seriesType": null
   },
@@ -9815,9 +10087,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "‘만찬 정치’ 보폭 넓히는 오세훈…‘친오계’ 세력 확장 시동",
-   "url": "https://n.news.naver.com/article/028/0002829464",
-   "articleId": "0002829464",
+   "title": "“외국인 노동자, 국가 경제에 크게 도움 안 돼”…이 대통령 발언 비판 쇄도",
+   "url": "https://n.news.naver.com/article/028/0002829419",
+   "articleId": "0002829419",
    "seriesKey": null,
    "seriesType": null
   },
@@ -9831,9 +10103,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“송 장관이 농지조사 제안” 이 대통령 해명에…“이제 장관 탓” 비판",
-   "url": "https://n.news.naver.com/article/028/0002829472",
-   "articleId": "0002829472",
+   "title": "‘만찬 정치’ 보폭 넓히는 오세훈…‘친오계’ 세력 확장 시동",
+   "url": "https://n.news.naver.com/article/028/0002829464",
+   "articleId": "0002829464",
    "seriesKey": null,
    "seriesType": null
   },
@@ -10279,7 +10551,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/10/28/2829487.jpg?type=nf264_176",
    "column": null,
-   "title": "52년 전 ‘자유언론실천’, 그들은 아직도 외침 중",
+   "title": "‘암살자(들)’이 소환한 ‘자유언론실천’, 52년 지나도 아직 외침 중",
    "url": "https://n.news.naver.com/article/028/0002829487",
    "articleId": "0002829487",
    "seriesKey": null,
@@ -10604,8 +10876,8 @@
    "articleId": "0003478960",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -10622,7 +10894,6 @@
    "articleId": "0003478959",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003478885",
@@ -10630,7 +10901,8 @@
      "title": "[사설]대법원장 국정조사, 정치공세 아닌 사실관계 규명 집중하길",
      "url": "https://n.news.naver.com/article/032/0003478885"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -10647,7 +10919,6 @@
    "articleId": "0003478958",
    "seriesKey": "032:이스라엘총선현장르포",
    "seriesType": "기획",
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003478955",
@@ -10661,7 +10932,8 @@
      "title": "“역사상 최악 정치, 고쳐낼 것” “나라 운영할 사람 ‘빅보스’뿐”[이스라엘 총선]",
      "url": "https://n.news.naver.com/article/032/0003478956"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -10678,8 +10950,8 @@
    "articleId": "0003478933",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -10696,7 +10968,6 @@
    "articleId": "0003478968",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003478969",
@@ -10710,7 +10981,8 @@
      "title": "‘0.3% 간접배당’이 쏘아올린 기적···신용 낮은 청년 자립 돕고, 의료 공백 막아냈다[금융, 사다리를 놓자]",
      "url": "https://n.news.naver.com/article/032/0003478967"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
