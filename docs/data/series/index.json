@@ -281,6 +281,29 @@
    "lastDate": "2026-10-28"
   },
   {
+   "seriesKey": "032:에프워드",
+   "press": "032",
+   "pressName": "경향신문",
+   "name": "에프워드",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "⑮",
+     "ord": 15,
+     "isEnd": false,
+     "date": "2026-10-28",
+     "page": "A15",
+     "column": null,
+     "title": "⑮ 여자도 고양이도 죄가 없다[에프워드]",
+     "url": "https://n.news.naver.com/article/032/0003476152",
+     "articleId": "0003476152"
+    }
+   ],
+   "firstDate": "2026-10-28",
+   "lastDate": "2026-10-28"
+  },
+  {
    "seriesKey": "020:임용한의전쟁사",
    "press": "020",
    "pressName": "동아일보",
