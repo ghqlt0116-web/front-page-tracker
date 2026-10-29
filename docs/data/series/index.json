@@ -1,6 +1,364 @@
 {
  "series": [
   {
+   "seriesKey": "020:이준식의한시한수",
+   "press": "020",
+   "pressName": "동아일보",
+   "name": "이준식의 한시 한 수",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "349",
+     "ord": 349,
+     "isEnd": false,
+     "date": "2026-01-02",
+     "page": "A31",
+     "column": null,
+     "title": "아버지의 노파심[이준식의 한시 한 수]〈349〉",
+     "url": "https://n.news.naver.com/article/020/0003686206",
+     "articleId": "0003686206"
+    },
+    {
+     "label": "350",
+     "ord": 350,
+     "isEnd": false,
+     "date": "2026-01-09",
+     "page": "A31",
+     "column": null,
+     "title": "회한의 겨울[이준식의 한시 한 수]〈350〉",
+     "url": "https://n.news.naver.com/article/020/0003687978",
+     "articleId": "0003687978"
+    },
+    {
+     "label": "388",
+     "ord": 388,
+     "isEnd": false,
+     "date": "2026-10-09",
+     "page": "A27",
+     "column": null,
+     "title": "가난한 술꾼의 위안[이준식의 한시 한 수]〈388〉",
+     "url": "https://n.news.naver.com/article/020/0003753789",
+     "articleId": "0003753789"
+    },
+    {
+     "label": "389",
+     "ord": 389,
+     "isEnd": false,
+     "date": "2026-10-16",
+     "page": "A31",
+     "column": 1,
+     "title": "만나야 울린다[이준식의 한시 한 수]〈389〉",
+     "url": "https://n.news.naver.com/article/020/0003755309",
+     "articleId": "0003755309"
+    },
+    {
+     "label": "390",
+     "ord": 390,
+     "isEnd": false,
+     "date": "2026-10-23",
+     "page": "A31",
+     "column": null,
+     "title": "붓을 멈추게 한 여자[이준식의 한시 한 수]〈390〉",
+     "url": "https://n.news.naver.com/article/020/0003756994",
+     "articleId": "0003756994"
+    },
+    {
+     "label": "391",
+     "ord": 391,
+     "isEnd": false,
+     "date": "2026-10-30",
+     "page": "A31",
+     "column": null,
+     "title": "산 하나 사이[이준식의 한시 한 수]〈391〉",
+     "url": "https://n.news.naver.com/article/020/0003758769",
+     "articleId": "0003758769"
+    }
+   ],
+   "firstDate": "2026-01-02",
+   "lastDate": "2026-10-30"
+  },
+  {
+   "seriesKey": "023:황유원의어쩌다마주친문장",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "황유원의 어쩌다 마주친 문장",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "62",
+     "ord": 62,
+     "isEnd": false,
+     "date": "2026-01-02",
+     "page": "A29",
+     "column": null,
+     "title": "[황유원의 어쩌다 마주친 문장] [62] 새해 소원",
+     "url": "https://n.news.naver.com/article/023/0003950400",
+     "articleId": "0003950400"
+    },
+    {
+     "label": "63",
+     "ord": 63,
+     "isEnd": false,
+     "date": "2026-01-09",
+     "page": "A24",
+     "column": null,
+     "title": "[황유원의 어쩌다 마주친 문장] [63] 오디세우스의 마음",
+     "url": "https://n.news.naver.com/article/023/0003951836",
+     "articleId": "0003951836"
+    },
+    {
+     "label": "98",
+     "ord": 98,
+     "isEnd": false,
+     "date": "2026-10-16",
+     "page": "A28",
+     "column": 1,
+     "title": "[황유원의 어쩌다 마주친 문장] [98] 밑줄 긋기",
+     "url": "https://n.news.naver.com/article/023/0004004080",
+     "articleId": "0004004080"
+    },
+    {
+     "label": "99",
+     "ord": 99,
+     "isEnd": false,
+     "date": "2026-10-23",
+     "page": "A28",
+     "column": null,
+     "title": "[황유원의 어쩌다 마주친 문장] [99] 비장애인들에게",
+     "url": "https://n.news.naver.com/article/023/0004005422",
+     "articleId": "0004005422"
+    },
+    {
+     "label": "100",
+     "ord": 100,
+     "isEnd": false,
+     "date": "2026-10-30",
+     "page": "A28",
+     "column": null,
+     "title": "[황유원의 어쩌다 마주친 문장] [100] 마이 웨이",
+     "url": "https://n.news.naver.com/article/023/0004006738",
+     "articleId": "0004006738"
+    }
+   ],
+   "firstDate": "2026-01-02",
+   "lastDate": "2026-10-30"
+  },
+  {
+   "seriesKey": "023:팀알퍼의런던eye",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "팀 알퍼의 런던 Eye",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "17",
+     "ord": 17,
+     "isEnd": false,
+     "date": "2026-01-02",
+     "page": "A30",
+     "column": null,
+     "title": "[팀 알퍼의 런던 Eye] [17] 판소리와 판토마임",
+     "url": "https://n.news.naver.com/article/023/0003950403",
+     "articleId": "0003950403"
+    },
+    {
+     "label": "18",
+     "ord": 18,
+     "isEnd": false,
+     "date": "2026-01-09",
+     "page": "A26",
+     "column": null,
+     "title": "[팀 알퍼의 런던 Eye] [18] 한국 가위와 문화 쇼크",
+     "url": "https://n.news.naver.com/article/023/0003951837",
+     "articleId": "0003951837"
+    },
+    {
+     "label": "56",
+     "ord": 56,
+     "isEnd": false,
+     "date": "2026-10-09",
+     "page": "A26",
+     "column": null,
+     "title": "[팀 알퍼의 런던 Eye] [56] 브렉시트가 남긴 메아리",
+     "url": "https://n.news.naver.com/article/023/0004002863",
+     "articleId": "0004002863"
+    },
+    {
+     "label": "57",
+     "ord": 57,
+     "isEnd": false,
+     "date": "2026-10-16",
+     "page": "A30",
+     "column": 1,
+     "title": "[팀 알퍼의 런던 Eye] [57] 영국의 산책로 ‘풋패스’",
+     "url": "https://n.news.naver.com/article/023/0004004081",
+     "articleId": "0004004081"
+    },
+    {
+     "label": "58",
+     "ord": 58,
+     "isEnd": false,
+     "date": "2026-10-23",
+     "page": "A30",
+     "column": null,
+     "title": "[팀 알퍼의 런던 Eye] [58] 침착하되 비상용품 챙겨!",
+     "url": "https://n.news.naver.com/article/023/0004005423",
+     "articleId": "0004005423"
+    },
+    {
+     "label": "59",
+     "ord": 59,
+     "isEnd": false,
+     "date": "2026-10-30",
+     "page": "A30",
+     "column": null,
+     "title": "[팀 알퍼의 런던 Eye] [59] 프랑스 시위의 아이러니",
+     "url": "https://n.news.naver.com/article/023/0004006739",
+     "articleId": "0004006739"
+    }
+   ],
+   "firstDate": "2026-01-02",
+   "lastDate": "2026-10-30"
+  },
+  {
+   "seriesKey": "023:이대화의함께들어요",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "이대화의 함께 들어요",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "31",
+     "ord": 31,
+     "isEnd": false,
+     "date": "2026-01-08",
+     "page": "A29",
+     "column": null,
+     "title": "[이대화의 함께 들어요] [31] K팝에 편중된 음원 차트에 파란 일으킨 한로로",
+     "url": "https://n.news.naver.com/article/023/0003951591",
+     "articleId": "0003951591"
+    },
+    {
+     "label": "50",
+     "ord": 50,
+     "isEnd": false,
+     "date": "2026-10-14",
+     "page": "A29",
+     "column": null,
+     "title": "[이대화의 함께 들어요] [50] 소규모 ‘댄스’ 클럽도 중요하다",
+     "url": "https://n.news.naver.com/article/023/0004003633",
+     "articleId": "0004003633"
+    },
+    {
+     "label": "51",
+     "ord": 51,
+     "isEnd": false,
+     "date": "2026-10-30",
+     "page": "A29",
+     "column": null,
+     "title": "[이대화의 함께 들어요] [51] 1970년대 멋을 재현한 소울 사운드",
+     "url": "https://n.news.naver.com/article/023/0004006737",
+     "articleId": "0004006737"
+    }
+   ],
+   "firstDate": "2026-01-08",
+   "lastDate": "2026-10-30"
+  },
+  {
+   "seriesKey": "023:유광종의로보는중국",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "유광종의 漢字로 보는 중국",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "1",
+     "ord": 1,
+     "isEnd": false,
+     "date": "2026-01-09",
+     "page": "A27",
+     "column": null,
+     "title": "[유광종의 漢字로 보는 중국] [1] 오만하고 무례한 편가르기",
+     "url": "https://n.news.naver.com/article/023/0003951838",
+     "articleId": "0003951838"
+    },
+    {
+     "label": "39",
+     "ord": 39,
+     "isEnd": false,
+     "date": "2026-10-09",
+     "page": "A27",
+     "column": null,
+     "title": "[유광종의 漢字로 보는 중국] [39] ‘천고마비’의 섬뜩한 어원",
+     "url": "https://n.news.naver.com/article/023/0004002865",
+     "articleId": "0004002865"
+    },
+    {
+     "label": "40",
+     "ord": 40,
+     "isEnd": false,
+     "date": "2026-10-16",
+     "page": "A31",
+     "column": 1,
+     "title": "[유광종의 漢字로 보는 중국] [40] ‘수레’로 보는 그들의 허세",
+     "url": "https://n.news.naver.com/article/023/0004004082",
+     "articleId": "0004004082"
+    },
+    {
+     "label": "41",
+     "ord": 41,
+     "isEnd": false,
+     "date": "2026-10-23",
+     "page": "A31",
+     "column": null,
+     "title": "[유광종의 漢字로 보는 중국] [41] 친위대로 전락한 지식인",
+     "url": "https://n.news.naver.com/article/023/0004005424",
+     "articleId": "0004005424"
+    },
+    {
+     "label": "42",
+     "ord": 42,
+     "isEnd": false,
+     "date": "2026-10-30",
+     "page": "A31",
+     "column": null,
+     "title": "[유광종의 漢字로 보는 중국] [42] 공산당에 쓰나미 경보",
+     "url": "https://n.news.naver.com/article/023/0004006740",
+     "articleId": "0004006740"
+    }
+   ],
+   "firstDate": "2026-01-09",
+   "lastDate": "2026-10-30"
+  },
+  {
+   "seriesKey": "023:르포대한민국",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "르포 대한민국",
+   "seriesType": "기획",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-10-30",
+     "page": "A29",
+     "column": null,
+     "title": "[르포 대한민국] 위기의 철강산업, 생존의 조건은?",
+     "url": "https://n.news.naver.com/article/023/0004006743",
+     "articleId": "0004006743"
+    }
+   ],
+   "firstDate": "2026-10-30",
+   "lastDate": "2026-10-30"
+  },
+  {
    "seriesKey": "020:이은화의미술시간",
    "press": "020",
    "pressName": "동아일보",
@@ -1445,252 +1803,6 @@
    "lastDate": "2026-10-24"
   },
   {
-   "seriesKey": "020:이준식의한시한수",
-   "press": "020",
-   "pressName": "동아일보",
-   "name": "이준식의 한시 한 수",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "349",
-     "ord": 349,
-     "isEnd": false,
-     "date": "2026-01-02",
-     "page": "A31",
-     "column": null,
-     "title": "아버지의 노파심[이준식의 한시 한 수]〈349〉",
-     "url": "https://n.news.naver.com/article/020/0003686206",
-     "articleId": "0003686206"
-    },
-    {
-     "label": "350",
-     "ord": 350,
-     "isEnd": false,
-     "date": "2026-01-09",
-     "page": "A31",
-     "column": null,
-     "title": "회한의 겨울[이준식의 한시 한 수]〈350〉",
-     "url": "https://n.news.naver.com/article/020/0003687978",
-     "articleId": "0003687978"
-    },
-    {
-     "label": "388",
-     "ord": 388,
-     "isEnd": false,
-     "date": "2026-10-09",
-     "page": "A27",
-     "column": null,
-     "title": "가난한 술꾼의 위안[이준식의 한시 한 수]〈388〉",
-     "url": "https://n.news.naver.com/article/020/0003753789",
-     "articleId": "0003753789"
-    },
-    {
-     "label": "389",
-     "ord": 389,
-     "isEnd": false,
-     "date": "2026-10-16",
-     "page": "A31",
-     "column": 1,
-     "title": "만나야 울린다[이준식의 한시 한 수]〈389〉",
-     "url": "https://n.news.naver.com/article/020/0003755309",
-     "articleId": "0003755309"
-    },
-    {
-     "label": "390",
-     "ord": 390,
-     "isEnd": false,
-     "date": "2026-10-23",
-     "page": "A31",
-     "column": null,
-     "title": "붓을 멈추게 한 여자[이준식의 한시 한 수]〈390〉",
-     "url": "https://n.news.naver.com/article/020/0003756994",
-     "articleId": "0003756994"
-    }
-   ],
-   "firstDate": "2026-01-02",
-   "lastDate": "2026-10-23"
-  },
-  {
-   "seriesKey": "023:황유원의어쩌다마주친문장",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "황유원의 어쩌다 마주친 문장",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "62",
-     "ord": 62,
-     "isEnd": false,
-     "date": "2026-01-02",
-     "page": "A29",
-     "column": null,
-     "title": "[황유원의 어쩌다 마주친 문장] [62] 새해 소원",
-     "url": "https://n.news.naver.com/article/023/0003950400",
-     "articleId": "0003950400"
-    },
-    {
-     "label": "63",
-     "ord": 63,
-     "isEnd": false,
-     "date": "2026-01-09",
-     "page": "A24",
-     "column": null,
-     "title": "[황유원의 어쩌다 마주친 문장] [63] 오디세우스의 마음",
-     "url": "https://n.news.naver.com/article/023/0003951836",
-     "articleId": "0003951836"
-    },
-    {
-     "label": "98",
-     "ord": 98,
-     "isEnd": false,
-     "date": "2026-10-16",
-     "page": "A28",
-     "column": 1,
-     "title": "[황유원의 어쩌다 마주친 문장] [98] 밑줄 긋기",
-     "url": "https://n.news.naver.com/article/023/0004004080",
-     "articleId": "0004004080"
-    },
-    {
-     "label": "99",
-     "ord": 99,
-     "isEnd": false,
-     "date": "2026-10-23",
-     "page": "A28",
-     "column": null,
-     "title": "[황유원의 어쩌다 마주친 문장] [99] 비장애인들에게",
-     "url": "https://n.news.naver.com/article/023/0004005422",
-     "articleId": "0004005422"
-    }
-   ],
-   "firstDate": "2026-01-02",
-   "lastDate": "2026-10-23"
-  },
-  {
-   "seriesKey": "023:팀알퍼의런던eye",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "팀 알퍼의 런던 Eye",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "17",
-     "ord": 17,
-     "isEnd": false,
-     "date": "2026-01-02",
-     "page": "A30",
-     "column": null,
-     "title": "[팀 알퍼의 런던 Eye] [17] 판소리와 판토마임",
-     "url": "https://n.news.naver.com/article/023/0003950403",
-     "articleId": "0003950403"
-    },
-    {
-     "label": "18",
-     "ord": 18,
-     "isEnd": false,
-     "date": "2026-01-09",
-     "page": "A26",
-     "column": null,
-     "title": "[팀 알퍼의 런던 Eye] [18] 한국 가위와 문화 쇼크",
-     "url": "https://n.news.naver.com/article/023/0003951837",
-     "articleId": "0003951837"
-    },
-    {
-     "label": "56",
-     "ord": 56,
-     "isEnd": false,
-     "date": "2026-10-09",
-     "page": "A26",
-     "column": null,
-     "title": "[팀 알퍼의 런던 Eye] [56] 브렉시트가 남긴 메아리",
-     "url": "https://n.news.naver.com/article/023/0004002863",
-     "articleId": "0004002863"
-    },
-    {
-     "label": "57",
-     "ord": 57,
-     "isEnd": false,
-     "date": "2026-10-16",
-     "page": "A30",
-     "column": 1,
-     "title": "[팀 알퍼의 런던 Eye] [57] 영국의 산책로 ‘풋패스’",
-     "url": "https://n.news.naver.com/article/023/0004004081",
-     "articleId": "0004004081"
-    },
-    {
-     "label": "58",
-     "ord": 58,
-     "isEnd": false,
-     "date": "2026-10-23",
-     "page": "A30",
-     "column": null,
-     "title": "[팀 알퍼의 런던 Eye] [58] 침착하되 비상용품 챙겨!",
-     "url": "https://n.news.naver.com/article/023/0004005423",
-     "articleId": "0004005423"
-    }
-   ],
-   "firstDate": "2026-01-02",
-   "lastDate": "2026-10-23"
-  },
-  {
-   "seriesKey": "023:유광종의로보는중국",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "유광종의 漢字로 보는 중국",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "1",
-     "ord": 1,
-     "isEnd": false,
-     "date": "2026-01-09",
-     "page": "A27",
-     "column": null,
-     "title": "[유광종의 漢字로 보는 중국] [1] 오만하고 무례한 편가르기",
-     "url": "https://n.news.naver.com/article/023/0003951838",
-     "articleId": "0003951838"
-    },
-    {
-     "label": "39",
-     "ord": 39,
-     "isEnd": false,
-     "date": "2026-10-09",
-     "page": "A27",
-     "column": null,
-     "title": "[유광종의 漢字로 보는 중국] [39] ‘천고마비’의 섬뜩한 어원",
-     "url": "https://n.news.naver.com/article/023/0004002865",
-     "articleId": "0004002865"
-    },
-    {
-     "label": "40",
-     "ord": 40,
-     "isEnd": false,
-     "date": "2026-10-16",
-     "page": "A31",
-     "column": 1,
-     "title": "[유광종의 漢字로 보는 중국] [40] ‘수레’로 보는 그들의 허세",
-     "url": "https://n.news.naver.com/article/023/0004004082",
-     "articleId": "0004004082"
-    },
-    {
-     "label": "41",
-     "ord": 41,
-     "isEnd": false,
-     "date": "2026-10-23",
-     "page": "A31",
-     "column": null,
-     "title": "[유광종의 漢字로 보는 중국] [41] 친위대로 전락한 지식인",
-     "url": "https://n.news.naver.com/article/023/0004005424",
-     "articleId": "0004005424"
-    }
-   ],
-   "firstDate": "2026-01-09",
-   "lastDate": "2026-10-23"
-  },
-  {
    "seriesKey": "023:알파고의지식램프",
    "press": "023",
    "pressName": "조선일보",
@@ -1994,40 +2106,6 @@
    ],
    "firstDate": "2026-10-15",
    "lastDate": "2026-10-15"
-  },
-  {
-   "seriesKey": "023:이대화의함께들어요",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "이대화의 함께 들어요",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "31",
-     "ord": 31,
-     "isEnd": false,
-     "date": "2026-01-08",
-     "page": "A29",
-     "column": null,
-     "title": "[이대화의 함께 들어요] [31] K팝에 편중된 음원 차트에 파란 일으킨 한로로",
-     "url": "https://n.news.naver.com/article/023/0003951591",
-     "articleId": "0003951591"
-    },
-    {
-     "label": "50",
-     "ord": 50,
-     "isEnd": false,
-     "date": "2026-10-14",
-     "page": "A29",
-     "column": null,
-     "title": "[이대화의 함께 들어요] [50] 소규모 ‘댄스’ 클럽도 중요하다",
-     "url": "https://n.news.naver.com/article/023/0004003633",
-     "articleId": "0004003633"
-    }
-   ],
-   "firstDate": "2026-01-08",
-   "lastDate": "2026-10-14"
   },
   {
    "seriesKey": "020:서광원의자연과삶",
