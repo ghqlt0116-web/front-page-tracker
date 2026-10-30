@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "collectedAt": "2026-10-30T01:20:06",
+ "collectedAt": "2026-10-30T01:59:10",
  "articles": [
   {
    "press": "009",
@@ -42,7 +42,8 @@
      "title": "27조 체코 원전 '팀코리아' 균열…글로벌 신뢰 흔들려선 안돼 [사설]",
      "url": "https://n.news.naver.com/article/009/0005756085"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -5999,41 +6000,6 @@
    "page": "A1",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/30/4006829.jpg?type=nf600_340",
-   "column": null,
-   "title": "北, 오전엔 확성기… 오후엔 미사일",
-   "url": "https://n.news.naver.com/article/023/0004006829",
-   "articleId": "0004006829",
-   "seriesKey": null,
-   "seriesType": null,
-   "related": [],
-   "searchDone": true
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-30",
-   "page": "A1",
-   "pageOrder": 2,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "美 주도 제1도련선 회담, 한국은 없었다",
-   "url": "https://n.news.naver.com/article/023/0004006828",
-   "articleId": "0004006828",
-   "seriesKey": null,
-   "seriesType": null,
-   "related": []
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-30",
-   "page": "A1",
-   "pageOrder": 3,
-   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -6050,6 +6016,42 @@
      "url": "https://n.news.naver.com/article/023/0004006821"
     }
    ],
+   "searchDone": true
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-30",
+   "page": "A1",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "北, 오전엔 확성기… 오후엔 미사일",
+   "url": "https://n.news.naver.com/article/023/0004006829",
+   "articleId": "0004006829",
+   "seriesKey": null,
+   "seriesType": null,
+   "related": [],
+   "searchDone": true
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-30",
+   "page": "A1",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "美 주도 제1도련선 회담, 한국은 없었다",
+   "url": "https://n.news.naver.com/article/023/0004006828",
+   "articleId": "0004006828",
+   "seriesKey": null,
+   "seriesType": null,
+   "related": [],
    "searchDone": true
   },
   {
@@ -8584,8 +8586,8 @@
    "articleId": "0002829784",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8876,11 +8878,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/10/29/2829806.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/10/29/2829869.jpg?type=nf264_176",
    "column": null,
-   "title": "뚜안 1주기…우리 곁의 ‘뚜안’들은 여전히 주6일 9시간 넘게 일한다",
-   "url": "https://n.news.naver.com/article/028/0002829806",
-   "articleId": "0002829806",
+   "title": "13살 중학생 “평생 그림책 1권도 못 봤어요”…‘무국어’ 아이들의 현실",
+   "url": "https://n.news.naver.com/article/028/0002829869",
+   "articleId": "0002829869",
    "seriesKey": null,
    "seriesType": null
   },
@@ -8894,9 +8896,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "13살 소녀 “평생 그림책 1권도 못 봤어요”…‘무국어’ 아이들의 현실",
-   "url": "https://n.news.naver.com/article/028/0002829869",
-   "articleId": "0002829869",
+   "title": "뚜안 1주기…우리 곁의 ‘뚜안’들은 여전히 주6일 9시간 넘게 일한다",
+   "url": "https://n.news.naver.com/article/028/0002829806",
+   "articleId": "0002829806",
    "seriesKey": null,
    "seriesType": null
   },
