@@ -359,6 +359,29 @@
    "lastDate": "2026-10-30"
   },
   {
+   "seriesKey": "032:강사법7년남은시간강사3",
+   "press": "032",
+   "pressName": "경향신문",
+   "name": "강사법 7년, 남은 ‘시간강사’③",
+   "seriesType": "기획",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "③",
+     "ord": 3,
+     "isEnd": false,
+     "date": "2026-10-30",
+     "page": "A10",
+     "column": null,
+     "title": "강의시간 3배 인정·방학 임금 확대…사개위, 대학 강사 처우개선 추진[강사법 7년, 남은 ‘시간강사’③]",
+     "url": "https://n.news.naver.com/article/032/0003479607",
+     "articleId": "0003479607"
+    }
+   ],
+   "firstDate": "2026-10-30",
+   "lastDate": "2026-10-30"
+  },
+  {
    "seriesKey": "020:이은화의미술시간",
    "press": "020",
    "pressName": "동아일보",

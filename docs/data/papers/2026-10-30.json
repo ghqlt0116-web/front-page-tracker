@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "collectedAt": "2026-10-29T23:54:41",
+ "collectedAt": "2026-10-30T01:20:06",
  "articles": [
   {
    "press": "009",
@@ -17,8 +17,8 @@
    "articleId": "0005756199",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -34,7 +34,15 @@
    "url": "https://n.news.naver.com/article/009/0005756202",
    "articleId": "0005756202",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005756085",
+     "page": "A35",
+     "title": "27조 체코 원전 '팀코리아' 균열…글로벌 신뢰 흔들려선 안돼 [사설]",
+     "url": "https://n.news.naver.com/article/009/0005756085"
+    }
+   ]
   },
   {
    "press": "009",
@@ -51,7 +59,8 @@
    "articleId": "0005756200",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -512,6 +521,22 @@
    "title": "[포토] 대한민국 공학 원로 한자리에",
    "url": "https://n.news.naver.com/article/009/0005756160",
    "articleId": "0005756160",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "009",
+   "pressName": "매일경제",
+   "date": "2026-10-30",
+   "page": "A10",
+   "pageOrder": 9,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "생보사 6.2조 생산적금융 … 인프라·첨단산업에 투자",
+   "url": "https://n.news.naver.com/article/009/0005756404",
+   "articleId": "0005756404",
    "seriesKey": null,
    "seriesType": null
   },
@@ -2146,7 +2171,6 @@
    "articleId": "0005348189",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005348224",
@@ -2166,7 +2190,8 @@
      "title": "[단독] 골드만이 탐낸 'K내비' 빅데이터…막혔던 티맵 상장길도 뚫린다",
      "url": "https://n.news.naver.com/article/015/0005348222"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2183,8 +2208,8 @@
    "articleId": "0005348215",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2201,7 +2226,6 @@
    "articleId": "0005348211",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005348231",
@@ -2221,7 +2245,8 @@
      "title": "서울시, 내년 예산 55.7조원…삭감된 '청년 AI 이용권' 재추진",
      "url": "https://n.news.naver.com/article/015/0005348195"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2238,8 +2263,8 @@
    "articleId": "0005348218",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2256,7 +2281,6 @@
    "articleId": "0005348192",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005348187",
@@ -2264,7 +2288,8 @@
      "title": "서울 신규 택지는 '0'…홍지선 \"용산 반환부지 활용, 서울시와 협의\"",
      "url": "https://n.news.naver.com/article/015/0005348187"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -4041,7 +4066,6 @@
    "articleId": "0003758869",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003758781",
@@ -4061,7 +4085,8 @@
      "title": "‘542조 퇴직연금’ 금융권 유치 경쟁 점화… 국민연금도 운용 주체 참여 놓고 저울질",
      "url": "https://n.news.naver.com/article/020/0003758834"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4085,7 +4110,8 @@
      "title": "“김현지 나와라” “김태규 나가라”… 여야 고성 속 ‘맹탕’된 靑 국감",
      "url": "https://n.news.naver.com/article/020/0003758825"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4102,8 +4128,8 @@
    "articleId": "0003758868",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4120,7 +4146,6 @@
    "articleId": "0003758871",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003758805",
@@ -4140,7 +4165,8 @@
      "title": "SK이노, 3분기 영업익 3.7조 역대 최대… “석유-윤활유 사업 호조”",
      "url": "https://n.news.naver.com/article/020/0003758799"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -5981,8 +6007,8 @@
    "articleId": "0004006829",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6023,7 +6049,8 @@
      "title": "서울 5㎞ 이내로 입지 좋지만… 교통망·그린벨트 보상 속도가 관건",
      "url": "https://n.news.naver.com/article/023/0004006821"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6273,11 +6300,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/30/4006806.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/30/4006810.jpg?type=nf264_176",
    "column": null,
-   "title": "“도심 양봉은 사람과 사람·농촌과 도시 잇는 매개체”",
-   "url": "https://n.news.naver.com/article/023/0004006806",
-   "articleId": "0004006806",
+   "title": "“환경문제는 세계가 겪는 시련… 韓日 ‘녹색연대’로 극복해나가야”",
+   "url": "https://n.news.naver.com/article/023/0004006810",
+   "articleId": "0004006810",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6287,22 +6314,6 @@
    "date": "2026-10-30",
    "page": "A12",
    "pageOrder": 2,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "“삶·문화 유지하는 힘, 환경 보호에서 나와”",
-   "url": "https://n.news.naver.com/article/023/0004006807",
-   "articleId": "0004006807",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-30",
-   "page": "A12",
-   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6318,14 +6329,30 @@
    "pressName": "조선일보",
    "date": "2026-10-30",
    "page": "A12",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "“도심 양봉은 사람과 사람·농촌과 도시 잇는 매개체”",
+   "url": "https://n.news.naver.com/article/023/0004006806",
+   "articleId": "0004006806",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-30",
+   "page": "A12",
    "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“일상이 된 이상 기후, 국경 넘어 힘 모아야”",
-   "url": "https://n.news.naver.com/article/023/0004006809",
-   "articleId": "0004006809",
+   "title": "“삶·문화 유지하는 힘, 환경 보호에서 나와”",
+   "url": "https://n.news.naver.com/article/023/0004006807",
+   "articleId": "0004006807",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6339,9 +6366,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“환경문제는 세계가 겪는 시련… 韓日 ‘녹색연대’로 극복해나가야”",
-   "url": "https://n.news.naver.com/article/023/0004006810",
-   "articleId": "0004006810",
+   "title": "“일상이 된 이상 기후, 국경 넘어 힘 모아야”",
+   "url": "https://n.news.naver.com/article/023/0004006809",
+   "articleId": "0004006809",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6481,7 +6508,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/30/4006790.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/30/4006792.jpg?type=nf264_176",
+   "column": null,
+   "title": "‘올해의 작가상’ 수상자… 영상·사진 작가 홍진훤",
+   "url": "https://n.news.naver.com/article/023/0004006792",
+   "articleId": "0004006792",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-30",
+   "page": "A18",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "아이돌 지망생에서 ‘춤추는 신부님’으로 “아이들과 함께 노래하는 것도 사목이죠”",
    "url": "https://n.news.naver.com/article/023/0004006790",
@@ -6494,7 +6537,7 @@
    "pressName": "조선일보",
    "date": "2026-10-30",
    "page": "A18",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6510,7 +6553,7 @@
    "pressName": "조선일보",
    "date": "2026-10-30",
    "page": "A18",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6526,7 +6569,7 @@
    "pressName": "조선일보",
    "date": "2026-10-30",
    "page": "A18",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6542,7 +6585,7 @@
    "pressName": "조선일보",
    "date": "2026-10-30",
    "page": "A18",
-   "pageOrder": 5,
+   "pageOrder": 6,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6557,15 +6600,15 @@
    "press": "023",
    "pressName": "조선일보",
    "date": "2026-10-30",
-   "page": "A18",
-   "pageOrder": 6,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
+   "page": "A20",
+   "pageOrder": 1,
+   "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/30/4006781.jpg?type=nf264_176",
    "column": null,
-   "title": "‘올해의 작가상’ 수상자… 영상·사진 작가 홍진훤",
-   "url": "https://n.news.naver.com/article/023/0004006792",
-   "articleId": "0004006792",
+   "title": "故 신해철에 ‘은관문화훈장’ 추서",
+   "url": "https://n.news.naver.com/article/023/0004006781",
+   "articleId": "0004006781",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6574,8 +6617,24 @@
    "pressName": "조선일보",
    "date": "2026-10-30",
    "page": "A20",
-   "pageOrder": 1,
-   "isTop": true,
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "조용필 ‘상처’ 작사가 장경수 별세",
+   "url": "https://n.news.naver.com/article/023/0004006785",
+   "articleId": "0004006785",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-30",
+   "page": "A20",
+   "pageOrder": 3,
+   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -6590,23 +6649,7 @@
    "pressName": "조선일보",
    "date": "2026-10-30",
    "page": "A20",
-   "pageOrder": 2,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "故 신해철에 ‘은관문화훈장’ 추서",
-   "url": "https://n.news.naver.com/article/023/0004006781",
-   "articleId": "0004006781",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-30",
-   "page": "A20",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6622,7 +6665,7 @@
    "pressName": "조선일보",
    "date": "2026-10-30",
    "page": "A20",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6630,22 +6673,6 @@
    "title": "보이스피싱 피해자 7827명에… 사랑의열매, 생활비 222억 지원",
    "url": "https://n.news.naver.com/article/023/0004006784",
    "articleId": "0004006784",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-30",
-   "page": "A20",
-   "pageOrder": 5,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "조용필 ‘상처’ 작사가 장경수 별세",
-   "url": "https://n.news.naver.com/article/023/0004006785",
-   "articleId": "0004006785",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6784,14 +6811,14 @@
    "page": "A28",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": false,
-   "thumb": null,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/29/4006741.jpg?type=nf264_176",
    "column": null,
-   "title": "[황유원의 어쩌다 마주친 문장] [100] 마이 웨이",
-   "url": "https://n.news.naver.com/article/023/0004006738",
-   "articleId": "0004006738",
-   "seriesKey": "023:황유원의어쩌다마주친문장",
-   "seriesType": "연재칼럼"
+   "title": "[유현준의 공간과 도시] 기독교 공간은 왜 불교보다 폐쇄적인가",
+   "url": "https://n.news.naver.com/article/023/0004006741",
+   "articleId": "0004006741",
+   "seriesKey": null,
+   "seriesType": null
   },
   {
    "press": "023",
@@ -6803,11 +6830,11 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[유현준의 공간과 도시] 기독교 공간은 왜 불교보다 폐쇄적인가",
-   "url": "https://n.news.naver.com/article/023/0004006741",
-   "articleId": "0004006741",
-   "seriesKey": null,
-   "seriesType": null
+   "title": "[황유원의 어쩌다 마주친 문장] [100] 마이 웨이",
+   "url": "https://n.news.naver.com/article/023/0004006738",
+   "articleId": "0004006738",
+   "seriesKey": "023:황유원의어쩌다마주친문장",
+   "seriesType": "연재칼럼"
   },
   {
    "press": "023",
@@ -7057,7 +7084,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/30/4006767.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/30/4006764.jpg?type=nf264_176",
+   "column": null,
+   "title": "美연준 금리 동결, 회의 횟수 줄여… 시장에선 “물가 대응 의지 안 보여”",
+   "url": "https://n.news.naver.com/article/023/0004006764",
+   "articleId": "0004006764",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-30",
+   "page": "B2",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "“반도체 호황, 잠재성장률 올렸다는 판단 이르다”",
    "url": "https://n.news.naver.com/article/023/0004006767",
@@ -7070,7 +7113,7 @@
    "pressName": "조선일보",
    "date": "2026-10-30",
    "page": "B2",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -7086,7 +7129,7 @@
    "pressName": "조선일보",
    "date": "2026-10-30",
    "page": "B2",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -7094,22 +7137,6 @@
    "title": "5대 금융지주, 3분기까지 순익 20조원 육박 역대 최대",
    "url": "https://n.news.naver.com/article/023/0004006688",
    "articleId": "0004006688",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-30",
-   "page": "B2",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "美연준 금리 동결, 회의 횟수 줄여… 시장에선 “물가 대응 의지 안 보여”",
-   "url": "https://n.news.naver.com/article/023/0004006764",
-   "articleId": "0004006764",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7137,11 +7164,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/29/4006700.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/30/4006769.jpg?type=nf264_176",
    "column": null,
-   "title": "창립 60주년 효성, 조현준 “악착같이, 치밀하게, 신뢰의 효성으로 새 100년 열자”",
-   "url": "https://n.news.naver.com/article/023/0004006700",
-   "articleId": "0004006700",
+   "title": "현대백화점그룹, 장호진·박홍진 부회장 승진",
+   "url": "https://n.news.naver.com/article/023/0004006769",
+   "articleId": "0004006769",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7155,9 +7182,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "현대백화점그룹, 장호진·박홍진 부회장 승진",
-   "url": "https://n.news.naver.com/article/023/0004006769",
-   "articleId": "0004006769",
+   "title": "신세계, 롯데百 부산 센텀시티점 인수… 쇼핑·문화·관광 복합 ‘신세계 타운’으로",
+   "url": "https://n.news.naver.com/article/023/0004006771",
+   "articleId": "0004006771",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7171,9 +7198,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "공사비 갈등에… 체코 원전 ‘팀코리아’ 깨졌다",
-   "url": "https://n.news.naver.com/article/023/0004006770",
-   "articleId": "0004006770",
+   "title": "창립 60주년 효성, 조현준 “악착같이, 치밀하게, 신뢰의 효성으로 새 100년 열자”",
+   "url": "https://n.news.naver.com/article/023/0004006700",
+   "articleId": "0004006700",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7187,9 +7214,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "신세계, 롯데百 부산 센텀시티점 인수… 쇼핑·문화·관광 복합 ‘신세계 타운’으로",
-   "url": "https://n.news.naver.com/article/023/0004006771",
-   "articleId": "0004006771",
+   "title": "공사비 갈등에… 체코 원전 ‘팀코리아’ 깨졌다",
+   "url": "https://n.news.naver.com/article/023/0004006770",
+   "articleId": "0004006770",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7352,8 +7379,8 @@
    "articleId": "0003561649",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7370,7 +7397,8 @@
    "articleId": "0003561631",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7478,7 +7506,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "박지원 “與 잘해” 김어준 “아뇨” 기싸움…李도 못말린 극한 내홍",
+   "title": "김어준 “與 결정 장애 아니냐” 기싸움…李도 못말리는 극한 내홍",
    "url": "https://n.news.naver.com/article/025/0003561651",
    "articleId": "0003561651",
    "seriesKey": null,
@@ -8507,7 +8535,6 @@
    "articleId": "0002829858",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002829868",
@@ -8521,7 +8548,8 @@
      "title": "“SNS 소통 포기 않겠다” 이 대통령의 마이웨이",
      "url": "https://n.news.naver.com/article/028/0002829862"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8538,8 +8566,8 @@
    "articleId": "0002829810",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8555,7 +8583,9 @@
    "url": "https://n.news.naver.com/article/028/0002829784",
    "articleId": "0002829784",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "028",
@@ -8572,7 +8602,6 @@
    "articleId": "0002829721",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002829879",
@@ -8580,7 +8609,8 @@
      "title": "국힘 ‘경기·성남라인 인사 개입’ 공세…임광현 “우려 없도록 할 것”",
      "url": "https://n.news.naver.com/article/028/0002829879"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8608,7 +8638,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "퇴직연금을 국민연금처럼 운용…안정·수익성 ‘두 토끼 잡기’",
+   "title": "퇴직금 떼일 걱정 없도록…퇴직연금 대수술",
    "url": "https://n.news.naver.com/article/028/0002829912",
    "articleId": "0002829912",
    "seriesKey": null,
@@ -9397,8 +9427,8 @@
    "articleId": "0003479592",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9415,7 +9445,6 @@
    "articleId": "0003479594",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003479495",
@@ -9423,7 +9452,8 @@
      "title": "[여적]‘역차별’ 단어의 쓰임",
      "url": "https://n.news.naver.com/article/032/0003479495"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9440,8 +9470,8 @@
    "articleId": "0003479593",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9458,8 +9488,8 @@
    "articleId": "0003479591",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9469,7 +9499,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/10/29/3479590.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/10/30/3479606.jpg?type=nf264_176",
+   "column": null,
+   "title": "국민연금 ‘시장 개입 우려’에 국회로 공 넘긴 정부",
+   "url": "https://n.news.naver.com/article/032/0003479606",
+   "articleId": "0003479606",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-10-30",
+   "page": "A2",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "한 번 보면, 세 번 못 봐···수능 ‘스마트안경 부정행위’ 땐 응시자격 정지 3년으로 늘린다",
    "url": "https://n.news.naver.com/article/032/0003479590",
@@ -9485,7 +9531,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/10/29/3479587.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/10/30/3479612.jpg?type=nf264_176",
+   "column": null,
+   "title": "3기 신도시도 부진한데···“2030년 내 착공” 반복되는 목표, 달성할 수 있을까",
+   "url": "https://n.news.naver.com/article/032/0003479612",
+   "articleId": "0003479612",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-10-30",
+   "page": "A3",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "오세훈 반대 용산공원 개발엔 “일단 논외로”",
    "url": "https://n.news.naver.com/article/032/0003479587",
@@ -9661,7 +9723,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/10/29/3479576.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/10/30/3479609.jpg?type=nf264_176",
+   "column": null,
+   "title": "조희대 ‘신속 심리’ 내세웠지만, 전합 재판은 ‘세월아 네월아’",
+   "url": "https://n.news.naver.com/article/032/0003479609",
+   "articleId": "0003479609",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-10-30",
+   "page": "A10",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "“윤 방어권 보장 권고, 생각 변함없다”…안창호 인권위원장, 사퇴 요구 ‘거부’",
    "url": "https://n.news.naver.com/article/032/0003479576",
@@ -9674,7 +9752,7 @@
    "pressName": "경향신문",
    "date": "2026-10-30",
    "page": "A10",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -9690,7 +9768,7 @@
    "pressName": "경향신문",
    "date": "2026-10-30",
    "page": "A10",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -9700,6 +9778,22 @@
    "articleId": "0003479595",
    "seriesKey": null,
    "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-10-30",
+   "page": "A10",
+   "pageOrder": 5,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "강의시간 3배 인정·방학 임금 확대…사개위, 대학 강사 처우개선 추진[강사법 7년, 남은 ‘시간강사’③]",
+   "url": "https://n.news.naver.com/article/032/0003479607",
+   "articleId": "0003479607",
+   "seriesKey": "032:강사법7년남은시간강사3",
+   "seriesType": "기획"
   },
   {
    "press": "032",
@@ -9965,11 +10059,43 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/10/30/3479617.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/10/25/3478278.jpg?type=nf264_176",
+   "column": null,
+   "title": "세탁할수록 색이 빠지는 ‘검은 옷’, 오래오래 입으려면",
+   "url": "https://n.news.naver.com/article/032/0003478278",
+   "articleId": "0003478278",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-10-30",
+   "page": "A17",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "관람 파트너를 발급받으시겠습니까?…여기, 나만의 ‘AI 큐레이터’가 있다",
    "url": "https://n.news.naver.com/article/032/0003479617",
    "articleId": "0003479617",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-10-30",
+   "page": "A17",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "못생긴 부자 vs 잘생긴 빈털터리…데이팅앱이 밝힌 ‘잔인한 현실’",
+   "url": "https://n.news.naver.com/article/032/0003478263",
+   "articleId": "0003478263",
    "seriesKey": null,
    "seriesType": null
   },
@@ -9997,7 +10123,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/10/29/3479558.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/10/30/3479614.jpg?type=nf264_176",
+   "column": null,
+   "title": "전쟁 영웅 처칠은 지고, 군사정권 후계자 노태우는 이겼다···선거의 역설[책과 삶]",
+   "url": "https://n.news.naver.com/article/032/0003479614",
+   "articleId": "0003479614",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-10-30",
+   "page": "A22",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "돌멩이의 시간 감각 外[새책]",
    "url": "https://n.news.naver.com/article/032/0003479558",
@@ -10010,7 +10152,7 @@
    "pressName": "경향신문",
    "date": "2026-10-30",
    "page": "A22",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -10026,7 +10168,7 @@
    "pressName": "경향신문",
    "date": "2026-10-30",
    "page": "A22",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -10042,7 +10184,7 @@
    "pressName": "경향신문",
    "date": "2026-10-30",
    "page": "A22",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -10140,6 +10282,22 @@
    "page": "A25",
    "pageOrder": 1,
    "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/10/30/3479610.jpg?type=nf264_176",
+   "column": null,
+   "title": "“조선이 내게 해준 게 뭐 있냐”···일제시대 ‘MZ 여주’가 뒤집은 독립운동 서사",
+   "url": "https://n.news.naver.com/article/032/0003479610",
+   "articleId": "0003479610",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-10-30",
+   "page": "A25",
+   "pageOrder": 2,
+   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -10154,7 +10312,7 @@
    "pressName": "경향신문",
    "date": "2026-10-30",
    "page": "A25",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -10236,6 +10394,22 @@
    "page": "A29",
    "pageOrder": 1,
    "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/10/30/3479602.jpg?type=nf264_176",
+   "column": null,
+   "title": "밥 짓는 물부터 매장 조리까지 바꿨다···‘식당 대체’ 꿈꾸는 편의점의 과감한 시도",
+   "url": "https://n.news.naver.com/article/032/0003479602",
+   "articleId": "0003479602",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-10-30",
+   "page": "A29",
+   "pageOrder": 2,
+   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -10250,7 +10424,7 @@
    "pressName": "경향신문",
    "date": "2026-10-30",
    "page": "A29",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -10266,7 +10440,7 @@
    "pressName": "경향신문",
    "date": "2026-10-30",
    "page": "A29",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -10282,7 +10456,7 @@
    "pressName": "경향신문",
    "date": "2026-10-30",
    "page": "A29",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -10319,7 +10493,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "호랑이굴을 뒤집어놨다···삼성, PO 3차전 KIA에 6대 4승",
+   "title": "호랑이굴을 뒤집어놨다···삼성, PO 3차전 KIA에 6 대 4 승",
    "url": "https://n.news.naver.com/article/032/0003479599",
    "articleId": "0003479599",
    "seriesKey": null,
