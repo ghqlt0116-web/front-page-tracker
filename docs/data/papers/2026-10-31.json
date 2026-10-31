@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "collectedAt": "2026-10-30T23:37:19",
+ "collectedAt": "2026-10-31T01:00:34",
  "articles": [
   {
    "press": "009",
@@ -17,7 +17,6 @@
    "articleId": "0005756805",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005756740",
@@ -37,7 +36,8 @@
      "title": "野 \"재건축 용적률 1.2배 상향…소형주택만 적용땐 효과없어\"",
      "url": "https://n.news.naver.com/article/009/0005756795"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -54,7 +54,6 @@
    "articleId": "0005756803",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005756731",
@@ -62,7 +61,8 @@
      "title": "美 군기지 냉동고 먹통…사이버 해킹 공격 의심",
      "url": "https://n.news.naver.com/article/009/0005756731"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -79,8 +79,8 @@
    "articleId": "0005756806",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -97,8 +97,8 @@
    "articleId": "0005756804",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -1603,8 +1603,8 @@
    "articleId": "0005348659",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1621,7 +1621,6 @@
    "articleId": "0005348654",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005348660",
@@ -1629,7 +1628,8 @@
      "title": "AI 돈줄 마른다…반도체 성장 의구심에 韓주식 던진 외국인",
      "url": "https://n.news.naver.com/article/015/0005348660"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1665,7 +1665,8 @@
      "title": "기아, 3분기 최대 매출에도 영업이익 '쇼크'",
      "url": "https://n.news.naver.com/article/015/0005348658"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1682,7 +1683,6 @@
    "articleId": "0005348655",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005348644",
@@ -1702,7 +1702,8 @@
      "title": "MS, 회사채 시장 9년 만에 복귀…250억弗 발행",
      "url": "https://n.news.naver.com/article/015/0005348640"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2935,8 +2936,8 @@
    "articleId": "0003759090",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -2953,8 +2954,8 @@
    "articleId": "0003759086",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -2971,7 +2972,6 @@
    "articleId": "0003759096",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003759085",
@@ -2979,7 +2979,8 @@
      "title": "비만약 투약 후 담석증-급성췌장염 늘어… 시력 손상도 잇달아",
      "url": "https://n.news.naver.com/article/020/0003759085"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -2996,8 +2997,8 @@
    "articleId": "0003759084",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3793,7 +3794,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/10/30/3759039.jpg?type=nf264_176",
    "column": null,
-   "title": "[횡설수설/우경임]젠슨 황 옆 ‘여성 스파이’",
+   "title": "젠슨 황 옆 ‘여성 스파이’ [횡설수설/우경임]",
    "url": "https://n.news.naver.com/article/020/0003759039",
    "articleId": "0003759039",
    "seriesKey": null,
@@ -3935,45 +3936,9 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/31/4007035.jpg?type=nf600_340",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/31/4007036.jpg?type=nf600_340",
    "column": null,
-   "title": "김정은의 ‘드론 협박’… 스텔스 무인기 등 30종 공개",
-   "url": "https://n.news.naver.com/article/023/0004007035",
-   "articleId": "0004007035",
-   "seriesKey": null,
-   "seriesType": null,
-   "searchDone": true,
-   "related": []
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-31",
-   "page": "A1",
-   "pageOrder": 2,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "세계 최대 코인거래소 20분만에 8.4조 털려",
-   "url": "https://n.news.naver.com/article/023/0004007034",
-   "articleId": "0004007034",
-   "seriesKey": null,
-   "seriesType": null,
-   "searchDone": true,
-   "related": []
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-31",
-   "page": "A1",
-   "pageOrder": 3,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "다문화 우대 20년, 불붙은 존폐 논란",
+   "title": "다문화 20년 우대 정책... 李 지적에 불붙은 존폐 논란",
    "url": "https://n.news.naver.com/article/023/0004007036",
    "articleId": "0004007036",
    "seriesKey": null,
@@ -3985,7 +3950,44 @@
      "title": "다문화 가족은 어린이집·주택청약 우선권… 주담대 이자도 깎아줘",
      "url": "https://n.news.naver.com/article/023/0004007030"
     }
-   ]
+   ],
+   "searchDone": true
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-31",
+   "page": "A1",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "김정은의 ‘드론 협박’… 스텔스 무인기 등 30종 공개",
+   "url": "https://n.news.naver.com/article/023/0004007035",
+   "articleId": "0004007035",
+   "seriesKey": null,
+   "seriesType": null,
+   "related": [],
+   "searchDone": true
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-31",
+   "page": "A1",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "세계 최대 코인거래소 20분만에 8.4조 털려",
+   "url": "https://n.news.naver.com/article/023/0004007034",
+   "articleId": "0004007034",
+   "seriesKey": null,
+   "seriesType": null,
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4002,8 +4004,8 @@
    "articleId": "0004007033",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4015,7 +4017,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/31/4007031.jpg?type=nf264_176",
    "column": null,
-   "title": "김혜자, 최불암 빈소서 오열 “그리운 사람, 곧 만날거야”",
+   "title": "‘최불암과 22년 부부연기’ 김혜자 “그리운 사람, 곧 만날 것” 오열",
    "url": "https://n.news.naver.com/article/023/0004007031",
    "articleId": "0004007031",
    "seriesKey": null,
@@ -4268,8 +4270,24 @@
    "page": "A12",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/30/4006876.jpg?type=nf264_176",
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "내년 장기요양보험료 세대당 月1100원 올라",
+   "url": "https://n.news.naver.com/article/023/0004007015",
+   "articleId": "0004007015",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-31",
+   "page": "A12",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "경찰 사과에도 수그러지지 않는 의료계 반발... “다음달까지 ‘응급실 압수수색 제한’ 수사 가이드라인 만들어라”",
    "url": "https://n.news.naver.com/article/023/0004006876",
@@ -4282,7 +4300,7 @@
    "pressName": "조선일보",
    "date": "2026-10-31",
    "page": "A12",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -4298,7 +4316,7 @@
    "pressName": "조선일보",
    "date": "2026-10-31",
    "page": "A12",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -4306,22 +4324,6 @@
    "title": "야간버스 모는 아빠 “가족은 내가 돌아갈 종점”",
    "url": "https://n.news.naver.com/article/023/0004007014",
    "articleId": "0004007014",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-31",
-   "page": "A12",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "내년 장기요양보험료 세대당 月1100원 올라",
-   "url": "https://n.news.naver.com/article/023/0004007015",
-   "articleId": "0004007015",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4604,6 +4606,22 @@
    "page": "A18",
    "pageOrder": 1,
    "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/31/4007004.jpg?type=nf264_176",
+   "column": null,
+   "title": "“책임은 내가 질게” “전 즐기며 뛸게요”",
+   "url": "https://n.news.naver.com/article/023/0004007004",
+   "articleId": "0004007004",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-10-31",
+   "page": "A18",
+   "pageOrder": 2,
+   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -4618,7 +4636,7 @@
    "pressName": "조선일보",
    "date": "2026-10-31",
    "page": "A18",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -4634,7 +4652,7 @@
    "pressName": "조선일보",
    "date": "2026-10-31",
    "page": "A18",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -4642,22 +4660,6 @@
    "title": "돌아온 배구 계절",
    "url": "https://n.news.naver.com/article/023/0004007005",
    "articleId": "0004007005",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-10-31",
-   "page": "A18",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "“책임은 내가 질게” “전 즐기며 뛸게요”",
-   "url": "https://n.news.naver.com/article/023/0004007004",
-   "articleId": "0004007004",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4927,7 +4929,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/31/4006974.jpg?type=nf264_176",
    "column": null,
-   "title": "남수단 의사 된 ‘톤즈의 아이’... “이태석 신부의 길 걷습니다”",
+   "title": "의사가 된 ‘톤즈의 아이’... “이태석 신부의 길 걷습니다”",
    "url": "https://n.news.naver.com/article/023/0004006974",
    "articleId": "0004006974",
    "seriesKey": null,
@@ -5165,11 +5167,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/31/4006969.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/10/31/4006968.jpg?type=nf264_176",
    "column": null,
-   "title": "사랑의 유산",
-   "url": "https://n.news.naver.com/article/023/0004006969",
-   "articleId": "0004006969",
+   "title": "분식집에서 사라진 김밥… 파인다이닝 주연으로",
+   "url": "https://n.news.naver.com/article/023/0004006968",
+   "articleId": "0004006968",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5183,9 +5185,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "지옥으로 가는 길은 선의로 포장돼 있다",
-   "url": "https://n.news.naver.com/article/023/0004006966",
-   "articleId": "0004006966",
+   "title": "사랑의 유산",
+   "url": "https://n.news.naver.com/article/023/0004006969",
+   "articleId": "0004006969",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5199,9 +5201,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "분식집에서 사라진 김밥… 파인다이닝 주연으로",
-   "url": "https://n.news.naver.com/article/023/0004006968",
-   "articleId": "0004006968",
+   "title": "지옥으로 가는 길은 선의로 포장돼 있다",
+   "url": "https://n.news.naver.com/article/023/0004006966",
+   "articleId": "0004006966",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5239,7 +5241,8 @@
      "title": "조종사·GPS 없이 난다…‘게임 체인저’ AI 무인기, K항공업계 도전장",
      "url": "https://n.news.naver.com/article/353/0000057091"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "353",
@@ -5256,8 +5259,8 @@
    "articleId": "0000057103",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
@@ -5273,7 +5276,8 @@
    "url": "https://n.news.naver.com/article/353/0000057098",
    "articleId": "0000057098",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "353",
@@ -5290,8 +5294,8 @@
    "articleId": "0000057104",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
