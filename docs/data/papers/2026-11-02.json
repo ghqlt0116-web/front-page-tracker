@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "collectedAt": "2026-11-02T01:00:23",
+ "collectedAt": "2026-11-02T01:32:02",
  "articles": [
   {
    "press": "009",
@@ -1128,9 +1128,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[표] 오늘의 날씨",
-   "url": "https://n.news.naver.com/article/009/0005757188",
-   "articleId": "0005757188",
+   "title": "아이디",
+   "url": "https://n.news.naver.com/article/009/0005757189",
+   "articleId": "0005757189",
    "seriesKey": null,
    "seriesType": null
   },
@@ -1144,9 +1144,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "아이디",
-   "url": "https://n.news.naver.com/article/009/0005757189",
-   "articleId": "0005757189",
+   "title": "[표] 오늘의 날씨",
+   "url": "https://n.news.naver.com/article/009/0005757188",
+   "articleId": "0005757188",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5199,7 +5199,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/02/4007215.jpg?type=nf264_176",
    "column": null,
-   "title": "일선 경찰들 “저위험 권총보다 테이저건 달라”",
+   "title": "“저위험 권총보다 테이저건 달라”",
    "url": "https://n.news.naver.com/article/023/0004007215",
    "articleId": "0004007215",
    "seriesKey": null,
@@ -5215,6 +5215,22 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
+   "title": "깐깐해진 공소청 검사, 이삿짐 덜 푼 중수청, 수사 늪에 빠진 경찰",
+   "url": "https://n.news.naver.com/article/023/0004007214",
+   "articleId": "0004007214",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-11-02",
+   "page": "A10",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
    "title": "해외서도 입소문 터졌다,  K아동복 명소로 뜬 남대문",
    "url": "https://n.news.naver.com/article/023/0004007213",
    "articleId": "0004007213",
@@ -5226,7 +5242,7 @@
    "pressName": "조선일보",
    "date": "2026-11-02",
    "page": "A10",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5241,27 +5257,11 @@
    "press": "023",
    "pressName": "조선일보",
    "date": "2026-11-02",
-   "page": "A10",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "깐깐해진 공소청 검사, 이삿짐 덜 푼 중수청, 수사 늪에 빠진 경찰",
-   "url": "https://n.news.naver.com/article/023/0004007214",
-   "articleId": "0004007214",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-11-02",
    "page": "A12",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": false,
-   "thumb": null,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/02/4007210.jpg?type=nf264_176",
    "column": null,
    "title": "비만약 맞고 굶다가… 영양 실조로 실려오는 2030",
    "url": "https://n.news.naver.com/article/023/0004007210",
@@ -5535,7 +5535,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/02/4007204.jpg?type=nf264_176",
    "column": null,
-   "title": "창단 2년 만에 우승 이끈 ’157㎝ 농구 감독'",
+   "title": "창단 2년 만에 우승 이끈 ‘157㎝ 농구 감독’",
    "url": "https://n.news.naver.com/article/023/0004007204",
    "articleId": "0004007204",
    "seriesKey": null,
@@ -5615,7 +5615,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“그래도 박정희가 애국자데이”… ‘항명 파동’으로 유배된 아버지가 말했지",
+   "title": "‘항명 파동’으로 유배된 아버지가 말했지… “그래도 박정희가 애국자데이”",
    "url": "https://n.news.naver.com/article/023/0004007161",
    "articleId": "0004007161",
    "seriesKey": null,
@@ -8235,7 +8235,8 @@
      "title": "‘1963가구’ 거제 최대 단지 ‘힐스테이트 거제시그니처’",
      "url": "https://n.news.naver.com/article/032/0003479943"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -8252,7 +8253,6 @@
    "articleId": "0003480001",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003480000",
@@ -8260,7 +8260,8 @@
      "title": "‘검사가 손 댄’ 증거는 재판에서 못 쓴다?···뺑뺑이 도는 피해자, 꼬여가는 형사재판[개정 형소법 한달]",
      "url": "https://n.news.naver.com/article/032/0003480000"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -8284,7 +8285,8 @@
      "title": "“만든 사람 위한 정책 같아요”···청년 정책 2000개의 착시 효과[춘추정병시대]",
      "url": "https://n.news.naver.com/article/032/0003480008"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -8539,6 +8541,22 @@
    "title": "‘검사가 손 댄’ 증거는 재판에서 못 쓴다?···뺑뺑이 도는 피해자, 꼬여가는 형사재판[개정 형소법 한달]",
    "url": "https://n.news.naver.com/article/032/0003480000",
    "articleId": "0003480000",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-02",
+   "page": "A9",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "경찰 책임 커졌지만 인력 부족…급증한 보완수사 요구 등에 ‘업무 부담’[개정 형소법 한달]",
+   "url": "https://n.news.naver.com/article/032/0003480002",
+   "articleId": "0003480002",
    "seriesKey": null,
    "seriesType": null
   },
@@ -8978,6 +8996,22 @@
    "press": "032",
    "pressName": "경향신문",
    "date": "2026-11-02",
+   "page": "A18",
+   "pageOrder": 5,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "[단독]“미 기업 차별” 공정위 저격한 싱크탱크 후원 명단에 쿠팡",
+   "url": "https://n.news.naver.com/article/032/0003479997",
+   "articleId": "0003479997",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-02",
    "page": "A19",
    "pageOrder": 1,
    "isTop": true,
@@ -9094,7 +9128,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/11/01/3479943.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/11/02/3480005.jpg?type=nf264_176",
+   "column": null,
+   "title": "리모델링 수직 증축의 미래, ‘나무 아파트’가 열까[올앳부동산]",
+   "url": "https://n.news.naver.com/article/032/0003480005",
+   "articleId": "0003480005",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-02",
+   "page": "A21",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "‘1963가구’ 거제 최대 단지 ‘힐스테이트 거제시그니처’",
    "url": "https://n.news.naver.com/article/032/0003479943",
