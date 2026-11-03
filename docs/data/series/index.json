@@ -336,6 +336,29 @@
    "lastDate": "2026-11-03"
   },
   {
+   "seriesKey": "032:만나듣다",
+   "press": "032",
+   "pressName": "경향신문",
+   "name": "만나듣다",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "⑫",
+     "ord": 12,
+     "isEnd": false,
+     "date": "2026-11-03",
+     "page": "A16",
+     "column": null,
+     "title": "“동물 쉽게 죽이면서 죽임도 외주화하는 사회”···기록으로 싸우는 르포 작가 정윤영[만나듣다]⑫",
+     "url": "https://n.news.naver.com/article/032/0003480086",
+     "articleId": "0003480086"
+    }
+   ],
+   "firstDate": "2026-11-03",
+   "lastDate": "2026-11-03"
+  },
+  {
    "seriesKey": "023:문태준의가슴이따뜻해지는",
    "press": "023",
    "pressName": "조선일보",

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "collectedAt": "2026-11-03T00:22:00",
+ "collectedAt": "2026-11-03T02:11:19",
  "articles": [
   {
    "press": "009",
@@ -17,7 +17,6 @@
    "articleId": "0005757850",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005757800",
@@ -25,7 +24,8 @@
      "title": "안토넬리, F1 역대 최연소 월드 챔피언",
      "url": "https://n.news.naver.com/article/009/0005757800"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -42,8 +42,8 @@
    "articleId": "0005757849",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -60,7 +60,6 @@
    "articleId": "0005757880",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005757777",
@@ -68,7 +67,8 @@
      "title": "조원태, 즉각 실탄 투입… 호반發 경영권 분쟁 차단",
      "url": "https://n.news.naver.com/article/009/0005757777"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -1973,7 +1973,16 @@
    "url": "https://n.news.naver.com/article/015/0005349343",
    "articleId": "0005349343",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0005349349",
+     "page": "A3",
+     "title": "[단독] \"월세 내느니 차라리\"…4050 큰손 제친 2030 '생존 매수'",
+     "url": "https://n.news.naver.com/article/015/0005349349"
+    }
+   ]
   },
   {
    "press": "015",
@@ -1990,7 +1999,6 @@
    "articleId": "0005349367",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005349393",
@@ -2010,7 +2018,8 @@
      "title": "85곳 사립대 법인 재정·투명성 종합평가",
      "url": "https://n.news.naver.com/article/015/0005349392"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2027,8 +2036,8 @@
    "articleId": "0005349379",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2045,7 +2054,6 @@
    "articleId": "0005349369",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005349377",
@@ -2059,7 +2067,8 @@
      "title": "\"삼전닉스 쏠림 심한 한국 증시…사모대출이 위험분산 역할\"",
      "url": "https://n.news.naver.com/article/015/0005349216"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2076,8 +2085,8 @@
    "articleId": "0005349354",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2953,9 +2962,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "카카오페이, 대출비교에 카뱅·토뱅 상품 추가",
-   "url": "https://n.news.naver.com/article/015/0005349338",
-   "articleId": "0005349338",
+   "title": "'1억 성과급'에도 떠난다…국민연금 운용역 줄퇴사",
+   "url": "https://n.news.naver.com/article/015/0005349340",
+   "articleId": "0005349340",
    "seriesKey": null,
    "seriesType": null
   },
@@ -2969,9 +2978,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "보금자리론 10년 만기 금리 연 5%대 돌파",
-   "url": "https://n.news.naver.com/article/015/0005349421",
-   "articleId": "0005349421",
+   "title": "카카오페이, 대출비교에 카뱅·토뱅 상품 추가",
+   "url": "https://n.news.naver.com/article/015/0005349338",
+   "articleId": "0005349338",
    "seriesKey": null,
    "seriesType": null
   },
@@ -2985,9 +2994,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "'1억 성과급'에도 떠난다…국민연금 운용역 줄퇴사",
-   "url": "https://n.news.naver.com/article/015/0005349340",
-   "articleId": "0005349340",
+   "title": "보금자리론 10년 만기 금리 연 5%대 돌파",
+   "url": "https://n.news.naver.com/article/015/0005349421",
+   "articleId": "0005349421",
    "seriesKey": null,
    "seriesType": null
   },
@@ -3030,6 +3039,22 @@
    "page": "A20",
    "pageOrder": 1,
    "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/11/02/5349306.jpg?type=nf264_176",
+   "column": null,
+   "title": "'저PBR 꼬리표' 첫날…현대제철·롯데쇼핑 강세",
+   "url": "https://n.news.naver.com/article/015/0005349306",
+   "articleId": "0005349306",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-11-03",
+   "page": "A20",
+   "pageOrder": 2,
+   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -3044,7 +3069,7 @@
    "pressName": "한국경제",
    "date": "2026-11-03",
    "page": "A20",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -3052,22 +3077,6 @@
    "title": "샘표식품, 샘표 흡수합병 소식에 상한가",
    "url": "https://n.news.naver.com/article/015/0005349301",
    "articleId": "0005349301",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "015",
-   "pressName": "한국경제",
-   "date": "2026-11-03",
-   "page": "A20",
-   "pageOrder": 3,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "'저PBR 꼬리표' 첫날…현대제철·롯데쇼핑 강세",
-   "url": "https://n.news.naver.com/article/015/0005349306",
-   "articleId": "0005349306",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4087,11 +4096,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/11/02/5349219.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/11/02/5349216.jpg?type=nf264_176",
    "column": null,
-   "title": "윤건수 대표 \"성장 유망 기업, 코스닥 입성길 넓어져야\"",
-   "url": "https://n.news.naver.com/article/015/0005349219",
-   "articleId": "0005349219",
+   "title": "\"삼전닉스 쏠림 심한 한국 증시…사모대출이 위험분산 역할\"",
+   "url": "https://n.news.naver.com/article/015/0005349216",
+   "articleId": "0005349216",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4105,9 +4114,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "매출 300억 헬스케어社 매물로",
-   "url": "https://n.news.naver.com/article/015/0005349215",
-   "articleId": "0005349215",
+   "title": "윤건수 대표 \"성장 유망 기업, 코스닥 입성길 넓어져야\"",
+   "url": "https://n.news.naver.com/article/015/0005349219",
+   "articleId": "0005349219",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4121,9 +4130,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "\"삼전닉스 쏠림 심한 한국 증시…사모대출이 위험분산 역할\"",
-   "url": "https://n.news.naver.com/article/015/0005349216",
-   "articleId": "0005349216",
+   "title": "매출 300억 헬스케어社 매물로",
+   "url": "https://n.news.naver.com/article/015/0005349215",
+   "articleId": "0005349215",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4158,7 +4167,6 @@
    "articleId": "0003759586",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003759514",
@@ -4178,7 +4186,8 @@
      "title": "[초대석]“산단-에너지-대학으로 성장 기반 마련”",
      "url": "https://n.news.naver.com/article/020/0003759563"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4195,7 +4204,6 @@
    "articleId": "0003759588",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003759584",
@@ -4215,7 +4223,8 @@
      "title": "“욕설-연설시간 늘고, 한밤 SNS 증가… 트럼프 2기서 더 심해져”",
      "url": "https://n.news.naver.com/article/020/0003759541"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4232,8 +4241,8 @@
    "articleId": "0003759587",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4257,7 +4266,8 @@
      "title": "“오늘 주식 팔면 내일 돈 받는다” 재투자로 자금 순환 가속 기대",
      "url": "https://n.news.naver.com/article/020/0003759583"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -5597,7 +5607,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[횡설수설/우경임]온라인 사찰 ‘산사’",
+   "title": "온라인 사찰 ‘산사’ [횡설수설/우경임]",
    "url": "https://n.news.naver.com/article/020/0003759510",
    "articleId": "0003759510",
    "seriesKey": null,
@@ -6347,13 +6357,15 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007426.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007426.jpg?type=nf600_340",
    "column": null,
    "title": "북한에 뺏긴 태권도",
    "url": "https://n.news.naver.com/article/023/0004007426",
    "articleId": "0004007426",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "023",
@@ -6365,13 +6377,13 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[단독] 지방 기업 전기료 지원하려 태양광 단가 깎아 업계 반발",
-   "url": "https://n.news.naver.com/article/023/0004007434",
-   "articleId": "0004007434",
+   "title": "대통령까지… ‘1호기’ 탑승자 168명 정보 유출",
+   "url": "https://n.news.naver.com/article/023/0004007427",
+   "articleId": "0004007427",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6388,7 +6400,6 @@
    "articleId": "0004007428",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004007420",
@@ -6396,7 +6407,8 @@
      "title": "미래기금 34%는 현금 복지… 46%는 세수 줄어도 못 없애는 고정지출",
      "url": "https://n.news.naver.com/article/023/0004007420"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6408,13 +6420,13 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "대통령까지… ‘1호기’ 탑승자 168명 정보 유출",
-   "url": "https://n.news.naver.com/article/023/0004007427",
-   "articleId": "0004007427",
+   "title": "[단독] 지방 기업 전기료 지원하려 태양광 단가 깎아 업계 반발",
+   "url": "https://n.news.naver.com/article/023/0004007434",
+   "articleId": "0004007434",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6423,8 +6435,8 @@
    "page": "A2",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": false,
-   "thumb": null,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007424.jpg?type=nf264_176",
    "column": null,
    "title": "외국인 유학생 30만명 돌파… “이제 숫자 늘리기보다 교육의 질 높여야”",
    "url": "https://n.news.naver.com/article/023/0004007424",
@@ -6520,11 +6532,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007414.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007415.jpg?type=nf264_176",
    "column": null,
-   "title": "北자폭드론 위협 나흘 후… 軍, 몸집 줄인 드론본부 출범",
-   "url": "https://n.news.naver.com/article/023/0004007414",
-   "articleId": "0004007414",
+   "title": "美상공회의소 부사장 “한미 무역 불균형이 美 자극… 한국, 시장 더 열어야”",
+   "url": "https://n.news.naver.com/article/023/0004007415",
+   "articleId": "0004007415",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6538,9 +6550,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "美상공회의소 부회장 “한미 무역 불균형이 美 자극… 한국, 시장 더 열어야”",
-   "url": "https://n.news.naver.com/article/023/0004007415",
-   "articleId": "0004007415",
+   "title": "北자폭드론 위협 나흘 후… 軍, 몸집 줄인 드론본부 출범",
+   "url": "https://n.news.naver.com/article/023/0004007414",
+   "articleId": "0004007414",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6567,22 +6579,6 @@
    "page": "A6",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007412.jpg?type=nf264_176",
-   "column": null,
-   "title": "‘민주·조국당 합당’ 재부상… 與내부 조사선 반대가 많아",
-   "url": "https://n.news.naver.com/article/023/0004007412",
-   "articleId": "0004007412",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-11-03",
-   "page": "A6",
-   "pageOrder": 2,
-   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -6596,15 +6592,15 @@
    "press": "023",
    "pressName": "조선일보",
    "date": "2026-11-03",
-   "page": "A8",
-   "pageOrder": 1,
-   "isTop": true,
-   "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007410.jpg?type=nf264_176",
+   "page": "A6",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
-   "title": "“무조건 환불받아” AI비서 시켰더니… 의원에 메일 폭탄, 거짓말까지",
-   "url": "https://n.news.naver.com/article/023/0004007410",
-   "articleId": "0004007410",
+   "title": "‘민주·조국당 합당’ 재부상… 與내부 조사선 반대가 많아",
+   "url": "https://n.news.naver.com/article/023/0004007412",
+   "articleId": "0004007412",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6613,10 +6609,10 @@
    "pressName": "조선일보",
    "date": "2026-11-03",
    "page": "A8",
-   "pageOrder": 2,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
+   "pageOrder": 1,
+   "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007411.jpg?type=nf264_176",
    "column": null,
    "title": "기업들도 AI비서 경계… JP모건·아마존 “보안 위험” 접근 막아",
    "url": "https://n.news.naver.com/article/023/0004007411",
@@ -6628,15 +6624,31 @@
    "press": "023",
    "pressName": "조선일보",
    "date": "2026-11-03",
-   "page": "A10",
-   "pageOrder": 1,
-   "isTop": true,
+   "page": "A8",
+   "pageOrder": 2,
+   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "판사 80% “재판 중 AI 가짜판례 경험”",
-   "url": "https://n.news.naver.com/article/023/0004007408",
-   "articleId": "0004007408",
+   "title": "“무조건 환불받아” AI비서 시켰더니… 의원에 메일 폭탄, 거짓말까지",
+   "url": "https://n.news.naver.com/article/023/0004007410",
+   "articleId": "0004007410",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-11-03",
+   "page": "A10",
+   "pageOrder": 1,
+   "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007409.jpg?type=nf264_176",
+   "column": null,
+   "title": "한국 6000만원 VS 미국 200억원",
+   "url": "https://n.news.naver.com/article/023/0004007409",
+   "articleId": "0004007409",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6646,22 +6658,6 @@
    "date": "2026-11-03",
    "page": "A10",
    "pageOrder": 2,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "손님 끊긴 구둣방 새단장 후, 年 사용료 66% 올린다는 서울시",
-   "url": "https://n.news.naver.com/article/023/0004007407",
-   "articleId": "0004007407",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-11-03",
-   "page": "A10",
-   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6677,14 +6673,30 @@
    "pressName": "조선일보",
    "date": "2026-11-03",
    "page": "A10",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "판사 80% “재판 중 AI 가짜판례 경험”",
+   "url": "https://n.news.naver.com/article/023/0004007408",
+   "articleId": "0004007408",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-11-03",
+   "page": "A10",
    "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "한국 6000만원 VS 미국 200억원",
-   "url": "https://n.news.naver.com/article/023/0004007409",
-   "articleId": "0004007409",
+   "title": "손님 끊긴 구둣방 새단장 후, 年 사용료 66% 올린다는 서울시",
+   "url": "https://n.news.naver.com/article/023/0004007407",
+   "articleId": "0004007407",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6728,23 +6740,7 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007400.jpg?type=nf264_176",
-   "column": null,
-   "title": "불가리아, 총리 이어 대통령까지 친러파가 장악",
-   "url": "https://n.news.naver.com/article/023/0004007400",
-   "articleId": "0004007400",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-11-03",
-   "page": "A14",
-   "pageOrder": 2,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007401.jpg?type=nf264_176",
    "column": null,
    "title": "네타냐후 퇴진하나",
    "url": "https://n.news.naver.com/article/023/0004007401",
@@ -6757,23 +6753,7 @@
    "pressName": "조선일보",
    "date": "2026-11-03",
    "page": "A14",
-   "pageOrder": 3,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "트럼프 “민주당이 의회 장악하면, ‘미스터 비토’ 되겠다”",
-   "url": "https://n.news.naver.com/article/023/0004007402",
-   "articleId": "0004007402",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-11-03",
-   "page": "A14",
-   "pageOrder": 4,
+   "pageOrder": 2,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6788,15 +6768,47 @@
    "press": "023",
    "pressName": "조선일보",
    "date": "2026-11-03",
+   "page": "A14",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "불가리아, 총리 이어 대통령까지 친러파가 장악",
+   "url": "https://n.news.naver.com/article/023/0004007400",
+   "articleId": "0004007400",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-11-03",
+   "page": "A14",
+   "pageOrder": 4,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "트럼프 “민주당이 의회 장악하면, ‘미스터 비토’ 되겠다”",
+   "url": "https://n.news.naver.com/article/023/0004007402",
+   "articleId": "0004007402",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-11-03",
    "page": "A16",
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007391.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007388.jpg?type=nf264_176",
    "column": null,
-   "title": "“美서 목수로 20년 외도… 뒤처진 만큼 2배 노력했죠”",
-   "url": "https://n.news.naver.com/article/023/0004007391",
-   "articleId": "0004007391",
+   "title": "김홍신 작가 등단 50주년 “역사의 잘못, 글로 꾸짖어야”",
+   "url": "https://n.news.naver.com/article/023/0004007388",
+   "articleId": "0004007388",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6810,9 +6822,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "김홍신 작가 등단 50주년 “역사의 잘못, 글로 꾸짖어야”",
-   "url": "https://n.news.naver.com/article/023/0004007388",
-   "articleId": "0004007388",
+   "title": "자유 대한민국의 초석 이승만… 교과서에선 ‘反통일세력’처럼 묘사",
+   "url": "https://n.news.naver.com/article/023/0004007393",
+   "articleId": "0004007393",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6826,9 +6838,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "자유 대한민국의 초석 이승만… 교과서에선 ‘反통일세력’처럼 묘사",
-   "url": "https://n.news.naver.com/article/023/0004007393",
-   "articleId": "0004007393",
+   "title": "“美서 목수로 20년 외도… 뒤처진 만큼 2배 노력했죠”",
+   "url": "https://n.news.naver.com/article/023/0004007391",
+   "articleId": "0004007391",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6888,11 +6900,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007380.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007383.jpg?type=nf264_176",
    "column": null,
-   "title": "“포퓰리즘 버리고 국익 택한 獨 총리들… 우리도 과감한 결단 내릴 지도자 절실”",
-   "url": "https://n.news.naver.com/article/023/0004007380",
-   "articleId": "0004007380",
+   "title": "‘왕과 비’ ‘명성황후’ 사극 작가 정하연 별세",
+   "url": "https://n.news.naver.com/article/023/0004007383",
+   "articleId": "0004007383",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6906,9 +6918,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“큰 나무 같은 분”… 연기를 삶으로 실천한 ‘시대의 어른’",
-   "url": "https://n.news.naver.com/article/023/0004007381",
-   "articleId": "0004007381",
+   "title": "“포퓰리즘 버리고 국익 택한 獨 총리들… 우리도 과감한 결단 내릴 지도자 절실”",
+   "url": "https://n.news.naver.com/article/023/0004007380",
+   "articleId": "0004007380",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6922,9 +6934,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "‘왕과 비’ ‘명성황후’ 사극 작가 정하연 별세",
-   "url": "https://n.news.naver.com/article/023/0004007383",
-   "articleId": "0004007383",
+   "title": "“큰 나무 같은 분”… 연기를 삶으로 실천한 ‘시대의 어른’",
+   "url": "https://n.news.naver.com/article/023/0004007381",
+   "articleId": "0004007381",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6954,22 +6966,6 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "이탈리아서 열린 미국 대학 농구 ‘교황 더비’",
-   "url": "https://n.news.naver.com/article/023/0004007396",
-   "articleId": "0004007396",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-11-03",
-   "page": "A23",
-   "pageOrder": 3,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
    "title": "장우진, 한국 선수 첫 WTT 챔피언스 정상",
    "url": "https://n.news.naver.com/article/023/0004007397",
    "articleId": "0004007397",
@@ -6981,7 +6977,7 @@
    "pressName": "조선일보",
    "date": "2026-11-03",
    "page": "A23",
-   "pageOrder": 4,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6996,15 +6992,31 @@
    "press": "023",
    "pressName": "조선일보",
    "date": "2026-11-03",
+   "page": "A23",
+   "pageOrder": 4,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "이탈리아서 열린 미국 대학 농구 ‘교황 더비’",
+   "url": "https://n.news.naver.com/article/023/0004007396",
+   "articleId": "0004007396",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-11-03",
    "page": "A27",
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007389.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007392.jpg?type=nf264_176",
    "column": null,
-   "title": "[제31회 LG배 조선일보 기왕전] 대차",
-   "url": "https://n.news.naver.com/article/023/0004007389",
-   "articleId": "0004007389",
+   "title": "[TV조선] 3기 최종 우승자는 누구?",
+   "url": "https://n.news.naver.com/article/023/0004007392",
+   "articleId": "0004007392",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7018,9 +7030,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[TV조선] 3기 최종 우승자는 누구?",
-   "url": "https://n.news.naver.com/article/023/0004007392",
-   "articleId": "0004007392",
+   "title": "[제31회 LG배 조선일보 기왕전] 대차",
+   "url": "https://n.news.naver.com/article/023/0004007389",
+   "articleId": "0004007389",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7399,6 +7411,22 @@
    "page": "B3",
    "pageOrder": 1,
    "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007367.jpg?type=nf264_176",
+   "column": null,
+   "title": "체험 행사·할인 쿠폰… 실속 없는 통신3사 장기 고객 이벤트",
+   "url": "https://n.news.naver.com/article/023/0004007367",
+   "articleId": "0004007367",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-11-03",
+   "page": "B3",
+   "pageOrder": 2,
+   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -7413,7 +7441,7 @@
    "pressName": "조선일보",
    "date": "2026-11-03",
    "page": "B3",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -7421,22 +7449,6 @@
    "title": "포스코그룹 빛보는 에너지 사업… 철강 턱밑 추격",
    "url": "https://n.news.naver.com/article/023/0004007366",
    "articleId": "0004007366",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-11-03",
-   "page": "B3",
-   "pageOrder": 3,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "체험 행사·할인 쿠폰… 실속 없는 통신3사 장기 고객 이벤트",
-   "url": "https://n.news.naver.com/article/023/0004007367",
-   "articleId": "0004007367",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7576,11 +7588,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007379.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007377.jpg?type=nf264_176",
    "column": null,
-   "title": "“제로금리·1100원 환율 시대 안 올 듯… 달러 쪼개사고 단기채 담아라”",
-   "url": "https://n.news.naver.com/article/023/0004007379",
-   "articleId": "0004007379",
+   "title": "막연한 노후 불안 없애려면… 국민연금 예상 수령액부터 확인하라",
+   "url": "https://n.news.naver.com/article/023/0004007377",
+   "articleId": "0004007377",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7594,9 +7606,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "막연한 노후 불안 없애려면… 국민연금 예상 수령액부터 확인하라",
-   "url": "https://n.news.naver.com/article/023/0004007377",
-   "articleId": "0004007377",
+   "title": "주가 반토막 난 무늬만 고배당?… 진짜 배당주 고르는 4가지 기준",
+   "url": "https://n.news.naver.com/article/023/0004007378",
+   "articleId": "0004007378",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7610,9 +7622,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "주가 반토막 난 무늬만 고배당?… 진짜 배당주 고르는 4가지 기준",
-   "url": "https://n.news.naver.com/article/023/0004007378",
-   "articleId": "0004007378",
+   "title": "“제로금리·1100원 환율 시대 안 올 듯… 달러 쪼개사고 단기채 담아라”",
+   "url": "https://n.news.naver.com/article/023/0004007379",
+   "articleId": "0004007379",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7631,7 +7643,6 @@
    "articleId": "0003562359",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003562344",
@@ -7639,7 +7650,8 @@
      "title": "[사설] ‘성장’ 36번 외친 시정연설…규제 혁파엔 왜 주저하나",
      "url": "https://n.news.naver.com/article/025/0003562344"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7656,7 +7668,8 @@
    "articleId": "0003562360",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7672,7 +7685,9 @@
    "url": "https://n.news.naver.com/article/025/0003562358",
    "articleId": "0003562358",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "025",
@@ -8340,7 +8355,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“유럽 갈 돈으로 여기 두번 간다”…韓 10명 중 7명이 택한 여행지",
+   "title": "“유럽 갈 돈으로 여기 두번 간다”…韓 10명 중 7명 택한 여행지",
    "url": "https://n.news.naver.com/article/025/0003562319",
    "articleId": "0003562319",
    "seriesKey": null,
@@ -8353,10 +8368,10 @@
    "page": "E2",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": false,
-   "thumb": null,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/025/2026/11/03/3562317.jpg?type=nf264_176",
    "column": null,
-   "title": "일 없는 이대남 87% “취업 준비요? 소용 없어요”",
+   "title": "이대남, 이대녀와 고용률 격차 더 벌어졌다..‘취업 포기족’도 늘어",
    "url": "https://n.news.naver.com/article/025/0003562317",
    "articleId": "0003562317",
    "seriesKey": null,
@@ -8842,7 +8857,6 @@
    "articleId": "0002830357",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002830353",
@@ -8856,7 +8870,8 @@
      "title": "국방부, 광주 군공항 이전 미국과 ‘포괄협정’으로 푼다",
      "url": "https://n.news.naver.com/article/028/0002830349"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8868,13 +8883,13 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[단독] 교실 속 차별에…이주배경 고교생 자퇴 사유 36%가 ‘부적응’",
+   "title": "[단독] 차별 탓…이주배경 고교생 ‘적응 힘들어 자퇴’ 2.5배 더 많다",
    "url": "https://n.news.naver.com/article/028/0002830386",
    "articleId": "0002830386",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8886,12 +8901,11 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "트럼프 남은 2년 운명 가를 미 중간선거…“하원 민주 탈환 우세, 상원은 접전”",
+   "title": "‘지지율 최저’ 트럼프 운명의 날…“민주 하원 탈환 우세, 상원은 접전”",
    "url": "https://n.news.naver.com/article/028/0002830382",
    "articleId": "0002830382",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002830342",
@@ -8899,7 +8913,8 @@
      "title": "“상원 격전지 7곳 중 6곳 우세”…민주, 20년 만에 상하원 동시 탈환하나",
      "url": "https://n.news.naver.com/article/028/0002830342"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8916,7 +8931,6 @@
    "articleId": "0002830362",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002830282",
@@ -8930,7 +8944,8 @@
      "title": "“200m를 5km 돌아가” “버스 2시간 갇혀”…‘서울 마라톤’ 피로감 폭발",
      "url": "https://n.news.naver.com/article/028/0002830300"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9086,7 +9101,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[단독] 문체부도 ‘다문화 지원’ 실태 파악….이 대통령 언급 뒤 정부 부처 나서",
+   "title": "[단독] 문체부도 ‘다문화 지원’ 실태 파악…이 대통령 언급 뒤 정부 부처 나서",
    "url": "https://n.news.naver.com/article/028/0002830298",
    "articleId": "0002830298",
    "seriesKey": null,
@@ -9875,8 +9890,8 @@
    "articleId": "0003480258",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9893,8 +9908,8 @@
    "articleId": "0003480254",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9911,8 +9926,8 @@
    "articleId": "0003480256",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9936,7 +9951,8 @@
      "title": "[사설]말뿐인 ‘모두의 성장’ 안되려면 양극화 해소 예산 강화해야",
      "url": "https://n.news.naver.com/article/032/0003480183"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9951,6 +9967,22 @@
    "title": "유지대로 초록우산서 작별 인사…재단 직원 300여명 ‘배웅’",
    "url": "https://n.news.naver.com/article/032/0003480255",
    "articleId": "0003480255",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-03",
+   "page": "A2",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "우후죽순 열리는 서울 도심 마라톤···“내 버스 어디에” 시민 불편 어떻게 해야 하나",
+   "url": "https://n.news.naver.com/article/032/0003480270",
+   "articleId": "0003480270",
    "seriesKey": null,
    "seriesType": null
   },
@@ -10108,6 +10140,22 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
+   "title": "“북한 해킹 코인, 찾아내도 못 막아”···가상자산 세탁 땐 차단 한계",
+   "url": "https://n.news.naver.com/article/032/0003480264",
+   "articleId": "0003480264",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-03",
+   "page": "A6",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
    "title": "북 탈취 비트코인 수, 미 최대 가상자산거래소보다 많아",
    "url": "https://n.news.naver.com/article/032/0003480243",
    "articleId": "0003480243",
@@ -10119,7 +10167,7 @@
    "pressName": "경향신문",
    "date": "2026-11-03",
    "page": "A6",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -10135,7 +10183,7 @@
    "pressName": "경향신문",
    "date": "2026-11-03",
    "page": "A6",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -10220,6 +10268,22 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
+   "title": "‘의료사고’ 병원 압수수색 딜레마···‘법치와 건강권 사이’ 해외는 어떻게?",
+   "url": "https://n.news.naver.com/article/032/0003480265",
+   "articleId": "0003480265",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-03",
+   "page": "A10",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
    "title": "연금 수급 앞 ‘보릿고개’…새 일자리는 임시·일용직이 61%",
    "url": "https://n.news.naver.com/article/032/0003480237",
    "articleId": "0003480237",
@@ -10231,7 +10295,7 @@
    "pressName": "경향신문",
    "date": "2026-11-03",
    "page": "A10",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -10247,7 +10311,7 @@
    "pressName": "경향신문",
    "date": "2026-11-03",
    "page": "A10",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -10265,6 +10329,22 @@
    "page": "A11",
    "pageOrder": 1,
    "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/11/03/3480268.jpg?type=nf264_176",
+   "column": null,
+   "title": "[단독]한동훈 딸, 서울시장상 공적서에 “봉사 앱 만들었다”···‘대리 제작 의혹’ 이모 진씨 명의 앱 등록",
+   "url": "https://n.news.naver.com/article/032/0003480268",
+   "articleId": "0003480268",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-03",
+   "page": "A11",
+   "pageOrder": 2,
+   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -10279,7 +10359,7 @@
    "pressName": "경향신문",
    "date": "2026-11-03",
    "page": "A11",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -10287,6 +10367,22 @@
    "title": "다시 찬 공기 내려와…추웠다가 풀렸다가[2026년 11월 03일 날씨]",
    "url": "https://n.news.naver.com/article/032/0003480235",
    "articleId": "0003480235",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-03",
+   "page": "A11",
+   "pageOrder": 4,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "[단독]콘크리트 도심에 최적화인데 냄새난다고 다 베어버릴 건가···잘려 나간 은행나무의 절규",
+   "url": "https://n.news.naver.com/article/032/0003480267",
+   "articleId": "0003480267",
    "seriesKey": null,
    "seriesType": null
   },
@@ -10454,6 +10550,22 @@
    "press": "032",
    "pressName": "경향신문",
    "date": "2026-11-03",
+   "page": "A16",
+   "pageOrder": 1,
+   "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/11/02/3480086.jpg?type=nf264_176",
+   "column": null,
+   "title": "“동물 쉽게 죽이면서 죽임도 외주화하는 사회”···기록으로 싸우는 르포 작가 정윤영[만나듣다]⑫",
+   "url": "https://n.news.naver.com/article/032/0003480086",
+   "articleId": "0003480086",
+   "seriesKey": "032:만나듣다",
+   "seriesType": "연재칼럼"
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-03",
    "page": "A17",
    "pageOrder": 1,
    "isTop": true,
@@ -10604,9 +10716,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "삼성SDS, 영남권 60조 투자 구체화…구미에 AI 데이터센터 ‘첫 삽’",
-   "url": "https://n.news.naver.com/article/032/0003480213",
-   "articleId": "0003480213",
+   "title": "LG CNS, 인니에 30MW급 AI 데이터센터 완공…국내 기업 첫 해외 구축",
+   "url": "https://n.news.naver.com/article/032/0003480211",
+   "articleId": "0003480211",
    "seriesKey": null,
    "seriesType": null
   },
@@ -10620,9 +10732,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "LG CNS, 인니에 30MW급 AI 데이터센터 완공…국내 기업 첫 해외 구축",
-   "url": "https://n.news.naver.com/article/032/0003480211",
-   "articleId": "0003480211",
+   "title": "삼성SDS, 영남권 60조 투자 구체화…구미에 AI 데이터센터 ‘첫 삽’",
+   "url": "https://n.news.naver.com/article/032/0003480213",
+   "articleId": "0003480213",
    "seriesKey": null,
    "seriesType": null
   },
@@ -10666,7 +10778,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/11/02/3480210.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/11/03/3480263.jpg?type=nf264_176",
+   "column": null,
+   "title": "“평생 처음이자 마지막”···김일란 감독이 두 트랜스여성을 ‘여탕’에 초대한 이유",
+   "url": "https://n.news.naver.com/article/032/0003480263",
+   "articleId": "0003480263",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-03",
+   "page": "A20",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "한국 현대미술의 눈금 ‘0년’에서 돌아보다",
    "url": "https://n.news.naver.com/article/032/0003480210",
@@ -10682,7 +10810,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/11/02/3480208.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/11/03/3480269.jpg?type=nf264_176",
+   "column": null,
+   "title": "이중섭, 비극적 삶 때문에 유명?···“창의성은 대체 불가, 20세기 한국 최고의 화가”",
+   "url": "https://n.news.naver.com/article/032/0003480269",
+   "articleId": "0003480269",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-03",
+   "page": "A21",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "북한, 유네스코 무형유산에 ‘태권도’ 단독 등재 전망…남북 공동 등재 물 건너가나",
    "url": "https://n.news.naver.com/article/032/0003480208",
@@ -10695,7 +10839,7 @@
    "pressName": "경향신문",
    "date": "2026-11-03",
    "page": "A21",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
