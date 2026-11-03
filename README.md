@@ -23,6 +23,20 @@ docs/data/     # papers/날짜.json, series/index.json, manifest.json, state/
 .github/workflows/collect.yml  # KST 05:30 + 07:00 자동 수집
 ```
 
+## 정시 실행 (외부 트리거)
+
+GitHub 무료 예약(cron)은 수 시간 지연되거나 통째로 스킵될 수 있어, 정시 보장이 필요하면 외부 크론 서비스로 트리거한다:
+
+1. GitHub Fine-grained 토큰 발급: 이 저장소만, **Actions: Read and write** 권한만
+2. [cron-job.org](https://cron-job.org) 가입 → cronjob 생성:
+   - URL: `https://api.github.com/repos/<owner>/front-page-tracker/actions/workflows/collect.yml/dispatches`
+   - POST, 타임존 Asia/Seoul 매일 05:00
+   - Headers: `Authorization: Bearer <토큰>`, `Accept: application/vnd.github+json`
+   - Body: `{"ref":"main","inputs":{"notify":"true"}}`
+3. 워크플로의 자체 cron 슬롯들은 외부 서비스 장애 대비 백업으로 유지 (중복 실행 무해: 업서트 + 발송 상태 기록)
+
+이관 시 새 소유자가 본인 토큰·계정으로 1~2를 다시 설정한다.
+
 ## 운영
 
 - **스케줄**: 매일 KST 05:30 1차(수집+발송), 07:00 2차(보강, 신규분만 추가 발송) → 오전 8시 전 다이제스트 수신
