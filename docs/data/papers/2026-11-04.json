@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "collectedAt": "2026-11-04T00:32:44",
+ "collectedAt": "2026-11-04T00:56:07",
  "articles": [
   {
    "press": "009",
@@ -3645,7 +3645,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/11/04/5349968.jpg?type=nf264_176",
    "column": null,
-   "title": "\"한국 왔다가 홀딱 반했다\"…외국인 관광객 몰리자 '대반전'",
+   "title": "\"한국 왔다가 홀딱 반했다\"…외국인 몰리자 벌어진 '뜻밖의 상황'",
    "url": "https://n.news.naver.com/article/015/0005349968",
    "articleId": "0005349968",
    "seriesKey": null,
@@ -4530,7 +4530,6 @@
    "articleId": "0003759906",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003759858",
@@ -4550,7 +4549,8 @@
      "title": "게임 개발-운영까지… ‘실용적 AI’ 전략 가속",
      "url": "https://n.news.naver.com/article/020/0003759895"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4674,7 +4674,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/11/04/3759901.jpg?type=nf264_176",
    "column": null,
-   "title": "李, 주요지역 집값 폭락 걱정이라는데… 강북은 고공행진",
+   "title": "李 “주요지역 실거래가 놀라울 정도로 떨어져”… 강북은 고공행진",
    "url": "https://n.news.naver.com/article/020/0003759901",
    "articleId": "0003759901",
    "seriesKey": null,
@@ -6487,7 +6487,6 @@
    "articleId": "0004007647",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004007639",
@@ -6495,7 +6494,8 @@
      "title": "여론조사 얼마나 맞을까… 변수는 ‘샤이 트럼프’",
      "url": "https://n.news.naver.com/article/023/0004007639"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -8041,7 +8041,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "‘다리 절단’ 비극에도 사지로…시속 80km 도로 위 맨몸 근무 [르포]",
+   "title": "“이러다 죽을수도” 맨몸의 경찰들 절규…벌써 48명 참변, 무슨 일 [르포]",
    "url": "https://n.news.naver.com/article/025/0003562662",
    "articleId": "0003562662",
    "seriesKey": null,
@@ -9158,11 +9158,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/11/03/2830560.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/11/03/2830565.jpg?type=nf264_176",
    "column": null,
-   "title": "민주당 또 내홍…혁신당과 ‘내년 1월 합당론’ 놓고도 충돌",
-   "url": "https://n.news.naver.com/article/028/0002830560",
-   "articleId": "0002830560",
+   "title": "대통령 부부 등 순방단 개인정보, 외교부 직원 유출 가능성 커",
+   "url": "https://n.news.naver.com/article/028/0002830565",
+   "articleId": "0002830565",
    "seriesKey": null,
    "seriesType": null
   },
@@ -9176,9 +9176,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "대통령 부부 등 순방단 개인정보, 외교부 직원 유출 가능성 커",
-   "url": "https://n.news.naver.com/article/028/0002830565",
-   "articleId": "0002830565",
+   "title": "민주당 또 내홍…혁신당과 ‘내년 1월 합당론’ 놓고도 충돌",
+   "url": "https://n.news.naver.com/article/028/0002830560",
+   "articleId": "0002830560",
    "seriesKey": null,
    "seriesType": null
   },
@@ -10086,6 +10086,30 @@
    "press": "032",
    "pressName": "경향신문",
    "date": "2026-11-04",
+   "page": "A1",
+   "pageOrder": 4,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "빚에도 ‘숨 쉴 틈’이 필요하다···전세계도 ‘포용금융’ 실험 중[금융, 사다리를 놓자]",
+   "url": "https://n.news.naver.com/article/032/0003480523",
+   "articleId": "0003480523",
+   "seriesKey": null,
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003480524",
+     "page": "A8",
+     "title": "데이터, 저신용자들에게 ‘단비’ 될까[금융, 사다리를 놓자]",
+     "url": "https://n.news.naver.com/article/032/0003480524"
+    }
+   ]
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-04",
    "page": "A2",
    "pageOrder": 1,
    "isTop": true,
@@ -10095,6 +10119,22 @@
    "title": "격전지 ‘민주당 우세’로 격차 확대…‘샤이 트럼프’ 결집하나",
    "url": "https://n.news.naver.com/article/032/0003480509",
    "articleId": "0003480509",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-04",
+   "page": "A2",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "견제 원하지만 도리어 압박 세질라…미 중간선거를 바라보는 각국의 딜레마",
+   "url": "https://n.news.naver.com/article/032/0003480521",
+   "articleId": "0003480521",
    "seriesKey": null,
    "seriesType": null
   },
@@ -10303,6 +10343,22 @@
    "title": "은행들, 포용금융 전담조직 구성해 취약계층에 자금 공급 확대한다",
    "url": "https://n.news.naver.com/article/032/0003480495",
    "articleId": "0003480495",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-04",
+   "page": "A8",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "데이터, 저신용자들에게 ‘단비’ 될까[금융, 사다리를 놓자]",
+   "url": "https://n.news.naver.com/article/032/0003480524",
+   "articleId": "0003480524",
    "seriesKey": null,
    "seriesType": null
   },
