@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "collectedAt": "2026-11-04T01:38:19",
+ "collectedAt": "2026-11-04T02:22:23",
  "articles": [
   {
    "press": "009",
@@ -7274,11 +7274,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007567.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/03/4007563.jpg?type=nf264_176",
    "column": null,
-   "title": "北 김정은이 왜 딸을 동반하는지 ‘구글’은 알고 있다",
-   "url": "https://n.news.naver.com/article/023/0004007567",
-   "articleId": "0004007567",
+   "title": "[기고] ‘AI 만능론’ 빠져 언어교육 토대 흔들면 안돼",
+   "url": "https://n.news.naver.com/article/023/0004007563",
+   "articleId": "0004007563",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7292,11 +7292,11 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[신문 속 작은 창문] [25] 말티재 넘은 晩秋",
-   "url": "https://n.news.naver.com/article/023/0004007566",
-   "articleId": "0004007566",
-   "seriesKey": "023:신문속작은창문",
-   "seriesType": "연재칼럼"
+   "title": "北 김정은이 왜 딸을 동반하는지 ‘구글’은 알고 있다",
+   "url": "https://n.news.naver.com/article/023/0004007567",
+   "articleId": "0004007567",
+   "seriesKey": null,
+   "seriesType": null
   },
   {
    "press": "023",
@@ -7308,11 +7308,11 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[기고] ‘AI 만능론’ 빠져 언어교육 토대 흔들면 안돼",
-   "url": "https://n.news.naver.com/article/023/0004007563",
-   "articleId": "0004007563",
-   "seriesKey": null,
-   "seriesType": null
+   "title": "[신문 속 작은 창문] [25] 말티재 넘은 晩秋",
+   "url": "https://n.news.naver.com/article/023/0004007566",
+   "articleId": "0004007566",
+   "seriesKey": "023:신문속작은창문",
+   "seriesType": "연재칼럼"
   },
   {
    "press": "023",
@@ -10389,7 +10389,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "간호사 대신 조무사로 채운 요양시설…건보 부담 키운다",
+   "title": "간호사 대신 간호조무사로 채운 요양시설…건보 부담 키운다",
    "url": "https://n.news.naver.com/article/032/0003480497",
    "articleId": "0003480497",
    "seriesKey": null,
