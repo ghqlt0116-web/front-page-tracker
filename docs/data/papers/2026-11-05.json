@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "collectedAt": "2026-11-05T00:51:31",
+ "collectedAt": "2026-11-05T01:06:06",
  "articles": [
   {
    "press": "009",
@@ -5400,7 +5400,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[횡설수설/장원재]고졸-대졸 초임 같게 한 日 대기업 있다",
+   "title": "고졸-대졸 초임 같게 한 日 대기업 있다[횡설수설/장원재]",
    "url": "https://n.news.naver.com/article/020/0003760123",
    "articleId": "0003760123",
    "seriesKey": null,
@@ -6006,7 +6006,8 @@
      "title": "[사설] 尹 ‘허위사실’ 2심도 유죄, 선거 거짓말 철저히 뿌리 뽑아야",
      "url": "https://n.news.naver.com/article/023/0004007798"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6513,7 +6514,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/04/4007651.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/05/4007843.jpg?type=nf264_176",
+   "column": null,
+   "title": "‘27년째 점자 달력 무료 나눔’ 한화그룹에 문체부 장관 표창",
+   "url": "https://n.news.naver.com/article/023/0004007843",
+   "articleId": "0004007843",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-11-05",
+   "page": "A18",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "첫 방한 앞둔 레오 14세 “서울서 만날 때, 물음과 상처 가져오라”",
    "url": "https://n.news.naver.com/article/023/0004007651",
@@ -6526,7 +6543,7 @@
    "pressName": "조선일보",
    "date": "2026-11-05",
    "page": "A18",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6542,7 +6559,7 @@
    "pressName": "조선일보",
    "date": "2026-11-05",
    "page": "A18",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6550,22 +6567,6 @@
    "title": "“아리랑에 빠진 나, DNA엔 한국인의 5음계 흐르죠”",
    "url": "https://n.news.naver.com/article/023/0004007838",
    "articleId": "0004007838",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-11-05",
-   "page": "A18",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "‘27년째 점자 달력 무료 나눔’ 한화그룹에 문체부 장관 표창",
-   "url": "https://n.news.naver.com/article/023/0004007843",
-   "articleId": "0004007843",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7432,8 +7433,8 @@
    "articleId": "0003562960",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
