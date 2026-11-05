@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "collectedAt": "2026-11-05T00:29:35",
+ "collectedAt": "2026-11-05T00:51:31",
  "articles": [
   {
    "press": "009",
@@ -17,7 +17,6 @@
    "articleId": "0005759103",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005759073",
@@ -37,7 +36,8 @@
      "title": "美 의회, 동맹 압박보다 협력 무게추 … 트럼프 안보 독주는 부담",
      "url": "https://n.news.naver.com/article/009/0005759081"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -54,8 +54,8 @@
    "articleId": "0005759122",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -72,7 +72,6 @@
    "articleId": "0005759101",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005759001",
@@ -80,7 +79,8 @@
      "title": "기어코 조작기소 특검법 상정한 與, 민심 읽고 있나 [사설]",
      "url": "https://n.news.naver.com/article/009/0005759001"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -97,7 +97,8 @@
    "articleId": "0005759102",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -1970,8 +1971,8 @@
    "articleId": "0005350350",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1988,8 +1989,8 @@
    "articleId": "0005350357",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2006,8 +2007,8 @@
    "articleId": "0005350369",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2024,7 +2025,6 @@
    "articleId": "0005350362",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005350349",
@@ -2038,7 +2038,8 @@
      "title": "\"사람처럼 정밀한 로봇 손, 10년 뒤에나 등장\"",
      "url": "https://n.news.naver.com/article/015/0005350345"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2047,12 +2048,12 @@
    "page": "A2",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": false,
-   "thumb": null,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/11/04/5350368.jpg?type=nf264_176",
    "column": null,
-   "title": "PRS 회계 처리 1년째 결론 못내",
-   "url": "https://n.news.naver.com/article/015/0005350373",
-   "articleId": "0005350373",
+   "title": "[단독] IPO·유증 이어 PRS까지…기업 \"신사업 무슨 돈으로\"",
+   "url": "https://n.news.naver.com/article/015/0005350368",
+   "articleId": "0005350368",
    "seriesKey": null,
    "seriesType": null
   },
@@ -2066,9 +2067,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[단독] IPO·유증 이어 PRS까지…기업 \"신사업 무슨 돈으로\"",
-   "url": "https://n.news.naver.com/article/015/0005350368",
-   "articleId": "0005350368",
+   "title": "PRS 회계 처리 1년째 결론 못내",
+   "url": "https://n.news.naver.com/article/015/0005350373",
+   "articleId": "0005350373",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4010,7 +4011,8 @@
      "title": "“민주당과 협력” 밝힌 트럼프, SNS엔 ‘비토’ 모자",
      "url": "https://n.news.naver.com/article/020/0003760205"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4027,7 +4029,8 @@
    "articleId": "0003760159",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4044,7 +4047,6 @@
    "articleId": "0003760207",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003760218",
@@ -4052,7 +4054,8 @@
      "title": "397억 반환 위기 국힘 ‘사법 리스크’ 우려 커져",
      "url": "https://n.news.naver.com/article/020/0003760218"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4069,7 +4072,6 @@
    "articleId": "0003760208",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003760202",
@@ -4089,7 +4091,8 @@
      "title": "“민주당과 협력” 밝힌 트럼프, SNS엔 ‘비토’ 모자",
      "url": "https://n.news.naver.com/article/020/0003760205"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4181,7 +4184,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "트럼프 참패에…“핵잠-원자력협정 韓 불리해질 가능성”",
+   "title": "“핵잠-원자력협정 韓 불리해질 가능성”",
    "url": "https://n.news.naver.com/article/020/0003760232",
    "articleId": "0003760232",
    "seriesKey": null,
@@ -4469,7 +4472,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/11/05/3760233.jpg?type=nf264_176",
    "column": null,
-   "title": "출생 하루 빨라 3960만원 손해…양육지원금 형평 논란",
+   "title": "출생 하루 늦어 3960만원 차이…내년 7월 적용 양육지원금 형평 논란",
    "url": "https://n.news.naver.com/article/020/0003760233",
    "articleId": "0003760233",
    "seriesKey": null,
@@ -5978,8 +5981,8 @@
    "articleId": "0004007870",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6020,8 +6023,8 @@
    "articleId": "0004007872",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6038,7 +6041,6 @@
    "articleId": "0004007871",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004007749",
@@ -6052,7 +6054,8 @@
      "title": "[사설] 중간선거서 트럼프 심판, 더 증폭된 韓美관계 불확실성",
      "url": "https://n.news.naver.com/article/023/0004007801"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6142,11 +6145,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/05/4007879.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/05/4007863.jpg?type=nf264_176",
    "column": null,
-   "title": "[단독] 조기 도입한다던 장거리 K 자폭 드론, 내년 예산 0원",
-   "url": "https://n.news.naver.com/article/023/0004007879",
-   "articleId": "0004007879",
+   "title": "동해로 또 쐈다… 北, 일주일새 4번째 미사일 도발",
+   "url": "https://n.news.naver.com/article/023/0004007863",
+   "articleId": "0004007863",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6160,9 +6163,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "동해로 또 쐈다… 北, 일주일새 4번째 미사일 도발",
-   "url": "https://n.news.naver.com/article/023/0004007863",
-   "articleId": "0004007863",
+   "title": "[단독] 조기 도입한다던 장거리 K 자폭 드론, 내년 예산 0원",
+   "url": "https://n.news.naver.com/article/023/0004007879",
+   "articleId": "0004007879",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6798,11 +6801,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/04/4007793.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/04/4007788.jpg?type=nf264_176",
    "column": null,
-   "title": "[남궁인의 심야 일지] 생명을 지키는 최전선에서 피의자가 된 의사들",
-   "url": "https://n.news.naver.com/article/023/0004007793",
-   "articleId": "0004007793",
+   "title": "[기고] 821조 예산 나눠먹기 하면, 미래세대엔 빚 폭탄 된다",
+   "url": "https://n.news.naver.com/article/023/0004007788",
+   "articleId": "0004007788",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6816,9 +6819,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[기고] 821조 예산 나눠먹기 하면, 미래세대엔 빚 폭탄 된다",
-   "url": "https://n.news.naver.com/article/023/0004007788",
-   "articleId": "0004007788",
+   "title": "[남궁인의 심야 일지] 생명을 지키는 최전선에서 피의자가 된 의사들",
+   "url": "https://n.news.naver.com/article/023/0004007793",
+   "articleId": "0004007793",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7070,11 +7073,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/04/4007703.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/05/4007805.jpg?type=nf264_176",
    "column": null,
-   "title": "BCG, ‘AI 거품론’ 반박 “빅테크, 투자 감당 가능...인터넷 붐 파산과 달라”",
-   "url": "https://n.news.naver.com/article/023/0004007703",
-   "articleId": "0004007703",
+   "title": "불법 사금융 막으려 빌려준 100만원, 연체율 44% 넘어",
+   "url": "https://n.news.naver.com/article/023/0004007805",
+   "articleId": "0004007805",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7088,9 +7091,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "불법 사금융 막으려 빌려준 100만원, 연체율 44% 넘어",
-   "url": "https://n.news.naver.com/article/023/0004007805",
-   "articleId": "0004007805",
+   "title": "BCG, ‘AI 거품론’ 반박 “빅테크, 투자 감당 가능...인터넷 붐 파산과 달라”",
+   "url": "https://n.news.naver.com/article/023/0004007703",
+   "articleId": "0004007703",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7428,7 +7431,9 @@
    "url": "https://n.news.naver.com/article/025/0003562960",
    "articleId": "0003562960",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "025",
@@ -7445,8 +7450,8 @@
    "articleId": "0003562978",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -8434,7 +8439,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "태안에 숨어있던 고려…마도6호선까지 찾았다",
+   "title": "바닷속 경주서 ‘보물선’ 또 찾았다…고려시대 유물 무더기 발견",
    "url": "https://n.news.naver.com/article/025/0003562911",
    "articleId": "0003562911",
    "seriesKey": null,
@@ -8583,7 +8588,6 @@
    "articleId": "0002830752",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002830750",
@@ -8603,7 +8607,8 @@
      "title": "‘예산·전쟁 권한’ 쥔 민주당 의회…트럼프 ‘마이웨이 외교’ 제동 건다",
      "url": "https://n.news.naver.com/article/028/0002830764"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8639,7 +8644,8 @@
      "title": "이 대통령 사건 대법 판례가 ‘윤석열 유죄’ 근거됐다",
      "url": "https://n.news.naver.com/article/028/0002830705"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8675,7 +8681,8 @@
      "title": "[사설] 윤석열 ‘허위사실 공표’ 유죄 다시 확인한 법원",
      "url": "https://n.news.naver.com/article/028/0002830739"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8692,7 +8699,6 @@
    "articleId": "0002830606",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002830738",
@@ -8706,7 +8712,8 @@
      "title": "신설 의대 100명 중 지역의사는 몇 명…지역·필수의료 살릴 열쇠는",
      "url": "https://n.news.naver.com/article/028/0002830748"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9818,7 +9825,8 @@
      "title": "나선 곳마다 참패…민심 잃은 트럼프, 공화당도 ‘손절’ 가능성",
      "url": "https://n.news.naver.com/article/032/0003480776"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9835,7 +9843,6 @@
    "articleId": "0003480784",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003480692",
@@ -9843,7 +9850,8 @@
      "title": "[사설]‘대선 거짓말’ 윤석열 2심도 유죄, 국민의힘은 사과해야",
      "url": "https://n.news.naver.com/article/032/0003480692"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9860,7 +9868,6 @@
    "articleId": "0003480783",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003480765",
@@ -9880,7 +9887,8 @@
      "title": "해외에선 기금 인출 기준 ‘깐깐’…정부 예산으로 옮겨 사업 집행",
      "url": "https://n.news.naver.com/article/032/0003480766"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -10023,6 +10031,22 @@
    "title": "장위동 간 이 대통령 “부패 없고 신속한 공공개발로 중심 옮겨야”",
    "url": "https://n.news.naver.com/article/032/0003480775",
    "articleId": "0003480775",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-05",
+   "page": "A4",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "언론보도에 ‘일일이, 직접’ 반박하는 이 대통령···“가짜뉴스” 규정 정정·사과 요구도",
+   "url": "https://n.news.naver.com/article/032/0003480792",
+   "articleId": "0003480792",
    "seriesKey": null,
    "seriesType": null
   },
@@ -10311,6 +10335,22 @@
    "title": "“노동자성 인정하라” 라이더들의 외침[포토뉴스]",
    "url": "https://n.news.naver.com/article/032/0003480760",
    "articleId": "0003480760",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-05",
+   "page": "A10",
+   "pageOrder": 6,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "“고소했는데 합의 종용함” ★★☆☆☆···형소법 개정 후 ‘경찰서 리뷰 사이트’ 등장",
+   "url": "https://n.news.naver.com/article/032/0003480794",
+   "articleId": "0003480794",
    "seriesKey": null,
    "seriesType": null
   },
@@ -10690,7 +10730,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/11/04/3480731.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/032/2026/11/05/3480791.jpg?type=nf264_176",
+   "column": null,
+   "title": "이토록 어둡고 불친절한 청소년소설이라니···50만부 베스트셀러 ‘죽이고 싶은 아이’",
+   "url": "https://n.news.naver.com/article/032/0003480791",
+   "articleId": "0003480791",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-05",
+   "page": "A20",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "로르카 미완성 원고에 상상 더한 ‘블랙볼’…레즈비언 부부와 두 딸 이야기 ‘이상 가족’",
    "url": "https://n.news.naver.com/article/032/0003480731",
@@ -10703,7 +10759,7 @@
    "pressName": "경향신문",
    "date": "2026-11-05",
    "page": "A20",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
