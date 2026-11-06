@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "collectedAt": "2026-11-06T00:55:40",
+ "collectedAt": "2026-11-06T01:09:32",
  "articles": [
   {
    "press": "009",
@@ -1981,7 +1981,8 @@
    "articleId": "0005350832",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -3707,7 +3708,8 @@
      "title": "“트럼프 일가 코인으로 3조 벌어”… 美민주당 조사 예고",
      "url": "https://n.news.naver.com/article/020/0003760512"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3724,7 +3726,8 @@
    "articleId": "0003760535",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -5726,7 +5729,8 @@
      "title": "[사설] 청해부대 임무 확대, 원유 수입 안보 위한 불가피한 조치다",
      "url": "https://n.news.naver.com/article/023/0004008031"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6749,11 +6753,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/05/4007903.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/06/4008042.jpg?type=nf264_176",
    "column": null,
-   "title": "LH 지방 미분양 매입 사업, 신청 물량 76%가 심사에서 탈락",
-   "url": "https://n.news.naver.com/article/023/0004007903",
-   "articleId": "0004007903",
+   "title": "“북극 항로 가능성 확인… 내년에도 2~3차례 운항해보고 싶다”",
+   "url": "https://n.news.naver.com/article/023/0004008042",
+   "articleId": "0004008042",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6767,9 +6771,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "호남 반도체 클러스터 “속도전”이라더니 ’10월 중 입주 협약' 첫 일정부터 못 지켜",
-   "url": "https://n.news.naver.com/article/023/0004008041",
-   "articleId": "0004008041",
+   "title": "LH 지방 미분양 매입 사업, 신청 물량 76%가 심사에서 탈락",
+   "url": "https://n.news.naver.com/article/023/0004007903",
+   "articleId": "0004007903",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6783,9 +6787,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“북극 항로 가능성 확인… 내년에도 2~3차례 운항해보고 싶다”",
-   "url": "https://n.news.naver.com/article/023/0004008042",
-   "articleId": "0004008042",
+   "title": "호남 반도체 클러스터 “속도전”이라더니 ’10월 중 입주 협약' 첫 일정부터 못 지켜",
+   "url": "https://n.news.naver.com/article/023/0004008041",
+   "articleId": "0004008041",
    "seriesKey": null,
    "seriesType": null
   },
@@ -8233,7 +8237,8 @@
      "title": "‘이란전 우군’ 트럼프 휘청, 여권 이탈…네타냐후 재집권 ‘먹구름’",
      "url": "https://n.news.naver.com/article/028/0002830906"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9192,6 +9197,24 @@
    "seriesType": null,
    "related": [],
    "searchDone": true
+  },
+  {
+   "press": "032",
+   "pressName": "경향신문",
+   "date": "2026-11-06",
+   "page": "A1",
+   "pageOrder": 4,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "2027 경향신문 신춘문예 공모합니다[알림]",
+   "url": "https://n.news.naver.com/article/032/0003481048",
+   "articleId": "0003481048",
+   "seriesKey": null,
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "032",
