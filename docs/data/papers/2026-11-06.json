@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "collectedAt": "2026-11-06T00:31:18",
+ "collectedAt": "2026-11-06T00:55:40",
  "articles": [
   {
    "press": "009",
@@ -17,8 +17,8 @@
    "articleId": "0005759758",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -35,7 +35,6 @@
    "articleId": "0005759752",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005759734",
@@ -43,7 +42,8 @@
      "title": "[단독] \"전자발찌 찬 그놈, 근처에 있어요\"…보복범죄에 떠는 피해자들",
      "url": "https://n.news.naver.com/article/009/0005759734"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -60,7 +60,8 @@
    "articleId": "0005759828",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -107,8 +108,8 @@
    "articleId": "0005759760",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -1949,7 +1950,6 @@
    "articleId": "0005350835",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005350838",
@@ -1963,7 +1963,8 @@
      "title": "\"동맹국이 국채 사게 하라\" 마이런 보고서 현실화?",
      "url": "https://n.news.naver.com/article/015/0005350820"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1997,8 +1998,8 @@
    "articleId": "0005350825",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -3740,8 +3741,8 @@
    "articleId": "0003760513",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3758,8 +3759,8 @@
    "articleId": "0003760514",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3776,8 +3777,8 @@
    "articleId": "0003760538",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3821,7 +3822,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/11/06/3760536.jpg?type=nf264_176",
    "column": null,
-   "title": "‘레임덕 위기 트럼프’ 먼저 때린 2인자 “이란전쟁 시작 말았어야”",
+   "title": "美공화 ‘배신의 계절’…부통령 “이란전쟁이 상원 내줄 가치 있었나”",
    "url": "https://n.news.naver.com/article/020/0003760536",
    "articleId": "0003760536",
    "seriesKey": null,
@@ -5117,7 +5118,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/11/05/3760430.jpg?type=nf264_176",
    "column": null,
-   "title": "소수자의 약진, 저무는 트럼프 시대[횡설수설/이진영]",
+   "title": "[횡설수설/이진영]소수자의 약진, 저무는 트럼프 시대",
    "url": "https://n.news.naver.com/article/020/0003760430",
    "articleId": "0003760430",
    "seriesKey": null,
@@ -5133,9 +5134,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[광화문에서/지민구]佛은행서 1500억원 해킹… 내 은행 계좌도 불안하다",
-   "url": "https://n.news.naver.com/article/020/0003760427",
-   "articleId": "0003760427",
+   "title": "대통령에게 침묵하는 ‘부처’가 필요한가[동아광장/박용]",
+   "url": "https://n.news.naver.com/article/020/0003760429",
+   "articleId": "0003760429",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5149,9 +5150,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[동아광장/박용]대통령에게 침묵하는 ‘부처’가 필요한가",
-   "url": "https://n.news.naver.com/article/020/0003760429",
-   "articleId": "0003760429",
+   "title": "[광화문에서/지민구]佛은행서 1500억원 해킹… 내 은행 계좌도 불안하다",
+   "url": "https://n.news.naver.com/article/020/0003760427",
+   "articleId": "0003760427",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5682,8 +5683,8 @@
    "articleId": "0004008113",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5700,8 +5701,8 @@
    "articleId": "0004008109",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5742,7 +5743,6 @@
    "articleId": "0004008107",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004007954",
@@ -5762,7 +5762,8 @@
      "title": "레임덕 트럼프, ‘앵그리덕’ 되나… “해외로 화살 돌려 분풀이 할듯”",
      "url": "https://n.news.naver.com/article/023/0004008105"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6995,8 +6996,8 @@
    "articleId": "0003563258",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7013,7 +7014,6 @@
    "articleId": "0003563260",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003563255",
@@ -7027,7 +7027,8 @@
      "title": "[사설] ‘신천지’ 수습 안 되는 민주당…진실 규명만이 논란 잠재울 것",
      "url": "https://n.news.naver.com/article/025/0003563254"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7044,8 +7045,8 @@
    "articleId": "0003563261",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -8182,7 +8183,6 @@
    "articleId": "0002830953",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002830913",
@@ -8196,7 +8196,8 @@
      "title": "청해부대 호르무즈 650㎞ 앞 배치, 미국 압박에 택한 우회로지만…",
      "url": "https://n.news.naver.com/article/028/0002830952"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8249,8 +8250,8 @@
    "articleId": "0002830873",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8267,8 +8268,8 @@
    "articleId": "0002830887",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9133,7 +9134,6 @@
    "articleId": "0003481031",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003480940",
@@ -9141,7 +9141,8 @@
      "title": "[사설]청해부대 작전 범위 확대, 우회 파병 안 되게 국회 철저 검증해야",
      "url": "https://n.news.naver.com/article/032/0003480940"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9158,7 +9159,6 @@
    "articleId": "0003481032",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003481011",
@@ -9172,7 +9172,8 @@
      "title": "[사설]수사기소 분리 무력화한 조작기소특검법, 민주당의 내로남불",
      "url": "https://n.news.naver.com/article/032/0003480936"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9189,8 +9190,8 @@
    "articleId": "0003481030",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
