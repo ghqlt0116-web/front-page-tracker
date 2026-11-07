@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "collectedAt": "2026-11-07T01:10:02",
+ "collectedAt": "2026-11-07T01:57:48",
  "articles": [
   {
    "press": "009",
@@ -4351,11 +4351,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/07/4008297.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/07/4008296.jpg?type=nf264_176",
    "column": null,
-   "title": "뒤바뀐 서울 집값 상승률… 성북 1위, 강남 3구는 최하위권",
-   "url": "https://n.news.naver.com/article/023/0004008297",
-   "articleId": "0004008297",
+   "title": "주택공급 발목잡는 재초환… 가구당 은마 4억, 반포현대 2억 내야",
+   "url": "https://n.news.naver.com/article/023/0004008296",
+   "articleId": "0004008296",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4369,9 +4369,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "주택공급 발목잡는 재초환… 가구당 은마 4억, 반포현대 2억 내야",
-   "url": "https://n.news.naver.com/article/023/0004008296",
-   "articleId": "0004008296",
+   "title": "뒤바뀐 서울 집값 상승률… 성북 1위, 강남 3구는 최하위권",
+   "url": "https://n.news.naver.com/article/023/0004008297",
+   "articleId": "0004008297",
    "seriesKey": null,
    "seriesType": null
   },
