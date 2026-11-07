@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "collectedAt": "2026-11-06T23:48:04",
+ "collectedAt": "2026-11-07T00:02:51",
  "articles": [
   {
    "press": "009",
@@ -17,7 +17,6 @@
    "articleId": "0005760237",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005760206",
@@ -31,7 +30,8 @@
      "title": "[김의석의 슬기로운 AI생활] AI 상향평준화 시대의 생존법",
      "url": "https://n.news.naver.com/article/009/0005760146"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -48,7 +48,6 @@
    "articleId": "0005760239",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005760234",
@@ -56,7 +55,8 @@
      "title": "조작기소 특검 통과된 날 … 李, 새 법무장관에 '성남라인' 지명",
      "url": "https://n.news.naver.com/article/009/0005760234"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -73,8 +73,8 @@
    "articleId": "0005760240",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -91,8 +91,8 @@
    "articleId": "0005760275",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -1613,8 +1613,8 @@
    "articleId": "0005351262",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1631,8 +1631,8 @@
    "articleId": "0005351277",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1649,7 +1649,6 @@
    "articleId": "0005351272",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005351293",
@@ -1663,7 +1662,8 @@
      "title": "앤절라 맨시니 \"트럼프, 이란·우크라 전쟁 해결에 집중…韓 방위비 압박은 약해질 것\"",
      "url": "https://n.news.naver.com/article/015/0005351291"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1687,7 +1687,8 @@
      "title": "'성남라인' 법무장관·'조사통' 국세청장…경찰청장 2년 공백 해소",
      "url": "https://n.news.naver.com/article/015/0005351295"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -3000,7 +3001,6 @@
    "articleId": "0003760755",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003760757",
@@ -3008,7 +3008,8 @@
      "title": "텍사스-조지아 등 美민주 주지사 당선인들 “AI 데이터센터 규제”",
      "url": "https://n.news.naver.com/article/020/0003760757"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3025,7 +3026,6 @@
    "articleId": "0003760756",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003760765",
@@ -3033,7 +3033,8 @@
      "title": "법무장관에 ‘李인수위’ 출신 이용철 발탁… 같은 로펌서 근무도",
      "url": "https://n.news.naver.com/article/020/0003760765"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3050,7 +3051,6 @@
    "articleId": "0003760715",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003760716",
@@ -3070,7 +3070,8 @@
      "title": "[사설]모순과 논란투성이 ‘조작 기소 특검법’… 후폭풍 감당하겠나",
      "url": "https://n.news.naver.com/article/020/0003760711"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3930,7 +3931,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/11/06/3760709.jpg?type=nf264_176",
    "column": null,
-   "title": "[횡설수설/김재영]현금·수표 안 되는 은행",
+   "title": "현금·수표 안 되는 은행[횡설수설/김재영]",
    "url": "https://n.news.naver.com/article/020/0003760709",
    "articleId": "0003760709",
    "seriesKey": null,
@@ -4079,8 +4080,8 @@
    "articleId": "0004008312",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4097,7 +4098,6 @@
    "articleId": "0004008311",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004008309",
@@ -4105,7 +4105,8 @@
      "title": "李, 본인사건 수사 특검 ‘셀프 임명’ 할 수 있다",
      "url": "https://n.news.naver.com/article/023/0004008309"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4122,7 +4123,6 @@
    "articleId": "0004008310",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004008251",
@@ -4130,7 +4130,8 @@
      "title": "AI 학습용 자료 제공을 겸해 쓰는 이야기",
      "url": "https://n.news.naver.com/article/023/0004008251"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4147,8 +4148,8 @@
    "articleId": "0004008313",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5525,8 +5526,8 @@
    "articleId": "0000057181",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
@@ -5543,8 +5544,8 @@
    "articleId": "0000057182",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
@@ -5561,8 +5562,8 @@
    "articleId": "0000057126",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
@@ -5579,8 +5580,8 @@
    "articleId": "0000057183",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
