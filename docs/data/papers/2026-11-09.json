@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "collectedAt": "2026-11-08T23:04:14",
+ "collectedAt": "2026-11-08T23:37:26",
  "articles": [
   {
    "press": "009",
@@ -17,7 +17,6 @@
    "articleId": "0005760658",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005760646",
@@ -25,7 +24,8 @@
      "title": "저리 5억 사내대출 받을 때 아낀 이자비용은 과세 대상",
      "url": "https://n.news.naver.com/article/009/0005760646"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -42,7 +42,6 @@
    "articleId": "0005760657",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005760668",
@@ -56,7 +55,8 @@
      "title": "[기고] 미국 중간선거 이후 한국의 전략",
      "url": "https://n.news.naver.com/article/009/0005760588"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -73,7 +73,8 @@
    "articleId": "0005760659",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -97,7 +98,8 @@
      "title": "韓아성 메모리 산업에…TSMC 재진출 정황",
      "url": "https://n.news.naver.com/article/009/0005760661"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2082,8 +2084,8 @@
    "articleId": "0005351541",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2100,8 +2102,8 @@
    "articleId": "0005351549",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2118,7 +2120,6 @@
    "articleId": "0005351547",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005351582",
@@ -2132,7 +2133,8 @@
      "title": "코어위브 \"텍사스주정부와 협력\"…트럼프는 '수중 데이터센터' 검토",
      "url": "https://n.news.naver.com/article/015/0005351583"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2148,7 +2150,22 @@
    "url": "https://n.news.naver.com/article/015/0005351546",
    "articleId": "0005351546",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0005351530",
+     "page": "A4",
+     "title": "수억대 '재초환 청구서' 현실화…'닥공 속도전' 제동 걸리나",
+     "url": "https://n.news.naver.com/article/015/0005351530"
+    },
+    {
+     "articleId": "0005351623",
+     "page": "A35",
+     "title": "[사설] 재건축 걸림돌 5조 재초환…부담 덜어내 공급 숨통 틔워야",
+     "url": "https://n.news.naver.com/article/015/0005351623"
+    }
+   ]
   },
   {
    "press": "015",
@@ -2157,6 +2174,22 @@
    "page": "A2",
    "pageOrder": 1,
    "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/11/08/5351527.jpg?type=nf264_176",
+   "column": null,
+   "title": "[단독] 카뱅·토뱅, 애플페이 도입…인터넷은행·카드사 '페이 전쟁'",
+   "url": "https://n.news.naver.com/article/015/0005351527",
+   "articleId": "0005351527",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-11-09",
+   "page": "A2",
+   "pageOrder": 2,
+   "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
@@ -2171,7 +2204,7 @@
    "pressName": "한국경제",
    "date": "2026-11-09",
    "page": "A2",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -2187,7 +2220,7 @@
    "pressName": "한국경제",
    "date": "2026-11-09",
    "page": "A2",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -2195,22 +2228,6 @@
    "title": "韓 증시, 장투 자금에 달렸다 [한경 프리미엄9 TODAY]",
    "url": "https://n.news.naver.com/article/015/0005351531",
    "articleId": "0005351531",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "015",
-   "pressName": "한국경제",
-   "date": "2026-11-09",
-   "page": "A2",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "[단독] 카뱅·토뱅, 애플페이 도입…인터넷은행·카드사 '페이 전쟁'",
-   "url": "https://n.news.naver.com/article/015/0005351527",
-   "articleId": "0005351527",
    "seriesKey": null,
    "seriesType": null
   },
@@ -2864,7 +2881,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/11/08/5351568.jpg?type=nf264_176",
    "column": null,
-   "title": "아재들만 먹는 음식?…\"없어서 못 먹어요\" 2030 홀린 '별미'",
+   "title": "아재들만 먹는 음식?…\"없어서 못 먹어요\" 2030 홀린 '별미' [프라이스&]",
    "url": "https://n.news.naver.com/article/015/0005351568",
    "articleId": "0005351568",
    "seriesKey": null,
@@ -3477,7 +3494,6 @@
    "articleId": "0003760899",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003760898",
@@ -3485,7 +3501,8 @@
      "title": "‘反이민 설계자’를 백악관 전면에… 관세 압박 수위도 높아질듯",
      "url": "https://n.news.naver.com/article/020/0003760898"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3502,7 +3519,6 @@
    "articleId": "0003760978",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003760977",
@@ -3510,7 +3526,8 @@
      "title": "‘퇴직연금 수익률 우위’ 증권사, 시장 절반 장악한 은행에 도전장",
      "url": "https://n.news.naver.com/article/020/0003760977"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3527,7 +3544,6 @@
    "articleId": "0003760980",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003760897",
@@ -3535,7 +3551,8 @@
      "title": "[사설]초등 입학 첫 20만 명대… 교육 장기비전 새로 짜야",
      "url": "https://n.news.naver.com/article/020/0003760897"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3552,7 +3569,6 @@
    "articleId": "0003760979",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003760995",
@@ -3560,7 +3576,8 @@
      "title": "혹독한 구조개혁으로 재정 흑자 달성한 그리스-포르투갈",
      "url": "https://n.news.naver.com/article/020/0003760995"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4002,11 +4019,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/11/09/3760951.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/11/09/3760960.jpg?type=nf264_176",
    "column": null,
-   "title": "한국 특허행정 노하우 동티모르에 전수한다",
-   "url": "https://n.news.naver.com/article/020/0003760951",
-   "articleId": "0003760951",
+   "title": "1억 년 전 ‘공룡 꼬리 자국’ 태화강서 발견",
+   "url": "https://n.news.naver.com/article/020/0003760960",
+   "articleId": "0003760960",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4020,9 +4037,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“공공기관 2차 이전, 제주 발전 계기돼야”",
-   "url": "https://n.news.naver.com/article/020/0003760956",
-   "articleId": "0003760956",
+   "title": "한국 특허행정 노하우 동티모르에 전수한다",
+   "url": "https://n.news.naver.com/article/020/0003760951",
+   "articleId": "0003760951",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4036,9 +4053,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "1억 년 전 ‘공룡 꼬리 자국’ 태화강서 발견",
-   "url": "https://n.news.naver.com/article/020/0003760960",
-   "articleId": "0003760960",
+   "title": "“공공기관 2차 이전, 제주 발전 계기돼야”",
+   "url": "https://n.news.naver.com/article/020/0003760956",
+   "articleId": "0003760956",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4068,9 +4085,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "세계적 건축가 비야케 잉겔스 국내 첫 기획전",
-   "url": "https://n.news.naver.com/article/020/0003760950",
-   "articleId": "0003760950",
+   "title": "태양전지-단백질-나노소재 연구자들 경암상 수상",
+   "url": "https://n.news.naver.com/article/020/0003760961",
+   "articleId": "0003760961",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4080,22 +4097,6 @@
    "date": "2026-11-09",
    "page": "A16",
    "pageOrder": 6,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "화성행궁 무장애 관광체험 ‘여민동락’ 시범 운영",
-   "url": "https://n.news.naver.com/article/020/0003760949",
-   "articleId": "0003760949",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-11-09",
-   "page": "A16",
-   "pageOrder": 7,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -4111,7 +4112,39 @@
    "pressName": "동아일보",
    "date": "2026-11-09",
    "page": "A16",
+   "pageOrder": 7,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "세계적 건축가 비야케 잉겔스 국내 첫 기획전",
+   "url": "https://n.news.naver.com/article/020/0003760950",
+   "articleId": "0003760950",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-11-09",
+   "page": "A16",
    "pageOrder": 8,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "화성행궁 무장애 관광체험 ‘여민동락’ 시범 운영",
+   "url": "https://n.news.naver.com/article/020/0003760949",
+   "articleId": "0003760949",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-11-09",
+   "page": "A16",
+   "pageOrder": 9,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -4127,7 +4160,7 @@
    "pressName": "동아일보",
    "date": "2026-11-09",
    "page": "A16",
-   "pageOrder": 9,
+   "pageOrder": 10,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -4143,7 +4176,7 @@
    "pressName": "동아일보",
    "date": "2026-11-09",
    "page": "A16",
-   "pageOrder": 10,
+   "pageOrder": 11,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -4159,7 +4192,7 @@
    "pressName": "동아일보",
    "date": "2026-11-09",
    "page": "A16",
-   "pageOrder": 11,
+   "pageOrder": 12,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -4175,7 +4208,7 @@
    "pressName": "동아일보",
    "date": "2026-11-09",
    "page": "A16",
-   "pageOrder": 12,
+   "pageOrder": 13,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -4191,7 +4224,7 @@
    "pressName": "동아일보",
    "date": "2026-11-09",
    "page": "A16",
-   "pageOrder": 13,
+   "pageOrder": 14,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -4199,22 +4232,6 @@
    "title": "대구도시철도 3호선 열차 고장… 특별안전점검 실시",
    "url": "https://n.news.naver.com/article/020/0003760959",
    "articleId": "0003760959",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-11-09",
-   "page": "A16",
-   "pageOrder": 14,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "태양전지-단백질-나노소재 연구자들 경암상 수상",
-   "url": "https://n.news.naver.com/article/020/0003760961",
-   "articleId": "0003760961",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5028,6 +5045,22 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
+   "title": "LG전자 차량 통신제어 모듈… 자동차 기능안전 최고등급",
+   "url": "https://n.news.naver.com/article/020/0003760922",
+   "articleId": "0003760922",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-11-09",
+   "page": "B4",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
    "title": "AI 이용료 인하 경쟁에 기업지출 증가세 꺾여",
    "url": "https://n.news.naver.com/article/020/0003760917",
    "articleId": "0003760917",
@@ -5039,7 +5072,7 @@
    "pressName": "동아일보",
    "date": "2026-11-09",
    "page": "B4",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5055,7 +5088,7 @@
    "pressName": "동아일보",
    "date": "2026-11-09",
    "page": "B4",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5071,7 +5104,7 @@
    "pressName": "동아일보",
    "date": "2026-11-09",
    "page": "B4",
-   "pageOrder": 5,
+   "pageOrder": 6,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5087,7 +5120,7 @@
    "pressName": "동아일보",
    "date": "2026-11-09",
    "page": "B4",
-   "pageOrder": 6,
+   "pageOrder": 7,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5103,7 +5136,7 @@
    "pressName": "동아일보",
    "date": "2026-11-09",
    "page": "B4",
-   "pageOrder": 7,
+   "pageOrder": 8,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5111,22 +5144,6 @@
    "title": "은행법학회 신임 회장에 송창영",
    "url": "https://n.news.naver.com/article/020/0003760921",
    "articleId": "0003760921",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "020",
-   "pressName": "동아일보",
-   "date": "2026-11-09",
-   "page": "B4",
-   "pageOrder": 8,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "LG전자 차량 통신제어 모듈… 자동차 기능안전 최고등급",
-   "url": "https://n.news.naver.com/article/020/0003760922",
-   "articleId": "0003760922",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5378,15 +5395,15 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/09/4008511.jpg?type=nf600_340",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/09/4008513.jpg?type=nf600_340",
    "column": null,
-   "title": "“원팀 필요한 외교안보 마차… 4마리 말이 제멋대로 뛰어”",
-   "url": "https://n.news.naver.com/article/023/0004008511",
-   "articleId": "0004008511",
+   "title": "유동규 “이용철, 날 강력하게 밀어줘… 李가 지시하면 물 불 안 가릴 사람”",
+   "url": "https://n.news.naver.com/article/023/0004008513",
+   "articleId": "0004008513",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5398,13 +5415,13 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "공소 취소 묻자, 대답 안한 이용철",
-   "url": "https://n.news.naver.com/article/023/0004008513",
-   "articleId": "0004008513",
+   "title": "“원팀 필요한 외교안보 마차… 4마리 말이 제멋대로 뛰어”",
+   "url": "https://n.news.naver.com/article/023/0004008511",
+   "articleId": "0004008511",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5445,8 +5462,8 @@
    "articleId": "0004008514",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6526,7 +6543,8 @@
      "title": "[차세현의 글로벌 이슈 진단] ‘레임덕’ 트럼프, 외교 업적 쌓기 본격화하나",
      "url": "https://n.news.naver.com/article/025/0003563703"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -6543,7 +6561,8 @@
    "articleId": "0003563697",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -6560,8 +6579,8 @@
    "articleId": "0003563693",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7858,8 +7877,8 @@
    "articleId": "0002831241",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -7876,8 +7895,8 @@
    "articleId": "0002831266",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -7894,7 +7913,6 @@
    "articleId": "0002831190",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002831208",
@@ -7914,7 +7932,8 @@
      "title": "‘블루웨이브’ 효과 잠시, 국제유가 급락 제동…트럼프 ‘마이웨이’ 우려",
      "url": "https://n.news.naver.com/article/028/0002831239"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -7931,8 +7950,8 @@
    "articleId": "0002831273",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8765,7 +8784,6 @@
    "articleId": "0003481426",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003481402",
@@ -8773,7 +8791,8 @@
      "title": "이스라엘 야권, 연정구성 눈앞에 네타냐후 19년 집권 마침표 찍나",
      "url": "https://n.news.naver.com/article/032/0003481402"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -8790,8 +8809,8 @@
    "articleId": "0003481427",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
