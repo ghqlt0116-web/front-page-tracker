@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "collectedAt": "2026-11-08T23:37:26",
+ "collectedAt": "2026-11-09T00:07:06",
  "articles": [
   {
    "press": "009",
@@ -674,6 +674,22 @@
    "title": "LG전자, 車 통신제어 모듈 세계 첫 안전 최고등급 획득",
    "url": "https://n.news.naver.com/article/009/0005760664",
    "articleId": "0005760664",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "009",
+   "pressName": "매일경제",
+   "date": "2026-11-09",
+   "page": "A13",
+   "pageOrder": 5,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "[포토] 롤스로이스 \"한 번 충전에 628㎞\"",
+   "url": "https://n.news.naver.com/article/009/0005760749",
+   "articleId": "0005760749",
    "seriesKey": null,
    "seriesType": null
   },
@@ -2151,7 +2167,6 @@
    "articleId": "0005351546",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005351530",
@@ -2165,7 +2180,8 @@
      "title": "[사설] 재건축 걸림돌 5조 재초환…부담 덜어내 공급 숨통 틔워야",
      "url": "https://n.news.naver.com/article/015/0005351623"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -5397,7 +5413,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/09/4008513.jpg?type=nf600_340",
    "column": null,
-   "title": "유동규 “이용철, 날 강력하게 밀어줘… 李가 지시하면 물 불 안 가릴 사람”",
+   "title": "유동규 “이용철, 포커도 술도 좋아해… 李가 지시하면 물 불 안 가릴 사람”",
    "url": "https://n.news.naver.com/article/023/0004008513",
    "articleId": "0004008513",
    "seriesKey": null,
@@ -7977,11 +7993,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/11/08/2831234.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/11/08/2831260.jpg?type=nf264_176",
    "column": null,
-   "title": "조작기소 특검법 충돌…국힘 “이재명 죄 지우기”, 민주 “억지 주장 반복”",
-   "url": "https://n.news.naver.com/article/028/0002831234",
-   "articleId": "0002831234",
+   "title": "이해충돌 논란에 공소청 자체 조사도 난항…조작기소 특검, 실효성 우려",
+   "url": "https://n.news.naver.com/article/028/0002831260",
+   "articleId": "0002831260",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7995,9 +8011,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "이해충돌 논란에다 공소청 자체 조사도 난항 …조작기소 특검, 실효성 우려",
-   "url": "https://n.news.naver.com/article/028/0002831260",
-   "articleId": "0002831260",
+   "title": "조작기소 특검법 충돌…국힘 “이재명 죄 지우기”, 민주 “억지 주장 반복”",
+   "url": "https://n.news.naver.com/article/028/0002831234",
+   "articleId": "0002831234",
    "seriesKey": null,
    "seriesType": null
   },
