@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "collectedAt": "2026-11-10T02:39:00",
+ "collectedAt": "2026-11-10T02:58:14",
  "articles": [
   {
    "press": "009",
@@ -42,7 +42,8 @@
    "articleId": "0005761302",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2323,8 +2324,8 @@
    "articleId": "0005351930",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -4393,7 +4394,8 @@
      "title": "美스월웰 의원-쿠오모 前뉴욕지사도 끊이지 않는 ‘中 여성 스파이’ 연루설",
      "url": "https://n.news.naver.com/article/020/0003761214"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -6331,7 +6333,7 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/10/4008717.jpg?type=nf600_340",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/10/4008717.jpg?type=nf264_176",
    "column": null,
    "title": "“월세 못 내 할머니댁서 살아… 뭐라도 바꾸려 민주당 투표”",
    "url": "https://n.news.naver.com/article/023/0004008717",
@@ -6351,7 +6353,8 @@
      "title": "‘민주당 잠룡’ 뉴섬, 사형수 감형하려다 역풍",
      "url": "https://n.news.naver.com/article/023/0004008699"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6386,7 +6389,6 @@
    "articleId": "0004008718",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004008709",
@@ -6394,7 +6396,8 @@
      "title": "특검이 ‘사건 왜곡’ 근거 만들면… 법무장관이 공소취소 지휘 가능성",
      "url": "https://n.news.naver.com/article/023/0004008709"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -10002,7 +10005,6 @@
    "articleId": "0003481496",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003481552",
@@ -10010,7 +10012,8 @@
      "title": "배민·쿠팡이츠 ‘최혜대우’ 요구로 배달 음식값 오르고 최소주문금액도 올랐다",
      "url": "https://n.news.naver.com/article/032/0003481552"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
