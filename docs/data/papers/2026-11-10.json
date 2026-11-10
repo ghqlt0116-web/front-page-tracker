@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "collectedAt": "2026-11-10T02:22:14",
+ "collectedAt": "2026-11-10T02:39:00",
  "articles": [
   {
    "press": "009",
@@ -24,7 +24,8 @@
      "title": "중동戰에 겨울철 수요 겹쳐 … 中企 \"가스값 급등에 공장 세울판\"",
      "url": "https://n.news.naver.com/article/009/0005761196"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -40,7 +41,8 @@
    "url": "https://n.news.naver.com/article/009/0005761302",
    "articleId": "0005761302",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "009",
@@ -57,7 +59,6 @@
    "articleId": "0005761226",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005761210",
@@ -65,7 +66,8 @@
      "title": "젠슨 황 '中스파이' 접촉설 … 엔비디아 위기 3대 포인트",
      "url": "https://n.news.naver.com/article/009/0005761210"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -82,7 +84,6 @@
    "articleId": "0005761220",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005761203",
@@ -90,7 +91,8 @@
      "title": "삼성·현대차, 자율주행·로봇 '新밀월'",
      "url": "https://n.news.naver.com/article/009/0005761203"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -106,7 +108,27 @@
    "url": "https://n.news.naver.com/article/009/0005761223",
    "articleId": "0005761223",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005761175",
+     "page": "A25",
+     "title": "안경테 만지작 … 내신서도 'AI 안경' 적발",
+     "url": "https://n.news.naver.com/article/009/0005761175"
+    },
+    {
+     "articleId": "0005761106",
+     "page": "A28",
+     "title": "K팝 발라드 거장의 생존법 \"AI 이기는 비결, 불완전함\"",
+     "url": "https://n.news.naver.com/article/009/0005761106"
+    },
+    {
+     "articleId": "0005761068",
+     "page": "B2",
+     "title": "\"AI 전환 직면한 기업, 조직문화·심리적 한계부터 깨라\" [기고]",
+     "url": "https://n.news.naver.com/article/009/0005761068"
+    }
+   ]
   },
   {
    "press": "009",
@@ -123,7 +145,6 @@
    "articleId": "0005761225",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005761191",
@@ -131,7 +152,8 @@
      "title": "\"쿠팡·배민, 배달가격 개입해 사실상 담합\"",
      "url": "https://n.news.naver.com/article/009/0005761191"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2276,7 +2298,6 @@
    "articleId": "0005351948",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005351947",
@@ -2284,7 +2305,8 @@
      "title": "\"날벼락 규제 한두번이냐\"…대출 절벽 학습효과에 '상환 미루기'",
      "url": "https://n.news.naver.com/article/015/0005351947"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2300,7 +2322,9 @@
    "url": "https://n.news.naver.com/article/015/0005351930",
    "articleId": "0005351930",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "015",
@@ -2317,7 +2341,6 @@
    "articleId": "0005351939",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005351917",
@@ -2325,7 +2348,8 @@
      "title": "엔비디아, 韓 AI 스타트업에 대규모 투자",
      "url": "https://n.news.naver.com/article/015/0005351917"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2342,7 +2366,6 @@
    "articleId": "0005351936",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005352058",
@@ -2362,7 +2385,8 @@
      "title": "현대차 정비점 블루핸즈 전산망 한때 '먹통'",
      "url": "https://n.news.naver.com/article/015/0005351979"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -4338,7 +4362,8 @@
      "title": "이용철, 공소취소에 “법-원칙대로”… “대통령 친분 결격사유 아냐”",
      "url": "https://n.news.naver.com/article/020/0003761236"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4392,7 +4417,8 @@
      "title": "20일 ‘내년 부동산 공시가 현실화율’ 정부안 공개",
      "url": "https://n.news.naver.com/article/020/0003761182"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4409,7 +4435,6 @@
    "articleId": "0003761240",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003761258",
@@ -4423,7 +4448,8 @@
      "title": "트럼프 “불법 이민자 추방 너무 강경했다”… 중간선거후 공식 인터뷰서 참패 원인 인정",
      "url": "https://n.news.naver.com/article/020/0003761259"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -6342,8 +6368,8 @@
    "articleId": "0004008715",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6359,7 +6385,16 @@
    "url": "https://n.news.naver.com/article/023/0004008718",
    "articleId": "0004008718",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0004008709",
+     "page": "A5",
+     "title": "특검이 ‘사건 왜곡’ 근거 만들면… 법무장관이 공소취소 지휘 가능성",
+     "url": "https://n.news.naver.com/article/023/0004008709"
+    }
+   ]
   },
   {
    "press": "023",
@@ -6376,7 +6411,8 @@
    "articleId": "0004008716",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -7689,8 +7725,8 @@
    "articleId": "0003564006",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7707,7 +7743,6 @@
    "articleId": "0003564007",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003563999",
@@ -7715,7 +7750,8 @@
      "title": "[사설] 특검 후 법·원칙 따른다는 이용철 후보자, 정해진 수순 가나",
      "url": "https://n.news.naver.com/article/025/0003563999"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -8788,7 +8824,6 @@
    "articleId": "0002831423",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002831407",
@@ -8802,7 +8837,8 @@
      "title": "[사설] ‘선거 위해 감세하자’는 여당, 조세정책 원칙 흔들어",
      "url": "https://n.news.naver.com/article/028/0002831411"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8819,7 +8855,6 @@
    "articleId": "0002831324",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002831334",
@@ -8839,7 +8874,8 @@
      "title": "‘젠슨 황 리스크’ 한국 반도체로 번지나…미, 대중국 규제가 변수",
      "url": "https://n.news.naver.com/article/028/0002831356"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8856,8 +8892,8 @@
    "articleId": "0002831441",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8874,8 +8910,8 @@
    "articleId": "0002831440",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9887,7 +9923,8 @@
      "title": "젠슨 황, 중 기업인과 불륜 인정…미·중 ‘반도체 전쟁’ 새 뇌관",
      "url": "https://n.news.naver.com/article/032/0003481653"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9904,7 +9941,8 @@
    "articleId": "0003481664",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9921,7 +9959,8 @@
    "articleId": "0003481662",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9945,7 +9984,8 @@
      "title": "창덕궁 돈화문, 손상·변형 누적…정밀 고증 ‘원형 복원’",
      "url": "https://n.news.naver.com/article/032/0003481621"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9961,7 +10001,16 @@
    "url": "https://n.news.naver.com/article/032/0003481496",
    "articleId": "0003481496",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0003481552",
+     "page": "A6",
+     "title": "배민·쿠팡이츠 ‘최혜대우’ 요구로 배달 음식값 오르고 최소주문금액도 올랐다",
+     "url": "https://n.news.naver.com/article/032/0003481552"
+    }
+   ]
   },
   {
    "press": "032",
