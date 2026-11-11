@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "collectedAt": "2026-11-11T00:33:51",
+ "collectedAt": "2026-11-11T00:55:41",
  "articles": [
   {
    "press": "009",
@@ -83,7 +83,8 @@
    "articleId": "0005761842",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -4119,7 +4120,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "與, ‘개미’ 달래려 기업 상속세 압박-주가 띄우기… 당내서도 “우려”",
+   "title": "與 “주가 누르기 방지법 내달초까지 처리”… 재계 “시장 혼란”",
    "url": "https://n.news.naver.com/article/020/0003761543",
    "articleId": "0003761543",
    "seriesKey": null,
@@ -5581,7 +5582,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/11/10/3761479.jpg?type=nf264_176",
    "column": null,
-   "title": "트럼프 또 부정선거 음모론[횡설수설/김준일]",
+   "title": "[횡설수설/김준일]트럼프 또 부정선거 음모론",
    "url": "https://n.news.naver.com/article/020/0003761479",
    "articleId": "0003761479",
    "seriesKey": null,
@@ -7052,11 +7053,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/11/4008880.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/11/4008881.jpg?type=nf264_176",
    "column": null,
-   "title": "최수종·하희라 첫 동반 연극… “연기 호흡도 완벽”",
-   "url": "https://n.news.naver.com/article/023/0004008880",
-   "articleId": "0004008880",
+   "title": "‘혐한 저격수’로 30여년… “한국인이라는 긍지로 버텨”",
+   "url": "https://n.news.naver.com/article/023/0004008881",
+   "articleId": "0004008881",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7070,9 +7071,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "‘혐한 저격수’로 30여년… “한국인이라는 긍지로 버텨”",
-   "url": "https://n.news.naver.com/article/023/0004008881",
-   "articleId": "0004008881",
+   "title": "최수종·하희라 첫 동반 연극… “연기 호흡도 완벽”",
+   "url": "https://n.news.naver.com/article/023/0004008880",
+   "articleId": "0004008880",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7788,11 +7789,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/11/4008870.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/11/4008871.jpg?type=nf264_176",
    "column": null,
-   "title": "종묘 경관 보존 논란… 세운4구역 재개발 중단 위기",
-   "url": "https://n.news.naver.com/article/023/0004008870",
-   "articleId": "0004008870",
+   "title": "AI로 부동산 개발 수익성 분석… 실제 사례 중심 원데이 클래스",
+   "url": "https://n.news.naver.com/article/023/0004008871",
+   "articleId": "0004008871",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7806,9 +7807,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "AI로 부동산 개발 수익성 분석… 실제 사례 중심 원데이 클래스",
-   "url": "https://n.news.naver.com/article/023/0004008871",
-   "articleId": "0004008871",
+   "title": "종묘 경관 보존 논란… 세운4구역 재개발 중단 위기",
+   "url": "https://n.news.naver.com/article/023/0004008870",
+   "articleId": "0004008870",
    "seriesKey": null,
    "seriesType": null
   },
