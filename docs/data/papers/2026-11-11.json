@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "collectedAt": "2026-11-11T00:13:19",
+ "collectedAt": "2026-11-11T00:33:51",
  "articles": [
   {
    "press": "009",
@@ -17,8 +17,8 @@
    "articleId": "0005761843",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -30,7 +30,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "LG화학 범용석화 용지에 반도체 소재 공장 짓는다",
+   "title": "[단독] LG화학 범용석화 용지에 반도체 소재 공장 짓는다",
    "url": "https://n.news.naver.com/article/009/0005761844",
    "articleId": "0005761844",
    "seriesKey": null,
@@ -48,7 +48,8 @@
      "title": "\"반도체·AI데이터센터·피지컬AI '3대 메가 프로젝트' 전력저장이 관건\" [기고]",
      "url": "https://n.news.naver.com/article/009/0005761673"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -56,6 +57,23 @@
    "date": "2026-11-11",
    "page": "A1",
    "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "몸값 1.4조달러…앤트로픽 IPO 예정대로",
+   "url": "https://n.news.naver.com/article/009/0005761899",
+   "articleId": "0005761899",
+   "seriesKey": null,
+   "seriesType": null,
+   "related": []
+  },
+  {
+   "press": "009",
+   "pressName": "매일경제",
+   "date": "2026-11-11",
+   "page": "A1",
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -72,7 +90,7 @@
    "pressName": "매일경제",
    "date": "2026-11-11",
    "page": "A1",
-   "pageOrder": 4,
+   "pageOrder": 5,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -80,23 +98,6 @@
    "title": "제동 걸린 美 AIDC…中 추격 거세진다",
    "url": "https://n.news.naver.com/article/009/0005761841",
    "articleId": "0005761841",
-   "seriesKey": null,
-   "seriesType": null,
-   "related": []
-  },
-  {
-   "press": "009",
-   "pressName": "매일경제",
-   "date": "2026-11-11",
-   "page": "A1",
-   "pageOrder": 5,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "몸값 1.4조달러…앤트로픽 IPO 예정대로",
-   "url": "https://n.news.naver.com/article/009/0005761899",
-   "articleId": "0005761899",
    "seriesKey": null,
    "seriesType": null,
    "related": []
@@ -719,7 +720,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/009/2026/11/10/5761789.jpg?type=nf264_176",
    "column": null,
-   "title": "상반기 반짝흑자 끝 … K석화, 생존 위한 사업재편 가속",
+   "title": "[단독] 상반기 반짝흑자 끝 … K석화, 생존 위한 사업재편 가속",
    "url": "https://n.news.naver.com/article/009/0005761789",
    "articleId": "0005761789",
    "seriesKey": null,
@@ -2151,7 +2152,15 @@
    "url": "https://n.news.naver.com/article/015/0005352415",
    "articleId": "0005352415",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005352446",
+     "page": "A3",
+     "title": "집 없는 청년이 집 있는 노인 부양…미래세대에 '기초연금 청구서'",
+     "url": "https://n.news.naver.com/article/015/0005352446"
+    }
+   ]
   },
   {
    "press": "015",
@@ -4078,7 +4087,27 @@
    "url": "https://n.news.naver.com/article/020/0003761542",
    "articleId": "0003761542",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003761621",
+     "page": "A3",
+     "title": "전쟁 책임론 몰린 트럼프, 고유가 역풍 거세질라 종전 서둘러",
+     "url": "https://n.news.naver.com/article/020/0003761621"
+    },
+    {
+     "articleId": "0003761552",
+     "page": "A4",
+     "title": "캠벨 “트럼프, 시진핑에 북미대화 도움 요청”… 김정은 방중 촉각",
+     "url": "https://n.news.naver.com/article/020/0003761552"
+    },
+    {
+     "articleId": "0003761514",
+     "page": "A18",
+     "title": "트럼프, 차기 주자로 밴스 지지 유보… “루비오 훌륭”",
+     "url": "https://n.news.naver.com/article/020/0003761514"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4094,7 +4123,27 @@
    "url": "https://n.news.naver.com/article/020/0003761543",
    "articleId": "0003761543",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003761553",
+     "page": "A4",
+     "title": "스틸 “美기업, 한국서 공정경쟁 할 수 있어야”…조셉 윤 “전작권 전환, 한미동맹 약화 불가피”",
+     "url": "https://n.news.naver.com/article/020/0003761553"
+    },
+    {
+     "articleId": "0003761612",
+     "page": "A16",
+     "title": "전북 내년 예산 11.3조… 기업-민생에 집중",
+     "url": "https://n.news.naver.com/article/020/0003761612"
+    },
+    {
+     "articleId": "0003761498",
+     "page": "B2",
+     "title": "3분기 수출 72% 증가… 상위 10개 기업 비중 첫 60% 넘어",
+     "url": "https://n.news.naver.com/article/020/0003761498"
+    }
+   ]
   },
   {
    "press": "020",
@@ -6458,14 +6507,27 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/11/4008921.jpg?type=nf600_340",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/11/4008922.jpg?type=nf264_176",
    "column": null,
-   "title": "특검 vs 검사, 200일 ‘칼의 전쟁’",
-   "url": "https://n.news.naver.com/article/023/0004008921",
-   "articleId": "0004008921",
+   "title": "“떨어진 주가 배상하라” 집단소송 당한 젠슨 황",
+   "url": "https://n.news.naver.com/article/023/0004008922",
+   "articleId": "0004008922",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [
+    {
+     "articleId": "0004008919",
+     "page": "A2",
+     "title": "젠슨 황 후폭풍… ‘對中 반도체 봉쇄’ 고삐 죄는 트럼프",
+     "url": "https://n.news.naver.com/article/023/0004008919"
+    },
+    {
+     "articleId": "0004008918",
+     "page": "A2",
+     "title": "경력도 신상도 불분명… 젠슨 황의 그녀는 누구?",
+     "url": "https://n.news.naver.com/article/023/0004008918"
+    }
+   ]
   },
   {
    "press": "023",
@@ -6494,9 +6556,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "‘금융보안 문지기’ 금융보안원도 해킹…개인정보 일부 유출",
-   "url": "https://n.news.naver.com/article/023/0004008830",
-   "articleId": "0004008830",
+   "title": "특검 vs 검사, 200일 ‘칼의 전쟁’",
+   "url": "https://n.news.naver.com/article/023/0004008921",
+   "articleId": "0004008921",
    "seriesKey": null,
    "seriesType": null,
    "related": []
@@ -6511,25 +6573,12 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“떨어진 주가 배상하라” 집단소송 당한 젠슨 황",
-   "url": "https://n.news.naver.com/article/023/0004008922",
-   "articleId": "0004008922",
+   "title": "‘금융보안 문지기’ 금융보안원도 해킹…개인정보 일부 유출",
+   "url": "https://n.news.naver.com/article/023/0004008830",
+   "articleId": "0004008830",
    "seriesKey": null,
    "seriesType": null,
-   "related": [
-    {
-     "articleId": "0004008919",
-     "page": "A2",
-     "title": "젠슨 황 후폭풍… ‘對中 반도체 봉쇄’ 고삐 죄는 트럼프",
-     "url": "https://n.news.naver.com/article/023/0004008919"
-    },
-    {
-     "articleId": "0004008918",
-     "page": "A2",
-     "title": "경력도 신상도 불분명… 젠슨 황의 그녀는 누구?",
-     "url": "https://n.news.naver.com/article/023/0004008918"
-    }
-   ]
+   "related": []
   },
   {
    "press": "023",
@@ -6843,11 +6892,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/11/4008902.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/11/4008906.jpg?type=nf264_176",
    "column": null,
-   "title": "의료분쟁 늘자… 의사·간호사 출신 변호사 모시는 로펌들",
-   "url": "https://n.news.naver.com/article/023/0004008902",
-   "articleId": "0004008902",
+   "title": "난방 히트펌프 350만대 보급 추진하는 한국… 가스보일러가 더 저렴",
+   "url": "https://n.news.naver.com/article/023/0004008906",
+   "articleId": "0004008906",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6861,9 +6910,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "도입하려는 정책마다 막히는 국교위… 이번엔 ‘초등 1·2학년 3시 하교’ 무산",
-   "url": "https://n.news.naver.com/article/023/0004008904",
-   "articleId": "0004008904",
+   "title": "의료분쟁 늘자… 의사·간호사 출신 변호사 모시는 로펌들",
+   "url": "https://n.news.naver.com/article/023/0004008902",
+   "articleId": "0004008902",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6877,9 +6926,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "난방 히트펌프 350만대 보급 추진하는 한국… 가스보일러가 더 저렴",
-   "url": "https://n.news.naver.com/article/023/0004008906",
-   "articleId": "0004008906",
+   "title": "도입하려는 정책마다 막히는 국교위… 이번엔 ‘초등 1·2학년 3시 하교’ 무산",
+   "url": "https://n.news.naver.com/article/023/0004008904",
+   "articleId": "0004008904",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7825,7 +7874,8 @@
    "url": "https://n.news.naver.com/article/025/0003564330",
    "articleId": "0003564330",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "025",
@@ -8926,7 +8976,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/11/11/2831613.jpg?type=nf600_340",
    "column": null,
-   "title": "‘마가 전문가’ “트럼프시대 종말 시작...탄핵·조기퇴진 가능성” [인터뷰]",
+   "title": "[인터뷰] ‘마가’ 전문가 “트럼프 시대 종말 시작…탄핵·조기퇴진 가능성”",
    "url": "https://n.news.naver.com/article/028/0002831613",
    "articleId": "0002831613",
    "seriesKey": null,
@@ -9000,7 +9050,8 @@
    "url": "https://n.news.naver.com/article/028/0002831461",
    "articleId": "0002831461",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "028",
@@ -9912,7 +9963,21 @@
    "url": "https://n.news.naver.com/article/032/0003481922",
    "articleId": "0003481922",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003481834",
+     "page": "A27",
+     "title": "[사설]한덕수 구속만료 하루 전 대법 전합 심리, 내란범 활보하는 일 없길",
+     "url": "https://n.news.naver.com/article/032/0003481834"
+    },
+    {
+     "articleId": "0003481910",
+     "page": "A5",
+     "title": "“트럼프, 북은 상대하기 쉽다고 판단…‘보여주기식’ 북·미 정상회담 성사 가능성 더 커져”",
+     "url": "https://n.news.naver.com/article/032/0003481910"
+    }
+   ]
   },
   {
    "press": "032",
@@ -9928,7 +9993,8 @@
    "url": "https://n.news.naver.com/article/032/0003481920",
    "articleId": "0003481920",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "032",
