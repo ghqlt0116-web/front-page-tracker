@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "collectedAt": "2026-11-12T01:38:55",
+ "collectedAt": "2026-11-12T01:52:29",
  "articles": [
   {
    "press": "009",
@@ -17,7 +17,6 @@
    "articleId": "0005762421",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005762384",
@@ -25,7 +24,8 @@
      "title": "공정위 \"담합으로 국고 손실\" vs 금융권 \"국고채 금리는 시장몫\"",
      "url": "https://n.news.naver.com/article/009/0005762384"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -49,7 +49,8 @@
      "title": "[단독] 교체설 딛고 무뇨스 한번더 … 내년 '미래사업 핸들링' 주목",
      "url": "https://n.news.naver.com/article/009/0005762398"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2255,7 +2256,8 @@
    "url": "https://n.news.naver.com/article/015/0005352859",
    "articleId": "0005352859",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -4255,7 +4257,15 @@
    "url": "https://n.news.naver.com/article/020/0003761873",
    "articleId": "0003761873",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003761822",
+     "page": "A31",
+     "title": "[사설]해킹당한 금융보안원… 도둑에게 털린 경찰서꼴",
+     "url": "https://n.news.naver.com/article/020/0003761822"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4380,7 +4390,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "오세훈 “총선 이기려면 비대위 체제로”…장동혁 “나랑 자리 바꾸자”",
+   "title": "다시 등 돌리는 오세훈-장동혁",
    "url": "https://n.news.naver.com/article/020/0003761907",
    "articleId": "0003761907",
    "seriesKey": null,
@@ -7303,12 +7313,12 @@
    "page": "B3",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": false,
-   "thumb": null,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/12/4009099.jpg?type=nf264_176",
    "column": null,
-   "title": "‘기업형 슈퍼마켓’의 부활… 퀵커머스·점포 효율화 적중",
-   "url": "https://n.news.naver.com/article/023/0004009097",
-   "articleId": "0004009097",
+   "title": "지분 경쟁에 요동치는 한진칼 주가… 개미들, 의결권 없는 우선주까지 투자",
+   "url": "https://n.news.naver.com/article/023/0004009099",
+   "articleId": "0004009099",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7354,9 +7364,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "지분 경쟁에 요동치는 한진칼 주가… 개미들, 의결권 없는 우선주까지 투자",
-   "url": "https://n.news.naver.com/article/023/0004009099",
-   "articleId": "0004009099",
+   "title": "‘기업형 슈퍼마켓’의 부활… 퀵커머스·점포 효율화 적중",
+   "url": "https://n.news.naver.com/article/023/0004009097",
+   "articleId": "0004009097",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7367,12 +7377,12 @@
    "page": "B4",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": false,
-   "thumb": null,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/12/4009102.jpg?type=nf264_176",
    "column": null,
-   "title": "집 안에 드론 띄워 보안 사각지대 없앤다",
-   "url": "https://n.news.naver.com/article/023/0004009100",
-   "articleId": "0004009100",
+   "title": "“한 명이 AI비서 100개 거느리고 반도체를 설계하는 시대 올 것”",
+   "url": "https://n.news.naver.com/article/023/0004009102",
+   "articleId": "0004009102",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7386,9 +7396,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "코어위브 3분기 깜짝 실적… AI 수요는 ‘탄탄’",
-   "url": "https://n.news.naver.com/article/023/0004009101",
-   "articleId": "0004009101",
+   "title": "오픈AI 3분기 매출 50% 급증한 100억달러",
+   "url": "https://n.news.naver.com/article/023/0004009104",
+   "articleId": "0004009104",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7402,9 +7412,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“한 명이 AI비서 100개 거느리고 반도체를 설계하는 시대 올 것”",
-   "url": "https://n.news.naver.com/article/023/0004009102",
-   "articleId": "0004009102",
+   "title": "코어위브 3분기 깜짝 실적… AI 수요는 ‘탄탄’",
+   "url": "https://n.news.naver.com/article/023/0004009101",
+   "articleId": "0004009101",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7434,9 +7444,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "오픈AI 3분기 매출 50% 급증한 100억달러",
-   "url": "https://n.news.naver.com/article/023/0004009104",
-   "articleId": "0004009104",
+   "title": "집 안에 드론 띄워 보안 사각지대 없앤다",
+   "url": "https://n.news.naver.com/article/023/0004009100",
+   "articleId": "0004009100",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7448,11 +7458,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/12/4009105.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/12/4009106.jpg?type=nf264_176",
    "column": null,
-   "title": "못 믿을 증권사 전망… 지수 따라가기 급급",
-   "url": "https://n.news.naver.com/article/023/0004009105",
-   "articleId": "0004009105",
+   "title": "“美 데이터센터 규제, AI투자 사이클 꺾지 못할 것”",
+   "url": "https://n.news.naver.com/article/023/0004009106",
+   "articleId": "0004009106",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7466,9 +7476,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“美 데이터센터 규제, AI투자 사이클 꺾지 못할 것”",
-   "url": "https://n.news.naver.com/article/023/0004009106",
-   "articleId": "0004009106",
+   "title": "못 믿을 증권사 전망… 지수 따라가기 급급",
+   "url": "https://n.news.naver.com/article/023/0004009105",
+   "articleId": "0004009105",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7479,12 +7489,12 @@
    "page": "B6",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/12/4009108.jpg?type=nf264_176",
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
-   "title": "SKT, 체감 품질 세밀히 분석… AI 활용 통신망 관리 고도화",
-   "url": "https://n.news.naver.com/article/023/0004009108",
-   "articleId": "0004009108",
+   "title": "AI 인프라도 ‘가성비’ 바람… HBM 대신 스마트폰 메모리, GPU 대신 CPU",
+   "url": "https://n.news.naver.com/article/023/0004009110",
+   "articleId": "0004009110",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7514,9 +7524,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "AI 인프라도 ‘가성비’ 바람… HBM 대신 스마트폰 메모리, GPU 대신 CPU",
-   "url": "https://n.news.naver.com/article/023/0004009110",
-   "articleId": "0004009110",
+   "title": "SKT, 체감 품질 세밀히 분석… AI 활용 통신망 관리 고도화",
+   "url": "https://n.news.naver.com/article/023/0004009108",
+   "articleId": "0004009108",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7527,12 +7537,12 @@
    "page": "B7",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/12/4009112.jpg?type=nf264_176",
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
-   "title": "휴대폰 비번, 뒤에서 엿보면 고양이 그림으로",
-   "url": "https://n.news.naver.com/article/023/0004009112",
-   "articleId": "0004009112",
+   "title": "[테크 in 넘버] 1600% 외",
+   "url": "https://n.news.naver.com/article/023/0004009114",
+   "articleId": "0004009114",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7542,22 +7552,6 @@
    "date": "2026-11-12",
    "page": "B7",
    "pageOrder": 2,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "쟁쟁한 프로게이머 줄줄이 물리쳐… ‘스타크래프트계의 알파고’ 정체는",
-   "url": "https://n.news.naver.com/article/023/0004009111",
-   "articleId": "0004009111",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-11-12",
-   "page": "B7",
-   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -7573,14 +7567,30 @@
    "pressName": "조선일보",
    "date": "2026-11-12",
    "page": "B7",
+   "pageOrder": 3,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "쟁쟁한 프로게이머 줄줄이 물리쳐… ‘스타크래프트계의 알파고’ 정체는",
+   "url": "https://n.news.naver.com/article/023/0004009111",
+   "articleId": "0004009111",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-11-12",
+   "page": "B7",
    "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[테크 in 넘버] 1600% 외",
-   "url": "https://n.news.naver.com/article/023/0004009114",
-   "articleId": "0004009114",
+   "title": "휴대폰 비번, 뒤에서 엿보면 고양이 그림으로",
+   "url": "https://n.news.naver.com/article/023/0004009112",
+   "articleId": "0004009112",
    "seriesKey": null,
    "seriesType": null
   },
