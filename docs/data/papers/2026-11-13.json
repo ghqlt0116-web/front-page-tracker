@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "collectedAt": "2026-11-13T00:39:59",
+ "collectedAt": "2026-11-13T00:59:38",
  "articles": [
   {
    "press": "009",
@@ -36,7 +36,8 @@
      "title": "삼성D 투자 '에스에프씨' 18~19일 공모주청약 [위클리 마켓]",
      "url": "https://n.news.naver.com/article/009/0005762837"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -52,7 +53,15 @@
    "url": "https://n.news.naver.com/article/009/0005762970",
    "articleId": "0005762970",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005762948",
+     "page": "A35",
+     "title": "'삼전닉스 깐부' 젠슨 황 사임…K반도체에 미칠 파장 경계 [사설]",
+     "url": "https://n.news.naver.com/article/009/0005762948"
+    }
+   ]
   },
   {
    "press": "009",
@@ -99,7 +108,8 @@
    "articleId": "0005762969",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2132,7 +2142,6 @@
    "articleId": "0005353324",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005353274",
@@ -2146,7 +2155,8 @@
      "title": "토스뱅크, 펀드 서비스 출시…1000원부터 투자 가능",
      "url": "https://n.news.naver.com/article/015/0005353275"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2182,7 +2192,8 @@
      "title": "AMD 리사 수·애플 스루지…차기 엔비디아 CEO로 거론",
      "url": "https://n.news.naver.com/article/015/0005353302"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2199,7 +2210,6 @@
    "articleId": "0005353307",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005353336",
@@ -2219,7 +2229,8 @@
      "title": "[사설] 결국 물러난 젠슨 황…AI생태계 급변 대비해야",
      "url": "https://n.news.naver.com/article/015/0005353411"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2260,7 +2271,6 @@
    "articleId": "0005353311",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005353320",
@@ -2268,7 +2278,8 @@
      "title": "경영권 또 흔들리나…고려아연 이사회 '격랑'",
      "url": "https://n.news.naver.com/article/015/0005353320"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -3157,8 +3168,24 @@
    "page": "A25",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/11/12/5353327.jpg?type=nf264_176",
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "\"B2B로 사업체질 전환\"…패스트파이브 IPO 재도전",
+   "url": "https://n.news.naver.com/article/015/0005353299",
+   "articleId": "0005353299",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-11-13",
+   "page": "A25",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "'젠슨 황 리스크' 직격탄 맞았다…줄줄이 비명 쏟아진 종목",
    "url": "https://n.news.naver.com/article/015/0005353327",
@@ -3171,7 +3198,7 @@
    "pressName": "한국경제",
    "date": "2026-11-13",
    "page": "A25",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -3187,7 +3214,7 @@
    "pressName": "한국경제",
    "date": "2026-11-13",
    "page": "A25",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -3195,22 +3222,6 @@
    "title": "증시 하락 직격탄…증권사 3분기 '순이익 쇼크'",
    "url": "https://n.news.naver.com/article/015/0005353297",
    "articleId": "0005353297",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "015",
-   "pressName": "한국경제",
-   "date": "2026-11-13",
-   "page": "A25",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "\"B2B로 사업체질 전환\"…패스트파이브 IPO 재도전",
-   "url": "https://n.news.naver.com/article/015/0005353299",
-   "articleId": "0005353299",
    "seriesKey": null,
    "seriesType": null
   },
@@ -3836,7 +3847,28 @@
    "url": "https://n.news.naver.com/article/020/0003762248",
    "articleId": "0003762248",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0003762198",
+     "page": "A23",
+     "title": "[오늘의 채널A]‘AI 황제’ 젠슨 황의 끝없는 추락",
+     "url": "https://n.news.naver.com/article/020/0003762198"
+    },
+    {
+     "articleId": "0003762216",
+     "page": "A12",
+     "title": "‘제멋대로’ AI 비서… 산부인과 예약 맡겼는데 산후조리원 전화",
+     "url": "https://n.news.naver.com/article/020/0003762216"
+    },
+    {
+     "articleId": "0003762191",
+     "page": "A20",
+     "title": "반도체 기술력-자본 쌓은 대만… AI 콘텐츠 강국으로 ‘영토 확장’",
+     "url": "https://n.news.naver.com/article/020/0003762191"
+    }
+   ]
   },
   {
    "press": "020",
@@ -3866,7 +3898,8 @@
      "title": "반도체 인재 1860명 키운다… 호남 클러스터 ‘인재 양성소’",
      "url": "https://n.news.naver.com/article/020/0003762203"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3890,7 +3923,8 @@
      "title": "[사설]금융 회장 연임 요건 강화… ‘이너서클’도 ‘낙하산’도 안 된다",
      "url": "https://n.news.naver.com/article/020/0003762154"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -5626,7 +5660,8 @@
      "title": "젠슨 황 ‘1인 경영’ 33년 만에 막내려… 엔비디아 임시 경영 체제",
      "url": "https://n.news.naver.com/article/023/0004009389"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5650,7 +5685,8 @@
      "title": "[단독] 부여에 세금 400억 들여… 사실상 ‘유홍준 미술관’ 만들려다 무산",
      "url": "https://n.news.naver.com/article/023/0004009396"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5667,7 +5703,8 @@
    "articleId": "0004009391",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5684,8 +5721,8 @@
    "articleId": "0004009390",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5903,11 +5940,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/13/4009373.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/13/4009374.jpg?type=nf264_176",
    "column": null,
-   "title": "“주식으로 잃은 돈 한방에 벌자” 연차 내고 경매 법정 가는 2030",
-   "url": "https://n.news.naver.com/article/023/0004009373",
-   "articleId": "0004009373",
+   "title": "50대男 손에 숨진 15세 소녀… 아들이 성폭행, 내연녀는 성매매 강요",
+   "url": "https://n.news.naver.com/article/023/0004009374",
+   "articleId": "0004009374",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5921,9 +5958,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "50대男 손에 숨진 15세 소녀… 아들이 성폭행, 내연녀는 성매매 강요",
-   "url": "https://n.news.naver.com/article/023/0004009374",
-   "articleId": "0004009374",
+   "title": "“주식으로 잃은 돈 한방에 벌자” 연차 내고 경매 법정 가는 2030",
+   "url": "https://n.news.naver.com/article/023/0004009373",
+   "articleId": "0004009373",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6853,7 +6890,28 @@
    "url": "https://n.news.naver.com/article/025/0003564910",
    "articleId": "0003564910",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0003564917",
+     "page": "A3",
+     "title": "[사진] AI 패러디 주인공 된 AI 황제",
+     "url": "https://n.news.naver.com/article/025/0003564917"
+    },
+    {
+     "articleId": "0003564906",
+     "page": "A24",
+     "title": "[김성탁의 시선] “안 걸리면 의대”…AI 안경이 던지는 숙제",
+     "url": "https://n.news.naver.com/article/025/0003564906"
+    },
+    {
+     "articleId": "0003564915",
+     "page": "A26",
+     "title": "[사설] 젠슨 황 스캔들이 몰고 올 규제 강화…K반도체 불똥 대비를",
+     "url": "https://n.news.naver.com/article/025/0003564915"
+    }
+   ]
   },
   {
    "press": "025",
@@ -6887,8 +6945,8 @@
    "articleId": "0003564918",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -8008,7 +8066,9 @@
    "url": "https://n.news.naver.com/article/028/0002831978",
    "articleId": "0002831978",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "028",
@@ -8024,7 +8084,27 @@
    "url": "https://n.news.naver.com/article/028/0002831996",
    "articleId": "0002831996",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0002831951",
+     "page": "3",
+     "title": "젠슨 황 퇴진 기로…‘AI 생태계’도 미중 무역협상도 ‘불안’ 가중",
+     "url": "https://n.news.naver.com/article/028/0002831951"
+    },
+    {
+     "articleId": "0002831909",
+     "page": "2",
+     "title": "‘반도체 록스타’ 젠슨 황 해임 위기…33년 AI 제국도 흔들",
+     "url": "https://n.news.naver.com/article/028/0002831909"
+    },
+    {
+     "articleId": "0002831997",
+     "page": "3",
+     "title": "젠슨 황 사임 뒤…‘AI제국’ 후계 불안에 미중 관계도 충격",
+     "url": "https://n.news.naver.com/article/028/0002831997"
+    }
+   ]
   },
   {
    "press": "028",
@@ -8040,7 +8120,8 @@
    "url": "https://n.news.naver.com/article/028/0002831843",
    "articleId": "0002831843",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "028",
@@ -8057,7 +8138,8 @@
    "articleId": "0002832012",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8954,7 +9036,8 @@
    "articleId": "0003482450",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -8971,7 +9054,8 @@
    "articleId": "0003482448",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -8988,7 +9072,6 @@
    "articleId": "0003482449",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003482359",
@@ -9002,7 +9085,8 @@
      "title": "측근 사외이사 앉혀 회장 연임…금융지주 ‘철밥통 카르텔’",
      "url": "https://n.news.naver.com/article/032/0003482400"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9019,7 +9103,8 @@
    "articleId": "0003482451",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9035,7 +9120,15 @@
    "url": "https://n.news.naver.com/article/032/0003482455",
    "articleId": "0003482455",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003482456",
+     "page": "A5",
+     "title": "전격전 ‘뜨거운 감자’ 전력…메가프로젝트 ‘심장’은 뛸 수 있을까?",
+     "url": "https://n.news.naver.com/article/032/0003482456"
+    }
+   ]
   },
   {
    "press": "032",
