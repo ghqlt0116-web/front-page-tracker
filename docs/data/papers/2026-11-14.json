@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "collectedAt": "2026-11-14T00:26:26",
+ "collectedAt": "2026-11-14T00:51:09",
  "articles": [
   {
    "press": "009",
@@ -24,7 +24,8 @@
      "title": "[단독] 韓 월세 속출하자 … 집주인 '연체 불안' 파고든 일본 기업",
      "url": "https://n.news.naver.com/article/009/0005763502"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -48,7 +49,8 @@
      "title": "세번째 불륜 의혹까지 터져 … 엔비디아, 내달 GTC 행사 '안갯속'",
      "url": "https://n.news.naver.com/article/009/0005763510"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -65,8 +67,8 @@
    "articleId": "0005763507",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -83,8 +85,8 @@
    "articleId": "0005763508",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -1525,8 +1527,8 @@
    "articleId": "0005353686",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1543,7 +1545,6 @@
    "articleId": "0005353684",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005353683",
@@ -1551,7 +1552,8 @@
      "title": "적대적 M&A 힘 싣는 李대통령…\"대주주 지분 과도하면 증시 퇴출시켜야\"",
      "url": "https://n.news.naver.com/article/015/0005353683"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1568,8 +1570,8 @@
    "articleId": "0005353679",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1586,7 +1588,6 @@
    "articleId": "0005353678",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005353680",
@@ -1594,7 +1595,8 @@
      "title": "황에 쓴소리한 크레스 '임시 수장'…엔비디아 신규 투자 멈추나",
      "url": "https://n.news.naver.com/article/015/0005353680"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2974,7 +2976,8 @@
      "title": "“난 인간 쓰레기” 사임 직전 불륜 파문 자책한 젠슨 황",
      "url": "https://n.news.naver.com/article/020/0003762430"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -2991,8 +2994,8 @@
    "articleId": "0003762402",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3009,7 +3012,8 @@
    "articleId": "0003762401",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3026,8 +3030,8 @@
    "articleId": "0003762429",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3839,7 +3843,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/11/13/3762391.jpg?type=nf264_176",
    "column": null,
-   "title": "146년 만의 미시시피 흑인 상원의원[횡설수설/우경임]",
+   "title": "[횡설수설/우경임]146년 만의 미시시피 흑인 상원의원",
    "url": "https://n.news.naver.com/article/020/0003762391",
    "articleId": "0003762391",
    "seriesKey": null,
@@ -3988,7 +3992,6 @@
    "articleId": "0004009600",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004009596",
@@ -4002,7 +4005,8 @@
      "title": "[사설] AI 안경 부정행위 속출, 수능 뚫리면 국가적 사태 온다",
      "url": "https://n.news.naver.com/article/023/0004009518"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4019,8 +4023,8 @@
    "articleId": "0004009599",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4037,8 +4041,8 @@
    "articleId": "0004009598",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4055,7 +4059,6 @@
    "articleId": "0004009597",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004009596",
@@ -4063,7 +4066,8 @@
      "title": "엔비디아, 굿즈 없애며 ‘젠슨 황 지우기’… 트럼프 “차기 CEO에 팀 쿡 추천”",
      "url": "https://n.news.naver.com/article/023/0004009596"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5360,7 +5364,6 @@
    "articleId": "0000057270",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0000057258",
@@ -5380,7 +5383,8 @@
      "title": "데미스 허사비스…AI 혁명의 탄생",
      "url": "https://n.news.naver.com/article/353/0000057229"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "353",
@@ -5397,8 +5401,8 @@
    "articleId": "0000057271",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
@@ -5415,8 +5419,8 @@
    "articleId": "0000057269",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
