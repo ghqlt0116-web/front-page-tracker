@@ -1,6 +1,6 @@
 {
  "date": "2026-11-16",
- "collectedAt": "2026-11-15T23:29:39",
+ "collectedAt": "2026-11-15T23:55:04",
  "articles": [
   {
    "press": "009",
@@ -17,7 +17,6 @@
    "articleId": "0005764017",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005763996",
@@ -31,7 +30,8 @@
      "title": "서울과 다르게…문화유산 나왔지만 개발 안 멈춘 도쿄",
      "url": "https://n.news.naver.com/article/009/0005763997"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -47,7 +47,16 @@
    "url": "https://n.news.naver.com/article/009/0005764021",
    "articleId": "0005764021",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0005763918",
+     "page": "A26",
+     "title": "청명한 가을 수놓은 3만 러너 … 안전·화합 빛난 명품 대회",
+     "url": "https://n.news.naver.com/article/009/0005763918"
+    }
+   ]
   },
   {
    "press": "009",
@@ -64,7 +73,6 @@
    "articleId": "0005764018",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005763992",
@@ -84,7 +92,8 @@
      "title": "[포토] 만추, 오색빛 내려앉은 서울",
      "url": "https://n.news.naver.com/article/009/0005764011"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -101,7 +110,6 @@
    "articleId": "0005764020",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005764015",
@@ -121,7 +129,8 @@
      "title": "AI안경 제조업체도 비상 … 사생활 침해·부정행위 방지기능 강화",
      "url": "https://n.news.naver.com/article/009/0005764000"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -138,8 +147,8 @@
    "articleId": "0005764019",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -1852,7 +1861,6 @@
    "articleId": "0005353988",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005353991",
@@ -1872,7 +1880,8 @@
      "title": "'대체불가' 삼전닉스 AI 반도체…세계 4위 수출대국 견인",
      "url": "https://n.news.naver.com/article/015/0005354035"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1889,7 +1898,6 @@
    "articleId": "0005353998",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005353997",
@@ -1909,7 +1917,8 @@
      "title": "'대체불가' 삼전닉스 AI 반도체…세계 4위 수출대국 견인",
      "url": "https://n.news.naver.com/article/015/0005354035"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1926,7 +1935,6 @@
    "articleId": "0005353995",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005354035",
@@ -1940,7 +1948,8 @@
      "title": "'中 수출 특수'의 아이러니…글로비스 초호황",
      "url": "https://n.news.naver.com/article/015/0005353973"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1957,8 +1966,8 @@
    "articleId": "0005353994",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -3287,7 +3296,6 @@
    "articleId": "0003762643",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003762642",
@@ -3295,7 +3303,8 @@
      "title": "미중러 회담앞 ‘김정은 최측근’ 러에… 韓 “우리 뺀채 북핵논의 안돼”",
      "url": "https://n.news.naver.com/article/020/0003762642"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3312,8 +3321,8 @@
    "articleId": "0003762645",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3330,7 +3339,6 @@
    "articleId": "0003762644",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003762569",
@@ -3350,7 +3358,8 @@
      "title": "귀에 들어온 AI, 마음에 남을까",
      "url": "https://n.news.naver.com/article/020/0003762665"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3367,8 +3376,8 @@
    "articleId": "0003762606",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4756,9 +4765,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "반도체 계속되는 질주… 10월 ICT 수출 ‘역대 최대’",
-   "url": "https://n.news.naver.com/article/020/0003762589",
-   "articleId": "0003762589",
+   "title": "접근 힘든 은행 ‘탄력 점포’… 10개중 1개만 상가 인근",
+   "url": "https://n.news.naver.com/article/020/0003762591",
+   "articleId": "0003762591",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4772,9 +4781,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "개미들 다시 ‘빚투’… 마통 4년 3개월만에 최다",
-   "url": "https://n.news.naver.com/article/020/0003762590",
-   "articleId": "0003762590",
+   "title": "반도체 계속되는 질주… 10월 ICT 수출 ‘역대 최대’",
+   "url": "https://n.news.naver.com/article/020/0003762589",
+   "articleId": "0003762589",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4788,9 +4797,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "접근 힘든 은행 ‘탄력 점포’… 10개중 1개만 상가 인근",
-   "url": "https://n.news.naver.com/article/020/0003762591",
-   "articleId": "0003762591",
+   "title": "개미들 다시 ‘빚투’… 마통 4년 3개월만에 최다",
+   "url": "https://n.news.naver.com/article/020/0003762590",
+   "articleId": "0003762590",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4836,9 +4845,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "전세계 업무 차질 부른 MS 장애, 36시간만에 복구",
-   "url": "https://n.news.naver.com/article/020/0003762576",
-   "articleId": "0003762576",
+   "title": "삼성, CES 혁신상 19개 받아… ‘갤럭시 폴드8’ 등 4개 최고상",
+   "url": "https://n.news.naver.com/article/020/0003762577",
+   "articleId": "0003762577",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4852,9 +4861,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "삼성, CES 혁신상 19개 받아… ‘갤럭시 폴드8’ 등 4개 최고상",
-   "url": "https://n.news.naver.com/article/020/0003762577",
-   "articleId": "0003762577",
+   "title": "LG전자 美테네시 공장 누적생산 1000만대 돌파",
+   "url": "https://n.news.naver.com/article/020/0003762578",
+   "articleId": "0003762578",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4868,9 +4877,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "LG전자 美테네시 공장 누적생산 1000만대 돌파",
-   "url": "https://n.news.naver.com/article/020/0003762578",
-   "articleId": "0003762578",
+   "title": "전세계 업무 차질 부른 MS 장애, 36시간만에 복구",
+   "url": "https://n.news.naver.com/article/020/0003762576",
+   "articleId": "0003762576",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5129,7 +5138,6 @@
    "articleId": "0004009798",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004009801",
@@ -5149,7 +5157,8 @@
      "title": "유튜브에 넘쳐나는 ‘AI 가짜 의사’ 광고, 27일부터 전면 금지",
      "url": "https://n.news.naver.com/article/023/0004009722"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5166,7 +5175,6 @@
    "articleId": "0004009799",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004009801",
@@ -5174,7 +5182,8 @@
      "title": "[단독] AI 부정 ‘세무사 수석’은 IT 관련고 출신 “공인회계사 1차 시험도 부정행위 했다”",
      "url": "https://n.news.naver.com/article/023/0004009801"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5191,8 +5200,8 @@
    "articleId": "0004009796",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5209,8 +5218,8 @@
    "articleId": "0004009797",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5460,11 +5469,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/16/4009800.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/16/4009778.jpg?type=nf264_176",
    "column": null,
-   "title": "[단독] ‘만학도 요람’ 올해는 수능 응시생 0명… 왜?",
-   "url": "https://n.news.naver.com/article/023/0004009800",
-   "articleId": "0004009800",
+   "title": "“키에서 125 뺀 몸무게 목표” 여고생들의 위험한 살 빼기",
+   "url": "https://n.news.naver.com/article/023/0004009778",
+   "articleId": "0004009778",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5478,9 +5487,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "유튜브에 넘쳐나는 ‘AI 가짜 의사’ 광고, 27일부터 전면 금지",
-   "url": "https://n.news.naver.com/article/023/0004009722",
-   "articleId": "0004009722",
+   "title": "[단독] ‘만학도 요람’ 올해는 수능 응시생 0명… 왜?",
+   "url": "https://n.news.naver.com/article/023/0004009800",
+   "articleId": "0004009800",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5494,9 +5503,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“키에서 125 뺀 몸무게 목표” 여고생들의 위험한 살 빼기",
-   "url": "https://n.news.naver.com/article/023/0004009778",
-   "articleId": "0004009778",
+   "title": "유튜브에 넘쳐나는 ‘AI 가짜 의사’ 광고, 27일부터 전면 금지",
+   "url": "https://n.news.naver.com/article/023/0004009722",
+   "articleId": "0004009722",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5652,11 +5661,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/16/4009772.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/16/4009774.jpg?type=nf264_176",
    "column": null,
-   "title": "비지땀 쏟고 “도파민 터진다” 환호… 2만명 몰린 ‘헬스 테마파크’",
-   "url": "https://n.news.naver.com/article/023/0004009772",
-   "articleId": "0004009772",
+   "title": "세계 챔피언은 육상 선수 출신",
+   "url": "https://n.news.naver.com/article/023/0004009774",
+   "articleId": "0004009774",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5670,9 +5679,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“헬스 좀 한다”는 ‘몸짱’들 모여 기록 싸움",
-   "url": "https://n.news.naver.com/article/023/0004009773",
-   "articleId": "0004009773",
+   "title": "비지땀 쏟고 “도파민 터진다” 환호… 2만명 몰린 ‘헬스 테마파크’",
+   "url": "https://n.news.naver.com/article/023/0004009772",
+   "articleId": "0004009772",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5686,9 +5695,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "세계 챔피언은 육상 선수 출신",
-   "url": "https://n.news.naver.com/article/023/0004009774",
-   "articleId": "0004009774",
+   "title": "“헬스 좀 한다”는 ‘몸짱’들 모여 기록 싸움",
+   "url": "https://n.news.naver.com/article/023/0004009773",
+   "articleId": "0004009773",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6379,7 +6388,6 @@
    "articleId": "0003565376",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003565364",
@@ -6399,7 +6407,8 @@
      "title": "AI 커닝에 기업채용도 비상…삼성·SK “응시자 안경 대면 검사”",
      "url": "https://n.news.naver.com/article/025/0003565377"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -6416,7 +6425,6 @@
    "articleId": "0003565379",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003565363",
@@ -6424,7 +6432,8 @@
      "title": "[사설] 사상 첫 미·중·러 정상회담, ‘제2의 얄타’ 경계해야",
      "url": "https://n.news.naver.com/article/025/0003565363"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -6441,7 +6450,6 @@
    "articleId": "0003565351",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003565372",
@@ -6449,7 +6457,8 @@
      "title": "중국은 시험장 전파 끊는데…한국은 ‘AI 커닝’ 막을 법 없다 [팩플]",
      "url": "https://n.news.naver.com/article/025/0003565372"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7634,8 +7643,8 @@
    "articleId": "0002832340",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -7652,8 +7661,8 @@
    "articleId": "0002832278",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -7670,7 +7679,6 @@
    "articleId": "0002832323",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002832326",
@@ -7690,7 +7698,8 @@
      "title": "스마트폰도 안 걷어…초소형 카메라로 문제 찍고 ‘AI 답’ 받아",
      "url": "https://n.news.naver.com/article/028/0002832327"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8539,8 +8548,8 @@
    "articleId": "0003482829",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -8557,8 +8566,8 @@
    "articleId": "0003482830",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -8575,7 +8584,6 @@
    "articleId": "0003482832",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003482825",
@@ -8595,7 +8603,8 @@
      "title": "[사설]젠슨 황 없는 AI 생태계, 우리 경제에 미칠 파장 대비해야",
      "url": "https://n.news.naver.com/article/032/0003482740"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -8611,7 +8620,9 @@
    "url": "https://n.news.naver.com/article/032/0003482831",
    "articleId": "0003482831",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "032",
