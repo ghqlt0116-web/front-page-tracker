@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "collectedAt": "2026-11-17T02:52:17",
+ "collectedAt": "2026-11-17T03:14:20",
  "articles": [
   {
    "press": "009",
@@ -4175,7 +4175,6 @@
    "articleId": "0003762974",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003762865",
@@ -4195,7 +4194,8 @@
      "title": "與 “韓선고 결과 실망땐 조희대 탄핵” 대법 압박",
      "url": "https://n.news.naver.com/article/020/0003762967"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -6363,7 +6363,8 @@
      "title": "[단독]시민구단 아닌 ‘시장님 구단’… 치적 쌓으려 추경까지 받아 돈 댔다",
      "url": "https://n.news.naver.com/article/023/0004010007"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
