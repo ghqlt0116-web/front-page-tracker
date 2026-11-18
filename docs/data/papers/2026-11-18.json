@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "collectedAt": "2026-11-18T03:07:21",
+ "collectedAt": "2026-11-18T03:43:25",
  "articles": [
   {
    "press": "009",
@@ -2099,7 +2099,8 @@
    "articleId": "0005354912",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -7776,7 +7777,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/025/2026/11/18/3566013.jpg?type=nf264_176",
    "column": null,
-   "title": "[단독] 올해만 벌써 20건 피소…‘특허 괴물’ 표적 된 K반도체",
+   "title": "[단독] 올해만 벌써 10건 피소…‘특허 괴물’ 표적 된 K반도체",
    "url": "https://n.news.naver.com/article/025/0003566013",
    "articleId": "0003566013",
    "seriesKey": null,
