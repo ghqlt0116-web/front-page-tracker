@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "collectedAt": "2026-11-18T01:50:14",
+ "collectedAt": "2026-11-18T02:19:25",
  "articles": [
   {
    "press": "009",
@@ -66,7 +66,8 @@
      "title": "트럼프, 김정은에 또 러브콜 … 선거 패배 극복하려 안간힘",
      "url": "https://n.news.naver.com/article/009/0005765120"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -83,7 +84,8 @@
    "articleId": "0005765155",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -107,7 +109,8 @@
      "title": "오락가락하다 결국 수능 감독관에 책임 떠넘긴 AI 커닝 대책 [사설]",
      "url": "https://n.news.naver.com/article/009/0005765062"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -131,7 +134,8 @@
      "title": "오피스텔 공급 절벽인데 … 법정 다툼에 준공 마치고도 빈집 신세",
      "url": "https://n.news.naver.com/article/009/0005765125"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2039,7 +2043,8 @@
      "title": "\"수능 전날 총잡이 만나면 만점 가능\"",
      "url": "https://n.news.naver.com/article/015/0005354901"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2163,7 +2168,8 @@
      "title": "변호사·세무사 응시자 2년째 감소…합격해도 입사는 '별 따기'",
      "url": "https://n.news.naver.com/article/015/0005354913"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -4017,7 +4023,8 @@
      "title": "‘AI 커닝’ 세무사 수석, 반입 허용된 계산기 개조해 부정행위",
      "url": "https://n.news.naver.com/article/020/0003763232"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4047,7 +4054,8 @@
      "title": "[사설]트럼프 “김정은 만날 수도”… 치솟은 ‘출연료’는 누가 대나",
      "url": "https://n.news.naver.com/article/020/0003763197"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4100,7 +4108,8 @@
    "articleId": "0003763244",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -5605,7 +5614,8 @@
    "articleId": "0004010230",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5662,7 +5672,8 @@
      "title": "[사설] “단추 구멍 막아라”, 결국 요행에 맡기는 수능 커닝 대책",
      "url": "https://n.news.naver.com/article/023/0004010167"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6360,11 +6371,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/18/4010225.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/17/4010158.jpg?type=nf264_176",
    "column": null,
-   "title": "[리빙포인트] 냄비 탄 자국에 케첩",
-   "url": "https://n.news.naver.com/article/023/0004010225",
-   "articleId": "0004010225",
+   "title": "[기고] 원화 국제화하려면 환율 방어에 국민연금 동원부터 멈춰야",
+   "url": "https://n.news.naver.com/article/023/0004010158",
+   "articleId": "0004010158",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6394,9 +6405,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[기고] 원화 국제화하려면 환율 방어에 국민연금 동원부터 멈춰야",
-   "url": "https://n.news.naver.com/article/023/0004010158",
-   "articleId": "0004010158",
+   "title": "[리빙포인트] 냄비 탄 자국에 케첩",
+   "url": "https://n.news.naver.com/article/023/0004010225",
+   "articleId": "0004010225",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6568,7 +6579,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/18/4010237.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/18/4010170.jpg?type=nf264_176",
+   "column": null,
+   "title": "외국인, 1.4조 넘게 던졌다… 9개월 만에 다시 ‘4천피’",
+   "url": "https://n.news.naver.com/article/023/0004010170",
+   "articleId": "0004010170",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-11-18",
+   "page": "B1",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "[단독] 호남 반도체 공장 ‘南전北닉’으로 결정",
    "url": "https://n.news.naver.com/article/023/0004010237",
@@ -6581,7 +6608,7 @@
    "pressName": "조선일보",
    "date": "2026-11-18",
    "page": "B1",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -6596,31 +6623,15 @@
    "press": "023",
    "pressName": "조선일보",
    "date": "2026-11-18",
-   "page": "B1",
-   "pageOrder": 3,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "외국인, 1.4조 넘게 던졌다… 9개월 만에 다시 ‘4천피’",
-   "url": "https://n.news.naver.com/article/023/0004010170",
-   "articleId": "0004010170",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-11-18",
    "page": "B2",
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/17/4010121.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/18/4010172.jpg?type=nf264_176",
    "column": null,
-   "title": "삼전닉스 3분기 보고서 들여다보니...“증산해도 수요 못 따라가” 메모리 장기 호황 자신감",
-   "url": "https://n.news.naver.com/article/023/0004010121",
-   "articleId": "0004010121",
+   "title": "“국가대표급 스타트업 골라 ‘K-에너지 어벤져스’ 만들겠다”",
+   "url": "https://n.news.naver.com/article/023/0004010172",
+   "articleId": "0004010172",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6634,9 +6645,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "IMF, 韓 경제성장률 3.9%로 한 달 만에 또 상향...인플레 억제 위한 재정·통화 긴축 주문",
-   "url": "https://n.news.naver.com/article/023/0004010111",
-   "articleId": "0004010111",
+   "title": "삼전닉스 3분기 보고서 들여다보니...“증산해도 수요 못 따라가” 메모리 장기 호황 자신감",
+   "url": "https://n.news.naver.com/article/023/0004010121",
+   "articleId": "0004010121",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6650,9 +6661,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“국가대표급 스타트업 골라 ‘K-에너지 어벤져스’ 만들겠다”",
-   "url": "https://n.news.naver.com/article/023/0004010172",
-   "articleId": "0004010172",
+   "title": "IMF, 韓 경제성장률 3.9%로 한 달 만에 또 상향...인플레 억제 위한 재정·통화 긴축 주문",
+   "url": "https://n.news.naver.com/article/023/0004010111",
+   "articleId": "0004010111",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6882,7 +6893,8 @@
      "title": "올해만 AI 부정행위 267건 잡은 AI ‘모니토’",
      "url": "https://n.news.naver.com/article/025/0003565951"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -6899,7 +6911,8 @@
    "articleId": "0003565988",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -8184,7 +8197,8 @@
      "title": "이 대통령 “요행 노리다가 인생 망치지 말고 수능 부정행위 포기하라”",
      "url": "https://n.news.naver.com/article/028/0002832702"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8232,7 +8246,8 @@
      "title": "[단독] 삼성 HR·HE 휴머노이드, 내년 CES서 공개…고성능·기본형 ‘투트랙’",
      "url": "https://n.news.naver.com/article/028/0002832681"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8256,7 +8271,8 @@
      "title": "미국·중국·일본·프랑스 대입 시험서도 “AI 커닝 차단” 총력전",
      "url": "https://n.news.naver.com/article/028/0002832643"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9304,7 +9320,8 @@
      "title": "[사설]수능 이틀 전 급조한 부정행위 대책, 혼란 없도록 철저 준비해야",
      "url": "https://n.news.naver.com/article/032/0003483245"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9340,7 +9357,8 @@
      "title": "반년 만에 만난 한·일 정상…‘셔틀외교’ 공고화에 뜻 모아",
      "url": "https://n.news.naver.com/article/032/0003483318"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9357,7 +9375,8 @@
    "articleId": "0003483327",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9374,7 +9393,8 @@
    "articleId": "0003483326",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
