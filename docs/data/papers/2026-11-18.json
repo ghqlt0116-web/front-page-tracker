@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "collectedAt": "2026-11-18T02:37:51",
+ "collectedAt": "2026-11-18T03:07:21",
  "articles": [
   {
    "press": "009",
@@ -2081,7 +2081,8 @@
      "title": "\"수능 전날 총잡이 만나면 만점 가능\"",
      "url": "https://n.news.naver.com/article/015/0005354901"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -5608,7 +5609,24 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/18/4010230.jpg?type=nf600_340",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/18/4010231.jpg?type=nf600_340",
+   "column": null,
+   "title": "北 김정일이 묵었던 산장서... 미·중·러 정상, 담판 짓는다",
+   "url": "https://n.news.naver.com/article/023/0004010231",
+   "articleId": "0004010231",
+   "seriesKey": null,
+   "seriesType": null,
+   "related": []
+  },
+  {
+   "press": "023",
+   "pressName": "조선일보",
+   "date": "2026-11-18",
+   "page": "A1",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "횡령해도, 구장 관리 못해도 제재 눈감는 K리그",
    "url": "https://n.news.naver.com/article/023/0004010230",
@@ -5623,7 +5641,7 @@
    "pressName": "조선일보",
    "date": "2026-11-18",
    "page": "A1",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -5631,23 +5649,6 @@
    "title": "한성숙 총리가 ‘의사봉’ 조작기소 특검법 의결",
    "url": "https://n.news.naver.com/article/023/0004010232",
    "articleId": "0004010232",
-   "seriesKey": null,
-   "seriesType": null,
-   "related": []
-  },
-  {
-   "press": "023",
-   "pressName": "조선일보",
-   "date": "2026-11-18",
-   "page": "A1",
-   "pageOrder": 3,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "北 김정일이 묵었던 산장서... 미·중·러 정상, 담판 짓는다",
-   "url": "https://n.news.naver.com/article/023/0004010231",
-   "articleId": "0004010231",
    "seriesKey": null,
    "seriesType": null,
    "related": []
