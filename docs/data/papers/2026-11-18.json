@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "collectedAt": "2026-11-18T02:19:25",
+ "collectedAt": "2026-11-18T02:37:51",
  "articles": [
   {
    "press": "009",
@@ -30,7 +30,8 @@
      "title": "\"애플, 메모리 최저 가격 보장에 스마트폰·PC 가격 더 뛸 수도\"",
      "url": "https://n.news.naver.com/article/009/0005765183"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -5631,7 +5632,8 @@
    "url": "https://n.news.naver.com/article/023/0004010232",
    "articleId": "0004010232",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "023",
