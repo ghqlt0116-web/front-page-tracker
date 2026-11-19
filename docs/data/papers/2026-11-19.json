@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "collectedAt": "2026-11-19T02:47:07",
+ "collectedAt": "2026-11-19T03:33:05",
  "articles": [
   {
    "press": "009",
@@ -2552,7 +2552,8 @@
    "articleId": "0005355482",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -6816,6 +6817,22 @@
    "seriesType": null
   },
   {
+   "press": "020",
+   "pressName": "동아일보",
+   "date": "2026-11-19",
+   "page": "C2",
+   "pageOrder": 1,
+   "isTop": true,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/020/2026/11/19/3763649.jpg?type=nf264_176",
+   "column": null,
+   "title": "“야경에 취하고 미식에 반하다”… 2026 홍콩 와인 앤 다인 페스티벌",
+   "url": "https://n.news.naver.com/article/020/0003763649",
+   "articleId": "0003763649",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
    "press": "023",
    "pressName": "조선일보",
    "date": "2026-11-19",
@@ -7086,11 +7103,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/19/4010486.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/19/4010488.jpg?type=nf264_176",
    "column": null,
-   "title": "[단독] 이용철 배우자 수천만원대 주식, 직무 관련성 심사 신청 안해 논란",
-   "url": "https://n.news.naver.com/article/023/0004010486",
-   "articleId": "0004010486",
+   "title": "[단독] AI 커닝 세무사 수석, 옷에 붙인 초소형 모니터로 답안 확인",
+   "url": "https://n.news.naver.com/article/023/0004010488",
+   "articleId": "0004010488",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7104,9 +7121,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "의료 관광객 200만명 시대… 호텔 안에 아예 병원까지 들였다",
-   "url": "https://n.news.naver.com/article/023/0004010465",
-   "articleId": "0004010465",
+   "title": "[단독] 이용철 배우자 수천만원대 주식, 직무 관련성 심사 신청 안해 논란",
+   "url": "https://n.news.naver.com/article/023/0004010486",
+   "articleId": "0004010486",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7120,9 +7137,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[단독] AI 커닝 세무사 수석, 옷에 붙인 초소형 모니터로 답안 확인",
-   "url": "https://n.news.naver.com/article/023/0004010488",
-   "articleId": "0004010488",
+   "title": "의료 관광객 200만명 시대… 호텔 안에 아예 병원까지 들였다",
+   "url": "https://n.news.naver.com/article/023/0004010465",
+   "articleId": "0004010465",
    "seriesKey": null,
    "seriesType": null
   },
