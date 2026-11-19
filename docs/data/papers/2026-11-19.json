@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "collectedAt": "2026-11-19T01:25:20",
+ "collectedAt": "2026-11-19T01:50:31",
  "articles": [
   {
    "press": "009",
@@ -17,7 +17,6 @@
    "articleId": "0005765808",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005765866",
@@ -31,7 +30,8 @@
      "title": "서비스·투자도 한중 FTA … 中, 북핵에도 더 책임있는 자세를 [사설]",
      "url": "https://n.news.naver.com/article/009/0005765737"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -47,7 +47,16 @@
    "url": "https://n.news.naver.com/article/009/0005765806",
    "articleId": "0005765806",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0005765738",
+     "page": "A39",
+     "title": "오늘 수능 … AI커닝에 수험생 땀방울 헛되게하는 일 없어야 [사설]",
+     "url": "https://n.news.naver.com/article/009/0005765738"
+    }
+   ]
   },
   {
    "press": "009",
@@ -7332,8 +7341,8 @@
    "page": "A18",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/19/4010451.jpg?type=nf264_176",
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "‘재즈 디바’ 30년… 국악 품고 나서야 내 소리 찾았죠",
    "url": "https://n.news.naver.com/article/023/0004010451",
@@ -7365,11 +7374,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/19/4010454.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/19/4010455.jpg?type=nf264_176",
    "column": null,
-   "title": "손흥민의 무뎌진 발끝… 찬스에도 골이 안 터진다",
-   "url": "https://n.news.naver.com/article/023/0004010454",
-   "articleId": "0004010454",
+   "title": "우즈가 돌아온다",
+   "url": "https://n.news.naver.com/article/023/0004010455",
+   "articleId": "0004010455",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7383,9 +7392,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "오타니, 올해는 ‘빈손’",
-   "url": "https://n.news.naver.com/article/023/0004010453",
-   "articleId": "0004010453",
+   "title": "손흥민의 무뎌진 발끝… 찬스에도 골이 안 터진다",
+   "url": "https://n.news.naver.com/article/023/0004010454",
+   "articleId": "0004010454",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7399,9 +7408,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "우즈가 돌아온다",
-   "url": "https://n.news.naver.com/article/023/0004010455",
-   "articleId": "0004010455",
+   "title": "오타니, 올해는 ‘빈손’",
+   "url": "https://n.news.naver.com/article/023/0004010453",
+   "articleId": "0004010453",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7653,13 +7662,13 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/18/4010401.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/18/4010404.jpg?type=nf264_176",
    "column": null,
-   "title": "[이응준의 과거에서 보내는 엽서] [93] 링컨이 일깨운 국가의 의미",
-   "url": "https://n.news.naver.com/article/023/0004010401",
-   "articleId": "0004010401",
-   "seriesKey": "023:이응준의과거에서보내는엽서",
-   "seriesType": "연재칼럼"
+   "title": "[양상훈 칼럼] ‘계엄 거부 못한 죄’ 처벌 지나치다",
+   "url": "https://n.news.naver.com/article/023/0004010404",
+   "articleId": "0004010404",
+   "seriesKey": null,
+   "seriesType": null
   },
   {
    "press": "023",
@@ -7671,11 +7680,11 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[양상훈 칼럼] ‘계엄 거부 못한 죄’ 처벌 지나치다",
-   "url": "https://n.news.naver.com/article/023/0004010404",
-   "articleId": "0004010404",
-   "seriesKey": null,
-   "seriesType": null
+   "title": "[이응준의 과거에서 보내는 엽서] [93] 링컨이 일깨운 국가의 의미",
+   "url": "https://n.news.naver.com/article/023/0004010401",
+   "articleId": "0004010401",
+   "seriesKey": "023:이응준의과거에서보내는엽서",
+   "seriesType": "연재칼럼"
   },
   {
    "press": "023",
