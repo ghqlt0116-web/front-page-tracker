@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "collectedAt": "2026-11-19T01:50:31",
+ "collectedAt": "2026-11-19T02:03:49",
  "articles": [
   {
    "press": "009",
@@ -48,7 +48,6 @@
    "articleId": "0005765806",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005765738",
@@ -56,7 +55,8 @@
      "title": "오늘 수능 … AI커닝에 수험생 땀방울 헛되게하는 일 없어야 [사설]",
      "url": "https://n.news.naver.com/article/009/0005765738"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -7533,12 +7533,12 @@
    "page": "A25",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": false,
-   "thumb": null,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/19/4010435.jpg?type=nf264_176",
    "column": null,
-   "title": "[제31회 LG배 조선일보 기왕전] 승리 선언",
-   "url": "https://n.news.naver.com/article/023/0004010434",
-   "articleId": "0004010434",
+   "title": "[TV조선] 트로트 디바들의 대결",
+   "url": "https://n.news.naver.com/article/023/0004010435",
+   "articleId": "0004010435",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7552,9 +7552,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[TV조선] 트로트 디바들의 대결",
-   "url": "https://n.news.naver.com/article/023/0004010435",
-   "articleId": "0004010435",
+   "title": "[제31회 LG배 조선일보 기왕전] 승리 선언",
+   "url": "https://n.news.naver.com/article/023/0004010434",
+   "articleId": "0004010434",
    "seriesKey": null,
    "seriesType": null
   },
