@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "collectedAt": "2026-11-20T01:44:50",
+ "collectedAt": "2026-11-20T01:54:47",
  "articles": [
   {
    "press": "009",
@@ -5992,7 +5992,8 @@
    "articleId": "0004010724",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6040,7 +6041,6 @@
    "articleId": "0004010726",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004010719",
@@ -6048,7 +6048,8 @@
      "title": "與, 판결 나자마자 긴급 의총… “靑과 회의 거쳐 조희대 탄핵으로 의견 모아”",
      "url": "https://n.news.naver.com/article/023/0004010719"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6410,11 +6411,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/20/4010698.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/20/4010697.jpg?type=nf264_176",
    "column": null,
-   "title": "미·중·러 회담 열린 날, 유럽 20국 정상들은 베를린서 뭉쳤다",
-   "url": "https://n.news.naver.com/article/023/0004010698",
-   "articleId": "0004010698",
+   "title": "국제사법재판소 “미얀마, 로힝야족 상대로 집단학살 저질러”",
+   "url": "https://n.news.naver.com/article/023/0004010697",
+   "articleId": "0004010697",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6428,9 +6429,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "마두로 체포 후 25년 만에 군사협력 재개… 美, 베네수엘라를 ‘돈로주의’ 교두보 삼아",
-   "url": "https://n.news.naver.com/article/023/0004010700",
-   "articleId": "0004010700",
+   "title": "미·중·러 회담 열린 날, 유럽 20국 정상들은 베를린서 뭉쳤다",
+   "url": "https://n.news.naver.com/article/023/0004010698",
+   "articleId": "0004010698",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6444,9 +6445,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "국제사법재판소 “미얀마, 로힝야족 상대로 집단학살 저질러”",
-   "url": "https://n.news.naver.com/article/023/0004010697",
-   "articleId": "0004010697",
+   "title": "마두로 체포 후 25년 만에 군사협력 재개… 美, 베네수엘라를 ‘돈로주의’ 교두보 삼아",
+   "url": "https://n.news.naver.com/article/023/0004010700",
+   "articleId": "0004010700",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6474,11 +6475,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/20/4010680.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/20/4010681.jpg?type=nf264_176",
    "column": null,
-   "title": "이민진 ‘아메리칸 학원’ 아마존 ‘올해의 책’ 1위",
-   "url": "https://n.news.naver.com/article/023/0004010680",
-   "articleId": "0004010680",
+   "title": "붉은 볼에 앞코 높은 신발… 中 흙인형에도 유행이 담겨 있네",
+   "url": "https://n.news.naver.com/article/023/0004010681",
+   "articleId": "0004010681",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6492,9 +6493,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "붉은 볼에 앞코 높은 신발… 中 흙인형에도 유행이 담겨 있네",
-   "url": "https://n.news.naver.com/article/023/0004010681",
-   "articleId": "0004010681",
+   "title": "이민진 ‘아메리칸 학원’ 아마존 ‘올해의 책’ 1위",
+   "url": "https://n.news.naver.com/article/023/0004010680",
+   "articleId": "0004010680",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7082,11 +7083,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/20/4010658.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/20/4010662.jpg?type=nf264_176",
    "column": null,
-   "title": "외국인 ‘토허제’ 1년… 서울 매수자 25% 줄고 부산은 46% 늘어",
-   "url": "https://n.news.naver.com/article/023/0004010658",
-   "articleId": "0004010658",
+   "title": "서울 월세 168만원, 경기 120만원… 인천도 100만원 넘겨",
+   "url": "https://n.news.naver.com/article/023/0004010662",
+   "articleId": "0004010662",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7100,9 +7101,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“美 데이터센터 규제, 韓 영향 적어” “주정부 규제, 亞 반도체 기업 영향”",
-   "url": "https://n.news.naver.com/article/023/0004010659",
-   "articleId": "0004010659",
+   "title": "외국인 ‘토허제’ 1년… 서울 매수자 25% 줄고 부산은 46% 늘어",
+   "url": "https://n.news.naver.com/article/023/0004010658",
+   "articleId": "0004010658",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7116,9 +7117,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "서울 월세 168만원, 경기 120만원… 인천도 100만원 넘겨",
-   "url": "https://n.news.naver.com/article/023/0004010662",
-   "articleId": "0004010662",
+   "title": "“美 데이터센터 규제, 韓 영향 적어” “주정부 규제, 亞 반도체 기업 영향”",
+   "url": "https://n.news.naver.com/article/023/0004010659",
+   "articleId": "0004010659",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7345,8 +7346,8 @@
    "articleId": "0003566639",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -8612,7 +8613,8 @@
      "title": "[사설] 한덕수 형량 깎아주려 작정한 대법 파기환송 판결",
      "url": "https://n.news.naver.com/article/028/0002833101"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8660,7 +8662,6 @@
    "articleId": "0002833113",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002833116",
@@ -8674,7 +8675,8 @@
      "title": "트럼프, 3국 회담 앞 푸틴·시진핑과 회동…우크라전·무역휴전 논의",
      "url": "https://n.news.naver.com/article/028/0002833095"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8691,7 +8693,8 @@
    "articleId": "0002833092",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
