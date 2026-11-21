@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "collectedAt": "2026-11-21T00:55:55",
+ "collectedAt": "2026-11-21T01:21:10",
  "articles": [
   {
    "press": "009",
@@ -17,7 +17,6 @@
    "articleId": "0005766842",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005766852",
@@ -25,7 +24,8 @@
      "title": "앤트로픽 쏠림·대중규제 우려 … 반도체株 곤두박질",
      "url": "https://n.news.naver.com/article/009/0005766852"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -42,7 +42,6 @@
    "articleId": "0005766844",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005766826",
@@ -50,7 +49,8 @@
      "title": "공시가율 안 올라도 … 아리팍 내년 보유세 1036만원 '껑충'",
      "url": "https://n.news.naver.com/article/009/0005766826"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -67,7 +67,6 @@
    "articleId": "0005766843",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005766851",
@@ -87,7 +86,8 @@
      "title": "구글, 블루오리진과 손잡고 AI 데이터센터 우주로 쏜다",
      "url": "https://n.news.naver.com/article/009/0005766774"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -104,8 +104,8 @@
    "articleId": "0005766845",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -1531,7 +1531,6 @@
    "articleId": "0005356450",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005356488",
@@ -1545,7 +1544,8 @@
      "title": "삼전닉스 주주 1100만명…절반 이상이 '손실'",
      "url": "https://n.news.naver.com/article/015/0005356486"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1562,7 +1562,6 @@
    "articleId": "0005356455",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005356456",
@@ -1570,7 +1569,8 @@
      "title": "서울 집값 급등에…공시가 현실화 '원점'으로",
      "url": "https://n.news.naver.com/article/015/0005356456"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1587,7 +1587,6 @@
    "articleId": "0005356463",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005356498",
@@ -1595,7 +1594,8 @@
      "title": "삼성, 역대급 실적 반도체서만 사장 3명 승진",
      "url": "https://n.news.naver.com/article/015/0005356498"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1612,7 +1612,6 @@
    "articleId": "0005356452",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005356458",
@@ -1620,7 +1619,8 @@
      "title": "[단독] 한국 안방 노리는 中…정부 '250만원 카드' 꺼냈다",
      "url": "https://n.news.naver.com/article/015/0005356458"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2965,8 +2965,8 @@
    "articleId": "0003764065",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -2983,7 +2983,6 @@
    "articleId": "0003764066",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003764089",
@@ -2997,7 +2996,8 @@
      "title": "[사설]IEA “韓 에너지 수입 의존도 80%”… AI 시대 생존 위협할 수도",
      "url": "https://n.news.naver.com/article/020/0003764061"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3014,7 +3014,6 @@
    "articleId": "0003764067",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003764089",
@@ -3028,7 +3027,8 @@
      "title": "[사설]IEA “韓 에너지 수입 의존도 80%”… AI 시대 생존 위협할 수도",
      "url": "https://n.news.naver.com/article/020/0003764061"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3045,8 +3045,8 @@
    "articleId": "0003764068",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3975,7 +3975,8 @@
    "articleId": "0004010928",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -3992,7 +3993,6 @@
    "articleId": "0004010929",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004010851",
@@ -4012,7 +4012,8 @@
      "title": "앤스로픽 상장 첫날 17% 올라… 업계 “AI 가치, 실적으로 검증 가능”",
      "url": "https://n.news.naver.com/article/023/0004010916"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4029,8 +4030,8 @@
    "articleId": "0004010927",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4047,7 +4048,6 @@
    "articleId": "0004010926",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004010852",
@@ -4055,7 +4055,8 @@
      "title": "[사설] 판결 다음날 대법원장 탄핵 결의, 집권당의 충동적 국헌문란",
      "url": "https://n.news.naver.com/article/023/0004010852"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5352,8 +5353,8 @@
    "articleId": "0000057355",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
@@ -5369,7 +5370,28 @@
    "url": "https://n.news.naver.com/article/353/0000057356",
    "articleId": "0000057356",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0000057306",
+     "page": "T8",
+     "title": "‘없는 판례’ 만들어낸 AI, 그대로 쓴 변호사…과태료로 해결될까요",
+     "url": "https://n.news.naver.com/article/353/0000057306"
+    },
+    {
+     "articleId": "0000057344",
+     "page": "T9",
+     "title": "“AI 계산 잘못…세금 환급은커녕 79만원 토해”",
+     "url": "https://n.news.naver.com/article/353/0000057344"
+    },
+    {
+     "articleId": "0000057332",
+     "page": "T30",
+     "title": "[사설] AI 커닝에 흔들린 국가시험, 근본부터 바꿔야",
+     "url": "https://n.news.naver.com/article/353/0000057332"
+    }
+   ]
   },
   {
    "press": "353",
@@ -5386,7 +5408,6 @@
    "articleId": "0000057357",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0000057352",
@@ -5394,7 +5415,8 @@
      "title": "민주유공자법 여당 주도 국회 통과…야권 “셀프 특혜”",
      "url": "https://n.news.naver.com/article/353/0000057352"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "353",
