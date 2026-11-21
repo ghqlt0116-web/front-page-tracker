@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "collectedAt": "2026-11-21T01:21:10",
+ "collectedAt": "2026-11-21T01:48:18",
  "articles": [
   {
    "press": "009",
@@ -122,7 +122,8 @@
    "articleId": "0005766846",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -5371,7 +5372,6 @@
    "articleId": "0000057356",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0000057306",
@@ -5391,7 +5391,8 @@
      "title": "[사설] AI 커닝에 흔들린 국가시험, 근본부터 바꿔야",
      "url": "https://n.news.naver.com/article/353/0000057332"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "353",
