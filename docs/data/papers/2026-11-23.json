@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "collectedAt": "2026-11-23T00:26:06",
+ "collectedAt": "2026-11-23T00:44:40",
  "articles": [
   {
    "press": "009",
@@ -17,8 +17,8 @@
    "articleId": "0005767310",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -35,7 +35,6 @@
    "articleId": "0005767337",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005767296",
@@ -43,7 +42,8 @@
      "title": "\"폭락장 대비하라\"…대만은 공매도 빗장, 한국은 증안펀드 거론",
      "url": "https://n.news.naver.com/article/009/0005767296"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -60,8 +60,8 @@
    "articleId": "0005767338",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -110,8 +110,8 @@
    "articleId": "0005767313",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -128,7 +128,8 @@
    "articleId": "0005767314",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -1968,7 +1969,9 @@
    "url": "https://n.news.naver.com/article/015/0005356799",
    "articleId": "0005356799",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "015",
@@ -1984,7 +1987,9 @@
    "url": "https://n.news.naver.com/article/015/0005356747",
    "articleId": "0005356747",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "015",
@@ -2001,8 +2006,8 @@
    "articleId": "0005356755",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2019,7 +2024,6 @@
    "articleId": "0005356751",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005356832",
@@ -2027,7 +2031,8 @@
      "title": "[사설] 교육부 장관 사퇴로 끝 아니다…시험불신 확산 막아야",
      "url": "https://n.news.naver.com/article/015/0005356832"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2044,7 +2049,6 @@
    "articleId": "0005356749",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005356750",
@@ -2052,7 +2056,8 @@
      "title": "집 넓히면 억대 분담금, 줄이면 환급…재건축 '큰집 불패' 깨졌다",
      "url": "https://n.news.naver.com/article/015/0005356750"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2069,8 +2074,8 @@
    "articleId": "0005356752",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2863,12 +2868,12 @@
    "page": "A28",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/11/22/5356759.jpg?type=nf264_176",
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
-   "title": "대입논술도 'AI 커닝' 비상…앞치마 입고 안경엔 스티커",
-   "url": "https://n.news.naver.com/article/015/0005356759",
-   "articleId": "0005356759",
+   "title": "'회계사·공무원시험 강자' 나무아카데미·한림법학원 매물로",
+   "url": "https://n.news.naver.com/article/015/0005356757",
+   "articleId": "0005356757",
    "seriesKey": null,
    "seriesType": null
   },
@@ -2882,9 +2887,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "과거 수능 시험지 안버렸다…부정행위 의심자 조사 검토",
-   "url": "https://n.news.naver.com/article/015/0005356758",
-   "articleId": "0005356758",
+   "title": "대입논술도 'AI 커닝' 비상…앞치마 입고 안경엔 스티커",
+   "url": "https://n.news.naver.com/article/015/0005356759",
+   "articleId": "0005356759",
    "seriesKey": null,
    "seriesType": null
   },
@@ -2898,9 +2903,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "'회계사·공무원 학원' 나무아카데미·한림법학원 매물로",
-   "url": "https://n.news.naver.com/article/015/0005356757",
-   "articleId": "0005356757",
+   "title": "과거 수능 시험지 안버렸다…부정행위 의심자 조사 검토",
+   "url": "https://n.news.naver.com/article/015/0005356758",
+   "articleId": "0005356758",
    "seriesKey": null,
    "seriesType": null
   },
@@ -3415,7 +3420,6 @@
    "articleId": "0003764318",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003764316",
@@ -3423,7 +3427,8 @@
      "title": "與 “‘6·3·3’ 위반도 조희대 탄핵 사유에 포함”… ‘중대성 요건’ 여부 논란",
      "url": "https://n.news.naver.com/article/020/0003764316"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3440,7 +3445,6 @@
    "articleId": "0003764320",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003764322",
@@ -3448,7 +3452,8 @@
      "title": "트럼프 “다른 나라에 데이터센터 짓는 美기업에 막대한 제재”",
      "url": "https://n.news.naver.com/article/020/0003764322"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3465,7 +3470,6 @@
    "articleId": "0003764319",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003764250",
@@ -3479,7 +3483,8 @@
      "title": "‘세계 3대 요리학교’ 美 CIA도 한식 가르친다",
      "url": "https://n.news.naver.com/article/020/0003764285"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3496,7 +3501,6 @@
    "articleId": "0003764284",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003764324",
@@ -3510,7 +3514,8 @@
      "title": "[사설]최교진 사퇴… ‘대학선발권 강화’ 입시제도 개편 시동 걸 때",
      "url": "https://n.news.naver.com/article/020/0003764251"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4935,8 +4940,8 @@
    "articleId": "0004011124",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4953,7 +4958,6 @@
    "articleId": "0004011126",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004011111",
@@ -4973,7 +4977,8 @@
      "title": "“AI 슬롭 벌써 질려… 미술관은 ‘예술적 지능’ 실험장”",
      "url": "https://n.news.naver.com/article/023/0004011090"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4990,7 +4995,6 @@
    "articleId": "0004011125",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004011121",
@@ -5004,7 +5008,8 @@
      "title": "[에디터의 Q] “퇴임 후 재판받겠다 밝히면 떳떳, 조희대 탄핵 공격 중단해야”",
      "url": "https://n.news.naver.com/article/023/0004011049"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5447,11 +5452,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/23/4011136.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/23/4011137.jpg?type=nf264_176",
    "column": null,
-   "title": "세계 최강인데 태극마크 반납? 최민정 월드투어 3연속 금메달",
-   "url": "https://n.news.naver.com/article/023/0004011136",
-   "articleId": "0004011136",
+   "title": "화려한 PGA 투어 생활? 항공·숙박비만 2억7000만원",
+   "url": "https://n.news.naver.com/article/023/0004011137",
+   "articleId": "0004011137",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5465,9 +5470,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "전날까지 30분 넘게 경기 뛰더니 대표팀 소집엔 “부상 때문에 불참”",
-   "url": "https://n.news.naver.com/article/023/0004011093",
-   "articleId": "0004011093",
+   "title": "세계 최강인데 태극마크 반납? 최민정 월드투어 3연속 금메달",
+   "url": "https://n.news.naver.com/article/023/0004011136",
+   "articleId": "0004011136",
    "seriesKey": null,
    "seriesType": null
   },
@@ -5481,9 +5486,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "화려한 PGA 투어 생활? 항공·숙박비만 2억7000만원",
-   "url": "https://n.news.naver.com/article/023/0004011137",
-   "articleId": "0004011137",
+   "title": "전날까지 30분 넘게 경기 뛰더니 대표팀 소집엔 “부상 때문에 불참”",
+   "url": "https://n.news.naver.com/article/023/0004011093",
+   "articleId": "0004011093",
    "seriesKey": null,
    "seriesType": null
   },
@@ -6151,14 +6156,13 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/025/2026/11/23/3567086.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/025/2026/11/23/3567086.jpg?type=nf600_340",
    "column": null,
    "title": "공학 최강대학은 성균관·포스텍, 인문은 고려·서울대 [2026 대학평가]",
    "url": "https://n.news.naver.com/article/025/0003567086",
    "articleId": "0003567086",
    "seriesKey": "025:2026대학평가",
    "seriesType": "기획",
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003567090",
@@ -6178,7 +6182,8 @@
      "title": "중앙대, 우주 비밀 풀 중성미자 연구…GIST, 뇌 유전자 분석 장관표창  [2026 대학평가]",
      "url": "https://n.news.naver.com/article/025/0003567080"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -6195,7 +6200,6 @@
    "articleId": "0003567083",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003567072",
@@ -6203,7 +6207,8 @@
      "title": "[사설] 최교진 사퇴…후임은 진영 떠나 미래 교육 이끌 인물로",
      "url": "https://n.news.naver.com/article/025/0003567072"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7556,7 +7561,6 @@
    "articleId": "0002833394",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002833422",
@@ -7564,7 +7568,8 @@
      "title": "최교진, 수능 부정 무사안일 대처에 ‘나이’ 발언 겹쳐 결국 하차",
      "url": "https://n.news.naver.com/article/028/0002833422"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -7581,7 +7586,6 @@
    "articleId": "0002833418",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002833420",
@@ -7601,7 +7605,8 @@
      "title": "‘조희대 탄핵안’ 통과 시 ‘윤석열 내란’ 전원합의체 구성 못할 수도",
      "url": "https://n.news.naver.com/article/028/0002833416"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -7654,7 +7659,6 @@
    "articleId": "0002833421",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002833408",
@@ -7674,7 +7678,8 @@
      "title": "이 대통령, AI 부정시험 차단책 주문…“문제지 고유 표식 검토”",
      "url": "https://n.news.naver.com/article/028/0002833414"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -7894,7 +7899,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "“입지 선정 때부터 조류 충돌 따져야”…새만금공항 판결, 전국 신공항 경고등?",
+   "title": "“입지 선정 때 조류 충돌 따져야” 새만금공항 판결…전국 신공항 ‘경고등’",
    "url": "https://n.news.naver.com/article/028/0002833429",
    "articleId": "0002833429",
    "seriesKey": null,
@@ -8443,7 +8448,6 @@
    "articleId": "0003484327",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003484244",
@@ -8457,7 +8461,8 @@
      "title": "리트·수능까지 뒤흔든 ‘AI 부정행위’…흔들리는 시험 공화국에 남은 질문들[뉴스분석]",
      "url": "https://n.news.naver.com/article/032/0003484334"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -8489,7 +8494,9 @@
    "url": "https://n.news.naver.com/article/032/0003484325",
    "articleId": "0003484325",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "032",
@@ -8506,7 +8513,6 @@
    "articleId": "0003484336",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003484331",
@@ -8514,7 +8520,8 @@
      "title": "조선소 청년 용접공의 죽음…“오빠 살려내라는 게 아냐, 또 다른 죽음 막아 달라”[인터뷰]",
      "url": "https://n.news.naver.com/article/032/0003484331"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
