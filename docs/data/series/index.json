@@ -1,6 +1,507 @@
 {
  "series": [
   {
+   "seriesKey": "020:임용한의전쟁사",
+   "press": "020",
+   "pressName": "동아일보",
+   "name": "임용한의 전쟁사",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "398",
+     "ord": 398,
+     "isEnd": false,
+     "date": "2026-01-06",
+     "page": "A31",
+     "column": null,
+     "title": "혁명의 봄[임용한의 전쟁사]〈398〉",
+     "url": "https://n.news.naver.com/article/020/0003686970",
+     "articleId": "0003686970"
+    },
+    {
+     "label": "399",
+     "ord": 399,
+     "isEnd": false,
+     "date": "2026-01-13",
+     "page": "A27",
+     "column": null,
+     "title": "우리가 겪지 못했던 세계[임용한의 전쟁사]〈399〉",
+     "url": "https://n.news.naver.com/article/020/0003688744",
+     "articleId": "0003688744"
+    },
+    {
+     "label": "436",
+     "ord": 436,
+     "isEnd": false,
+     "date": "2026-10-06",
+     "page": "A31",
+     "column": null,
+     "title": "‘방어용’ 지뢰?[임용한의 전쟁사]〈436〉",
+     "url": "https://n.news.naver.com/article/020/0003752806",
+     "articleId": "0003752806"
+    },
+    {
+     "label": "437",
+     "ord": 437,
+     "isEnd": false,
+     "date": "2026-10-13",
+     "page": "A27",
+     "column": null,
+     "title": "클라우제비츠가 말한 전쟁[임용한의 전쟁사]〈437〉",
+     "url": "https://n.news.naver.com/article/020/0003754396",
+     "articleId": "0003754396"
+    },
+    {
+     "label": "438",
+     "ord": 438,
+     "isEnd": false,
+     "date": "2026-10-20",
+     "page": "A27",
+     "column": null,
+     "title": "권력의 승부, 책임의 승부[임용한의 전쟁사]〈438〉",
+     "url": "https://n.news.naver.com/article/020/0003756030",
+     "articleId": "0003756030"
+    },
+    {
+     "label": "439",
+     "ord": 439,
+     "isEnd": false,
+     "date": "2026-10-27",
+     "page": "A31",
+     "column": null,
+     "title": "비방 엄금하면 비난 사라진다?[임용한의 전쟁사]〈439〉",
+     "url": "https://n.news.naver.com/article/020/0003757797",
+     "articleId": "0003757797"
+    },
+    {
+     "label": "440",
+     "ord": 440,
+     "isEnd": false,
+     "date": "2026-11-03",
+     "page": "A27",
+     "column": null,
+     "title": "군의 정치 중립[임용한의 전쟁사]〈440〉",
+     "url": "https://n.news.naver.com/article/020/0003759502",
+     "articleId": "0003759502"
+    },
+    {
+     "label": "441",
+     "ord": 441,
+     "isEnd": false,
+     "date": "2026-11-10",
+     "page": "A31",
+     "column": null,
+     "title": "푸틴의 죄, 트럼프의 죄[임용한의 전쟁사]〈441〉",
+     "url": "https://n.news.naver.com/article/020/0003761164",
+     "articleId": "0003761164"
+    },
+    {
+     "label": "442",
+     "ord": 442,
+     "isEnd": false,
+     "date": "2026-11-17",
+     "page": "A31",
+     "column": null,
+     "title": "나당전쟁의 교훈[임용한의 전쟁사]〈442〉",
+     "url": "https://n.news.naver.com/article/020/0003762854",
+     "articleId": "0003762854"
+    },
+    {
+     "label": "443",
+     "ord": 443,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A31",
+     "column": null,
+     "title": "제국의 오만[임용한의 전쟁사]〈443〉",
+     "url": "https://n.news.naver.com/article/020/0003764505",
+     "articleId": "0003764505"
+    }
+   ],
+   "firstDate": "2026-01-06",
+   "lastDate": "2026-11-24"
+  },
+  {
+   "seriesKey": "023:우정아의아트스토리",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "우정아의 아트 스토리",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "614",
+     "ord": 614,
+     "isEnd": false,
+     "date": "2026-01-06",
+     "page": "A31",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [614] 어른이 다시 아이로",
+     "url": "https://n.news.naver.com/article/023/0003951089",
+     "articleId": "0003951089"
+    },
+    {
+     "label": "615",
+     "ord": 615,
+     "isEnd": false,
+     "date": "2026-01-13",
+     "page": "A31",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [615] 나폴리의 태양",
+     "url": "https://n.news.naver.com/article/023/0003952513",
+     "articleId": "0003952513"
+    },
+    {
+     "label": "652",
+     "ord": 652,
+     "isEnd": false,
+     "date": "2026-10-06",
+     "page": "A31",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [652] 나란히 걸린 윤형근과 로스코",
+     "url": "https://n.news.naver.com/article/023/0004002190",
+     "articleId": "0004002190"
+    },
+    {
+     "label": "653",
+     "ord": 653,
+     "isEnd": false,
+     "date": "2026-10-13",
+     "page": "A31",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [653] 서정 시인의 극적인 최후",
+     "url": "https://n.news.naver.com/article/023/0004003388",
+     "articleId": "0004003388"
+    },
+    {
+     "label": "654",
+     "ord": 654,
+     "isEnd": false,
+     "date": "2026-10-20",
+     "page": "A31",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [654] 박물관도 식후경",
+     "url": "https://n.news.naver.com/article/023/0004004729",
+     "articleId": "0004004729"
+    },
+    {
+     "label": "655",
+     "ord": 655,
+     "isEnd": false,
+     "date": "2026-10-27",
+     "page": "A31",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [655] 바우하우스 주전자 3억원",
+     "url": "https://n.news.naver.com/article/023/0004006027",
+     "articleId": "0004006027"
+    },
+    {
+     "label": "656",
+     "ord": 656,
+     "isEnd": false,
+     "date": "2026-11-03",
+     "page": "A35",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [656] 화랑에 틈입한 막걸리집",
+     "url": "https://n.news.naver.com/article/023/0004007346",
+     "articleId": "0004007346"
+    },
+    {
+     "label": "657",
+     "ord": 657,
+     "isEnd": false,
+     "date": "2026-11-10",
+     "page": "A31",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [657] 불꽃처럼 연주하는 파가니니",
+     "url": "https://n.news.naver.com/article/023/0004008637",
+     "articleId": "0004008637"
+    },
+    {
+     "label": "658",
+     "ord": 658,
+     "isEnd": false,
+     "date": "2026-11-17",
+     "page": "A35",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [658] 먼지마저 멈춘 듯한 고요함",
+     "url": "https://n.news.naver.com/article/023/0004009935",
+     "articleId": "0004009935"
+    },
+    {
+     "label": "659",
+     "ord": 659,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A35",
+     "column": null,
+     "title": "[우정아의 아트 스토리] [659] 빈 작업실에 피어난 봄",
+     "url": "https://n.news.naver.com/article/023/0004011252",
+     "articleId": "0004011252"
+    }
+   ],
+   "firstDate": "2026-01-06",
+   "lastDate": "2026-11-24"
+  },
+  {
+   "seriesKey": "023:문지혁의슬기로운문학생활",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "문지혁의 슬기로운 문학생활",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "23",
+     "ord": 23,
+     "isEnd": false,
+     "date": "2026-01-13",
+     "page": "A30",
+     "column": null,
+     "title": "[문지혁의 슬기로운 문학생활] [23] 제사와 헌사의 차이",
+     "url": "https://n.news.naver.com/article/023/0003952512",
+     "articleId": "0003952512"
+    },
+    {
+     "label": "42",
+     "ord": 42,
+     "isEnd": false,
+     "date": "2026-10-13",
+     "page": "A30",
+     "column": null,
+     "title": "[문지혁의 슬기로운 문학생활] [42] 42란 특별한 숫자",
+     "url": "https://n.news.naver.com/article/023/0004003387",
+     "articleId": "0004003387"
+    },
+    {
+     "label": "43",
+     "ord": 43,
+     "isEnd": false,
+     "date": "2026-10-27",
+     "page": "A30",
+     "column": null,
+     "title": "[문지혁의 슬기로운 문학생활] [43] 심연 속에 사탕 던지는 일",
+     "url": "https://n.news.naver.com/article/023/0004006025",
+     "articleId": "0004006025"
+    },
+    {
+     "label": "44",
+     "ord": 44,
+     "isEnd": false,
+     "date": "2026-11-10",
+     "page": "A30",
+     "column": null,
+     "title": "[문지혁의 슬기로운 문학생활] [44] 청두에서 본 판다와 SF",
+     "url": "https://n.news.naver.com/article/023/0004008636",
+     "articleId": "0004008636"
+    },
+    {
+     "label": "45",
+     "ord": 45,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A34",
+     "column": null,
+     "title": "[문지혁의 슬기로운 문학생활] [45] 오탈자에 숨겨진 진실",
+     "url": "https://n.news.naver.com/article/023/0004011251",
+     "articleId": "0004011251"
+    }
+   ],
+   "firstDate": "2026-01-13",
+   "lastDate": "2026-11-24"
+  },
+  {
+   "seriesKey": "023:권오중의프레임너머",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "권오중의 프레임 너머",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "10",
+     "ord": 10,
+     "isEnd": false,
+     "date": "2026-10-13",
+     "page": "A29",
+     "column": null,
+     "title": "[권오중의 프레임 너머] [10] 통증이 데려다준 아버지의 옛 일터",
+     "url": "https://n.news.naver.com/article/023/0004003386",
+     "articleId": "0004003386"
+    },
+    {
+     "label": "11",
+     "ord": 11,
+     "isEnd": false,
+     "date": "2026-10-27",
+     "page": "A29",
+     "column": null,
+     "title": "[권오중의 프레임 너머] [11] 걱정 가위",
+     "url": "https://n.news.naver.com/article/023/0004006028",
+     "articleId": "0004006028"
+    },
+    {
+     "label": "12",
+     "ord": 12,
+     "isEnd": false,
+     "date": "2026-11-10",
+     "page": "A29",
+     "column": null,
+     "title": "[권오중의 프레임 너머] [12] 팔꿈치로 전해지는 신뢰",
+     "url": "https://n.news.naver.com/article/023/0004008635",
+     "articleId": "0004008635"
+    },
+    {
+     "label": "13",
+     "ord": 13,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A33",
+     "column": null,
+     "title": "[권오중의 프레임 너머] [13] 형제라는 이름의 전우애",
+     "url": "https://n.news.naver.com/article/023/0004011250",
+     "articleId": "0004011250"
+    }
+   ],
+   "firstDate": "2026-10-13",
+   "lastDate": "2026-11-24"
+  },
+  {
+   "seriesKey": "023:유경숙의축제막전막후",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "유경숙의 축제 막전막후",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "8",
+     "ord": 8,
+     "isEnd": false,
+     "date": "2026-10-27",
+     "page": "A28",
+     "column": null,
+     "title": "[유경숙의 축제 막전막후] [8] 시위인가 축제인가, 경찰 앞에서 댄스배틀",
+     "url": "https://n.news.naver.com/article/023/0004006024",
+     "articleId": "0004006024"
+    },
+    {
+     "label": "9",
+     "ord": 9,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A32",
+     "column": null,
+     "title": "[유경숙의 축제 막전막후] [9] 개성 만점 생활밀착형 축제들",
+     "url": "https://n.news.naver.com/article/023/0004011248",
+     "articleId": "0004011248"
+    }
+   ],
+   "firstDate": "2026-10-27",
+   "lastDate": "2026-11-24"
+  },
+  {
+   "seriesKey": "025:2026대학평가",
+   "press": "025",
+   "pressName": "중앙일보",
+   "name": "2026 대학평가",
+   "seriesType": "기획",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-23",
+     "page": "A1",
+     "column": null,
+     "title": "공학 최강대학은 성균관·포스텍, 인문은 고려·서울대 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567086",
+     "articleId": "0003567086"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-23",
+     "page": "A4",
+     "column": null,
+     "title": "경희대, 피인용 논문 1위…건국대, 교수당 출간도서 최다 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567090",
+     "articleId": "0003567090"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-23",
+     "page": "A5",
+     "column": null,
+     "title": "폐플라스틱서 수소 뽑아낸 이대…동국대엔 ‘상위 1%’ 연구팀 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567084",
+     "articleId": "0003567084"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-23",
+     "page": "A5",
+     "column": null,
+     "title": "중앙대, 우주 비밀 풀 중성미자 연구…GIST, 뇌 유전자 분석 장관표창  [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567080",
+     "articleId": "0003567080"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A1",
+     "column": null,
+     "title": "고려·연세 공동1위, 서울대 3위…‘톱 대학’ 경쟁이 경쟁력 키웠다 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567426",
+     "articleId": "0003567426"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A4",
+     "column": null,
+     "title": "전남대, 연구비 3년째 선두…아주대, 우수 연구자에 1억 인센티브 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567427",
+     "articleId": "0003567427"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A5",
+     "column": null,
+     "title": "서강대, 취업률 73% 1위…숙대엔 ‘등산·러닝 장학금’ [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567428",
+     "articleId": "0003567428"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A5",
+     "column": null,
+     "title": "어떻게 평가했나…32개 지표, 연구 질·성과 따져 선정 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567423",
+     "articleId": "0003567423"
+    }
+   ],
+   "firstDate": "2026-11-23",
+   "lastDate": "2026-11-24"
+  },
+  {
    "seriesKey": "023:문태준의가슴이따뜻해지는",
    "press": "023",
    "pressName": "조선일보",
@@ -243,62 +744,6 @@
     }
    ],
    "firstDate": "2026-10-26",
-   "lastDate": "2026-11-23"
-  },
-  {
-   "seriesKey": "025:2026대학평가",
-   "press": "025",
-   "pressName": "중앙일보",
-   "name": "2026 대학평가",
-   "seriesType": "기획",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "·",
-     "ord": 0,
-     "isEnd": false,
-     "date": "2026-11-23",
-     "page": "A1",
-     "column": null,
-     "title": "공학 최강대학은 성균관·포스텍, 인문은 고려·서울대 [2026 대학평가]",
-     "url": "https://n.news.naver.com/article/025/0003567086",
-     "articleId": "0003567086"
-    },
-    {
-     "label": "·",
-     "ord": 0,
-     "isEnd": false,
-     "date": "2026-11-23",
-     "page": "A4",
-     "column": null,
-     "title": "경희대, 피인용 논문 1위…건국대, 교수당 출간도서 최다 [2026 대학평가]",
-     "url": "https://n.news.naver.com/article/025/0003567090",
-     "articleId": "0003567090"
-    },
-    {
-     "label": "·",
-     "ord": 0,
-     "isEnd": false,
-     "date": "2026-11-23",
-     "page": "A5",
-     "column": null,
-     "title": "폐플라스틱서 수소 뽑아낸 이대…동국대엔 ‘상위 1%’ 연구팀 [2026 대학평가]",
-     "url": "https://n.news.naver.com/article/025/0003567084",
-     "articleId": "0003567084"
-    },
-    {
-     "label": "·",
-     "ord": 0,
-     "isEnd": false,
-     "date": "2026-11-23",
-     "page": "A5",
-     "column": null,
-     "title": "중앙대, 우주 비밀 풀 중성미자 연구…GIST, 뇌 유전자 분석 장관표창  [2026 대학평가]",
-     "url": "https://n.news.naver.com/article/025/0003567080",
-     "articleId": "0003567080"
-    }
-   ],
-   "firstDate": "2026-11-23",
    "lastDate": "2026-11-23"
   },
   {
@@ -2192,117 +2637,6 @@
    "lastDate": "2026-11-18"
   },
   {
-   "seriesKey": "020:임용한의전쟁사",
-   "press": "020",
-   "pressName": "동아일보",
-   "name": "임용한의 전쟁사",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "398",
-     "ord": 398,
-     "isEnd": false,
-     "date": "2026-01-06",
-     "page": "A31",
-     "column": null,
-     "title": "혁명의 봄[임용한의 전쟁사]〈398〉",
-     "url": "https://n.news.naver.com/article/020/0003686970",
-     "articleId": "0003686970"
-    },
-    {
-     "label": "399",
-     "ord": 399,
-     "isEnd": false,
-     "date": "2026-01-13",
-     "page": "A27",
-     "column": null,
-     "title": "우리가 겪지 못했던 세계[임용한의 전쟁사]〈399〉",
-     "url": "https://n.news.naver.com/article/020/0003688744",
-     "articleId": "0003688744"
-    },
-    {
-     "label": "436",
-     "ord": 436,
-     "isEnd": false,
-     "date": "2026-10-06",
-     "page": "A31",
-     "column": null,
-     "title": "‘방어용’ 지뢰?[임용한의 전쟁사]〈436〉",
-     "url": "https://n.news.naver.com/article/020/0003752806",
-     "articleId": "0003752806"
-    },
-    {
-     "label": "437",
-     "ord": 437,
-     "isEnd": false,
-     "date": "2026-10-13",
-     "page": "A27",
-     "column": null,
-     "title": "클라우제비츠가 말한 전쟁[임용한의 전쟁사]〈437〉",
-     "url": "https://n.news.naver.com/article/020/0003754396",
-     "articleId": "0003754396"
-    },
-    {
-     "label": "438",
-     "ord": 438,
-     "isEnd": false,
-     "date": "2026-10-20",
-     "page": "A27",
-     "column": null,
-     "title": "권력의 승부, 책임의 승부[임용한의 전쟁사]〈438〉",
-     "url": "https://n.news.naver.com/article/020/0003756030",
-     "articleId": "0003756030"
-    },
-    {
-     "label": "439",
-     "ord": 439,
-     "isEnd": false,
-     "date": "2026-10-27",
-     "page": "A31",
-     "column": null,
-     "title": "비방 엄금하면 비난 사라진다?[임용한의 전쟁사]〈439〉",
-     "url": "https://n.news.naver.com/article/020/0003757797",
-     "articleId": "0003757797"
-    },
-    {
-     "label": "440",
-     "ord": 440,
-     "isEnd": false,
-     "date": "2026-11-03",
-     "page": "A27",
-     "column": null,
-     "title": "군의 정치 중립[임용한의 전쟁사]〈440〉",
-     "url": "https://n.news.naver.com/article/020/0003759502",
-     "articleId": "0003759502"
-    },
-    {
-     "label": "441",
-     "ord": 441,
-     "isEnd": false,
-     "date": "2026-11-10",
-     "page": "A31",
-     "column": null,
-     "title": "푸틴의 죄, 트럼프의 죄[임용한의 전쟁사]〈441〉",
-     "url": "https://n.news.naver.com/article/020/0003761164",
-     "articleId": "0003761164"
-    },
-    {
-     "label": "442",
-     "ord": 442,
-     "isEnd": false,
-     "date": "2026-11-17",
-     "page": "A31",
-     "column": null,
-     "title": "나당전쟁의 교훈[임용한의 전쟁사]〈442〉",
-     "url": "https://n.news.naver.com/article/020/0003762854",
-     "articleId": "0003762854"
-    }
-   ],
-   "firstDate": "2026-01-06",
-   "lastDate": "2026-11-17"
-  },
-  {
    "seriesKey": "023:김국현의과학기술유행어도감",
    "press": "023",
    "pressName": "조선일보",
@@ -2364,117 +2698,6 @@
      "title": "[김국현의 과학기술 유행어 도감] [23] 보이저호, ‘1광일’ 도착",
      "url": "https://n.news.naver.com/article/023/0004009933",
      "articleId": "0004009933"
-    }
-   ],
-   "firstDate": "2026-01-06",
-   "lastDate": "2026-11-17"
-  },
-  {
-   "seriesKey": "023:우정아의아트스토리",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "우정아의 아트 스토리",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "614",
-     "ord": 614,
-     "isEnd": false,
-     "date": "2026-01-06",
-     "page": "A31",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [614] 어른이 다시 아이로",
-     "url": "https://n.news.naver.com/article/023/0003951089",
-     "articleId": "0003951089"
-    },
-    {
-     "label": "615",
-     "ord": 615,
-     "isEnd": false,
-     "date": "2026-01-13",
-     "page": "A31",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [615] 나폴리의 태양",
-     "url": "https://n.news.naver.com/article/023/0003952513",
-     "articleId": "0003952513"
-    },
-    {
-     "label": "652",
-     "ord": 652,
-     "isEnd": false,
-     "date": "2026-10-06",
-     "page": "A31",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [652] 나란히 걸린 윤형근과 로스코",
-     "url": "https://n.news.naver.com/article/023/0004002190",
-     "articleId": "0004002190"
-    },
-    {
-     "label": "653",
-     "ord": 653,
-     "isEnd": false,
-     "date": "2026-10-13",
-     "page": "A31",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [653] 서정 시인의 극적인 최후",
-     "url": "https://n.news.naver.com/article/023/0004003388",
-     "articleId": "0004003388"
-    },
-    {
-     "label": "654",
-     "ord": 654,
-     "isEnd": false,
-     "date": "2026-10-20",
-     "page": "A31",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [654] 박물관도 식후경",
-     "url": "https://n.news.naver.com/article/023/0004004729",
-     "articleId": "0004004729"
-    },
-    {
-     "label": "655",
-     "ord": 655,
-     "isEnd": false,
-     "date": "2026-10-27",
-     "page": "A31",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [655] 바우하우스 주전자 3억원",
-     "url": "https://n.news.naver.com/article/023/0004006027",
-     "articleId": "0004006027"
-    },
-    {
-     "label": "656",
-     "ord": 656,
-     "isEnd": false,
-     "date": "2026-11-03",
-     "page": "A35",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [656] 화랑에 틈입한 막걸리집",
-     "url": "https://n.news.naver.com/article/023/0004007346",
-     "articleId": "0004007346"
-    },
-    {
-     "label": "657",
-     "ord": 657,
-     "isEnd": false,
-     "date": "2026-11-10",
-     "page": "A31",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [657] 불꽃처럼 연주하는 파가니니",
-     "url": "https://n.news.naver.com/article/023/0004008637",
-     "articleId": "0004008637"
-    },
-    {
-     "label": "658",
-     "ord": 658,
-     "isEnd": false,
-     "date": "2026-11-17",
-     "page": "A35",
-     "column": null,
-     "title": "[우정아의 아트 스토리] [658] 먼지마저 멈춘 듯한 고요함",
-     "url": "https://n.news.naver.com/article/023/0004009935",
-     "articleId": "0004009935"
     }
    ],
    "firstDate": "2026-01-06",
@@ -2841,62 +3064,6 @@
    "lastDate": "2026-11-11"
   },
   {
-   "seriesKey": "023:문지혁의슬기로운문학생활",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "문지혁의 슬기로운 문학생활",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "23",
-     "ord": 23,
-     "isEnd": false,
-     "date": "2026-01-13",
-     "page": "A30",
-     "column": null,
-     "title": "[문지혁의 슬기로운 문학생활] [23] 제사와 헌사의 차이",
-     "url": "https://n.news.naver.com/article/023/0003952512",
-     "articleId": "0003952512"
-    },
-    {
-     "label": "42",
-     "ord": 42,
-     "isEnd": false,
-     "date": "2026-10-13",
-     "page": "A30",
-     "column": null,
-     "title": "[문지혁의 슬기로운 문학생활] [42] 42란 특별한 숫자",
-     "url": "https://n.news.naver.com/article/023/0004003387",
-     "articleId": "0004003387"
-    },
-    {
-     "label": "43",
-     "ord": 43,
-     "isEnd": false,
-     "date": "2026-10-27",
-     "page": "A30",
-     "column": null,
-     "title": "[문지혁의 슬기로운 문학생활] [43] 심연 속에 사탕 던지는 일",
-     "url": "https://n.news.naver.com/article/023/0004006025",
-     "articleId": "0004006025"
-    },
-    {
-     "label": "44",
-     "ord": 44,
-     "isEnd": false,
-     "date": "2026-11-10",
-     "page": "A30",
-     "column": null,
-     "title": "[문지혁의 슬기로운 문학생활] [44] 청두에서 본 판다와 SF",
-     "url": "https://n.news.naver.com/article/023/0004008636",
-     "articleId": "0004008636"
-    }
-   ],
-   "firstDate": "2026-01-13",
-   "lastDate": "2026-11-10"
-  },
-  {
    "seriesKey": "023:김형호의마이너리티리포트",
    "press": "023",
    "pressName": "조선일보",
@@ -2925,51 +3092,6 @@
      "title": "[김형호의 마이너리티 리포트] [8] 볼 게 없다, OTT에서든 극장에서든",
      "url": "https://n.news.naver.com/article/023/0004008634",
      "articleId": "0004008634"
-    }
-   ],
-   "firstDate": "2026-10-13",
-   "lastDate": "2026-11-10"
-  },
-  {
-   "seriesKey": "023:권오중의프레임너머",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "권오중의 프레임 너머",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "10",
-     "ord": 10,
-     "isEnd": false,
-     "date": "2026-10-13",
-     "page": "A29",
-     "column": null,
-     "title": "[권오중의 프레임 너머] [10] 통증이 데려다준 아버지의 옛 일터",
-     "url": "https://n.news.naver.com/article/023/0004003386",
-     "articleId": "0004003386"
-    },
-    {
-     "label": "11",
-     "ord": 11,
-     "isEnd": false,
-     "date": "2026-10-27",
-     "page": "A29",
-     "column": null,
-     "title": "[권오중의 프레임 너머] [11] 걱정 가위",
-     "url": "https://n.news.naver.com/article/023/0004006028",
-     "articleId": "0004006028"
-    },
-    {
-     "label": "12",
-     "ord": 12,
-     "isEnd": false,
-     "date": "2026-11-10",
-     "page": "A29",
-     "column": null,
-     "title": "[권오중의 프레임 너머] [12] 팔꿈치로 전해지는 신뢰",
-     "url": "https://n.news.naver.com/article/023/0004008635",
-     "articleId": "0004008635"
     }
    ],
    "firstDate": "2026-10-13",
@@ -3270,29 +3392,6 @@
    ],
    "firstDate": "2026-10-28",
    "lastDate": "2026-10-28"
-  },
-  {
-   "seriesKey": "023:유경숙의축제막전막후",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "유경숙의 축제 막전막후",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "8",
-     "ord": 8,
-     "isEnd": false,
-     "date": "2026-10-27",
-     "page": "A28",
-     "column": null,
-     "title": "[유경숙의 축제 막전막후] [8] 시위인가 축제인가, 경찰 앞에서 댄스배틀",
-     "url": "https://n.news.naver.com/article/023/0004006024",
-     "articleId": "0004006024"
-    }
-   ],
-   "firstDate": "2026-10-27",
-   "lastDate": "2026-10-27"
   },
   {
    "seriesKey": "032:창간기획춘추정병시대",
