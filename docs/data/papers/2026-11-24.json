@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "collectedAt": "2026-11-24T04:41:48",
+ "collectedAt": "2026-11-24T05:01:34",
  "articles": [
   {
    "press": "009",
@@ -17,8 +17,8 @@
    "articleId": "0005767876",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2440,7 +2440,8 @@
    "articleId": "0005357213",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2457,8 +2458,8 @@
    "articleId": "0005357221",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -4493,7 +4494,6 @@
    "articleId": "0003764592",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003764521",
@@ -4513,7 +4513,8 @@
      "title": "내달 1일부터 ‘계족산성 탐방로’ 전면 개방",
      "url": "https://n.news.naver.com/article/020/0003764581"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -8221,8 +8222,8 @@
    "articleId": "0003567406",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -8238,7 +8239,9 @@
    "url": "https://n.news.naver.com/article/025/0003567407",
    "articleId": "0003567407",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "025",
@@ -10498,7 +10501,6 @@
    "articleId": "0003484571",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003484488",
@@ -10506,7 +10508,8 @@
      "title": "[사설]증안펀드 가동 준비, AI 약세장 대비하되 무리한 개입 말아야",
      "url": "https://n.news.naver.com/article/032/0003484488"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
