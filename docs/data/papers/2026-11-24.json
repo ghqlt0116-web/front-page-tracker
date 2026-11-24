@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "collectedAt": "2026-11-24T04:24:01",
+ "collectedAt": "2026-11-24T04:41:48",
  "articles": [
   {
    "press": "009",
@@ -16,7 +16,9 @@
    "url": "https://n.news.naver.com/article/009/0005767876",
    "articleId": "0005767876",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "009",
@@ -33,7 +35,8 @@
    "articleId": "0005767872",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -63,7 +66,8 @@
      "title": "매출 80억 건기식 기업 매물로",
      "url": "https://n.news.naver.com/article/009/0005767827"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -80,7 +84,6 @@
    "articleId": "0005767873",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005767848",
@@ -88,7 +91,8 @@
      "title": "트럼프 뿌리쳤던 김정은 … 외국대사 만나 '정상국가' 부각",
      "url": "https://n.news.naver.com/article/009/0005767848"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2381,7 +2385,6 @@
    "articleId": "0005357354",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005357353",
@@ -2401,7 +2404,8 @@
      "title": "젠슨 황 돌아오자 분위기 달라졌다…SK하닉 美서 20% '반전'",
      "url": "https://n.news.naver.com/article/015/0005357352"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2418,8 +2422,8 @@
    "articleId": "0005357248",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2435,7 +2439,8 @@
    "url": "https://n.news.naver.com/article/015/0005357213",
    "articleId": "0005357213",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "015",
@@ -2451,7 +2456,9 @@
    "url": "https://n.news.naver.com/article/015/0005357221",
    "articleId": "0005357221",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "015",
@@ -2468,8 +2475,8 @@
    "articleId": "0005357225",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -4485,7 +4492,28 @@
    "url": "https://n.news.naver.com/article/020/0003764592",
    "articleId": "0003764592",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0003764521",
+     "page": "A31",
+     "title": "[사설]정동영 이종석 교체… 동맹 난기류 넘어 ‘원팀’으로 거듭나야",
+     "url": "https://n.news.naver.com/article/020/0003764521"
+    },
+    {
+     "articleId": "0003764603",
+     "page": "A3",
+     "title": "한미 난기류 속 이종석-정동영 퇴장… 李, ‘동맹파’에 힘 실을듯",
+     "url": "https://n.news.naver.com/article/020/0003764603"
+    },
+    {
+     "articleId": "0003764581",
+     "page": "A16",
+     "title": "내달 1일부터 ‘계족산성 탐방로’ 전면 개방",
+     "url": "https://n.news.naver.com/article/020/0003764581"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4502,7 +4530,6 @@
    "articleId": "0003764630",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003764518",
@@ -4510,7 +4537,8 @@
      "title": "[사설]예산안 따지고 깎기는커녕 묻지 마 증액 나선 與野",
      "url": "https://n.news.naver.com/article/020/0003764518"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4527,8 +4555,8 @@
    "articleId": "0003764631",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4545,8 +4573,8 @@
    "articleId": "0003764593",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -6723,8 +6751,8 @@
    "articleId": "0004011263",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6741,7 +6769,6 @@
    "articleId": "0004011341",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004011335",
@@ -6749,7 +6776,8 @@
      "title": "강금실, 정보분야 경력 거의 없어… 李대통령 대선 캠프 두차례 참여",
      "url": "https://n.news.naver.com/article/023/0004011335"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6773,7 +6801,8 @@
      "title": "[기자의 시각] 판결 불쾌하다고 대법원장 탄핵?",
      "url": "https://n.news.naver.com/article/023/0004011257"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6790,8 +6819,8 @@
    "articleId": "0004011339",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -8136,7 +8165,6 @@
    "articleId": "0003567408",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003567405",
@@ -8144,7 +8172,8 @@
      "title": "한·미 잡음 커지자…자주파 두 축 동시교체",
      "url": "https://n.news.naver.com/article/025/0003567405"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -8161,7 +8190,6 @@
    "articleId": "0003567426",
    "seriesKey": "025:2026대학평가",
    "seriesType": "기획",
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003567428",
@@ -8175,7 +8203,8 @@
      "title": "어떻게 평가했나…32개 지표, 연구 질·성과 따져 선정 [2026 대학평가]",
      "url": "https://n.news.naver.com/article/025/0003567423"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -8191,7 +8220,9 @@
    "url": "https://n.news.naver.com/article/025/0003567406",
    "articleId": "0003567406",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "025",
@@ -9312,8 +9343,8 @@
    "articleId": "0002833611",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9337,7 +9368,8 @@
      "title": "강금실 ‘첫 여성 발탁’ 파격…“국정원 권력기관 이미지 탈피 무게”",
      "url": "https://n.news.naver.com/article/028/0002833613"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9354,7 +9386,6 @@
    "articleId": "0002833544",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002833552",
@@ -9362,7 +9393,8 @@
      "title": "반도체 급락, IT 거품 붕괴와 유사…“코스피 4200 열려 있어”",
      "url": "https://n.news.naver.com/article/028/0002833552"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9379,7 +9411,6 @@
    "articleId": "0002833545",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0002833480",
@@ -9393,7 +9424,8 @@
      "title": "역대 최다 840팀 몰린 ‘유재하 음악경연대회’…대상 이종서",
      "url": "https://n.news.naver.com/article/028/0002833479"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9410,7 +9442,8 @@
    "articleId": "0002833604",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -10422,7 +10455,8 @@
      "title": "임웅순 외교부 장관 내정자, 정통 외교관 출신…대미 경험·대북 전문성 풍부",
      "url": "https://n.news.naver.com/article/032/0003484566"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -10446,7 +10480,8 @@
      "title": "[사설]‘법관 행동’ 촉구한 법관회의 의장, ‘조희대 코트’는 아무 잘못이 없나",
      "url": "https://n.news.naver.com/article/032/0003484487"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -10462,7 +10497,16 @@
    "url": "https://n.news.naver.com/article/032/0003484571",
    "articleId": "0003484571",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0003484488",
+     "page": "A27",
+     "title": "[사설]증안펀드 가동 준비, AI 약세장 대비하되 무리한 개입 말아야",
+     "url": "https://n.news.naver.com/article/032/0003484488"
+    }
+   ]
   },
   {
    "press": "032",
