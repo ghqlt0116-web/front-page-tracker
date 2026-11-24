@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "collectedAt": "2026-11-24T05:01:34",
+ "collectedAt": "2026-11-24T05:29:50",
  "articles": [
   {
    "press": "009",
@@ -128,7 +128,8 @@
      "title": "美, 엔비디아 조사 본격화…미중 무역전쟁 재점화하나",
      "url": "https://n.news.naver.com/article/009/0005767856"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -8240,8 +8241,8 @@
    "articleId": "0003567407",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
