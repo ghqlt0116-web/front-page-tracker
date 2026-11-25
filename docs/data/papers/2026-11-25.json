@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "collectedAt": "2026-11-25T03:30:06",
+ "collectedAt": "2026-11-25T03:47:48",
  "articles": [
   {
    "press": "009",
@@ -4200,7 +4200,8 @@
      "title": "공공택지 보상 협조땐 보상액 최대 30% 더 준다",
      "url": "https://n.news.naver.com/article/020/0003764889"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4217,7 +4218,8 @@
    "articleId": "0003764953",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -6301,8 +6303,8 @@
    "articleId": "0004011573",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6332,7 +6334,8 @@
      "title": "전쟁서 드론 사용… 광섬유값 7배 폭등, 흔들리는 AI 산업 핵심 소재 공급망",
      "url": "https://n.news.naver.com/article/023/0004011517"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -8713,7 +8716,8 @@
      "title": "‘1인 의존’ 취약점 드러낸 AI 생태계…‘젠슨 황 리스크’ 여전",
      "url": "https://n.news.naver.com/article/028/0002833795"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9702,7 +9706,8 @@
      "title": "[사설]30대 절반이 미혼인 대한민국, 혼인 중심 복지틀 유효한가",
      "url": "https://n.news.naver.com/article/032/0003484745"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
