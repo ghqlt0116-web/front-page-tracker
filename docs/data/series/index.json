@@ -1,6 +1,595 @@
 {
  "series": [
   {
+   "seriesKey": "020:정덕현의그영화이대사",
+   "press": "020",
+   "pressName": "동아일보",
+   "name": "정덕현의 그 영화 이 대사",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "89",
+     "ord": 89,
+     "isEnd": false,
+     "date": "2026-01-07",
+     "page": "A31",
+     "column": null,
+     "title": "누군가 있다는 것[정덕현의 그 영화 이 대사]〈89〉",
+     "url": "https://n.news.naver.com/article/020/0003687301",
+     "articleId": "0003687301"
+    },
+    {
+     "label": "90",
+     "ord": 90,
+     "isEnd": false,
+     "date": "2026-01-14",
+     "page": "A27",
+     "column": null,
+     "title": "예쁜 고래 한 마리[정덕현의 그 영화 이 대사]〈90〉",
+     "url": "https://n.news.naver.com/article/020/0003689094",
+     "articleId": "0003689094"
+    },
+    {
+     "label": "127",
+     "ord": 127,
+     "isEnd": false,
+     "date": "2026-10-07",
+     "page": "A31",
+     "column": null,
+     "title": "명성보다 소중한 일상[정덕현의 그 영화 이 대사]〈127〉",
+     "url": "https://n.news.naver.com/article/020/0003753147",
+     "articleId": "0003753147"
+    },
+    {
+     "label": "128",
+     "ord": 128,
+     "isEnd": false,
+     "date": "2026-10-14",
+     "page": "A31",
+     "column": null,
+     "title": "실제라 믿고 싶지 않은 풍자극[정덕현의 그 영화 이 대사]〈128〉",
+     "url": "https://n.news.naver.com/article/020/0003754718",
+     "articleId": "0003754718"
+    },
+    {
+     "label": "129",
+     "ord": 129,
+     "isEnd": false,
+     "date": "2026-10-21",
+     "page": "A27",
+     "column": null,
+     "title": "나를 성장시킨 누군가의 등[정덕현의 그 영화 이 대사]〈129〉",
+     "url": "https://n.news.naver.com/article/020/0003756366",
+     "articleId": "0003756366"
+    },
+    {
+     "label": "130",
+     "ord": 130,
+     "isEnd": false,
+     "date": "2026-10-28",
+     "page": "A31",
+     "column": null,
+     "title": "기억, 살아있다는 것[정덕현의 그 영화 이 대사]〈130〉",
+     "url": "https://n.news.naver.com/article/020/0003758116",
+     "articleId": "0003758116"
+    },
+    {
+     "label": "131",
+     "ord": 131,
+     "isEnd": false,
+     "date": "2026-11-04",
+     "page": "A31",
+     "column": null,
+     "title": "이민자와 이방인[정덕현의 그 영화 이 대사]〈131〉",
+     "url": "https://n.news.naver.com/article/020/0003759813",
+     "articleId": "0003759813"
+    },
+    {
+     "label": "132",
+     "ord": 132,
+     "isEnd": false,
+     "date": "2026-11-11",
+     "page": "A31",
+     "column": null,
+     "title": "폭로와 진실[정덕현의 그 영화 이 대사]〈132〉",
+     "url": "https://n.news.naver.com/article/020/0003761469",
+     "articleId": "0003761469"
+    },
+    {
+     "label": "133",
+     "ord": 133,
+     "isEnd": false,
+     "date": "2026-11-18",
+     "page": "A31",
+     "column": null,
+     "title": "마무리는 야생마로[정덕현의 그 영화 이 대사]〈133〉",
+     "url": "https://n.news.naver.com/article/020/0003763185",
+     "articleId": "0003763185"
+    },
+    {
+     "label": "134",
+     "ord": 134,
+     "isEnd": false,
+     "date": "2026-11-25",
+     "page": "A31",
+     "column": null,
+     "title": "생존과 승리[정덕현의 그 영화 이 대사]〈134〉",
+     "url": "https://n.news.naver.com/article/020/0003764854",
+     "articleId": "0003764854"
+    }
+   ],
+   "firstDate": "2026-01-07",
+   "lastDate": "2026-11-25"
+  },
+  {
+   "seriesKey": "023:김도훈의엑스레이",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "김도훈의 엑스레이",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "103",
+     "ord": 103,
+     "isEnd": false,
+     "date": "2026-01-07",
+     "page": "A30",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [103] 정치판 가면 거덜날 사주",
+     "url": "https://n.news.naver.com/article/023/0003951332",
+     "articleId": "0003951332"
+    },
+    {
+     "label": "104",
+     "ord": 104,
+     "isEnd": false,
+     "date": "2026-01-14",
+     "page": "A30",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [104] 새해 결심의 공동묘지",
+     "url": "https://n.news.naver.com/article/023/0003952771",
+     "articleId": "0003952771"
+    },
+    {
+     "label": "141",
+     "ord": 141,
+     "isEnd": false,
+     "date": "2026-10-07",
+     "page": "A30",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [141] 신나는 괴짜",
+     "url": "https://n.news.naver.com/article/023/0004002373",
+     "articleId": "0004002373"
+    },
+    {
+     "label": "142",
+     "ord": 142,
+     "isEnd": false,
+     "date": "2026-10-14",
+     "page": "A30",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [142] 귀여워야 산다",
+     "url": "https://n.news.naver.com/article/023/0004003631",
+     "articleId": "0004003631"
+    },
+    {
+     "label": "143",
+     "ord": 143,
+     "isEnd": false,
+     "date": "2026-10-21",
+     "page": "A30",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [143] 계시 좀 주세요",
+     "url": "https://n.news.naver.com/article/023/0004004938",
+     "articleId": "0004004938"
+    },
+    {
+     "label": "144",
+     "ord": 144,
+     "isEnd": false,
+     "date": "2026-10-28",
+     "page": "A34",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [144] 박물관으로 간 낙관주의",
+     "url": "https://n.news.naver.com/article/023/0004006259",
+     "articleId": "0004006259"
+    },
+    {
+     "label": "145",
+     "ord": 145,
+     "isEnd": false,
+     "date": "2026-11-04",
+     "page": "A30",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [145] 위기의 중년 남자들",
+     "url": "https://n.news.naver.com/article/023/0004007564",
+     "articleId": "0004007564"
+    },
+    {
+     "label": "146",
+     "ord": 146,
+     "isEnd": false,
+     "date": "2026-11-11",
+     "page": "A34",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [146] 남자의 가죽 재킷은 위험하다",
+     "url": "https://n.news.naver.com/article/023/0004008839",
+     "articleId": "0004008839"
+    },
+    {
+     "label": "147",
+     "ord": 147,
+     "isEnd": false,
+     "date": "2026-11-18",
+     "page": "A34",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [147] ‘스마트 어쩌고’가 사람 잡네",
+     "url": "https://n.news.naver.com/article/023/0004010159",
+     "articleId": "0004010159"
+    },
+    {
+     "label": "148",
+     "ord": 148,
+     "isEnd": false,
+     "date": "2026-11-25",
+     "page": "A34",
+     "column": null,
+     "title": "[김도훈의 엑스레이] [148] 돌고 돌아 소크라테스",
+     "url": "https://n.news.naver.com/article/023/0004011489",
+     "articleId": "0004011489"
+    }
+   ],
+   "firstDate": "2026-01-07",
+   "lastDate": "2026-11-25"
+  },
+  {
+   "seriesKey": "023:유재덕의공유주방",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "유재덕의 공유주방",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "1",
+     "ord": 1,
+     "isEnd": false,
+     "date": "2026-01-07",
+     "page": "A31",
+     "column": null,
+     "title": "[유재덕의 공유주방] [1] 30년 칼잡이의 깨달음",
+     "url": "https://n.news.naver.com/article/023/0003951333",
+     "articleId": "0003951333"
+    },
+    {
+     "label": "2",
+     "ord": 2,
+     "isEnd": false,
+     "date": "2026-01-14",
+     "page": "A31",
+     "column": null,
+     "title": "[유재덕의 공유주방] [2] 요리는 고통인가, 궁리인가",
+     "url": "https://n.news.naver.com/article/023/0003952772",
+     "articleId": "0003952772"
+    },
+    {
+     "label": "39",
+     "ord": 39,
+     "isEnd": false,
+     "date": "2026-10-07",
+     "page": "A31",
+     "column": null,
+     "title": "[유재덕의 공유주방] [39] 맛의 세계 넓히는 ‘절제’",
+     "url": "https://n.news.naver.com/article/023/0004002414",
+     "articleId": "0004002414"
+    },
+    {
+     "label": "40",
+     "ord": 40,
+     "isEnd": false,
+     "date": "2026-10-14",
+     "page": "A31",
+     "column": null,
+     "title": "[유재덕의 공유주방] [40] 잔소리할 줄 아는 선배",
+     "url": "https://n.news.naver.com/article/023/0004003632",
+     "articleId": "0004003632"
+    },
+    {
+     "label": "41",
+     "ord": 41,
+     "isEnd": false,
+     "date": "2026-10-21",
+     "page": "A31",
+     "column": null,
+     "title": "[유재덕의 공유주방] [41] 넌 ‘불평할 자격’이 없어",
+     "url": "https://n.news.naver.com/article/023/0004004939",
+     "articleId": "0004004939"
+    },
+    {
+     "label": "42",
+     "ord": 42,
+     "isEnd": false,
+     "date": "2026-10-28",
+     "page": "A35",
+     "column": null,
+     "title": "[유재덕의 공유주방] [42] 흘러내린 접시",
+     "url": "https://n.news.naver.com/article/023/0004006261",
+     "articleId": "0004006261"
+    },
+    {
+     "label": "43",
+     "ord": 43,
+     "isEnd": false,
+     "date": "2026-11-04",
+     "page": "A31",
+     "column": null,
+     "title": "[유재덕의 공유주방] [43] 원고지 앞의 견습생",
+     "url": "https://n.news.naver.com/article/023/0004007565",
+     "articleId": "0004007565"
+    },
+    {
+     "label": "44",
+     "ord": 44,
+     "isEnd": false,
+     "date": "2026-11-11",
+     "page": "A35",
+     "column": null,
+     "title": "[유재덕의 공유주방] [44] 기억이 먹는 음식",
+     "url": "https://n.news.naver.com/article/023/0004008840",
+     "articleId": "0004008840"
+    },
+    {
+     "label": "45",
+     "ord": 45,
+     "isEnd": false,
+     "date": "2026-11-18",
+     "page": "A35",
+     "column": null,
+     "title": "[유재덕의 공유주방] [45] 가슴에 넣고 사는 질문",
+     "url": "https://n.news.naver.com/article/023/0004010160",
+     "articleId": "0004010160"
+    },
+    {
+     "label": "46",
+     "ord": 46,
+     "isEnd": false,
+     "date": "2026-11-25",
+     "page": "A35",
+     "column": null,
+     "title": "[유재덕의 공유주방] [46] 神은 ‘과정’ 속에 있다",
+     "url": "https://n.news.naver.com/article/023/0004011490",
+     "articleId": "0004011490"
+    }
+   ],
+   "firstDate": "2026-01-07",
+   "lastDate": "2026-11-25"
+  },
+  {
+   "seriesKey": "020:서광원의자연과삶",
+   "press": "020",
+   "pressName": "동아일보",
+   "name": "서광원의 자연과 삶",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "117",
+     "ord": 117,
+     "isEnd": false,
+     "date": "2026-01-14",
+     "page": "A24",
+     "column": null,
+     "title": "말이 바꿔 놓은 남미의 운명[서광원의 자연과 삶]〈117〉",
+     "url": "https://n.news.naver.com/article/020/0003689093",
+     "articleId": "0003689093"
+    },
+    {
+     "label": "130",
+     "ord": 130,
+     "isEnd": false,
+     "date": "2026-10-14",
+     "page": "A28",
+     "column": null,
+     "title": "중력에 맞서 쌓아 올린 결속의 탑[서광원의 자연과 삶]〈130〉",
+     "url": "https://n.news.naver.com/article/020/0003754717",
+     "articleId": "0003754717"
+    },
+    {
+     "label": "131",
+     "ord": 131,
+     "isEnd": false,
+     "date": "2026-11-04",
+     "page": "A28",
+     "column": null,
+     "title": "하늘에서 ‘감’ 떨어질 때를 아는 상어[서광원의 자연과 삶]〈131〉",
+     "url": "https://n.news.naver.com/article/020/0003759815",
+     "articleId": "0003759815"
+    },
+    {
+     "label": "132",
+     "ord": 132,
+     "isEnd": false,
+     "date": "2026-11-25",
+     "page": "A28",
+     "column": null,
+     "title": "톰 행크스를 한눈에 알아본 ‘촉’[서광원의 자연과 삶]〈132〉",
+     "url": "https://n.news.naver.com/article/020/0003764856",
+     "articleId": "0003764856"
+    }
+   ],
+   "firstDate": "2026-01-14",
+   "lastDate": "2026-11-25"
+  },
+  {
+   "seriesKey": "023:조수빈의말로사람읽기",
+   "press": "023",
+   "pressName": "조선일보",
+   "name": "조수빈의 말로 사람 읽기",
+   "seriesType": "연재칼럼",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "12",
+     "ord": 12,
+     "isEnd": false,
+     "date": "2026-10-28",
+     "page": "A33",
+     "column": null,
+     "title": "[조수빈의 말로 사람 읽기] [12] ‘한미 동맹 70년’이라는 장미 한 송이",
+     "url": "https://n.news.naver.com/article/023/0004006258",
+     "articleId": "0004006258"
+    },
+    {
+     "label": "13",
+     "ord": 13,
+     "isEnd": false,
+     "date": "2026-11-25",
+     "page": "A33",
+     "column": null,
+     "title": "[조수빈의 말로 사람 읽기] [13] “자유는 갚아야 할 빚” 지오다노 창업주의 삶",
+     "url": "https://n.news.naver.com/article/023/0004011488",
+     "articleId": "0004011488"
+    }
+   ],
+   "firstDate": "2026-10-28",
+   "lastDate": "2026-11-25"
+  },
+  {
+   "seriesKey": "025:2026대학평가",
+   "press": "025",
+   "pressName": "중앙일보",
+   "name": "2026 대학평가",
+   "seriesType": "기획",
+   "status": "ongoing",
+   "episodes": [
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-23",
+     "page": "A1",
+     "column": null,
+     "title": "공학 최강대학은 성균관·포스텍, 인문은 고려·서울대 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567086",
+     "articleId": "0003567086"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-23",
+     "page": "A4",
+     "column": null,
+     "title": "경희대, 피인용 논문 1위…건국대, 교수당 출간도서 최다 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567090",
+     "articleId": "0003567090"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-23",
+     "page": "A5",
+     "column": null,
+     "title": "폐플라스틱서 수소 뽑아낸 이대…동국대엔 ‘상위 1%’ 연구팀 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567084",
+     "articleId": "0003567084"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-23",
+     "page": "A5",
+     "column": null,
+     "title": "중앙대, 우주 비밀 풀 중성미자 연구…GIST, 뇌 유전자 분석 장관표창  [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567080",
+     "articleId": "0003567080"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A1",
+     "column": null,
+     "title": "고려·연세 공동1위, 서울대 3위…‘톱 대학’ 경쟁이 경쟁력 키웠다 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567426",
+     "articleId": "0003567426"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A4",
+     "column": null,
+     "title": "전남대, 연구비 3년째 선두…아주대, 우수 연구자에 1억 인센티브 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567427",
+     "articleId": "0003567427"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A5",
+     "column": null,
+     "title": "서강대, 취업률 73% 1위…숙대엔 ‘등산·러닝 장학금’ [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567428",
+     "articleId": "0003567428"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-24",
+     "page": "A5",
+     "column": null,
+     "title": "어떻게 평가했나…32개 지표, 연구 질·성과 따져 선정 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567423",
+     "articleId": "0003567423"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-25",
+     "page": "A8",
+     "column": null,
+     "title": "난제 푼 논문, 수천 편…‘반도체 톱’ 성균관·연세대·UNIST [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567737",
+     "articleId": "0003567737"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-25",
+     "page": "A8",
+     "column": null,
+     "title": "대학 평판도 설문…이름값보다 실력 좋은 곳, GIST·인하대 [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567736",
+     "articleId": "0003567736"
+    },
+    {
+     "label": "·",
+     "ord": 0,
+     "isEnd": false,
+     "date": "2026-11-25",
+     "page": "A8",
+     "column": null,
+     "title": "서울 여고생 “인서울 고집 안해”…지거국 띄운 ‘정부 파격 지원’ [2026 대학평가]",
+     "url": "https://n.news.naver.com/article/025/0003567733",
+     "articleId": "0003567733"
+    }
+   ],
+   "firstDate": "2026-11-23",
+   "lastDate": "2026-11-25"
+  },
+  {
    "seriesKey": "020:임용한의전쟁사",
    "press": "020",
    "pressName": "동아일보",
@@ -399,106 +988,6 @@
     }
    ],
    "firstDate": "2026-10-27",
-   "lastDate": "2026-11-24"
-  },
-  {
-   "seriesKey": "025:2026대학평가",
-   "press": "025",
-   "pressName": "중앙일보",
-   "name": "2026 대학평가",
-   "seriesType": "기획",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "·",
-     "ord": 0,
-     "isEnd": false,
-     "date": "2026-11-23",
-     "page": "A1",
-     "column": null,
-     "title": "공학 최강대학은 성균관·포스텍, 인문은 고려·서울대 [2026 대학평가]",
-     "url": "https://n.news.naver.com/article/025/0003567086",
-     "articleId": "0003567086"
-    },
-    {
-     "label": "·",
-     "ord": 0,
-     "isEnd": false,
-     "date": "2026-11-23",
-     "page": "A4",
-     "column": null,
-     "title": "경희대, 피인용 논문 1위…건국대, 교수당 출간도서 최다 [2026 대학평가]",
-     "url": "https://n.news.naver.com/article/025/0003567090",
-     "articleId": "0003567090"
-    },
-    {
-     "label": "·",
-     "ord": 0,
-     "isEnd": false,
-     "date": "2026-11-23",
-     "page": "A5",
-     "column": null,
-     "title": "폐플라스틱서 수소 뽑아낸 이대…동국대엔 ‘상위 1%’ 연구팀 [2026 대학평가]",
-     "url": "https://n.news.naver.com/article/025/0003567084",
-     "articleId": "0003567084"
-    },
-    {
-     "label": "·",
-     "ord": 0,
-     "isEnd": false,
-     "date": "2026-11-23",
-     "page": "A5",
-     "column": null,
-     "title": "중앙대, 우주 비밀 풀 중성미자 연구…GIST, 뇌 유전자 분석 장관표창  [2026 대학평가]",
-     "url": "https://n.news.naver.com/article/025/0003567080",
-     "articleId": "0003567080"
-    },
-    {
-     "label": "·",
-     "ord": 0,
-     "isEnd": false,
-     "date": "2026-11-24",
-     "page": "A1",
-     "column": null,
-     "title": "고려·연세 공동1위, 서울대 3위…‘톱 대학’ 경쟁이 경쟁력 키웠다 [2026 대학평가]",
-     "url": "https://n.news.naver.com/article/025/0003567426",
-     "articleId": "0003567426"
-    },
-    {
-     "label": "·",
-     "ord": 0,
-     "isEnd": false,
-     "date": "2026-11-24",
-     "page": "A4",
-     "column": null,
-     "title": "전남대, 연구비 3년째 선두…아주대, 우수 연구자에 1억 인센티브 [2026 대학평가]",
-     "url": "https://n.news.naver.com/article/025/0003567427",
-     "articleId": "0003567427"
-    },
-    {
-     "label": "·",
-     "ord": 0,
-     "isEnd": false,
-     "date": "2026-11-24",
-     "page": "A5",
-     "column": null,
-     "title": "서강대, 취업률 73% 1위…숙대엔 ‘등산·러닝 장학금’ [2026 대학평가]",
-     "url": "https://n.news.naver.com/article/025/0003567428",
-     "articleId": "0003567428"
-    },
-    {
-     "label": "·",
-     "ord": 0,
-     "isEnd": false,
-     "date": "2026-11-24",
-     "page": "A5",
-     "column": null,
-     "title": "어떻게 평가했나…32개 지표, 연구 질·성과 따져 선정 [2026 대학평가]",
-     "url": "https://n.news.naver.com/article/025/0003567423",
-     "articleId": "0003567423"
-    }
-   ],
-   "firstDate": "2026-11-23",
    "lastDate": "2026-11-24"
   },
   {
@@ -2304,339 +2793,6 @@
    "lastDate": "2026-11-19"
   },
   {
-   "seriesKey": "020:정덕현의그영화이대사",
-   "press": "020",
-   "pressName": "동아일보",
-   "name": "정덕현의 그 영화 이 대사",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "89",
-     "ord": 89,
-     "isEnd": false,
-     "date": "2026-01-07",
-     "page": "A31",
-     "column": null,
-     "title": "누군가 있다는 것[정덕현의 그 영화 이 대사]〈89〉",
-     "url": "https://n.news.naver.com/article/020/0003687301",
-     "articleId": "0003687301"
-    },
-    {
-     "label": "90",
-     "ord": 90,
-     "isEnd": false,
-     "date": "2026-01-14",
-     "page": "A27",
-     "column": null,
-     "title": "예쁜 고래 한 마리[정덕현의 그 영화 이 대사]〈90〉",
-     "url": "https://n.news.naver.com/article/020/0003689094",
-     "articleId": "0003689094"
-    },
-    {
-     "label": "127",
-     "ord": 127,
-     "isEnd": false,
-     "date": "2026-10-07",
-     "page": "A31",
-     "column": null,
-     "title": "명성보다 소중한 일상[정덕현의 그 영화 이 대사]〈127〉",
-     "url": "https://n.news.naver.com/article/020/0003753147",
-     "articleId": "0003753147"
-    },
-    {
-     "label": "128",
-     "ord": 128,
-     "isEnd": false,
-     "date": "2026-10-14",
-     "page": "A31",
-     "column": null,
-     "title": "실제라 믿고 싶지 않은 풍자극[정덕현의 그 영화 이 대사]〈128〉",
-     "url": "https://n.news.naver.com/article/020/0003754718",
-     "articleId": "0003754718"
-    },
-    {
-     "label": "129",
-     "ord": 129,
-     "isEnd": false,
-     "date": "2026-10-21",
-     "page": "A27",
-     "column": null,
-     "title": "나를 성장시킨 누군가의 등[정덕현의 그 영화 이 대사]〈129〉",
-     "url": "https://n.news.naver.com/article/020/0003756366",
-     "articleId": "0003756366"
-    },
-    {
-     "label": "130",
-     "ord": 130,
-     "isEnd": false,
-     "date": "2026-10-28",
-     "page": "A31",
-     "column": null,
-     "title": "기억, 살아있다는 것[정덕현의 그 영화 이 대사]〈130〉",
-     "url": "https://n.news.naver.com/article/020/0003758116",
-     "articleId": "0003758116"
-    },
-    {
-     "label": "131",
-     "ord": 131,
-     "isEnd": false,
-     "date": "2026-11-04",
-     "page": "A31",
-     "column": null,
-     "title": "이민자와 이방인[정덕현의 그 영화 이 대사]〈131〉",
-     "url": "https://n.news.naver.com/article/020/0003759813",
-     "articleId": "0003759813"
-    },
-    {
-     "label": "132",
-     "ord": 132,
-     "isEnd": false,
-     "date": "2026-11-11",
-     "page": "A31",
-     "column": null,
-     "title": "폭로와 진실[정덕현의 그 영화 이 대사]〈132〉",
-     "url": "https://n.news.naver.com/article/020/0003761469",
-     "articleId": "0003761469"
-    },
-    {
-     "label": "133",
-     "ord": 133,
-     "isEnd": false,
-     "date": "2026-11-18",
-     "page": "A31",
-     "column": null,
-     "title": "마무리는 야생마로[정덕현의 그 영화 이 대사]〈133〉",
-     "url": "https://n.news.naver.com/article/020/0003763185",
-     "articleId": "0003763185"
-    }
-   ],
-   "firstDate": "2026-01-07",
-   "lastDate": "2026-11-18"
-  },
-  {
-   "seriesKey": "023:김도훈의엑스레이",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "김도훈의 엑스레이",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "103",
-     "ord": 103,
-     "isEnd": false,
-     "date": "2026-01-07",
-     "page": "A30",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [103] 정치판 가면 거덜날 사주",
-     "url": "https://n.news.naver.com/article/023/0003951332",
-     "articleId": "0003951332"
-    },
-    {
-     "label": "104",
-     "ord": 104,
-     "isEnd": false,
-     "date": "2026-01-14",
-     "page": "A30",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [104] 새해 결심의 공동묘지",
-     "url": "https://n.news.naver.com/article/023/0003952771",
-     "articleId": "0003952771"
-    },
-    {
-     "label": "141",
-     "ord": 141,
-     "isEnd": false,
-     "date": "2026-10-07",
-     "page": "A30",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [141] 신나는 괴짜",
-     "url": "https://n.news.naver.com/article/023/0004002373",
-     "articleId": "0004002373"
-    },
-    {
-     "label": "142",
-     "ord": 142,
-     "isEnd": false,
-     "date": "2026-10-14",
-     "page": "A30",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [142] 귀여워야 산다",
-     "url": "https://n.news.naver.com/article/023/0004003631",
-     "articleId": "0004003631"
-    },
-    {
-     "label": "143",
-     "ord": 143,
-     "isEnd": false,
-     "date": "2026-10-21",
-     "page": "A30",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [143] 계시 좀 주세요",
-     "url": "https://n.news.naver.com/article/023/0004004938",
-     "articleId": "0004004938"
-    },
-    {
-     "label": "144",
-     "ord": 144,
-     "isEnd": false,
-     "date": "2026-10-28",
-     "page": "A34",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [144] 박물관으로 간 낙관주의",
-     "url": "https://n.news.naver.com/article/023/0004006259",
-     "articleId": "0004006259"
-    },
-    {
-     "label": "145",
-     "ord": 145,
-     "isEnd": false,
-     "date": "2026-11-04",
-     "page": "A30",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [145] 위기의 중년 남자들",
-     "url": "https://n.news.naver.com/article/023/0004007564",
-     "articleId": "0004007564"
-    },
-    {
-     "label": "146",
-     "ord": 146,
-     "isEnd": false,
-     "date": "2026-11-11",
-     "page": "A34",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [146] 남자의 가죽 재킷은 위험하다",
-     "url": "https://n.news.naver.com/article/023/0004008839",
-     "articleId": "0004008839"
-    },
-    {
-     "label": "147",
-     "ord": 147,
-     "isEnd": false,
-     "date": "2026-11-18",
-     "page": "A34",
-     "column": null,
-     "title": "[김도훈의 엑스레이] [147] ‘스마트 어쩌고’가 사람 잡네",
-     "url": "https://n.news.naver.com/article/023/0004010159",
-     "articleId": "0004010159"
-    }
-   ],
-   "firstDate": "2026-01-07",
-   "lastDate": "2026-11-18"
-  },
-  {
-   "seriesKey": "023:유재덕의공유주방",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "유재덕의 공유주방",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "1",
-     "ord": 1,
-     "isEnd": false,
-     "date": "2026-01-07",
-     "page": "A31",
-     "column": null,
-     "title": "[유재덕의 공유주방] [1] 30년 칼잡이의 깨달음",
-     "url": "https://n.news.naver.com/article/023/0003951333",
-     "articleId": "0003951333"
-    },
-    {
-     "label": "2",
-     "ord": 2,
-     "isEnd": false,
-     "date": "2026-01-14",
-     "page": "A31",
-     "column": null,
-     "title": "[유재덕의 공유주방] [2] 요리는 고통인가, 궁리인가",
-     "url": "https://n.news.naver.com/article/023/0003952772",
-     "articleId": "0003952772"
-    },
-    {
-     "label": "39",
-     "ord": 39,
-     "isEnd": false,
-     "date": "2026-10-07",
-     "page": "A31",
-     "column": null,
-     "title": "[유재덕의 공유주방] [39] 맛의 세계 넓히는 ‘절제’",
-     "url": "https://n.news.naver.com/article/023/0004002414",
-     "articleId": "0004002414"
-    },
-    {
-     "label": "40",
-     "ord": 40,
-     "isEnd": false,
-     "date": "2026-10-14",
-     "page": "A31",
-     "column": null,
-     "title": "[유재덕의 공유주방] [40] 잔소리할 줄 아는 선배",
-     "url": "https://n.news.naver.com/article/023/0004003632",
-     "articleId": "0004003632"
-    },
-    {
-     "label": "41",
-     "ord": 41,
-     "isEnd": false,
-     "date": "2026-10-21",
-     "page": "A31",
-     "column": null,
-     "title": "[유재덕의 공유주방] [41] 넌 ‘불평할 자격’이 없어",
-     "url": "https://n.news.naver.com/article/023/0004004939",
-     "articleId": "0004004939"
-    },
-    {
-     "label": "42",
-     "ord": 42,
-     "isEnd": false,
-     "date": "2026-10-28",
-     "page": "A35",
-     "column": null,
-     "title": "[유재덕의 공유주방] [42] 흘러내린 접시",
-     "url": "https://n.news.naver.com/article/023/0004006261",
-     "articleId": "0004006261"
-    },
-    {
-     "label": "43",
-     "ord": 43,
-     "isEnd": false,
-     "date": "2026-11-04",
-     "page": "A31",
-     "column": null,
-     "title": "[유재덕의 공유주방] [43] 원고지 앞의 견습생",
-     "url": "https://n.news.naver.com/article/023/0004007565",
-     "articleId": "0004007565"
-    },
-    {
-     "label": "44",
-     "ord": 44,
-     "isEnd": false,
-     "date": "2026-11-11",
-     "page": "A35",
-     "column": null,
-     "title": "[유재덕의 공유주방] [44] 기억이 먹는 음식",
-     "url": "https://n.news.naver.com/article/023/0004008840",
-     "articleId": "0004008840"
-    },
-    {
-     "label": "45",
-     "ord": 45,
-     "isEnd": false,
-     "date": "2026-11-18",
-     "page": "A35",
-     "column": null,
-     "title": "[유재덕의 공유주방] [45] 가슴에 넣고 사는 질문",
-     "url": "https://n.news.naver.com/article/023/0004010160",
-     "articleId": "0004010160"
-    }
-   ],
-   "firstDate": "2026-01-07",
-   "lastDate": "2026-11-18"
-  },
-  {
    "seriesKey": "023:김국현의과학기술유행어도감",
    "press": "023",
    "pressName": "조선일보",
@@ -3166,51 +3322,6 @@
    "lastDate": "2026-11-04"
   },
   {
-   "seriesKey": "020:서광원의자연과삶",
-   "press": "020",
-   "pressName": "동아일보",
-   "name": "서광원의 자연과 삶",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "117",
-     "ord": 117,
-     "isEnd": false,
-     "date": "2026-01-14",
-     "page": "A24",
-     "column": null,
-     "title": "말이 바꿔 놓은 남미의 운명[서광원의 자연과 삶]〈117〉",
-     "url": "https://n.news.naver.com/article/020/0003689093",
-     "articleId": "0003689093"
-    },
-    {
-     "label": "130",
-     "ord": 130,
-     "isEnd": false,
-     "date": "2026-10-14",
-     "page": "A28",
-     "column": null,
-     "title": "중력에 맞서 쌓아 올린 결속의 탑[서광원의 자연과 삶]〈130〉",
-     "url": "https://n.news.naver.com/article/020/0003754717",
-     "articleId": "0003754717"
-    },
-    {
-     "label": "131",
-     "ord": 131,
-     "isEnd": false,
-     "date": "2026-11-04",
-     "page": "A28",
-     "column": null,
-     "title": "하늘에서 ‘감’ 떨어질 때를 아는 상어[서광원의 자연과 삶]〈131〉",
-     "url": "https://n.news.naver.com/article/020/0003759815",
-     "articleId": "0003759815"
-    }
-   ],
-   "firstDate": "2026-01-14",
-   "lastDate": "2026-11-04"
-  },
-  {
    "seriesKey": "023:김교석의남자의물건",
    "press": "023",
    "pressName": "조선일보",
@@ -3323,29 +3434,6 @@
    ],
    "firstDate": "2026-10-30",
    "lastDate": "2026-10-30"
-  },
-  {
-   "seriesKey": "023:조수빈의말로사람읽기",
-   "press": "023",
-   "pressName": "조선일보",
-   "name": "조수빈의 말로 사람 읽기",
-   "seriesType": "연재칼럼",
-   "status": "ongoing",
-   "episodes": [
-    {
-     "label": "12",
-     "ord": 12,
-     "isEnd": false,
-     "date": "2026-10-28",
-     "page": "A33",
-     "column": null,
-     "title": "[조수빈의 말로 사람 읽기] [12] ‘한미 동맹 70년’이라는 장미 한 송이",
-     "url": "https://n.news.naver.com/article/023/0004006258",
-     "articleId": "0004006258"
-    }
-   ],
-   "firstDate": "2026-10-28",
-   "lastDate": "2026-10-28"
   },
   {
    "seriesKey": "032:이스라엘총선현장르포",
