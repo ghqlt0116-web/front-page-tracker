@@ -1,6 +1,6 @@
 {
  "date": "2026-11-25",
- "collectedAt": "2026-11-25T03:08:22",
+ "collectedAt": "2026-11-25T03:30:06",
  "articles": [
   {
    "press": "009",
@@ -36,7 +36,8 @@
      "title": "\"생큐, 젠슨\"… 황 복귀하자마자 '깐부 동맹' 주가 동반급등",
      "url": "https://n.news.naver.com/article/009/0005768379"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -53,7 +54,8 @@
    "articleId": "0005768406",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -70,7 +72,6 @@
    "articleId": "0005768409",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005768387",
@@ -78,7 +79,8 @@
      "title": "中전기차 공습에도 … 생산세액공제 '제동'",
      "url": "https://n.news.naver.com/article/009/0005768387"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -95,7 +97,8 @@
    "articleId": "0005768407",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2079,7 +2082,8 @@
      "title": "르노코리아, 車 조립하던 부산 공장, 미래차 연구거점으로 변신",
      "url": "https://n.news.naver.com/article/015/0005357625"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2103,7 +2107,8 @@
      "title": "\"젠슨 황 컴백 도운 트럼프…엔비디아 지분 요구할 수도\"",
      "url": "https://n.news.naver.com/article/015/0005357720"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2127,7 +2132,8 @@
      "title": "\"젠슨 황 컴백 도운 트럼프…엔비디아 지분 요구할 수도\"",
      "url": "https://n.news.naver.com/article/015/0005357720"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -4163,7 +4169,8 @@
      "title": "첨단 AI 중심지 샌프란시스코, ‘오수 범람’ 오명 [지금, 여기]",
      "url": "https://n.news.naver.com/article/020/0003764937"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4227,7 +4234,8 @@
    "articleId": "0003764954",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -6244,7 +6252,8 @@
    "articleId": "0004011578",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6274,7 +6283,8 @@
      "title": "전쟁서 드론 사용… 광섬유값 7배 폭등, 흔들리는 AI 산업 핵심 소재 공급망",
      "url": "https://n.news.naver.com/article/023/0004011517"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6290,7 +6300,9 @@
    "url": "https://n.news.naver.com/article/023/0004011573",
    "articleId": "0004011573",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "023",
@@ -7540,7 +7552,8 @@
      "title": "스캔들 암초 여전…미, 젠슨 황 복귀날 내연녀 회사 제재",
      "url": "https://n.news.naver.com/article/025/0003567714"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7557,7 +7570,8 @@
    "articleId": "0003567724",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7574,7 +7588,8 @@
    "articleId": "0003567721",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -8715,7 +8730,8 @@
    "articleId": "0002833791",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -8756,7 +8772,8 @@
    "articleId": "0002833810",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9624,7 +9641,8 @@
      "title": "[여적]젠슨 황의 복귀",
      "url": "https://n.news.naver.com/article/032/0003484747"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9641,7 +9659,8 @@
    "articleId": "0003484856",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9658,7 +9677,8 @@
    "articleId": "0003484855",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9674,7 +9694,15 @@
    "url": "https://n.news.naver.com/article/032/0003484854",
    "articleId": "0003484854",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003484745",
+     "page": "A27",
+     "title": "[사설]30대 절반이 미혼인 대한민국, 혼인 중심 복지틀 유효한가",
+     "url": "https://n.news.naver.com/article/032/0003484745"
+    }
+   ]
   },
   {
    "press": "032",
