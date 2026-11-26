@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "collectedAt": "2026-11-26T02:24:02",
+ "collectedAt": "2026-11-26T02:44:17",
  "articles": [
   {
    "press": "009",
@@ -4967,7 +4967,8 @@
    "url": "https://n.news.naver.com/article/020/0003765316",
    "articleId": "0003765316",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": []
   },
   {
    "press": "020",
