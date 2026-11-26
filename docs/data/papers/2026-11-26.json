@@ -1,6 +1,6 @@
 {
  "date": "2026-11-26",
- "collectedAt": "2026-11-26T03:12:22",
+ "collectedAt": "2026-11-26T03:45:41",
  "articles": [
   {
    "press": "009",
@@ -2822,12 +2822,12 @@
    "page": "A4",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": false,
-   "thumb": null,
+   "hasThumbnail": true,
+   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/11/25/5358198.jpg?type=nf264_176",
    "column": null,
-   "title": "[단독] 디지털자산법 내년 국회 넘어도 2028년에야 시행",
-   "url": "https://n.news.naver.com/article/015/0005358196",
-   "articleId": "0005358196",
+   "title": "[단독] 가상자산 영토 넓히는 금융사…절반은 \"거래소 지분 인수할 것\"",
+   "url": "https://n.news.naver.com/article/015/0005358198",
+   "articleId": "0005358198",
    "seriesKey": null,
    "seriesType": null
   },
@@ -2841,9 +2841,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[단독] 가상자산 영토 넓히는 금융사…절반은 \"거래소 지분 인수할 것\"",
-   "url": "https://n.news.naver.com/article/015/0005358198",
-   "articleId": "0005358198",
+   "title": "[단독] 디지털자산법 내년 국회 넘어도 2028년에야 시행",
+   "url": "https://n.news.naver.com/article/015/0005358196",
+   "articleId": "0005358196",
    "seriesKey": null,
    "seriesType": null
   },
