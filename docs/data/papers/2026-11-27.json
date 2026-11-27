@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "collectedAt": "2026-11-27T02:45:12",
+ "collectedAt": "2026-11-27T03:18:23",
  "articles": [
   {
    "press": "009",
@@ -113,8 +113,8 @@
    "articleId": "0005769703",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -2136,7 +2136,15 @@
    "url": "https://n.news.naver.com/article/015/0005358722",
    "articleId": "0005358722",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0005358733",
+     "page": "A29",
+     "title": "한준호 행안부 장관 후보자 \"수사 독립성, 국민 눈높이 맞출 것\"",
+     "url": "https://n.news.naver.com/article/015/0005358733"
+    }
+   ]
   },
   {
    "press": "015",
@@ -7606,11 +7614,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/27/4011996.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/27/4011998.jpg?type=nf264_176",
    "column": null,
-   "title": "현대차그룹, 계열사 4곳 대표 ‘핀셋 교체’",
-   "url": "https://n.news.naver.com/article/023/0004011996",
-   "articleId": "0004011996",
+   "title": "‘빛’으로 새 단장… 롯데百 명동 본점, K관광 랜드마크로",
+   "url": "https://n.news.naver.com/article/023/0004011998",
+   "articleId": "0004011998",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7624,9 +7632,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "두산, 8439억원에 신사옥 매입… 32년 만에 다시 ‘을지로 시대’",
-   "url": "https://n.news.naver.com/article/023/0004011997",
-   "articleId": "0004011997",
+   "title": "현대차그룹, 계열사 4곳 대표 ‘핀셋 교체’",
+   "url": "https://n.news.naver.com/article/023/0004011996",
+   "articleId": "0004011996",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7640,9 +7648,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "‘빛’으로 새 단장… 롯데百 명동 본점, K관광 랜드마크로",
-   "url": "https://n.news.naver.com/article/023/0004011998",
-   "articleId": "0004011998",
+   "title": "두산, 8439억원에 신사옥 매입… 32년 만에 다시 ‘을지로 시대’",
+   "url": "https://n.news.naver.com/article/023/0004011997",
+   "articleId": "0004011997",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7773,7 +7781,6 @@
    "articleId": "0003568356",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003568352",
@@ -7781,7 +7788,8 @@
      "title": "금리 3.25%가 끝 아니다…금통위원들 ‘추가 인상’ 가리켜",
      "url": "https://n.news.naver.com/article/025/0003568352"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -7798,8 +7806,8 @@
    "articleId": "0003568350",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -9504,7 +9512,23 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/11/26/2834152.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/11/26/2834167.jpg?type=nf264_176",
+   "column": null,
+   "title": "삼성전자, ‘첨단 패키징’ 조직 되살려…반도체 승부처 후공정에 힘",
+   "url": "https://n.news.naver.com/article/028/0002834167",
+   "articleId": "0002834167",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "028",
+   "pressName": "한겨레",
+   "date": "2026-11-27",
+   "page": "15",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "미, 한국관세 15% 유지했지만…‘K반도체 전략’ 콕 찍어 시비",
    "url": "https://n.news.naver.com/article/028/0002834152",
@@ -9517,7 +9541,7 @@
    "pressName": "한겨레",
    "date": "2026-11-27",
    "page": "15",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -9533,7 +9557,7 @@
    "pressName": "한겨레",
    "date": "2026-11-27",
    "page": "15",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -9541,22 +9565,6 @@
    "title": "내년 수도권 공공주택 5만6천가구 공급…올 전망치보다 44% 늘어",
    "url": "https://n.news.naver.com/article/028/0002834079",
    "articleId": "0002834079",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "028",
-   "pressName": "한겨레",
-   "date": "2026-11-27",
-   "page": "15",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "삼성전자, ‘첨단 패키징’ 조직 되살려…반도체 승부처 후공정에 힘",
-   "url": "https://n.news.naver.com/article/028/0002834167",
-   "articleId": "0002834167",
    "seriesKey": null,
    "seriesType": null
   },
@@ -10042,7 +10050,6 @@
    "articleId": "0003485441",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003485353",
@@ -10050,7 +10057,8 @@
      "title": "[사설]언론 자유 위축 우려 큰 여당의 언론4법 속도전 안된다",
      "url": "https://n.news.naver.com/article/032/0003485353"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
