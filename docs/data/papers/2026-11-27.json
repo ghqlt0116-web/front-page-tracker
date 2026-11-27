@@ -1,6 +1,6 @@
 {
  "date": "2026-11-27",
- "collectedAt": "2026-11-27T02:22:22",
+ "collectedAt": "2026-11-27T02:45:12",
  "articles": [
   {
    "press": "009",
@@ -112,7 +112,9 @@
    "url": "https://n.news.naver.com/article/009/0005769703",
    "articleId": "0005769703",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "009",
@@ -2175,7 +2177,8 @@
    "articleId": "0005358724",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -2184,8 +2187,24 @@
    "page": "A2",
    "pageOrder": 1,
    "isTop": true,
-   "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/015/2026/11/26/5358821.jpg?type=nf264_176",
+   "hasThumbnail": false,
+   "thumb": null,
+   "column": null,
+   "title": "5세대 실손 출시 반년…자발적 전환 10%대",
+   "url": "https://n.news.naver.com/article/015/0005358740",
+   "articleId": "0005358740",
+   "seriesKey": null,
+   "seriesType": null
+  },
+  {
+   "press": "015",
+   "pressName": "한국경제",
+   "date": "2026-11-27",
+   "page": "A2",
+   "pageOrder": 2,
+   "isTop": false,
+   "hasThumbnail": false,
+   "thumb": null,
    "column": null,
    "title": "288만 지역가입자, 건보료 4% 올라…月평균 10만원 육박",
    "url": "https://n.news.naver.com/article/015/0005358821",
@@ -2198,7 +2217,7 @@
    "pressName": "한국경제",
    "date": "2026-11-27",
    "page": "A2",
-   "pageOrder": 2,
+   "pageOrder": 3,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -2214,7 +2233,7 @@
    "pressName": "한국경제",
    "date": "2026-11-27",
    "page": "A2",
-   "pageOrder": 3,
+   "pageOrder": 4,
    "isTop": false,
    "hasThumbnail": false,
    "thumb": null,
@@ -2222,22 +2241,6 @@
    "title": "트럼프, 젠슨 황 복귀 바란 까닭 [한경 프리미엄9 TODAY]",
    "url": "https://n.news.naver.com/article/015/0005358739",
    "articleId": "0005358739",
-   "seriesKey": null,
-   "seriesType": null
-  },
-  {
-   "press": "015",
-   "pressName": "한국경제",
-   "date": "2026-11-27",
-   "page": "A2",
-   "pageOrder": 4,
-   "isTop": false,
-   "hasThumbnail": false,
-   "thumb": null,
-   "column": null,
-   "title": "보험료 할인해도…5세대 실손 전환 저조",
-   "url": "https://n.news.naver.com/article/015/0005358740",
-   "articleId": "0005358740",
    "seriesKey": null,
    "seriesType": null
   },
@@ -4223,7 +4226,15 @@
    "url": "https://n.news.naver.com/article/020/0003765634",
    "articleId": "0003765634",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "related": [
+    {
+     "articleId": "0003765642",
+     "page": "A3",
+     "title": "美 “中 관세 40%까지 올릴수도” 中 “단호히 반대, 대응 조치”",
+     "url": "https://n.news.naver.com/article/020/0003765642"
+    }
+   ]
   },
   {
    "press": "020",
@@ -4283,7 +4294,8 @@
      "title": "수소탄-전술핵 줄줄이 과시한 北… 김정은 “南, 가장 위해한 적국”",
      "url": "https://n.news.naver.com/article/020/0003765638"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4392,7 +4404,7 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "中, 한국인 석방 대가로 ‘중국인 대상 방첩활동 중단’ 요구",
+   "title": "中, 반도체 기술유출 국정원 알린 협조자 구금",
    "url": "https://n.news.naver.com/article/020/0003765637",
    "articleId": "0003765637",
    "seriesKey": null,
@@ -6468,7 +6480,8 @@
      "title": "“내가 집값 올렸냐”... 1주택자 종부세 불만 폭발",
      "url": "https://n.news.naver.com/article/023/0004011929"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -6509,7 +6522,8 @@
    "articleId": "0004012054",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -7320,11 +7334,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/26/4011973.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/023/2026/11/26/4011975.jpg?type=nf264_176",
    "column": null,
-   "title": "[기자의 시각] AI 커닝이 사회에 던진 진짜 시험",
-   "url": "https://n.news.naver.com/article/023/0004011973",
-   "articleId": "0004011973",
+   "title": "[朝鮮칼럼] ‘필연적 실패’의 길로 접어든 이재명 정부",
+   "url": "https://n.news.naver.com/article/023/0004011975",
+   "articleId": "0004011975",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7338,9 +7352,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "[朝鮮칼럼] ‘필연적 실패’의 길로 접어든 이재명 정부",
-   "url": "https://n.news.naver.com/article/023/0004011975",
-   "articleId": "0004011975",
+   "title": "[기자의 시각] AI 커닝이 사회에 던진 진짜 시험",
+   "url": "https://n.news.naver.com/article/023/0004011973",
+   "articleId": "0004011973",
    "seriesKey": null,
    "seriesType": null
   },
@@ -7758,7 +7772,16 @@
    "url": "https://n.news.naver.com/article/025/0003568356",
    "articleId": "0003568356",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0003568352",
+     "page": "A4",
+     "title": "금리 3.25%가 끝 아니다…금통위원들 ‘추가 인상’ 가리켜",
+     "url": "https://n.news.naver.com/article/025/0003568352"
+    }
+   ]
   },
   {
    "press": "025",
@@ -7774,7 +7797,9 @@
    "url": "https://n.news.naver.com/article/025/0003568350",
    "articleId": "0003568350",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": []
   },
   {
    "press": "025",
@@ -7791,7 +7816,8 @@
    "articleId": "0003568357",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "025",
@@ -8992,7 +9018,8 @@
    "articleId": "0002834219",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9009,7 +9036,8 @@
    "articleId": "0002834191",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9033,7 +9061,8 @@
      "title": "[사설] 무고성 아동학대 신고 대책, 신속한 사건 종결이 관건",
      "url": "https://n.news.naver.com/article/028/0002834169"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "028",
@@ -9125,7 +9154,7 @@
    "hasThumbnail": true,
    "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/11/26/2834072.jpg?type=nf264_176",
    "column": null,
-   "title": "간첩죄로 ‘한국인 제보자’ 잡아둔 중국, 정부에 ‘타국 블랙요원’ 정보 요구",
+   "title": "간첩죄로 ‘한국인 제보자’ 3년 가둔 중국, 정부에 ‘타국 블랙요원’ 정보 요구",
    "url": "https://n.news.naver.com/article/028/0002834072",
    "articleId": "0002834072",
    "seriesKey": null,
@@ -9475,11 +9504,11 @@
    "pageOrder": 1,
    "isTop": true,
    "hasThumbnail": true,
-   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/11/26/2834068.jpg?type=nf264_176",
+   "thumb": "https://mimgnews.pstatic.net/image/origin/028/2026/11/26/2834152.jpg?type=nf264_176",
    "column": null,
-   "title": "“아이폰16 AI 기능 광고서 소비자 기만”…공정위, 애플 심의 착수",
-   "url": "https://n.news.naver.com/article/028/0002834068",
-   "articleId": "0002834068",
+   "title": "미, 한국관세 15% 유지했지만…‘K반도체 전략’ 콕 찍어 시비",
+   "url": "https://n.news.naver.com/article/028/0002834152",
+   "articleId": "0002834152",
    "seriesKey": null,
    "seriesType": null
   },
@@ -9493,9 +9522,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "내년 수도권 공공주택 5만6천가구 공급…올 전망치보다 44% 늘어",
-   "url": "https://n.news.naver.com/article/028/0002834079",
-   "articleId": "0002834079",
+   "title": "“아이폰16 AI 기능 광고서 소비자 기만”…공정위, 애플 심의 착수",
+   "url": "https://n.news.naver.com/article/028/0002834068",
+   "articleId": "0002834068",
    "seriesKey": null,
    "seriesType": null
   },
@@ -9509,9 +9538,9 @@
    "hasThumbnail": false,
    "thumb": null,
    "column": null,
-   "title": "미, 한국관세 15% 유지했지만…‘K반도체 전략’ 콕 찍어 시비",
-   "url": "https://n.news.naver.com/article/028/0002834152",
-   "articleId": "0002834152",
+   "title": "내년 수도권 공공주택 5만6천가구 공급…올 전망치보다 44% 늘어",
+   "url": "https://n.news.naver.com/article/028/0002834079",
+   "articleId": "0002834079",
    "seriesKey": null,
    "seriesType": null
   },
@@ -9946,7 +9975,8 @@
    "articleId": "0003485442",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9976,7 +10006,8 @@
      "title": "교육활동에 ‘법 처벌 남발’ 차단…교원 재량권 넓어질 듯",
      "url": "https://n.news.naver.com/article/032/0003485438"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -9993,7 +10024,8 @@
    "articleId": "0003485440",
    "seriesKey": null,
    "seriesType": null,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "032",
@@ -10009,7 +10041,16 @@
    "url": "https://n.news.naver.com/article/032/0003485441",
    "articleId": "0003485441",
    "seriesKey": null,
-   "seriesType": null
+   "seriesType": null,
+   "searchDone": true,
+   "related": [
+    {
+     "articleId": "0003485353",
+     "page": "A31",
+     "title": "[사설]언론 자유 위축 우려 큰 여당의 언론4법 속도전 안된다",
+     "url": "https://n.news.naver.com/article/032/0003485353"
+    }
+   ]
   },
   {
    "press": "032",
