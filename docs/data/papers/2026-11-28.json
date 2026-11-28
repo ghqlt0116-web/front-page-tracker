@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "collectedAt": "2026-11-28T02:07:55",
+ "collectedAt": "2026-11-28T02:36:02",
  "articles": [
   {
    "press": "009",
@@ -17,7 +17,6 @@
    "articleId": "0005770124",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005770118",
@@ -25,7 +24,8 @@
      "title": "\"세금 날벼락 피하자\"…'집주인 대출' 매물 넉달새 100배",
      "url": "https://n.news.naver.com/article/009/0005770118"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -42,8 +42,8 @@
    "articleId": "0005770128",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -60,8 +60,8 @@
    "articleId": "0005770127",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -78,8 +78,8 @@
    "articleId": "0005770125",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -96,7 +96,6 @@
    "articleId": "0005770126",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005770116",
@@ -104,7 +103,8 @@
      "title": "'베이비부머' 1973년생부터 정년 65세… 기업 \"청년 채용 위축\"",
      "url": "https://n.news.naver.com/article/009/0005770116"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "009",
@@ -1561,7 +1561,6 @@
    "articleId": "0005359181",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005359186",
@@ -1575,7 +1574,8 @@
      "title": "10대 그룹 CEO 80% 유임…관세·금리 파고에 '안정' 택했다",
      "url": "https://n.news.naver.com/article/015/0005359180"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1592,8 +1592,8 @@
    "articleId": "0005359168",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1610,8 +1610,8 @@
    "articleId": "0005359171",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -1628,7 +1628,6 @@
    "articleId": "0005359166",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0005359167",
@@ -1636,7 +1635,8 @@
      "title": "바이오·로봇·배터리 급등…코스닥 간만에 웃었다",
      "url": "https://n.news.naver.com/article/015/0005359167"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "015",
@@ -3125,7 +3125,6 @@
    "articleId": "0003765863",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003765858",
@@ -3133,7 +3132,8 @@
      "title": "최민희 징계 확정땐 차기 총선 출마 못해… 친청 “김민석도 징계”",
      "url": "https://n.news.naver.com/article/020/0003765858"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3150,8 +3150,8 @@
    "articleId": "0003765862",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3168,8 +3168,8 @@
    "articleId": "0003765865",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3186,8 +3186,8 @@
    "articleId": "0003765832",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -3204,7 +3204,6 @@
    "articleId": "0003765864",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0003765822",
@@ -3212,7 +3211,8 @@
      "title": "[사설]정년연장특위 합의 불발… 임금체계 개편이 먼저",
      "url": "https://n.news.naver.com/article/020/0003765822"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "020",
@@ -4205,7 +4205,6 @@
    "articleId": "0004012238",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
    "related": [
     {
      "articleId": "0004012236",
@@ -4213,7 +4212,8 @@
      "title": "양대 노총 “정년 당장 늘려야”… MZ노조는 “청년 고용 대책 내놔라”",
      "url": "https://n.news.naver.com/article/023/0004012236"
     }
-   ]
+   ],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4230,8 +4230,8 @@
    "articleId": "0004012240",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4248,8 +4248,8 @@
    "articleId": "0004012237",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -4266,8 +4266,8 @@
    "articleId": "0004012239",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "023",
@@ -5548,8 +5548,8 @@
    "articleId": "0000057440",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
@@ -5566,8 +5566,8 @@
    "articleId": "0000057438",
    "seriesKey": null,
    "seriesType": null,
-   "searchDone": true,
-   "related": []
+   "related": [],
+   "searchDone": true
   },
   {
    "press": "353",
